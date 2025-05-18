@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun bergantung pada teman bukanlah hal yang buruk. Tapi jujur saja, sebaiknya kita mencari jalan keluar dengan kemampuan kita sendiri."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Kurasa semua orang ingin tahu apa yang tak mereka mengerti. (Mekipun) terkadang kebenaran itu dapat menyakiti seseorang."</em><br>
+  — <strong>Shinjirou Kusakabe</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
