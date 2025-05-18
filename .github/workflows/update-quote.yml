@@ -53,5 +53,5 @@ jobs:
           git config --global user.name 'cabrata'
           git config --global user.email 'admin@caliphdev.com'
           git add README.md
-          git commit -m "update: daily anime quote"
+          git commit -m "update: changes anime quote ($(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S WIB'))"
           git push
