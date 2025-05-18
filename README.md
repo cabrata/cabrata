@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mata-mata tidak percaya siapa pun, selain dirinya sendiri."</em><br>
-  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
+  <em>"Teruslah berjuang walaupun itu mustahil.
+Lakukanlah sampai perasaanmu mencapainya"</em><br>
+  — <strong>Minene Uryuu</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
