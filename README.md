@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau pikir berapa banyak kekalahan yang sudah aku dapatkan sampai detik ini?
-Walau bukan sesuatu yang bisa dibanggakan, tapi aku sudah kalah ratusan, bahkan ribuan kali. Meskipun begitu, aku tidak pernah depresi, tidak pernah sepertimu sekarang!. (Karena) aku selalu yakin pada akhirnya aku akan menang."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Film bagus akan tetap bagus dilihat di layar apa pun."</em><br>
+  — <strong>Tsukasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
