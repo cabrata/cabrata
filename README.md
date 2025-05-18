@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagiku, keberadaan dirinya seperti dunia itu sendiri. Aku lebih baik mati daripada kehilangan dirinya."</em><br>
-  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
+  <em>"Siapa pun (orang) itu, aku tak bisa mengabaikan orang yang berada dalam masalah."</em><br>
+  — <strong>Sorey</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
