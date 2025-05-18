@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyakitkan sekali..., meskipun aku berada sedekat ini denganmu, tapi aku tak pernah bisa meraihmu."</em><br>
-  — <strong>Shigemi Kubota</strong>, <em>Sakamoto desu ga?</em>
+  <em>"Medan perang adalah neraka yang paling nyata. Disana tidak ada satupun harapan, yang ada hanyalah keputusasaan belaka. Kemenangan yang diraih dari rasa sakit mereka yang dihabisi, hanya melahirkan kejahatan semata."</em><br>
+  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
