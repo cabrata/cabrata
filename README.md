@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apa kata orang tentang dirimu, tak peduli apa yang kau pikirkan tentang dirimu, aku tetap mencintaimu. Aku mencintaimu, sangat mencintaimu! Aku ingin terus bersamamu. Aku ingin terus menggenggam tanganmu."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Ketika semua orang bermain video game, aku tinggal dan bekerja keras. Aku terus bekerja keras untuk menjadi penulis yang karyanya terlaris di (majalah manga) Jack."</em><br>
+  — <strong>Eiji Niizuma</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
