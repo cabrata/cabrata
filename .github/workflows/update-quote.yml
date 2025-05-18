@@ -19,14 +19,14 @@ jobs:
       - name: Fetch Random Anime Quote
         run: |
           # Fetch all quotes
-          curl -s https://raw.caliph.my.id/quotesanime.json -o quotes.json
+          curl -s https://cabrata.github.io/quotesnime-database/quotes.json -o quotes.json
 
           # Ambil random index
           COUNT=$(jq length quotes.json)
           INDEX=$((RANDOM % COUNT))
 
           # Ambil field dari quote terpilih
-          CHAR=$(jq -r ".[$INDEX].char_name" quotes.json)
+          CHAR=$(jq -r ".[$INDEX].character" quotes.json)
           ANIME=$(jq -r ".[$INDEX].anime" quotes.json)
           QUOTE=$(jq -r ".[$INDEX].quotes" quotes.json)
 
