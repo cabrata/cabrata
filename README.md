@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang tua itu harusnya gak boleh ganggu kalau anaknya lagi kerja keras kan?"</em><br>
-  — <strong>Shingo Hachiken</strong>, <em>Gin no Saji</em>
+  <em>"Aku tahu dia bisa berdiri sendiri. Meskipun begitu, aku akan tetap mengulurkan tanganku."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
