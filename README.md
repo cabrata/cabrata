@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak keberatan jika dia menyukai pria lain, hanya saja aku ingin menjadi orang terakhir yang menerima senyuman dari dirinya."</em><br>
-  — <strong>Seiji Yagiri</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"(Jalani) seperti (saat naik) kereta. Selama tetap di jalurnya, kau pasti akan sampai tujuan dengan lancar. Jadi, duduklah dengan tenang sampai tiba di tujuan."</em><br>
+  — <strong>Shikadai Nara</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
