@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski kau bisa menutup mata, telinga dan mulutmu sekalipun, kau takkan bisa menghentikan luapan perasaanmu kepada seseorang."</em><br>
-  — <strong>Shuu Igarashi</strong>, <em>Koi to Uso</em>
+  <em>"Orang yang marah demi orang lain itu di saat yang bersamaan dia juga menyalahkan orang lain. Aku benci orang yang seperti itu."</em><br>
+  — <strong>Maki Himena</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
