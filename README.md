@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selalu memandang hidup ke depan hanya akan membuat kita lelah."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Selesaikan apa yang telah kau perbuat!"</em><br>
+  — <strong>Tsukinose Vignette April</strong>, <em>Gabriel DropOut</em>
 </div>
 <!-- QUOTE END -->
 
