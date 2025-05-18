@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski melarikan diri juga bisa berakhir bahagia, (tapi) aku ingin berjuang semampuku hingga titik darah penghabisan."</em><br>
-  — <strong>Moffle</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Tak peduli apa kata orang tentang dirimu, tak peduli apa yang kau pikirkan tentang dirimu, aku tetap mencintaimu. Aku mencintaimu, sangat mencintaimu! Aku ingin terus bersamamu. Aku ingin terus menggenggam tanganmu."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
