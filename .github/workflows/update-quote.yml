@@ -1,0 +1,53 @@
+name: Update Anime Quote
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Random Anime Quote
+        run: |
+          # Fetch all quotes
+          curl -s https://raw.caliph.my.id/quotesanime.json -o quotes.json
+
+          # Ambil random index
+          COUNT=$(jq length quotes.json)
+          INDEX=$((RANDOM % COUNT))
+
+          # Ambil field dari quote terpilih
+          CHAR=$(jq -r ".[$INDEX].char_name" quotes.json)
+          ANIME=$(jq -r ".[$INDEX].anime" quotes.json)
+          QUOTE=$(jq -r ".[$INDEX].quotes" quotes.json)
+
+          # Simpan bagian awal README
+          awk '/<!-- QUOTE START -->/ {exit} {print}' README.md > new_readme.md
+
+          # Sisipkan quote
+          echo "<!-- QUOTE START -->" >> new_readme.md
+          echo "<div align=\"center\">" >> new_readme.md
+          echo "  📜 <strong>Quote of the Day</strong><br>" >> new_readme.md
+          echo "  <em>\"$QUOTE\"</em><br>" >> new_readme.md
+          echo "  — <strong>$CHAR</strong>, <em>$ANIME</em>" >> new_readme.md
+          echo "</div>" >> new_readme.md
+          echo "<!-- QUOTE END -->" >> new_readme.md
+
+          # Tambahkan sisa README
+          awk '/<!-- QUOTE END -->/ {found=1; next} found' README.md >> new_readme.md
+
+          # Ganti README lama
+          mv new_readme.md README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'caliphbot'
+          git config --global user.email 'bot@caliph.dev'
+          git add README.md
+          git commit -m "update: daily anime quote"
+          git push
