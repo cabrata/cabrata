@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pergilah dulu, dan tunggu aku. Aku akan segera menyusul, mengendarai angin."</em><br>
-  — <strong>Sei Handa</strong>, <em>Barakamon</em>
+  <em>"Kita harus membayar cinta dengan cinta!"</em><br>
+  — <strong>Petelgeuse Romanée-Conti</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
