@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Persahabatan itu adalah tempat saling berbagi rasa sakit."</em><br>
-  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
+  <em>"Mata-mata tidak percaya siapa pun, selain dirinya sendiri."</em><br>
+  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
