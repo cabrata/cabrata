@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau mengubah pola pikirmu, mungkin kau akan bertambah kuat."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Orang tua itu harusnya gak boleh ganggu kalau anaknya lagi kerja keras kan?"</em><br>
+  — <strong>Shingo Hachiken</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
