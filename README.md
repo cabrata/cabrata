@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan waktunya murung. Kita sekarang akan segera dieksekusi. Tapi untuk keluar dari kegelapan ini, meskipun kecil, kita bisa melihat secercah harapan. Mungkin seperti benang laba-laba, tapi sekarang kita punya kaki untuk keluar dari sini."</em><br>
-  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
+  <em>"Seseorang tak mungkin bisa mendapatkan segalanya. Pasti akan datang hari ketika kita kehilangan. Karena itu majulah terus agar tak ada penyesalan."</em><br>
+  — <strong>Endorsi Jahad</strong>, <em>Kami no Tou</em>
 </div>
 <!-- QUOTE END -->
 
