@@ -46,8 +46,8 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name 'caliphbot'
-          git config --global user.email 'bot@caliph.dev'
+          git config --global user.name 'cabrata'
+          git config --global user.email 'admin@caliphdev.com'
           git add README.md
           git commit -m "update: daily anime quote"
           git push
