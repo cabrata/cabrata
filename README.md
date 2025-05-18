@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Film bagus akan tetap bagus dilihat di layar apa pun."</em><br>
-  — <strong>Tsukasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Setiap kali kau mendapatkan satu hal yang kau inginkan, kau (juga) akan kehilangan satu hal yang kau inginkan."</em><br>
+  — <strong>Francis Scott Key Fitzgerald</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
