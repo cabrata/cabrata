@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada cewek yang suka diperlakukan seperti adik."</em><br>
-  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Kuberitahu rahasia melawan musuh yang kuat. Caranya mudah, teruslah bangkit dan serang mereka dengan jurusmu secara terus-menerus. Bagi pendekar, mereka yang berdiri hingga akhir adalah pemenangnya."</em><br>
+  — <strong>Eisen</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
