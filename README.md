@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua hanyalah manusia. Kadang, kita berbuat salah.
-Hanya saja, jangan berbuat kesalahan saat nyawa taruhannya."</em><br>
-  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Buku adalah karya seni. Buku adalah budaya. Buku adalah keajaiban. Buku adalah zaman. Buku adalah nyawa. Buku adalah matahari. Buku adalah lagu. Buku adalah kehidupan. Buku adalah janji. Buku adalah angin. Buku adalah laut. Buku adalah bintang. Buku adalah hati. Buku adalah mimpi. Buku adalah harapan. Buku adalah cinta. Buku adalah sukacita. Buku adalah kegembiraan."</em><br>
+  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
