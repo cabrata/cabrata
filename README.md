@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah bunga yang mekar dihatiku."</em><br>
-  — <strong>Santana</strong>, <em>Canaan</em>
+  <em>"Pengorbanan diri bukanlah sesuatu yang layak dicontoh."</em><br>
+  — <strong>Arash</strong>, <em>Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram</em>
 </div>
 <!-- QUOTE END -->
 
