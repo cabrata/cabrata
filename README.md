@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun baju, makanan dan warna kesukaan kami berlima berbeda-beda. Tapi pada akhirnya kami bisa menyatukan perasaan kami."</em><br>
-  — <strong>Yotsuba Nakano</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Orang berbakat itu bisa membuat orang lain mendekat dan tanpa sadar menghancurkannya. Semakin kau dekat dengan mereka, kau akan semakin hancur. Mereka hidup dalam dunia yang benar-benar berbeda dari kita, yang tak bisa diraih oleh orang biasa. Dunia yang tak akan pernah bisa kita lihat, dunia diatas awan."</em><br>
+  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
