@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lupakan orang yang meninggalkanmu, dan persiapkan dirimu untuk cinta yang baru. Itulah yang harus dilakukan dalam menjalani cinta."</em><br>
-  — <strong>Kagura</strong>, <em>Gintama</em>
+  <em>"Hanya dengan memiliki orang yang dicintai saja dapat membuat pagi yang hampa menjadi indah."</em><br>
+  — <strong>Akira Hiiragi</strong>, <em>KimiKiss Pure Rouge: Love Fighter</em>
 </div>
 <!-- QUOTE END -->
 
