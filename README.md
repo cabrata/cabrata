@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginan semua manusia adalah (ingin) dicintai dan dipuji."</em><br>
-  — <strong>Hosokawa</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Orang-orang jadi berpikir sempit kalau sedang tidak punya uang."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 3: Tsuukaku Zanryuu</em>
 </div>
 <!-- QUOTE END -->
 
