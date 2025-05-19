@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia memasak terlalu dalam dan luas jika dibandingkan dengan hidup kita yang singkat. Meski kau terus mempelajarinya seumur hidupmu, kau tetap tak akan mencapai batasnya"</em><br>
-  — <strong>Eishi Tsukasa</strong>, <em>Shokugeki no Souma: Ni no Sara OVA</em>
+  <em>"Bisa atau tidaknya suatu impian tercapai bukanlah suatu masalah. Karena (hanya) diri sendirilah yg bisa mewujudkannya, jadi mungkin saja impian itu tidak terwujud. Tapi aku percaya bahwa memimpikan sesuatu itu adalah suatu anugerah dalam hidup. Terlepas dari bisa tidaknya impian itu dicapai, menurutku memiliki impian itu hal yg baik, karena itu berarti kau tahu apa yg kau inginkan. Jika kau tidak tahu apa yang kau inginkan, dan tidak tahu ingin menjadi apa, hidupmu akan dipenuhi oleh keraguan."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Hanamonogatari</em>
 </div>
 <!-- QUOTE END -->
 
