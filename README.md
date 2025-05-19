@@ -5,15 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kecerobohanmu mungkin adalah kelemahanmu.
-Kau sudah berusaha untuk memperbaikinya.
-Kau tidak mungkin memperbaiki sepenuhnya.
-Jadi seberapa kuat pun kau mencoba, tidak usah melakukannya pun tidak apa-apa.
-Biarkan saja seperti itu. Menyerahlah.
-Kekuatanmu memang tidak ada batasnya.
-Tapi yang terpenting adalah semangatmu.
-Jadi, kau tidak usah repot-repot mengubahnya kan?"</em><br>
-  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
+  <em>"Siapapun diri kita, selama kita bisa jujur memikirkan orang yang paling berharga dan bisa terus berada di sampingnya, maka semua orang yang melihatnya pun akan ikut bahagia."</em><br>
+  — <strong>Yayoi Kanbara</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
 </div>
 <!-- QUOTE END -->
 
