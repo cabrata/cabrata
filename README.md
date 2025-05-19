@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunjunganmu merupakan obat terbaik yang dia miliki."</em><br>
-  — <strong>Ume Sawa</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Tak masalah kabur untuk tetap hidup. Karena kau bukan hewan ternak yang tak punya tempat untuk melarikan diri."</em><br>
+  — <strong>Kouchou</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
