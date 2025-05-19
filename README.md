@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seaneh apapun peristiwa yang terjadi, jika itu terjadi yang kedua kalinya maka akan terlihat biasa saja. (Jadi) tak perlu dipikirkan, biarkan saja. Itulah prinsipku"</em><br>
-  — <strong>Tom Tanaka</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Meskipun baju, makanan dan warna kesukaan kami berlima berbeda-beda. Tapi pada akhirnya kami bisa menyatukan perasaan kami."</em><br>
+  — <strong>Yotsuba Nakano</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
