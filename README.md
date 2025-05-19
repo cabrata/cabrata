@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku tak mengerti apa yang dirasakan temanku, apakah (itu artinya) aku tak boleh mengkhawatirkannya? Jika aku tak merasakan hal yang sama, apakah aku tidak boleh mengkhawatirkannya?"</em><br>
-  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
+  <em>"Tidak ada manusia yang lahir karena keinginannya sendiri."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
