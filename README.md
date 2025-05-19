@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seharusnya apapun masalahnya dapat dibicarakan lebih dulu."</em><br>
-  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Aku ingin menikmati hubungan asmara ini, bukan hasilnya."</em><br>
+  — <strong>Mari Shiina</strong>, <em>Renai Boukun</em>
 </div>
 <!-- QUOTE END -->
 
