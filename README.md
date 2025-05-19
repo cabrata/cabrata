@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Buku adalah karya seni. Buku adalah budaya. Buku adalah keajaiban. Buku adalah zaman. Buku adalah nyawa. Buku adalah matahari. Buku adalah lagu. Buku adalah kehidupan. Buku adalah janji. Buku adalah angin. Buku adalah laut. Buku adalah bintang. Buku adalah hati. Buku adalah mimpi. Buku adalah harapan. Buku adalah cinta. Buku adalah sukacita. Buku adalah kegembiraan."</em><br>
-  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Hal yang sangat penting dalam hidup seperti perasaan, hati, dan jiwa semuanya adalah hal yang tak bisa dilihat.
+Semakin kau berusaha menganggap semua itu nyata, kau akan berpikir kalau semua itu tidak nyata.
+Tapi, sekarang aku berpikir kalau semua itu memang ada. Semua itu sangat dekat, sampai aku bisa menyentuhnya."</em><br>
+  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
