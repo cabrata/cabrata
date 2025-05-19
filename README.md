@@ -5,8 +5,15 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kau mengayunkan pedang untuk melindungi sesuatu? Ksatria adalah seseorang yang wajib melindungi orang lain."</em><br>
-  — <strong>Theresia van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kecerobohanmu mungkin adalah kelemahanmu.
+Kau sudah berusaha untuk memperbaikinya.
+Kau tidak mungkin memperbaiki sepenuhnya.
+Jadi seberapa kuat pun kau mencoba, tidak usah melakukannya pun tidak apa-apa.
+Biarkan saja seperti itu. Menyerahlah.
+Kekuatanmu memang tidak ada batasnya.
+Tapi yang terpenting adalah semangatmu.
+Jadi, kau tidak usah repot-repot mengubahnya kan?"</em><br>
+  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
