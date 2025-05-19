@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Shiro, yang kau besarkan bukanlah sebuah senjata. Kau membesarkan seorang putra."</em><br>
-  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist</em>
+  <em>"Keinginan semua manusia adalah (ingin) dicintai dan dipuji."</em><br>
+  — <strong>Hosokawa</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
