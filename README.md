@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika ada sesuatu yang tidak baik, hal pertama yang harus kau lakukan adalah menjauhinya, (dan) jangan menyebarkan rumor (tentang hal itu)."</em><br>
-  — <strong>Mika Shimotsuki</strong>, <em>Psycho-Pass</em>
+  <em>"Aku telah menjadi monster yang bahkan mengontrol emosi saja tidak bisa."</em><br>
+  — <strong>Acrobatic Sarasara</strong>, <em>Dandadan</em>
 </div>
 <!-- QUOTE END -->
 
