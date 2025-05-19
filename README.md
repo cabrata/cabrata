@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar kalau aku putus asa dengan dunia nyata. Tapi aku tidak putus asa dengan diriku sendiri. Yang memutuskan apakah hidupku membosankan, menyenangkan atau biasa-biasa saja bukalah dunia ini, tapi diriku sendiri. Selama aku memiliki kemauan, tak ada yang mustahil. Kau pun juga bisa melakukan apapun yang kau inginkan."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai II</em>
+  <em>"Kalian merasa tertekan dan akhirnya menyerah. Karena itulah kuanggap kalian itu lemah. Ini adalah pertarungan kalian, jadi terserah kalian mau berbuat apa. Tapi kukatakan satu hal... Bersungguh-sungguh, berusaha, dan mengerahkan seluruh kemampuan, tak ada yang salah dengan itu semua!."</em><br>
+  — <strong>Noboru Akimiya</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
