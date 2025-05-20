@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sering dikatakan, cara tercepat untuk menguasai bahasa asing adalah memiliki pacar di negara tersebut. (Karena saat) kau ingin tahu perasaan pacarmu, kau jadi berusaha keras untuk mengerti apa yang ia katakan."</em><br>
-  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Walaupun dalam hal membunuh, maka sebagai umat manusia, semuanya harus dilakukan atas aturan dan tujuan! Jika tidak, maka setiap perang hanya akan membuat dunia ini seperti neraka!"</em><br>
+  — <strong>Saber</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
