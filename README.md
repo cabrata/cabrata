@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Batas antara kebenaran dan kejahatan itu sebenarnya samar. Namun, banyak orang dengan gampangnya memisahkannya dan percaya bahwa dirinya lah yang benar."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Isekai Shikkaku</em>
+  <em>"Semua laki-laki itu bodoh dan cemburuan.
+Begitu pula para perempuan bodoh yang bahagia ketika melihat laki-laki sedang cemburu."</em><br>
+  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
 </div>
 <!-- QUOTE END -->
 
