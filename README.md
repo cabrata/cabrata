@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi cinta, aku rela mengorbankan tubuh dan jiwaku."</em><br>
-  — <strong>Kaguya Shinomiya</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Apa yang berharga menurut klienku, itu juga berharga untukku. Akan ku lakukan apapun untuk melindungi mereka."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
