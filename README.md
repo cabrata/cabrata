@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak tahu apa yang sedang kamu lakukan, tapi kamu sangat berusaha keras, makanya aku ingin membuatkan sesuatu untukmu."</em><br>
-  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Istirahat sejenak sangatlah penting untuk pekerjaanmu."</em><br>
+  — <strong>Kou Yagami</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
