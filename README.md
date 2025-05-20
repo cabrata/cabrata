@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian merasa tertekan dan akhirnya menyerah. Karena itulah kuanggap kalian itu lemah. Ini adalah pertarungan kalian, jadi terserah kalian mau berbuat apa. Tapi kukatakan satu hal... Bersungguh-sungguh, berusaha, dan mengerahkan seluruh kemampuan, tak ada yang salah dengan itu semua!."</em><br>
-  — <strong>Noboru Akimiya</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Manusia boleh hidup dengan cara yang mereka mau. Menurutku orang yang berpegang teguh pada cara hidupnya sendiri adalah orang kuat yang sejati."</em><br>
+  — <strong>Oji-san</strong>, <em>Isekai Ojisan</em>
 </div>
 <!-- QUOTE END -->
 
