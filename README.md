@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan hiraukan kelemahanmu, gunakan kekuatan dan semangatmu untuk melakukan yang terbaik."</em><br>
-  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
+  <em>"Tidak masalah jika kau cemas, tapi jangan memaksakan dirimu.
+Jika ingin menangis, menangislah.
+(Karena) menangis bukan berarti lemah."</em><br>
+  — <strong>Junichi Tachibana</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
