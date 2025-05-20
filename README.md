@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini tak ada satu pun hal yang sia-sia."</em><br>
-  — <strong>Eiko Kawasegawa</strong>, <em>Bokutachi no Remake</em>
+  <em>"Hanya dengan memiliki orang yang dicintai saja dapat membuat pagi yang hampa menjadi indah."</em><br>
+  — <strong>Akira Hiiragi</strong>, <em>KimiKiss Pure Rouge: Love Fighter</em>
 </div>
 <!-- QUOTE END -->
 
