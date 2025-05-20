@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada yang salah dengan dunia ini, orang-orang tak bisa bermimpi dan memikirkan masa depan."</em><br>
-  — <strong>Boogiepop</strong>, <em>Boogiepop wa Warawanai</em>
+  <em>"Aku menulis novel sebagai hobi. Dan hobi yang tidak dilakukan dengan serius akan membosankan, 'kan? Karena ini hobiku, maka aku melakukannya sepenuh hati."</em><br>
+  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei</em>
 </div>
 <!-- QUOTE END -->
 
