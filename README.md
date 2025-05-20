@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang hidup dengan melihat ke masa depan. Semua impian masa depan didasarkan dari diri kita saat ini."</em><br>
-  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
+  <em>"Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan."</em><br>
+  — <strong>Kurumi Ebisuzawa</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
