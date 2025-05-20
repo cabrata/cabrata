@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kita terpisah, aku selalu saja memikirkan tentangmu. Kalau bisa, selama 24 jam (dalam sehari) aku ingin selalu bersama denganmu. Aku ingin memperhatikan setiap apa yang kamu lihat, apa yang kamu dengar, apa yang kamu makan, (dan) apa yang kamu rasakan. Aku ingin tahu segalanya (tentangmu)."</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Aku suka dengan orang yang tidak menutup-nutupi kata-katanya."</em><br>
+  — <strong>Mana Ryougi</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
 </div>
 <!-- QUOTE END -->
 
