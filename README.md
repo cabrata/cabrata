@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebebasan adalah sesuatu yang tidak terikat oleh harapan orang lain, dan hanya mengikuti kata hati sendiri."</em><br>
-  — <strong>Serge</strong>, <em>Fate/Apocrypha</em>
+  <em>"Apakah setiap orang itu sama?
+Masyarakat tidak mengganggap seperti itu. "Di atas langit, masih ada langit. Di bawah tanah, masih ada tanah." begitulah kata orang-orang. Tapi, hal ini masih ada kelanjutannya. Ketika lahir, setiap manusia pada dasarnya sama. Tapi, setelah itu tergantung usaha dari masing-masing individu. Dari situlah terlihat kesenjangan di antara mereka."</em><br>
+  — <strong>Kiyotaka Ayanokouji</strong>, <em>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</em>
 </div>
 <!-- QUOTE END -->
 
