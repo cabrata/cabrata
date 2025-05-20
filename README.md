@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencita-citakan sesuatu yang tinggi adalah sesuatu yang penting, lebih tinggi lagi, lagi dan lagi."</em><br>
-  — <strong>Noboru Taki</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Hidup adalah sesuatu yang sangat akrab dengan ketidakadilan. Ada yang hidup dengan makmur, dan ada juga yang hidupnya sangat menderita."</em><br>
+  — <strong>Decim</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
