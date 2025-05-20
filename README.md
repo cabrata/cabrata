@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap kali kau mendapatkan satu hal yang kau inginkan, kau (juga) akan kehilangan satu hal yang kau inginkan."</em><br>
-  — <strong>Francis Scott Key Fitzgerald</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Aku ingin bergandengan tangan denganmu. Lalu... terkadang aku juga ingin berpelukan denganmu. Maafkan aku karena tak sepolos seperti yang kau pikirkan."</em><br>
+  — <strong>Rinko Yamato</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
