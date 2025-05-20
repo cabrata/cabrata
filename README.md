@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci pada orang yang menyakiti orang lain dengan kebaikan."</em><br>
-  — <strong>Sumireko Sanshokuin</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Manusia itu bergerak sesuai kata hati. Jadi hatimu akan semakin kuat."</em><br>
+  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba</em>
 </div>
 <!-- QUOTE END -->
 
