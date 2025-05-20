@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kembang api itu indah, terang, dan menarik. Tapi saat cahayanya mulai menghilang, rasanya menyedihkan."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Jangan hiraukan kelemahanmu, gunakan kekuatan dan semangatmu untuk melakukan yang terbaik."</em><br>
+  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
