@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Supaya diriku diakui oleh ayahku, aku juga harus bisa menjadi orang yang bisa diandalkan! Aku juga akan menjadi orang baik."</em><br>
-  — <strong>Miyako Otori</strong>, <em>Shounen Maid</em>
+  <em>"Bismarck mengatakan, "Hanya orang bodoh yang belajar dari kesalahan diri sendiri. Orang bijak, belajar dari kesalahan orang lain"."</em><br>
+  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
