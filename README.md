@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki itu makhluk yang tidak terlalu memikirkan hal-hal kecil seperti ulang tahun atau hari peringatan."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Kunjunganmu merupakan obat terbaik yang dia miliki."</em><br>
+  — <strong>Ume Sawa</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
