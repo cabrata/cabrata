@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Adik perempuan adalah makhluk buas tercantik di dunia."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Dirimu yang telah mengerti penderitaan pasti akan jadi orang baik melebihi siapa pun."</em><br>
+  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
