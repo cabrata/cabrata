@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia tidak akan menunggumu untuk mendapat keyakinan."</em><br>
-  — <strong>Hansung Yu</strong>, <em>Kami no Tou</em>
+  <em>"Aku ingin melindungi waktuku bersamamu. Itu satu-satunya yang berarti bagiku."</em><br>
+  — <strong>Sakura Matou</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
