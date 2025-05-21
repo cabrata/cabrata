@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tahu, aku merasakan sesuatu di (atas panggung) sana. Kalau semua orang mempunyai sesuatu di dalam hatinya. Untuk beberapa orang mungkin kebencian, aspirasi, harapan, keinginan untuk di perhatikan, perasaan yang ingin tercapai (seperti) perasaan untuk ibuku. Semua orang di dukung oleh perasaannya sendiri. (Dan) mungkin mustahil bagi seseorang untuk berdiri sendiri di atas panggung."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Senang sekali ketika bersama dengan semuanya. Tapi ketika dia ada di sana jadi lebih menyenangkan. Ketika bersama dengannya jantungku berdebar-debar. Aku ingin lebih lama lagi bersama dengannya."</em><br>
+  — <strong>Anna Kobayakawa</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
