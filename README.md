@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku percaya kepadamu."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Ternyata aku yang tidak merasa adanya dinding antara diriku dengan Kazehaya...
+Dinding yang ingin ku hancurkan. Kazehaya dengan mudah menghancurkannya dengan satu senyuman."</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
