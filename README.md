@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena semua orang melakukan dan mengatakan hal yang sama, itu tak menjamin kebenaran."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Dunia memasak terlalu dalam dan luas jika dibandingkan dengan hidup kita yang singkat. Meski kau terus mempelajarinya seumur hidupmu, kau tetap tak akan mencapai batasnya"</em><br>
+  — <strong>Eishi Tsukasa</strong>, <em>Shokugeki no Souma: Ni no Sara OVA</em>
 </div>
 <!-- QUOTE END -->
 
