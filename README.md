@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia bisa saling berkumpul, saling membantu, dan menyelesaikan sesuatu. Namun peradaban mereka gampang sekali dimusnahkan oleh para naga. Jadi kurasa naga lebih hebat (dari manusia)."</em><br>
-  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Mulai sekarang, tujuanku adalah mengembalikan senyumanmu."</em><br>
+  — <strong>Hana Miyakoshi</strong>, <em>WWW.Working!!</em>
 </div>
 <!-- QUOTE END -->
 
