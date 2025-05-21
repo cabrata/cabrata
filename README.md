@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau hanya duduk di kursi kehormatan, kau tidak akan bisa melihat apapun."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Mengejar mimpi yang tak bisa digapai hanya akan menghancurkan diri sendiri."</em><br>
+  — <strong>Evileye</strong>, <em>Overlord II</em>
 </div>
 <!-- QUOTE END -->
 
