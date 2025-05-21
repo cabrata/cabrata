@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah itu jalan yang lurus ataupun jalan yang menyesatkan, selama kami masih bisa berjalan di sampingmu, kami tak peduli ke manapun kami pergi."</em><br>
-  — <strong>Toushirou Hijikata</strong>, <em>Gintama°</em>
+  <em>"Ketika kau memiliki orang yang kau cintai, kau akan menjadi lebih kuat. Berkat Tetsurou, aku juga sudah berubah. Paling tidak aku sudah mencoba untuk menjadi lebih berani dan lebih kuat."</em><br>
+  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
