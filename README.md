@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun dibenci, tapi masih ada hal yang ingin kamu sampaikan padanya kan? Apakah kau lebih suka pasrah saja dan tidak menyampaikan perasaanmu itu? Meskipun sudah tahu hasilnya, tapi tetap menyampaikannya jelas lebih baik."</em><br>
-  — <strong>Misao Zaitsu</strong>, <em>Hatsukoi Limited</em>
+  <em>"Saat kau jatuh cinta, dia akan terlihat berkilauan di matamu. Karena itulah saat orang jatuh cinta dia menjadi buta"</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
