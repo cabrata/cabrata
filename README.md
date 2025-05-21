@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin aku tidak bisa menjadi seorang samurai atau ayah yang hebat, tapi (setidaknya) aku ingin memberikan nama yang bagus untuk anakku."</em><br>
-  — <strong>Isaburou Sasaki</strong>, <em>Gintama°</em>
+  <em>"Kau telah menuntunku. Kau telah memberikan kehidupan bagi boneka sepertiku."</em><br>
+  — <strong>Irisviel von Einzbern</strong>, <em>Fate/Zero</em>
 </div>
 <!-- QUOTE END -->
 
