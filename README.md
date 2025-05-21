@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah jadi orang dewasa dan paham jarak hubungan dengan orang lain, kita jadi bisa menghindari perselisihan."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Aku tidak ingin membiarkan temanku menghadapi bahaya sendirian!"</em><br>
+  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya</em>
 </div>
 <!-- QUOTE END -->
 
