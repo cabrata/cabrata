@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengejar mimpi yang tak bisa digapai hanya akan menghancurkan diri sendiri."</em><br>
-  — <strong>Evileye</strong>, <em>Overlord II</em>
+  <em>"Aku tak bisa memikul beban yang menjadi tanggung jawabmu, jadi aku tak bisa begitu saja menerima permintaanmu. Tapi aku akan mencari sesuatu yang kau katakan itu. Dan jika aku menemukan suatu petunjuk, aku akan memberitahumu. Dan jika kau tak dapat mencari penjelasan akan hal itu sebelum waktunya, saat itulah aku akan membantumu."</em><br>
+  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
