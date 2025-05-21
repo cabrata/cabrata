@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ternyata aku yang tidak merasa adanya dinding antara diriku dengan Kazehaya...
-Dinding yang ingin ku hancurkan. Kazehaya dengan mudah menghancurkannya dengan satu senyuman."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Kesehatan adalah hal yang paling penting dari apapun."</em><br>
+  — <strong>Latifa Fleuranza</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
