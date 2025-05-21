@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senang sekali ketika bersama dengan semuanya. Tapi ketika dia ada di sana jadi lebih menyenangkan. Ketika bersama dengannya jantungku berdebar-debar. Aku ingin lebih lama lagi bersama dengannya."</em><br>
-  — <strong>Anna Kobayakawa</strong>, <em>Nijiiro Days</em>
+  <em>"Aku tidak ingin melewatkan tiap detik ataupun tiap meter denganmu. Setiap hari, dari mulai berangkat sampai pulang (sekolah) aku ingin bersama denganmu."</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
