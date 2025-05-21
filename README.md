@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak boleh kalah disini! Aku telah bersumpah di makam ayah bahwa aku akan menjadi exorcist yang hebat seperti dirinya dan akan menghajar Satan!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Tak ada kutukan yang lebih kuat dari cinta."</em><br>
+  — <strong>Satoru Gojou</strong>, <em>Jujutsu Kaisen 0 Movie</em>
 </div>
 <!-- QUOTE END -->
 
