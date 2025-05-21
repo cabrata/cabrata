@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang paling penting adalah melakukan apa yang ingin kau lakukan."</em><br>
-  — <strong>Rito Yuuki</strong>, <em>To LOVE-Ru Darkness</em>
+  <em>"Laki-laki itu makhluk yang tidak terlalu memikirkan hal-hal kecil seperti ulang tahun atau hari peringatan."</em><br>
+  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
