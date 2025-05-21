@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus punya mata dan keberanian untuk mengatakan yang bagus ya bagus, dan jelek ya jelek."</em><br>
-  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Bermain (musik) untuk seseorang, itu jauh lebih berharga."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
