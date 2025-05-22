@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita (sedang) jatuh cinta. Memang tidak selalu berjalan dengan baik. Mungkin ada juga kesalahan di sana-sini. Tapi perasaan cinta pertama kita pasti menjadi hal yang berharga. Perasaan itu satu-persatu membawa kita ke masa mendatang."</em><br>
-  — <strong>Ayumi Arihara</strong>, <em>Hatsukoi Limited</em>
+  <em>"Aku tidak akan melakukan jika memang tidak harus melakukannya, dan jika harus melakukannya maka akan aku selesaikan dengan cepat."</em><br>
+  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
