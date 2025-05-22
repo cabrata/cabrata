@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak akan melakukan jika memang tidak harus melakukannya, dan jika harus melakukannya maka akan aku selesaikan dengan cepat."</em><br>
-  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
+  <em>"Aku suka banget melihatmu tertawa."</em><br>
+  — <strong>Chika Fujiwara</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
