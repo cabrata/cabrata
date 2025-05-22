@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada pertandingan yang tak bisa dimenangkan. Dan tak ada pertandingan yang pasti bisa dimenangkan."</em><br>
-  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Aku merasa tanpa dirimu semuanya akan terasa membosankan. Saat aku melihat ada orang lain yang menyentuhmu, aku sangat tak menyukainya. Meskipun baru kusadari akhir-akhir ini, tapi kurasa aku sudah lama menyukaimu."</em><br>
+  — <strong>Kazuomi Ooga</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
