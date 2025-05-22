@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku iri pada orang-orang yang punya impian dan bersemangat mewujudkannya."</em><br>
-  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji</em>
+  <em>"Apa mereka tidak tahu, harga diri seorang pria itu lebih berharga dari nyawanya."</em><br>
+  — <strong>Motoharu</strong>, <em>Danshi Koukousei no Nichijou</em>
 </div>
 <!-- QUOTE END -->
 
