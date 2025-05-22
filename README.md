@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang cerdas bersinar lebih terang dari orang biasa. Mereka tidak pernah menyesali atau tersiksa atas perbuatan mereka sendiri."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Saat bangun pagi, saat tidur pada malam hari, saat berangkat sekolah, saat berpakaian, saat menangis dan saat tertawa itu semua karena Mitsuo. Tanpa Mitsuo, tak ada yang bisa kulakukan, tidak ada artinya aku hidup."</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
