@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kematian anak muda yang belum menemukan jalan mereka adalah sesuatu yang tak bisa dimaafkan."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Kebahagiaan sejati adalah menemukan orang yang di cintai, menjadi seorang ibu, kemudian menjalani hidup dengannya."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
