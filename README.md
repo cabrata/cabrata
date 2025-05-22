@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa mereka tidak tahu, harga diri seorang pria itu lebih berharga dari nyawanya."</em><br>
-  — <strong>Motoharu</strong>, <em>Danshi Koukousei no Nichijou</em>
+  <em>"Cinta itu seperti bela diri! Menyerang adalah pertahanan terbaik"</em><br>
+  — <strong>Kozue Takanashi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
