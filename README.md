@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku rasa semua orang pada awalnya juga mencoba dulu sebelum menyukainya. Kurasa kamu tidak perlu semangat tinggi atau alasan yang kuat untuk memulainya. Terkadang sesuatu yang kamu mulai perlahan-lahan akan menjadi hal yang penting bagimu. Untuk memulainya yang kamu perlukan hanya rasa keingintahuan."</em><br>
-  — <strong>Kiyoko Shimizu</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Bagi yang berusaha maka Tuhan akan tersenyum padamu, itu adalah bohong.
+Tapi, takdir Tuhan akan berkedip padamu."</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
