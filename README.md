@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Justru impian yang sederhanalah yang paling sulit diwujudkan."</em><br>
-  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
+  <em>"Ketakutan, penyesalan, keputusasaan. Rasa yang akan jatuh selamanya bersamamu saat kau merangkul semua perasaan negatifmu. Itulah tempat yang disebut kehampaan."</em><br>
+  — <strong>Ginti</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
