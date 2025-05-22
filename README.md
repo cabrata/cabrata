@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bilang akan membuktikan bahwa ia tak salah membesarkanmu. Jadi buktikanlah!"</em><br>
-  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Menjatuhkan orang lain demi keuntungan sendiri adalah usaha yang sia-sia. Itu artinya, mereka sudah menyerah untuk menang."</em><br>
+  — <strong>Michiru Saiki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
