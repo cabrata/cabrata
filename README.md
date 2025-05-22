@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa bahagia ketika melihatmu tersenyum."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
+  <em>"Seseorang tidak akan berjuang sekeras itu jika dia tidak menyukainya."</em><br>
+  — <strong>Keiko Ayano</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
