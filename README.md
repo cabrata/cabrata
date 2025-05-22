@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin punya cinta yang begitu panas hingga bisa melelehkan lereng salju."</em><br>
-  — <strong>Roman Saotome</strong>, <em>Sket Dance</em>
+  <em>"Pandangan yang sempit adalah musuh idealisme dan kecerdasan."</em><br>
+  — <strong>Eiha Kudou</strong>, <em>Gimai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
