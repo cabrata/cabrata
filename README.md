@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa tanpa dirimu semuanya akan terasa membosankan. Saat aku melihat ada orang lain yang menyentuhmu, aku sangat tak menyukainya. Meskipun baru kusadari akhir-akhir ini, tapi kurasa aku sudah lama menyukaimu."</em><br>
-  — <strong>Kazuomi Ooga</strong>, <em>ReLIFE</em>
+  <em>"Aku tidak akan pernah marah, membenci, atau membunuh seseorang. Daripada melakukan itu, aku lebih memilih mati. Dan ketika itu terjadi, aku akan mati dengan senyuman di depan wajah orang yang membunuhku."</em><br>
+  — <strong>Photo</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
 </div>
 <!-- QUOTE END -->
 
