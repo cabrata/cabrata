@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cermin adalah alat yang dapat membantumu menghadapi dirimu sendiri dari berbagai sisi."</em><br>
-  — <strong>Tooe Kanbaru</strong>, <em>Zoku Owarimonogatari</em>
+  <em>"Skala dari angka yang tinggi dapat membuatmu tak terkalahkan."</em><br>
+  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
