@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebahagiaan sejati adalah menemukan orang yang di cintai, menjadi seorang ibu, kemudian menjalani hidup dengannya."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Jika kau tak bisa memilih salah satu, maka kau hanya perlu mencari pilihan lain untuk membuat dua pilihan itu tetap terjadi."</em><br>
+  — <strong>Kazuki Fujisawa</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
