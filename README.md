@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun yang ingin turun sebelum sampai di puncak, sebaiknya jatuh saja."</em><br>
-  — <strong>Sougo Okita</strong>, <em>Gintama°</em>
+  <em>"Preman dan politikus itu mempedulikan imej mereka lebih dari apapun."</em><br>
+  — <strong>Ekubo</strong>, <em>Mob Psycho 100</em>
 </div>
 <!-- QUOTE END -->
 
