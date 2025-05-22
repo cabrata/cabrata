@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak peduli apapun itu, kau tak boleh memperlakukan orang lain dengan buruk."</em><br>
-  — <strong>Keita Amano</strong>, <em>Gamers!</em>
+  <em>"Bahasa bunga dari mawar merah adalah semangat dalam menghadapi tantangan."</em><br>
+  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
 </div>
 <!-- QUOTE END -->
 
