@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mulanya kupikir, aku akan pergi ke universitas yang bagus, jika gagal menjadi seniman manga. Tapi aku menyadari itu merupakan rencana bodoh. (karena ketika aku memutuskan untuk memiliki impian, aku tak boleh berpikiran akan gagal)."</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Entah melakukan hal baik ataupun hal buruk, jadilah boss!!"</em><br>
+  — <strong>Kagura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
