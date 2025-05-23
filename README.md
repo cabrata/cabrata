@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan lupakan kekalahan pahit dan menyedihkan dari Seijou. Tapi, kalian tak perlu mendramatisir perasaan kalah itu.
-Enyahkan perasaan itu dan majulah!"</em><br>
-  — <strong>Keishin Ukai</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Berhutang kepada seseorang bukanlah hal yang memalukan, tapi justru memalukan jika tidak bisa melunasinya."</em><br>
+  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
 </div>
 <!-- QUOTE END -->
 
