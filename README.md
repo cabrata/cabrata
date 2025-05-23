@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku menjadi koki masakan Prancis agar aku dapat membuat ibuku tersenyum setiap saat."</em><br>
-  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Hanya seseorang yang bisa memahami dirinya sendirilah yang dapat terus menerus membuat kemajuan."</em><br>
+  — <strong>Masachika Kouda</strong>, <em>3-gatsu no Lion</em>
 </div>
 <!-- QUOTE END -->
 
