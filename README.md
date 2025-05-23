@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengetahui (kemampuan) diri sendiri dan (kemampuan) musuh adalah dasar dari bertarung."</em><br>
-  — <strong>Kamui</strong>, <em>Gintama°</em>
+  <em>"Lebih memilih persahabatan daripada cinta adalah alasan yang klise."</em><br>
+  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
