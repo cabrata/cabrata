@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun obatnya, cintaku padamu takkan bisa disembuhkan!"</em><br>
-  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
+  <em>"Aku tak tahan jauh darimu. Aku cemas jika kau tak ada (disampingku)."</em><br>
+  — <strong>Misaki Kamiigusa</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
