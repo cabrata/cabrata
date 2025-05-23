@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau dalam masalah, aku ingin jadi yang pertama membantumu. Hanya itu yang kuinginkan."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Postur tubuh menentukan bagaimana orang lain melihatmu."</em><br>
+  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
 </div>
 <!-- QUOTE END -->
 
