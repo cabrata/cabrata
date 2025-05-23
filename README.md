@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin punya cinta yang begitu panas hingga bisa melelehkan lereng salju."</em><br>
-  — <strong>Roman Saotome</strong>, <em>Sket Dance</em>
+  <em>"Teman yang saling mengerti satu sama lain lewat berbagi hobi adalah teman yang sangat berharga."</em><br>
+  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
 </div>
 <!-- QUOTE END -->
 
