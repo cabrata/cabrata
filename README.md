@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk terus maju, terkadang kita harus membuang sesuatu yang berharga."</em><br>
-  — <strong>Luviagelita Edelfelt</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Orang bilang saat kau menemukan sesuatu yang tidak bisa diatasi dengan pengalaman dan pengetahuanmu, maka kau akan berubah."</em><br>
+  — <strong>Seinen Shounin</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
