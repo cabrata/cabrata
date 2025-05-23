@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada sesuatu yang harus ku raih, bahkan jika aku harus mengotorinya (*melakukan dengan cara kotor atau curang)."</em><br>
-  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
+  <em>"Hanya dengan keberadaanmu dan senyummu aku merasa bahagia.
+Hanya dengan keberadaanmu dan berjalan bersamamu aku merasa senang."</em><br>
+  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
