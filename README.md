@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami sudah terbiasa diseret olehmu. Jadi, sebagai gantinya, bawalah kami ke dunia yang belum pernah kami lihat."</em><br>
-  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Ketika dia berbicara seperti itu (sangat percaya diri), dia tidak akan membiarkan tembakannya meleset. (Maka) Serahkan penyerangan padanya. Kau hanya harus bertahan seperti hidupmu bergantung padanya."</em><br>
+  — <strong>Shun Izuki</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
