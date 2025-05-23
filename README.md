@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada baiknya kalau bisa terbuka dengan orang lain."</em><br>
-  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Orang yang terlalu memusingkan peringkat seseorang itu sama sekali tidak spesial."</em><br>
+  — <strong>Kasumi Chigusa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
