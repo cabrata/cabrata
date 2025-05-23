@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin tak banyak orang yang tahu kalau sebenarnya aku tipe orang yang tak begitu peduli dengan penampilanku. Karena menurutku yang lebih penting adalah apa yang keluar dari dalam diriku."</em><br>
-  — <strong>Karen Tendou</strong>, <em>Gamers!</em>
+  <em>"Dengarlah, Rin. Kalau terus begini, kau akan selalu sendirian. Gunakanlah kekuatanmu untuk orang lain, untuk tujuan yang lebih mulia. Aku ingin kau menjadi laki-laki yang keren dengan banyak teman, dan disukai oleh para gadis!"</em><br>
+  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
