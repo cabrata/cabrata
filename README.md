@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bisa melindungi orang-orang yang aku sayang. Aku bisa berjuang demi orang-orang yang aku cintai. Tekad bajaku diperuntukkan untuk berperang. Darahku ada untuk melindungi. Hatiku yang tersembunyi ada untuk mencintai. Terima kasih. Aku mencintaimu. Kau luar biasa. Aku sangat bahagia. Jangan ragu untuk mengatakan pada orang-orang yang kau sayang tentang perasaanmu pada mereka. Karena mereka mungkin saja tidak ada lagi besok."</em><br>
-  — <strong>Akagi</strong>, <em>Kantai Collection: KanColle</em>
+  <em>"Kita tidak memilih jalan kita berdasarkan dosa yang kita bawa, tetapi membawa dosa kita pada jalan yang kita pilih."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
