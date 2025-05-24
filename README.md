@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak bisa tahu seseorang jika hanya melihat. (Meski penampilannya seperti itu) tapi dia sebenarnya seorang pekerja keras."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Apa yang kamu suka?Apa yang kamu benci?Apa yang kamu hormati?Apa yang kamu anggap buruk?Itu semua kamu yang memutuskan.Kita mempelajari dan melihat banyak hal. Begitulah hidup.Kamu bukanlah yang membuat dunia, tapi dunialah yang membuatmu."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
