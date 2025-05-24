@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pajak Kebahagiaan. Semua hal yang mendatangkan kebahagiaan itu pasti kena pajak."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Aku merasa bahagia ketika melihatmu tersenyum."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
