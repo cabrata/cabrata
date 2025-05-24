@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku orang yang tidak terlalu peduli dengan masa lalu. Karena jika terus memikirkannya hanya akan membuat hidupku suram."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Tujuan hidupku adalah untuk menjadikanmu sebagai laki-laki baru yang akan hidup bahagia."</em><br>
+  — <strong>Rin Tohsaka</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
