@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa yang kamu suka?Apa yang kamu benci?Apa yang kamu hormati?Apa yang kamu anggap buruk?Itu semua kamu yang memutuskan.Kita mempelajari dan melihat banyak hal. Begitulah hidup.Kamu bukanlah yang membuat dunia, tapi dunialah yang membuatmu."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Hanya karena tidak meminta tolong bukan berarti tidak ingin ditolong.
+Hanya karena dia tidak bilang cinta bukan berarti dia tidak mencintaimu.
+Siapapun punya hal yang tak bisa dikatakan walaupun ingin mengatakannya."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Nekomonogatari: Kuro</em>
 </div>
 <!-- QUOTE END -->
 
