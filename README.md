@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tujuan hidupku adalah untuk menjadikanmu sebagai laki-laki baru yang akan hidup bahagia."</em><br>
-  — <strong>Rin Tohsaka</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Ketakutan, penyesalan, keputusasaan. Rasa yang akan jatuh selamanya bersamamu saat kau merangkul semua perasaan negatifmu. Itulah tempat yang disebut kehampaan."</em><br>
+  — <strong>Ginti</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
