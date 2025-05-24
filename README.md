@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang perlu dicemaskan.
-Semuanya, fokuslah menghadapi musuh di depan. (Sebagai gantinya) aku akan melindungi kalian dari belakang."</em><br>
-  — <strong>Yuu Nishinoya</strong>, <em>Haikyuu!!</em>
+  <em>"Senyumlah saat sedang dalam masalah."</em><br>
+  — <strong>Canaria Utara</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
