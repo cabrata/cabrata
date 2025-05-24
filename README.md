@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku masih bisa berjuang (sampai sekarang) itu karena kau percaya padaku. Terima kasih Airi, aku bersyukur telah mempercayaimu."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Siapapun pasti tak ingin ada orang yang menyangkal kesukaan kita. Kita ingin orang lain juga tertarik dengan yang kita sukai. Karena lebih menyenangkan apabila banyak teman yang juga menyukai hal yang kita sukai."</em><br>
+  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
