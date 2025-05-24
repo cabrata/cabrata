@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tindakanku tak mengenal logika. Aku bertindak semauku. Saat aku merasa harus bertindak, aku akan melakukannya dengan penuh keyakinan dan rasa bangga."</em><br>
-  — <strong>Xuanzang Sanzang</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Kamu telah memberikan berbagai hal yang berharga untukku."</em><br>
+  — <strong>Yuito Aoi</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
