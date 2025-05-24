@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan rencana pamungkas namanya kalau tidak dirahasiakan."</em><br>
-  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
+  <em>"Cinta adalah rumah cermin, itu hanya lah ilusi."</em><br>
+  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
