@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah dengan menggerakan hati seseorang. Dengan melakukan hal itu, bukankah itu yang dinamakan hidup? Menerima seseorang. Menyukai seseorang. Membenci seseorang. Merasa senang saat bersama seseorang. Menggenggam tangan seseorang. Itulah hidup."</em><br>
-  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
+  <em>"Di dunia ini tak ada satu pun hal yang sia-sia."</em><br>
+  — <strong>Eiko Kawasegawa</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
