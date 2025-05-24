@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak boleh kalah disini! Aku telah bersumpah di makam ayah bahwa aku akan menjadi exorcist yang hebat seperti dirinya dan akan menghajar Satan!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Aku masih bisa berjuang (sampai sekarang) itu karena kau percaya padaku. Terima kasih Airi, aku bersyukur telah mempercayaimu."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
