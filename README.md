@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada beberapa hal yang tidak bisa didapatkan meskipun kau sangat menginginkannya."</em><br>
-  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou Shi</em>
+  <em>"Penampilan seseorang tergantung pada dua hal, ekspresi dan postur tubuh."</em><br>
+  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
 </div>
 <!-- QUOTE END -->
 
