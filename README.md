@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita lahir di situasi yang berbeda. Apakah itu rumahmu, keluargamu atau penampilanmu. Itulah mengapa banyak orang bodoh yang tetap menjadi pemimpi. Tetapi aku pintar, aku tak akan bermimpi saja."</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Yang kau perlihatkan saat ini bukanlah loyalitas ataupun kesetiaan. Tapi sesuatu yang menjijikkan, seperti nafsu seekor anjing ataupun babi yang serakah. Kau hanyalah babi serakah yang hanya mementingkan egomu saja! Babi serakah adalah hal terburuk yang pernah ada di dunia ini!"</em><br>
+  — <strong>Priscilla Barielle</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
