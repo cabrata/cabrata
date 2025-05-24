@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua punya hati. Jadi wajar kalau memiliki hasrat terpendam."</em><br>
-  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke 2nd Season</em>
+  <em>"Tak ada kutukan yang lebih kuat dari cinta."</em><br>
+  — <strong>Satoru Gojou</strong>, <em>Jujutsu Kaisen 0 Movie</em>
 </div>
 <!-- QUOTE END -->
 
