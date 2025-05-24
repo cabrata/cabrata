@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama masalah tidak dipermasalahkan, masalah tidak akan menjadi masalah."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Mengabdikan diri untuk pendidikan adalah suatu bentuk kerja keras."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
