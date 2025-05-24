@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hubungan antara manusia tidak harus diukur berdasarkan lamanya waktu (yang mereka habiskan bersama)."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Setiap orang memiliki langkah mereka sendiri."</em><br>
+  — <strong>Miwako Tomobe</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
