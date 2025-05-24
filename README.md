@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak akan bisa hidup hanya dengan (menggeluti) hobimu saja."</em><br>
-  — <strong>Michiru Hyoudou</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Jika ada hal yang membuatku bahagia, aku ingin kamu jadi orang pertama yang mengetahuinya. Jika ada hal yang membuatmu sedih, aku akan menanggungnya bersamamu. Aku ingin kita jadi suami-istri yang saling berbagi dan mendukung satu sama lain. Aku takkan membiarkanmu menyesal telah memilihku."</em><br>
+  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
