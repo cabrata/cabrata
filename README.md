@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa bahagia ketika melihatmu tersenyum."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
+  <em>"Suatu hari waktu akan memisahkan kita kan?
+Tapi.., walaupun begitu, hingga saat itu, mari tetap bersama."</em><br>
+  — <strong>Hotaru Takegawa</strong>, <em>Hotarubi no Mori e</em>
 </div>
 <!-- QUOTE END -->
 
