@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bertingkah sok akrab adalah hal yang paling kami benci."</em><br>
-  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Meski melarikan diri juga bisa berakhir bahagia, (tapi) aku ingin berjuang semampuku hingga titik darah penghabisan."</em><br>
+  — <strong>Moffle</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
