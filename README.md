@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama ini aku hanya bisa tersakiti, selama ini aku hanya bisa menangis, selama ini aku hanya bisa merasa sakit, selama ini aku hanya bisa mempertaruhkan nyawaku dalam pertarungan... Dan hadiah yang kudapatkan (dari itu semua) adalah nama dan senyumnya yang sederhana."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Belajar itu memang sulit. Sampai sekarang aku pun masih gak suka belajar. Walapun sulit, tapi berjuang bersama teman-teman untuk menggapai tujuan itu cukup menyenangkan."</em><br>
+  — <strong>Uruka Takemoto</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
 </div>
 <!-- QUOTE END -->
 
