@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita para penguasa itu seperti hewan ternak yang hanya memakan jabatan."</em><br>
-  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
+  <em>"Jangan buang rasa kesalmu. Karena itu akan jadi bukti kalau kau masih belum menyerah pada dirimu sendiri."</em><br>
+  — <strong>Ryouma Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
