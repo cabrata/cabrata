@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku selalu serius! Tapi kenapa kamu selalu lari?
-Setiap kali aku pikir mulai lebih dekat denganmu, kamu malah bergerak semakin jauh."</em><br>
-  — <strong>Megumi Noda</strong>, <em>Nodame Cantabile: Paris Hen</em>
+  <em>"Mungkin dunia kita terlalu sederhana sampai bisa diubah hanya dengan pernyataan cinta seseorang."</em><br>
+  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
