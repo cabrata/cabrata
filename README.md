@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka bilang orang itu bisa berubah, tapi apa yang seperti itu bisa terjadi? Jika mereka (manusia) memutuskan untuk terbang, pasti akan tumbuh sayap? Aku tak berpikir seperti itu. Kau tak perlu merubah dirimu, (tapi) rubahlah cara berfikirmu. Kau harus menjadi dirimu sendiri. Kau harus membuat cara terbangmu sendiri, meskipun kau masih tetap menjadi dirimu sendiri."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Apa ini cemburu? Cemburu. Cemburu? Senangnya, Soalnya perasaan ini, rasa sakit ini terlahir karena kau mencintai Shio-chan kan? Perasaan pertamaku."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
