@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan terasa pedih untuk menjaga ataupun melepaskan sesuatu yang tak bisa kau dapatkan kembali.
-Jika kedua-duanya akan terasa pedih, aku lebih baik menderita untuk mempertahankannya."</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Dengan seluruh tubuh dan hati kita! Kita tak boleh mundur! Kita harus jujur pada perasaan masing-masing. Aku ingin mengubah nol menjadi satu."</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
