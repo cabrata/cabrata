@@ -5,8 +5,15 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terlalu lancang menilai hidup orang (lain) itu bahagia atau tidak."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Isekai Shikkaku</em>
+  <em>"Kecerobohanmu mungkin adalah kelemahanmu.
+Kau sudah berusaha untuk memperbaikinya.
+Kau tidak mungkin memperbaiki sepenuhnya.
+Jadi seberapa kuat pun kau mencoba, tidak usah melakukannya pun tidak apa-apa.
+Biarkan saja seperti itu. Menyerahlah.
+Kekuatanmu memang tidak ada batasnya.
+Tapi yang terpenting adalah semangatmu.
+Jadi, kau tidak usah repot-repot mengubahnya kan?"</em><br>
+  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
