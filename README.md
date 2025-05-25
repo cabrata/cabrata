@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pikir semua orang melihat dunia yang sama seperti yang kau lihat!"</em><br>
-  — <strong>Ichiya Suzaku</strong>, <em>Qualidea Code</em>
+  <em>"Bunga-bunga yang indah pun pada akhirnya akan layu dan berguguran. Itulah takdir dari semua bentuk kehidupan."</em><br>
+  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
