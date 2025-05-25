@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang diciptakan berbeda!"</em><br>
-  — <strong>Izuku Midoriya</strong>, <em>Boku no Hero Academia</em>
+  <em>"Temanku akan menang meski kutinggalkan mereka!"</em><br>
+  — <strong>Akiteru Tsukishima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
