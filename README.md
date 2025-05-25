@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Temanku akan menang meski kutinggalkan mereka!"</em><br>
-  — <strong>Akiteru Tsukishima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Tak ada gunanya menyemangati orang yang bahkan tak berniat dengan apa yang dilakukannya."</em><br>
+  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
