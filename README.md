@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan sebut babi itu gendut. Lemak babi itu hanya 15%. Sedangkan Seorang Pria memiliki lemak 10% hingga 20% dan Wanita antara 20% hingga 30%."</em><br>
-  — <strong>Ichiko Fuji</strong>, <em>Gin no Saji</em>
+  <em>"Akan terasa pedih untuk menjaga ataupun melepaskan sesuatu yang tak bisa kau dapatkan kembali.
+Jika kedua-duanya akan terasa pedih, aku lebih baik menderita untuk mempertahankannya."</em><br>
+  — <strong>Tae Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
