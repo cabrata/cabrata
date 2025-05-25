@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku mempercayai kekuatanmu, kata-katamu dan senyummu."</em><br>
-  — <strong>Minato Sahashi</strong>, <em>Sekirei</em>
+  <em>"Berhentilah menyalahkan orang lain.Aku tak tahu apa yang sebenarnya terjadi. Tapi bila kau menyalahkan orang lain, itu takkan menyelesaikan masalah apapun. Di masa mendatang akan ada banyak keadaan yang sulit untuk dijelaskan. Dan akhirnya kau tak punya pilihan lain selain memperbaiki diri sendiri."</em><br>
+  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
