@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhentilah untuk mencoba memperbaiki semuanya sendiri. Jangan lupa, kau tidaklah sendirian!"</em><br>
-  — <strong>Ryuuji Suguro</strong>, <em>Ao no Exorcist</em>
+  <em>"Selama ini aku hanya bisa tersakiti, selama ini aku hanya bisa menangis, selama ini aku hanya bisa merasa sakit, selama ini aku hanya bisa mempertaruhkan nyawaku dalam pertarungan... Dan hadiah yang kudapatkan (dari itu semua) adalah nama dan senyumnya yang sederhana."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
