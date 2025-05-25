@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa pun yang terjadi, tetap junjung harga dirimu. Jaga tata krama, bantu yang lemah, dan jauhi kejahatan."</em><br>
-  — <strong>Kaito Ayatsuji</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Setiap aturan kecil yang kalian patuhi pasti akan (berperan penting) melindungi kotamu."</em><br>
+  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
