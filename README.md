@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau berada satu langkah di depanku, maka aku akan mengambil dua langkah, sepuluh, bahkan seratus langkah di depanmu! Aku takkan membiarkan semua ini berakhir begitu saja."</em><br>
-  — <strong>Takumi Aldini</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Manusia memang makhluk bodoh yang banyak kekurangan, meskipun begitu usaha dan perjuangan kalian sangat indah. Apapun akhir yang menanti kalian, sejarah kalian layak ditinggalkan di bumi ini."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
