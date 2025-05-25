@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku tak mengerti apa yang dirasakan temanku, apakah (itu artinya) aku tak boleh mengkhawatirkannya? Jika aku tak merasakan hal yang sama, apakah aku tidak boleh mengkhawatirkannya?"</em><br>
-  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
+  <em>"Aku mempercayai kekuatanmu, kata-katamu dan senyummu."</em><br>
+  — <strong>Minato Sahashi</strong>, <em>Sekirei</em>
 </div>
 <!-- QUOTE END -->
 
