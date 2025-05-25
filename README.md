@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada gunanya menyemangati orang yang bahkan tak berniat dengan apa yang dilakukannya."</em><br>
-  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Dunia memasak terlalu dalam dan luas jika dibandingkan dengan hidup kita yang singkat. Meski kau terus mempelajarinya seumur hidupmu, kau tetap tak akan mencapai batasnya"</em><br>
+  — <strong>Eishi Tsukasa</strong>, <em>Shokugeki no Souma: Ni no Sara OVA</em>
 </div>
 <!-- QUOTE END -->
 
