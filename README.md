@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau selalu berpikir semuanya akan baik-baik saja jika kau melakukan apa yang menurutmu baik. Padahal kami telah menunggumu, tolong jangan menyerah ... Jangan sampai membuat keputusan yang nantinya akan kau sesali. Tolong jangan menyerah sebelum berjuang sekeras mungkin!"</em><br>
-  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Mereka tidak lebih dari sekedar monster yang dapat berbicara. Aku mendefinisikan mereka (para monster) yang dapat berbicara itu sebagai iblis."</em><br>
+  — <strong>Flamme</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
