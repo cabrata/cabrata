@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kutukan dan berkah itu pada dasarnya sama, tergantung bagaimana kita menerimanya."</em><br>
-  — <strong>Rahab</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Berhutang kepada seseorang bukanlah hal yang memalukan, tapi justru memalukan jika tidak bisa melunasinya."</em><br>
+  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
 </div>
 <!-- QUOTE END -->
 
