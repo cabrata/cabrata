@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan seorang kreator mungkin tampak mewah, tapi bukan berarti semuanya berjalan dengan baik.
-Deadline mepet, persaingan sengit, dan kau tidak tahu kapan bakatmu akan menghilang."</em><br>
-  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Menurutku, bakat bukan didapat sejak lahir. Melainkan sesuatu yang didapat dari hasil pembelajaran."</em><br>
+  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
