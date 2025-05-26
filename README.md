@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa kau adalah tipe orang yang tak mau menyelamatkan orang yang kau benci? Aku sih tak punya waktu untuk memikirkan hal bodoh seperti itu! Sebelum kusadari, tubuhku bergerak dengan sendirinya, aku saja terkejut. Mungkin aku tahu alasannya, kita memang berpura-pura, tapi kita sepasang kekasih. Pasti ada semacam naluri."</em><br>
-  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
+  <em>"Rival itu bukan berarti menjadi musuh."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
