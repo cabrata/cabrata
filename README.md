@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau menyebut dirimu seorang pria? Kalau memang iya, perhatikanlah dia!"</em><br>
-  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
+  <em>"Jika seorang gadis tidak menyukaimu, maka rumor buruk akan menyebar dan mempengaruhi gadis lain."</em><br>
+  — <strong>Kodaka Hasegawa</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
 </div>
 <!-- QUOTE END -->
 
