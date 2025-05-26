@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nenekku bilang, tubuh sehat membuat seorang gadis menjadi cantik."</em><br>
-  — <strong>Makoto Kowata</strong>, <em>Flying Witch</em>
+  <em>"Manusia akan lebih kuat bila mereka berjuang untuk melindungi sesuatu."</em><br>
+  — <strong>Heathcliff</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
