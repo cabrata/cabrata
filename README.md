@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tanpa adanya perkelahian dan perselisihan, maka kalian belum benar-benar menjadi teman.
-Seperti kata pepatah "Jika kau terus mengambil jalan yang aman, maka suatu saat nanti kau akan kehilangan hal yang sangat berharga bagimu"."</em><br>
-  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect</em>
+  <em>"Meskipun bergantung pada teman bukanlah hal yang buruk. Tapi jujur saja, sebaiknya kita mencari jalan keluar dengan kemampuan kita sendiri."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
