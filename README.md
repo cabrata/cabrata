@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak tahu bagaimana masa depanku nanti, tapi aku ingin belajar dengan giat agar dapat membantu (banyak orang)."</em><br>
-  — <strong>Kaito</strong>, <em>Konohana Kitan</em>
+  <em>"Gaya hidupku adalah makan makanan favorit kapan pun yang aku mau."</em><br>
+  — <strong>Anna Yamada</strong>, <em>Boku no Kokoro no Yabai Yatsu</em>
 </div>
 <!-- QUOTE END -->
 
