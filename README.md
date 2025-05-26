@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengintai dalam hidupmu seperti (wartawan) itu hanya akan membuat hal-hal yang canggung antara kita. Aku tidak ingin membahas tentang apapun yang kamu lakukan. Kamu bisa menceritakan tentang hal ini ketika kamu siap."</em><br>
-  — <strong>Rea Amano</strong>, <em>Mirai Nikki</em>
+  <em>"Tanpa adanya perkelahian dan perselisihan, maka kalian belum benar-benar menjadi teman.
+Seperti kata pepatah "Jika kau terus mengambil jalan yang aman, maka suatu saat nanti kau akan kehilangan hal yang sangat berharga bagimu"."</em><br>
+  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
