@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah melakukan hal baik ataupun hal buruk, jadilah boss!!"</em><br>
-  — <strong>Kagura</strong>, <em>Gintama</em>
+  <em>"Ramalan itu hanya pertanda. Yang menentukan masa depan adalah dirimu sendiri."</em><br>
+  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
