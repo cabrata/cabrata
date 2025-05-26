@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika harapanku bisa terkabulkan. Jika apa yang kuinginkan bisa kudapatkan.
-Sepertinya, aku tidak ingin mengharapkan atau menginginkan sesuatu.
-Sesuatu yang diberikan padaku, pasti itu adalah kepalsuan dan akan hilang suatu saat nanti.
-Karena itu, aku akan terus mencarinya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Tak peduli di manapun, tak peduli seberapa takut dirimu, matahari akan selalu ada. Mataharimu mungkin terkadang tertutup mendung. Meskipun begitu, jika kau terus melihat langit, lama-kelamaan mendung pasti akan hilang. Karena itu kita tak boleh melupakan hal itu. Kita tak boleh berhenti melihat langit. Berdirilah dengan tegap, lihatlah surga, dan lanjutkanlah hidupmu."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
