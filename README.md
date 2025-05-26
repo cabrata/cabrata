@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyesal itu takkan mengubah apapun. Yang terpenting adalah apa yang akan terjadi."</em><br>
-  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Jujur saja, aku tak tahu pekerjaan seorang idol itu seperti apa, tapi itu (menjadi idol) adalah mimpiku."</em><br>
+  — <strong>Uzuki Shimamura</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
