@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah seseorang mengajarimu untuk "lakukan yang paling mungkin, dan tuhan akan melakukan yang terbaik?" (tidak begitu bukan?) Usaha yang optimal membuatmu berhak menerima kebaikan nasib."</em><br>
-  — <strong>Shintarou Midorima</strong>, <em>Kuroko no Basket</em>
+  <em>"Kerja keras tak akan mengkhianatimu. Meskipun saat ini, itu akan menghianati mimpimu."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
