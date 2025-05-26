@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku percaya bahwa mencitai orang lain adalah bentuk dari menghargai diri sendiri."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Agen papan atas adalah agen yang bisa menghabisi anak muda genius sebelum tumbuh dewasa."</em><br>
+  — <strong>Koumori</strong>, <em>Tantei wa Mou, Shindeiru.</em>
 </div>
 <!-- QUOTE END -->
 
