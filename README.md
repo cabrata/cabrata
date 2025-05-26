@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerja keras tak akan mengkhianatimu. Meskipun saat ini, itu akan menghianati mimpimu."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Aku takkan memaafkan Satan, atau iblis-iblis yang lain! Khususnya putra dari Satan! Aku akan membunuhmu meskipun harus mengorbankan nyawaku!"</em><br>
+  — <strong>Igor Neuhaus</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
