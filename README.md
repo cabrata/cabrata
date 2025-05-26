@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika (hanya dengan kata) "maaf" sudah cukup (untuk menyelesaikan masalah), maka kita tak membutuhkan polisi."</em><br>
-  — <strong>Shouko Sugawara</strong>, <em>Psycho-Pass</em>
+  <em>"Hari-hari meyedihkan dan menyakitkan telah kualami. Mungkin juga akan ada lebih banyak lagi setelah ini. Walaupun begitu (semuanya) tak akan kulupakan, (karena itu adalah) hari-hari penuh kenangan yang sangat berharga."</em><br>
+  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou Shi</em>
 </div>
 <!-- QUOTE END -->
 
