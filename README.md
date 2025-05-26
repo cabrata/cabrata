@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau menatap jurang terlalu lama, maka jurang tersebut juga akan menatapmu.
-Saat kau mencoba mengungkap rahasia seseorang, maka rahasiamu juga akan terungkap."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Aku tidak tahu bagaimana masa depanku nanti, tapi aku ingin belajar dengan giat agar dapat membantu (banyak orang)."</em><br>
+  — <strong>Kaito</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
