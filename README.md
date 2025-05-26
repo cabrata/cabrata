@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Gaya hidupku adalah makan makanan favorit kapan pun yang aku mau."</em><br>
-  — <strong>Anna Yamada</strong>, <em>Boku no Kokoro no Yabai Yatsu</em>
+  <em>"Debar hatiku ini... menggelitik dan terasa menyenangkan.
+Kuharap besok segera tiba. Aku ingin segera melihat wajahnya."</em><br>
+  — <strong>Ai Nanasaki</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
