@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rasa lapar adalah bumbu terbaik."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
+  <em>"Entah melakukan hal baik ataupun hal buruk, jadilah boss!!"</em><br>
+  — <strong>Kagura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
