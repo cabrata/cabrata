@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Debar hatiku ini... menggelitik dan terasa menyenangkan.
-Kuharap besok segera tiba. Aku ingin segera melihat wajahnya."</em><br>
-  — <strong>Ai Nanasaki</strong>, <em>Amagami SS</em>
+  <em>"Saat kondisi terjepit, saat itulah ada kesempatan. Saat kita dalam keadaan tanpa harapan, saat itu pula energi negatif dari luar berkumpul. Tapi dengan mengubah pola pikir, kita bisa mengubah keadaan. Karena itu, sesulit atau seburuk apa pun situasinya kita harus berjuang sampai akhir."</em><br>
+  — <strong>Oji-san</strong>, <em>Isekai Ojisan</em>
 </div>
 <!-- QUOTE END -->
 
