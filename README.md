@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat singa memburu seekor kelinci dia mengerahkan seluruh kekuatannya."</em><br>
-  — <strong>Cosette</strong>, <em>Takt Op. Destiny</em>
+  <em>"Musuh dari musuhku tak harus menjadi sekutuku."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: First Order</em>
 </div>
 <!-- QUOTE END -->
 
