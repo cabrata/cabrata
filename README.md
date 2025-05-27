@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama tidak menyerah, manusia bisa melakukan apa pun. Bahkan manusia yang tak memiliki sayap pun bisa pergi ke bulan."</em><br>
-  — <strong>Ryouma Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Sekarang aku hanyalah sekuncup bunga. Tapi, itulah kenapa aku menatap matahari yang jauh di atas, dan terus minum agar tidak kering. Mulai saat ini, aku akan berusaha untuk mekar!"</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
