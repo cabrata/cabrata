@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang berbakat yang kau irikan sebenarnya memiliki nereka mereka masing-masing. Tak peduli apa yang dilakukan, mereka tak akan lepas dari neraka itu."</em><br>
-  — <strong>Marisa Hyoudou</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Semua hal saling terhubung. Tubuh kita merupakan bagian kecil dari alam semesta. Bagian itu saling terhubung dengan alam semesta yang lebih besar."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
