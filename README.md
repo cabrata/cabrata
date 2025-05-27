@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagiku setiap hari adalah perayaan. Perayaan untuk dunia ini dan dirimu."</em><br>
-  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"(Semua) alasan selalu sederhana. Kita hidup di dunia yang sangat sederhana. Di mana saat kita menarik pelatuk, musuh pun akan mati."</em><br>
+  — <strong>Riza Hawkeye</strong>, <em>Fullmetal Alchemist: Brotherhood Specials</em>
 </div>
 <!-- QUOTE END -->
 
