@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Musuh dari musuhku tak harus menjadi sekutuku."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: First Order</em>
+  <em>"Aku dengar kau mengatakan sesuatu yang menarik di upacara pembukaan.
+Menjadi yang terbaik di Akademi Tootsuki mungkin tak semudah yang kau bayangkan."</em><br>
+  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
