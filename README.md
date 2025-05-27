@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walaupun kita berdua ragu-ragu, dia (Honoka) selalu berhasil membuat kita melakukan sesuatu."</em><br>
-  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Jika tidak menemukan masalah atau jika tidak menemukan suatu alasan yang tepat. Maka ada sebagian orang yang tidak akan bertindak."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
