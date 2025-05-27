@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keteguhan dan kepasrahan adalah hal yang sama.
-Keduanya merupakan keputusan untuk mengorbankan segalanya demi mencapai tujuan."</em><br>
-  — <strong>Limeskin</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Walaupun kita berdua ragu-ragu, dia (Honoka) selalu berhasil membuat kita melakukan sesuatu."</em><br>
+  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
