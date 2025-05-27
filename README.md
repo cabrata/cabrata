@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika bersama denganmu, aku tak pernah merasa bosan."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Jangan terlalu menyalahkan dirimu hanya karena satu kesalahan."</em><br>
+  — <strong>Ibu Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
