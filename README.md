@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ikatan dapat menjadi lebih kuat kalau sedikit dipukul."</em><br>
-  — <strong>Kurumi Kawai</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Tak ada sesuatu yang lebih menyedihkan daripada hidup di bawah kendali orang lain."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
