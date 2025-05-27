@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Idol tidak akan membiarkan apapun menjatuhkan mereka!"</em><br>
-  — <strong>Naka</strong>, <em>Kantai Collection: KanColle</em>
+  <em>"Jika aku diam saja, harapan tidak akan bisa jadi kenyataan."</em><br>
+  — <strong>Varma</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
