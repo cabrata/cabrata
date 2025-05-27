@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun yang melawan monster harus berhati-hati. Karena mereka sendiri akan menjadi monster saat melawannya."</em><br>
-  — <strong>Mephisto Pheles</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"DIY (Do it yourself), "Lakukanlah (dengan caramu) sendiri". Kurasa itu adalah saran yang tepat untukku."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
