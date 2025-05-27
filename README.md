@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenapa iblis jahat pada manusia?Itu karena untuk membantu Tuhan dalam Penilaian Akhir dengan menguji dan memberi cobaan pada manusia. Pada dasarnya kita (para iblis) bekerja atas kehendak Tuhan."</em><br>
-  — <strong>Beelzebub</strong>, <em>Beelzebub-jou no Okinimesu mama.</em>
+  <em>"Lebih baik kau periksa motormu sebelum mengendarainya, tapi yang lebih penting lagi, periksalah pria sebelum menaikinya."</em><br>
+  — <strong>Baita</strong>, <em>Bakuon!!</em>
 </div>
 <!-- QUOTE END -->
 
