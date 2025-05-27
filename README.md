@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan."</em><br>
-  — <strong>Kurumi Ebisuzawa</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Kalau kau menginginkan sebuah balasan, hal buruk dan pahit seperti itu... aku pikir bukanlah cinta."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
