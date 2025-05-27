@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sifat manusiawi seseorang mulai muncul ketika mereka mulai memakai pakaian dalam. Sesuatu yang indah seharusnya memakai pakaian dalam yang indah. Bukankah itu yang menjadi daya tarik manusia?"</em><br>
-  — <strong>Kaiko Mikuniyama</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Selama tidak menyerah, manusia bisa melakukan apa pun. Bahkan manusia yang tak memiliki sayap pun bisa pergi ke bulan."</em><br>
+  — <strong>Ryouma Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
