@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia takkan membiarkan apapun menghalanginya setelah dia menemukan hal yang paling diinginkannya, hal yang menurutnya paling menarik dia akan mengejar hal itu tanpa ragu. Itu adalah hal yang hanya bisa dilakukan oleh Honoka."</em><br>
-  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Intinya, ada 2 pilihan yang bisa diambil saat bermain game. Buat strategimu sendiri, atau memanfaatkan strategi pemain lain. Pertanyaannya adalah siapa yang memiliki inisiatif. Dalam pertandingan ini, kamilah yang membuat inisiatif selama game berlangsung."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
