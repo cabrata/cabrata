@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memanfaatkan kesempatan untuk mendapatkan jaringan orang atasan adalah bentuk dari pembelajaran politik yang baik di sekolah."</em><br>
-  — <strong>Kobachi Osaragi</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Aku ini tidak berpikir kalau aku memiliki tenaga yang lemah. Aku hanya tidak ingin membuang energi untuk hal yang percuma."</em><br>
+  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
