@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan waktunya murung. Kita sekarang akan segera dieksekusi. Tapi untuk keluar dari kegelapan ini, meskipun kecil, kita bisa melihat secercah harapan. Mungkin seperti benang laba-laba, tapi sekarang kita punya kaki untuk keluar dari sini."</em><br>
-  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
+  <em>"Seperti inilah pekerjaan yang kulakukan selama ini. Pekerjaan inilah yang telah menafkahimu. Apa kau pikir kalau semua pekerjaan itu indah? 
+Pekerjaan ini mungkin tak berguna. Meskipun begitu, bukan berarti aku tidak berusaha untuk menjadi yang terbaik dibidang ini."</em><br>
+  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
