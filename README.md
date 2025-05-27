@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena aku tak memiliki harta sama sekali, yang bisa aku berikan hanyalah waktu, perasaan, masa depan, kehidupan dan hal-hal samar lainnya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Demi menemukan kebenaran di balik kematian seseorang, tentu wajar jika kita juga harus mempertaruhkan nyawa kita."</em><br>
+  — <strong>Shinya Kougami</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
