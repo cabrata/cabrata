@@ -5,8 +5,15 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia bisa benar dan salah. Kesalahan membuat mereka belajar lebih cepat, tapi butuh waktu untuk melihat kesalahan. Dan menghabiskan waktu bersama orang lain cukup membosankan. Sejauh yang kutahu, kesalahan yang menyusup kedalam rumahku dan mencuri hartaku itu lebih baik. Namun, aku tidak masalah, karena kau adalah sebuah kesalahan."</em><br>
-  — <strong>Fafnir</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Kecerobohanmu mungkin adalah kelemahanmu.
+Kau sudah berusaha untuk memperbaikinya.
+Kau tidak mungkin memperbaiki sepenuhnya.
+Jadi seberapa kuat pun kau mencoba, tidak usah melakukannya pun tidak apa-apa.
+Biarkan saja seperti itu. Menyerahlah.
+Kekuatanmu memang tidak ada batasnya.
+Tapi yang terpenting adalah semangatmu.
+Jadi, kau tidak usah repot-repot mengubahnya kan?"</em><br>
+  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
