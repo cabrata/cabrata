@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka (para petani) bekerja bukan berdasarkan waktu, tetapi berdasarkan suasana.Mereka bangun saat suasana pagi dan mencabut rumput saat suasana sore. Mereka menyambut tunas tanaman saat suasana musim semi dan berharap tumbuh kembang saat suasana musim panas. Mereka merayakan hasil panen saat suasana musim gugur dan menantikan suasana musim semi saat musim dingin."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"Kalau bisa melanggar aturan di kota, artinya orang-orang tidak memperhatikan sekitarnya. Kota seperti itu mudah untuk menjadi aksi kejahatan seperti pencurian. Sebaliknya, bila di kota banyak orang yang saling tegur sapa, artinya kewaspadaan penduduk sekitar tinggi. Penjahat pun tak ingin melakukan aksinya di kota itu."</em><br>
+  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
