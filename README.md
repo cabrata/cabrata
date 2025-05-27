@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin banyak aku menyimpan momen ini, semakin sedih yang kurasakan ketika saat itu tiba. Tapi aku tak ingin menyebut perasaan ini dengan penyesalan."</em><br>
-  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Aku bukannya menginginkan dunia yang bebas dari pertempuran. Aku hanya tidak ingin ada yang menangis di dunia ini."</em><br>
+  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
