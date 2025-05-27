@@ -5,15 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kecerobohanmu mungkin adalah kelemahanmu.
-Kau sudah berusaha untuk memperbaikinya.
-Kau tidak mungkin memperbaiki sepenuhnya.
-Jadi seberapa kuat pun kau mencoba, tidak usah melakukannya pun tidak apa-apa.
-Biarkan saja seperti itu. Menyerahlah.
-Kekuatanmu memang tidak ada batasnya.
-Tapi yang terpenting adalah semangatmu.
-Jadi, kau tidak usah repot-repot mengubahnya kan?"</em><br>
-  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
+  <em>"Perasaan manusia itu terlalu rumit dan susah dimengerti. Tidak semua perasaan diungkapkan melalui kata-kata, ada kalanya manusia memiliki maksud lain atau niat kebohongan."</em><br>
+  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
