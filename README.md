@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau mempercayaiku, akupun akan mempercayaimu. Itulah apa yang dinamakan sebagai teman bukan?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Dengan menerapkan aturan diri sendiri pada dirimu, itu untuk mendorong dan membantumu untuk mengatasi tantangan atau situasi yang sulit. Kau menerapkan aturan diri sendiri hanya pada dirimu. Karena aturan itulah kau bisa mengumpulkan kekuatanmu dan fokus pada usahamu. Bahkan jika kau gagal, kau sudah menerapkan aturan yang membuat dirimu menjadi sangat disiplin dan fokus. Begitulah "aturan diri sendiri"."</em><br>
+  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
