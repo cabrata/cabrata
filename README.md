@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa kuat seseorang, mereka pasti memiliki kelemahan dalam hatinya. Biasanya kita tidak bisa melihat kelemahan dalam hati kita. Itu sebabnya hidup menjadi sulit."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai II</em>
+  <em>"Apa yang membuat kami memulai dari nol? Kami mengejar sesuatu yang tak berwujud, tersesat, ketakutan, menangis, kami ingin keluar dari zona nol itu. Dan dimana yang seharusnya tidak ada apa-apa, sebuah sinar terus bersinar di dalam hati kami. Dan keyakinan bahwa kesembilan dari kami bisa melakukan sesuatu yang istimewa karena dituntun oleh sinar cahaya itu. Dari situlah kami berasal, dimana Aqours berasal. Kami akan membuat kisah kami menjadi nyata! Dengan sinar cahaya ini!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
