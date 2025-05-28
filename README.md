@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"kata paling disukai kita (aku dan kakakku) adalah "tidak", pada orang yang berpikiran kalau mereka mempunyai keuntungan mutlak."</em><br>
-  — <strong>Shiro</strong>, <em>No Game No Life</em>
+  <em>"Teror dalam arti sebenarnya bukanlah ketakutan dalam keadaan statis, tapi dinamis. Itu terjadi di saat harapan seketika berubah menjadi keputusasaan."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Zero</em>
 </div>
 <!-- QUOTE END -->
 
