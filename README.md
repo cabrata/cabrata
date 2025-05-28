@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutmu kenapa orang bisa terjaga di malam hari?Karena orang itu merasa tidak puas pada hari (yang telah ia lalui)."</em><br>
-  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
+  <em>"Tidak ada hukum yang mengatakan kau tidak boleh menyukai seorang pria hanya karena ia telah memiliki pacar."</em><br>
+  — <strong>Ruri Miyamoto</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
