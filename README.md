@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang yang ingin menjadi Koki profesional pasti pernah mengalami kekalahan. Meski kepercayaan diri dan kebanggaanmu yang telah kau bangun selama bertahun-tahun hancur berkeping-keping dalam sebuah kesalahan besar. Meski kau memiliki pengalaman yang sangat buruk kau masih harus membuka tokomu esok hari. Seperti itulah yang dinamakan Koki."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Kalau bukan karena panas yang sampai ke kepalaku ini, aku takkan repot-repot sampai pergi ke kebun binatang bodoh yang disebut "sekolah"."</em><br>
+  — <strong>Jinta Yadomi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
