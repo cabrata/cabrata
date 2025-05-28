@@ -5,10 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah cukup! Sudah cukup aku berbohong dan menyakiti orang-orang.
-Telah kuputuskan untuk tidak membiarkanmu menangis, terluka, atau membuatmu sendirian lagi!
-Aku tidak akan melepaskanmu lagi."</em><br>
-  — <strong>Kouichi Sanada</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Tanpa adanya perkelahian dan perselisihan, maka kalian belum benar-benar menjadi teman.
+Seperti kata pepatah "Jika kau terus mengambil jalan yang aman, maka suatu saat nanti kau akan kehilangan hal yang sangat berharga bagimu"."</em><br>
+  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
