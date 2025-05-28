@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah kematian, kalian akan dikirim ke "surga" atau "neraka"."</em><br>
-  — <strong>Decim</strong>, <em>Death Parade</em>
+  <em>"Senang sekali ketika bersama dengan semuanya. Tapi ketika dia ada di sana jadi lebih menyenangkan. Ketika bersama dengannya jantungku berdebar-debar. Aku ingin lebih lama lagi bersama dengannya."</em><br>
+  — <strong>Anna Kobayakawa</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
