@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk terus maju, terkadang kita harus membuang sesuatu yang berharga."</em><br>
-  — <strong>Luviagelita Edelfelt</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Membunuh manusia tak ada bedanya dengan membunuh binatang."</em><br>
+  — <strong>Inounoshishi</strong>, <em>Juuni Taisen</em>
 </div>
 <!-- QUOTE END -->
 
