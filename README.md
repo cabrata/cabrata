@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Uang tidak bisa membeli perasaan seseorang."</em><br>
-  — <strong>Yuuta Shindou</strong>, <em>WWW.Working!!</em>
+  <em>"Jangan pikir semua orang melihat dunia yang sama seperti yang kau lihat!"</em><br>
+  — <strong>Ichiya Suzaku</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
