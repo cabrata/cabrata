@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup tanpa sebuah tujuan akan terasa hampa!"</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Orang bilang bahwa "Orang bodoh belajar dari pengalaman, sementara orang bijak belajar dari sejarah". Kuharap kau bukan termasuk orang yang bodoh."</em><br>
+  — <strong>Nobuchika Ginoza</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
