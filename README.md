@@ -5,13 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang kau lihat sekarang mungkin gelap gulita.
-Tapi, kau harus berusaha untuk terus mencari di dalam kegelapan itu.
-Nantinya kau pasti akan menemukan setitik cahaya seperti anak bintang.
-Saat kau menemukannya, bintang itu pasti juga akan menemukanmu.
-Lalu, kalian pun akan saling bersinar satu sama lain.
-Dengan begitu dunia tidak akan gelap gulita lagi."</em><br>
-  — <strong>Riichi Miura</strong>, <em>Mahoutsukai no Yome: Hoshi Matsu Hito</em>
+  <em>"Seorang pria sejati pasti sudah melompat ke dalam api jika gadisnya berada dalam bahaya!"</em><br>
+  — <strong>Marco Ikusaba</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
