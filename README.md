@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada hukum yang mengatakan kau tidak boleh menyukai seorang pria hanya karena ia telah memiliki pacar."</em><br>
-  — <strong>Ruri Miyamoto</strong>, <em>Nisekoi</em>
+  <em>"Aku itu orang payang yang tak akan melakukan sesuatu yang tak ingin aku lakukan."</em><br>
+  — <strong>Nako Sunao</strong>, <em>Hitoribocchi no Marumaru Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
