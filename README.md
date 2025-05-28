@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku percaya padamu, Rem. Jadi aku ingin melakukan sesuatu agar kau bisa mempercayaiku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku seharusnya tidak menangis. Dibandingkan dengan menghabiskan waktu dengan menangis, aku harusnya bisa menambah beberapa teman!"</em><br>
+  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
