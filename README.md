@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebenarnya, tidak ada kehidupan yang tak berarti selain keindahan."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Apapun pertaruhan yang disepakati, harus dipenuhi.
+Pemenangnya (untuk sekarang) memang kau, tapi hanya untuk sementara."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
