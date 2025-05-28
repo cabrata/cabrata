@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak tahu apa yang sedang kamu lakukan, tapi kamu sangat berusaha keras, makanya aku ingin membuatkan sesuatu untukmu."</em><br>
-  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Kebingungan mengakibatkan celah, dan celah mengganggu keuntungan kita. Jangan gelisah hanya karena musuh yang tidak kita kenal. Musuh ingin kita kehilangan ketenangan. Bertindaklah dengan pikiran yang jernih!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
