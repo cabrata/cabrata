@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagaimanapun keadaanya, bukan ide yang bagus ikut campur dengan perasaan seseorang."</em><br>
-  — <strong>Kazuyoshi Usui</strong>, <em>Sket Dance</em>
+  <em>"Manusia yang berlebihan dalam kehidupannya adalah manusia yang berlebihan dalam hatinya."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
