@@ -5,10 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bolehkah aku menyatakan cintaku?)
-Tidak... (biarkan) aku yang akan melakukannya.
-Aku jatuh cinta padamu. Selama ini aku jatuh cinta padamu. Aku cinta padamu sejak pertama kali bertemu."</em><br>
-  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Baru kali ini aku melihat orang mendapat bunga setelah kompetisi. Tidak hanya itu, kau tak mengenal mereka kan?'
+Mereka pasti tidak menyiapkan bunganya, mereka pasti setelah mendengar pertunjukanmu langsung membeli bunga itu untukmu. Ini hari yang tak terlupakan bagi mereka. Mungkin seperti itulah pertunjukanmu."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
