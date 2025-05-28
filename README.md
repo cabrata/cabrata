@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita terlihat paling cantik ketika mereka membicarakan orang yang mereka sukai."</em><br>
-  — <strong>Hiroomi Souma</strong>, <em>Working!!</em>
+  <em>"Jika kau merasa malu untuk membantunya, tinggal bantu saja mereka di jalan yang tak bisa mereka lihat."</em><br>
+  — <strong>Nozomi Toujou</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
