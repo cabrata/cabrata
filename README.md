@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya sekedar "menyukainya" saja tidak akan membuat impianmu terwujud."</em><br>
-  — <strong>Maki Midorikawa</strong>, <em>Sakura Quest</em>
+  <em>"Bagaimanapun keadaanya, bukan ide yang bagus ikut campur dengan perasaan seseorang."</em><br>
+  — <strong>Kazuyoshi Usui</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
