@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau bukan karena panas yang sampai ke kepalaku ini, aku takkan repot-repot sampai pergi ke kebun binatang bodoh yang disebut "sekolah"."</em><br>
-  — <strong>Jinta Yadomi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Meski kau bisa menutup mata, telinga dan mulutmu sekalipun, kau takkan bisa menghentikan luapan perasaanmu kepada seseorang."</em><br>
+  — <strong>Shuu Igarashi</strong>, <em>Koi to Uso</em>
 </div>
 <!-- QUOTE END -->
 
