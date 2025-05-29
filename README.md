@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka (para manusia) makhluk yang tak belajar apapun sejak berevolusi dari kera."</em><br>
-  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Untuk melihat keaslian, kita harus bersikap realistis."</em><br>
+  — <strong>Yusuke Kitagawa</strong>, <em>Persona 5 the Animation</em>
 </div>
 <!-- QUOTE END -->
 
