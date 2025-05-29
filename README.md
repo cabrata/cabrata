@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya pertemuan yang dapat membuat seorang Koki berkembang. Kalau hanya menghadapi masakanmu sendiri, kau hanya akan melihat dirimu yang tak pernah berubah!"</em><br>
-  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Manusia menyerang dengan jumlah yang lebih banyak (mengeroyok), membuat hewan lebih baik daripada manusia."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
