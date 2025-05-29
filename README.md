@@ -5,7 +5,7 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku memiliki kewajiban untuk mengawasi jalannya tindak lanjut laporanku."</em><br>
+  <em>"Kekuatan berasal dari tanggung jawab, dan power berasal dari tanggung jawab. Yang artinya kekuatan berarti tanggung jawab, dan tanggung jawab berarti power! Kekuatan bisa juga berarti power!"</em><br>
   — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
