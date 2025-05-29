@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Belahan jiwa itu adalah pria baik yang tak mementingkan penampilan."</em><br>
-  — <strong>Aina Yoshiwara</strong>, <em>Grand Blue</em>
+  <em>"Kehidupan itu seperti langit yang selalu bergerak dan berubah."</em><br>
+  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba</em>
 </div>
 <!-- QUOTE END -->
 
