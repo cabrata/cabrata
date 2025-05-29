@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekuatan berasal dari tanggung jawab, dan power berasal dari tanggung jawab. Yang artinya kekuatan berarti tanggung jawab, dan tanggung jawab berarti power! Kekuatan bisa juga berarti power!"</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Belahan jiwa itu adalah pria baik yang tak mementingkan penampilan."</em><br>
+  — <strong>Aina Yoshiwara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
