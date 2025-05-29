@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan itu seperti langit yang selalu bergerak dan berubah."</em><br>
-  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Hanya pertemuan yang dapat membuat seorang Koki berkembang. Kalau hanya menghadapi masakanmu sendiri, kau hanya akan melihat dirimu yang tak pernah berubah!"</em><br>
+  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
