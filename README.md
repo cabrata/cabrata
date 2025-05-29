@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada cewek yang suka diperlakukan seperti adik."</em><br>
-  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Tak ada perjalanan yang tanpa akhir. Ketika tiba saatnya kita harus berpisah, aku ingin kita berpisah dengan senyuman."</em><br>
+  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
 </div>
 <!-- QUOTE END -->
 
