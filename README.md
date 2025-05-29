@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebaikan terkadang dapat memberi jalan untuk permusuhan."</em><br>
-  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
+  <em>"Cermin adalah alat yang dapat membantumu menghadapi dirimu sendiri dari berbagai sisi."</em><br>
+  — <strong>Tooe Kanbaru</strong>, <em>Zoku Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
