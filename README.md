@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua manusia memiliki sifat bodoh yang sama. Makhluk yang lupa kalau suatu saat mereka akan mati. Saat mereka berhadapan dengan kematian, mereka bergantung pada kehidupan."</em><br>
-  — <strong>Ginti</strong>, <em>Death Parade</em>
+  <em>"Aku berlari lebih cepat dari siapa pun karena kamu melihat dan mendukungku.
+Alasan kenapa aku berlari dengan cepat, alasan aku ingin menjadi cantik, dan alasan aku ingin jatuh cinta adalah karenamu!"</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
