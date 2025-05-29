@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pikir semua orang melihat dunia yang sama seperti yang kau lihat!"</em><br>
-  — <strong>Ichiya Suzaku</strong>, <em>Qualidea Code</em>
+  <em>"Semua orang terlalu banyak pikiran, justru karena situasi yang sulit, kita harus melangkah maju."</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
