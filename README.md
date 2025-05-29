@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kita berbicara, lihatlah ke depan untuk menghapus seluruh waktu yang kau habiskan untuk melihat masa lalu!"</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kakakku selalu mengingatkanku untuk mengembalikan apa yang kupinjam."</em><br>
+  — <strong>Ayato Amagiri</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
