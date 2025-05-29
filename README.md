@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak boleh diam dan merasa iri pada dunianya orang lain.
-Kau harus keluar dan mengubah duniamu sendiri."</em><br>
-  — <strong>Shinichi Chiaki</strong>, <em>Nodame Cantabile</em>
+  <em>"Kau tak akan bisa hidup hanya dengan (menggeluti) hobimu saja."</em><br>
+  — <strong>Michiru Hyoudou</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
