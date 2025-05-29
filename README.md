@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagiku atau pun bagi orang lain, sahabat terbaik adalah diri sendiri."</em><br>
-  — <strong>Akane Sonoyama</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Kalian semua yang hidup di masa depan adalah harta karun bagi roh pahlawan."</em><br>
+  — <strong>Aka no Lancer</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
