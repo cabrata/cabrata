@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kamu memanggil gurumu dengan sapaan aneh misalnya "Tan", itu namanya keterlaluan!"</em><br>
-  — <strong>Emilia</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kadang-kadang lembut, terkadang kasar, begitulah gejolak hati wanita."</em><br>
+  — <strong>You Satou</strong>, <em>Ben-To</em>
 </div>
 <!-- QUOTE END -->
 
