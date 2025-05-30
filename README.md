@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"24 jam dalam satu hari itu tidak cukup. Apakah kamu pernah merasakan seperti itu?
-Aku ingin melakukan semua hal yang ingin kulakukan. Tapi, tidak bisa (karena waktunya tak cukup)."</em><br>
-  — <strong>Yuuka Kobayakawa</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Aku suka dengan hal-hal yang spesial. Atau lebih tepatnya, aku tertarik dengan hal-hal yang terlihat tabu. Jadi kupikir aku beruntung sekali (ternyata) orang yang kucintai adalah kerabat dekatku."</em><br>
+  — <strong>Azaka Kokutou</strong>, <em>Kara no Kyoukai 6: Boukyaku Rokuon</em>
 </div>
 <!-- QUOTE END -->
 
