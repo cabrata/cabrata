@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dinginkan oleh laki-laki, tidak ada yang lebih nikmat dibandingkan perasaan itu."</em><br>
-  — <strong>Akane Minagawa</strong>, <em>Kuzu no Honkai</em>
+  <em>"Saat seorang anak telah menyadari kerja keras (orang tua) mereka, (saat) itulah tanda selesainya tugas orang tua."</em><br>
+  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
