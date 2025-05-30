@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku (orang yang) lemah, bodoh, punya tatapan mata yang jelek dan tak bisa membaca situasi. Tapi aku tetap menjalani hidupku tanpa mempedulikan penilaian orang terhadapku. Selama kita bisa saling bersandar satu sama lain dan terus melangkah maju, itu saja sudah cukup. Saling bergantung satu sama lain sambil tertawa bersama..., mari kita membicarakan hari esok untuk masa depan (bersama)."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Pistol itu simpel. Pistol dapat mengakhiri suatu hal hanya dengan satu letupan. Tidak serumit hubungan antara manusia."</em><br>
+  — <strong>Canaan</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
