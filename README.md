@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya sekedar "menyukainya" saja tidak akan membuat impianmu terwujud."</em><br>
-  — <strong>Maki Midorikawa</strong>, <em>Sakura Quest</em>
+  <em>"Dalam hati manusia, selalu ada kelemahan yang tersembunyi."</em><br>
+  — <strong>Saburouta Toudou</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
