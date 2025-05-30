@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu untuk membuat kita jadi lebih baik. Meski hanya sedikit, aku ingin diriku hari ini lebih baik dari diriku yang kemarin. Begitulah aku menjalani hidup."</em><br>
-  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Aku merasa menjadi pahlawan itu adalah bagian dari hobi.
+Dengan kata lain, selama aku bisa menghajar musuh, kurasa itu sudah cukup."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
