@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tomoya-kun.., seperti inikah aku yang kau harapkan? seperti dalam anime, game dan dalam light novel.
-Apakah gadis idealmu itu yang berbicara seperti ini? yang bergerak seperti ini? dan jatuh cinta seperti ini?"</em><br>
-  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Dunia terus bergerak maju tak peduli apa yang kita lakukan."</em><br>
+  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
