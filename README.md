@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami tidak peduli tentang mimpimu! kami hanya ingin melindungi teman-teman kamu, dan dunia kami apapun yang terjadi!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Hanya karena semua orang melakukan dan mengatakan hal yang sama, itu tak menjamin kebenaran."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
