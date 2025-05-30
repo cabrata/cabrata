@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tomoya-kun.., seperti inikah aku yang kau harapkan? seperti dalam anime, game dan dalam light novel.
-Apakah gadis idealmu itu yang berbicara seperti ini? yang bergerak seperti ini? dan jatuh cinta seperti ini?"</em><br>
-  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Kita mungkin takkan bisa bermain bagus. Tapi selama aku punya kesempatan untuk bermain, dan ada penonton yang mendengarkan. Aku akan bermain dengan seluruh kemampuan yang ku punya. Supaya orang yang mendengarkanku, takkan pernah melupakanku. Supaya aku bisa terus hidup di dalam hatinya. Itulah alasanku bermain. Soalnya, aku adalah pemusik !"</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
