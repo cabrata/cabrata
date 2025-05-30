@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena semua orang melakukan dan mengatakan hal yang sama, itu tak menjamin kebenaran."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Kau adalah orang yang mengatakan aku tak bisa melakukannya sendiri. Jika kau benar, tidak ada yang perlu dikhawatirkan. (Karena aku akan selalu ada sisimu)."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
