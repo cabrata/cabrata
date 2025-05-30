@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rasa sakit di kakiku suatu saat (pasti) akan hilang. Tapi, penyesalan takkan (pernah) hilang."</em><br>
-  — <strong>Naho Takamiya</strong>, <em>Orange</em>
+  <em>"Rasa sakit ini adalah bukti kalau aku hidup.Karena ada rasa sakit, maka ada rasa senang.Itulah arti menjadi manusia."</em><br>
+  — <strong>Bruford</strong>, <em>JoJo no Kimyou na Bouken</em>
 </div>
 <!-- QUOTE END -->
 
