@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka tidak akan pernah bilang kalau itu susah atau mereka adalah pekerja keras, (meski begitu) mereka terus berjuang keras agar impiannya bisa terwujud."</em><br>
-  — <strong>Kaya Miyoshi</strong>, <em>Bakuman.</em>
+  <em>"Jika kau ingin melakukan sesuatu yang kau sukai, kau harus memperjuangkan itu dengan belajar lebih baik lagi."</em><br>
+  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
