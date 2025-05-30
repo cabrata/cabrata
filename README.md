@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk mengetahui siapa sebenarnya dirimu, kau harus melangkah keluar dari duniamu sendiri."</em><br>
-  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Keinginan dari anak buahku yang manis adalah keinginanku juga."</em><br>
+  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
 </div>
 <!-- QUOTE END -->
 
