@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan itu tetaplah cantik meski usianya telah berlalu."</em><br>
-  — <strong>Setsuna Ena</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Saat pertama kali aku melihat gambarmu, ada banyak warna yang terlihat di depanku. Itu seperti membuatku kembali mengingat warna. Aku tak tahu kenapa, tapi bagiku, aku merasa bahwa gambarmu sangat berharga."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
