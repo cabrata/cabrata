@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalahkan musuh dan selamatkan kotanya, kita hanya perlu mengulangi apa yang sudah kita lakukan berulang kali. Saatnya untuk menunjukkan harga diri kita sebagai pejuang!"</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Belajar itu memang penting, tapi cinta juga penting."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
