@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki yang tetap perjaka sampai umur 30 disebut dengan "Tangan Tuhan"."</em><br>
-  — <strong>Shinpachi Shimura</strong>, <em>Gintama</em>
+  <em>"Saat kamu memuji sihirku, aku sangat senang. Kamu menyukai sesuatu yang sangat kubenci. Kamu menerima semuanya dariku. Hanya dengan bersamamu, aku merasa senang. Terima kasih karena telah memberikan sihir berharga untuk masa depanku."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
