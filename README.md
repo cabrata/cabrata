@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin terus bersama orang yang paling membutuhkanku."</em><br>
-  — <strong>Saitou</strong>, <em>Benriya Saitou-san, Isekai ni Iku</em>
+  <em>"Jika manusia memiliki keinginan, mereka bisa saja menjadi malaikat atau pun iblis."</em><br>
+  — <strong>Rika Suzuki</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
