@@ -5,7 +5,7 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang adalah orang bodoh yang tak mau dibilang bodoh oleh orang lain."</em><br>
+  <em>"Aku tidak bisa berjanji. (Karena) setiap bangun pagi, aku pasti memikirkan "apakah aku yang kemarin dan aku yang hari ini adalah orang yang sama?"."</em><br>
   — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
