@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau ada gadis cantik yang sedang kesulitan, pria baik (pasti) akan menyelamatkannya."</em><br>
-  — <strong>Rita Ainsworth</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Kerinduan mencengkeram orang lebih kuat daripada racun, dan lebih dalam daripada penyakit."</em><br>
+  — <strong>Lyza</strong>, <em>Made in Abyss</em>
 </div>
 <!-- QUOTE END -->
 
