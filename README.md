@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ternyata aku yang tidak merasa adanya dinding antara diriku dengan Kazehaya...
-Dinding yang ingin ku hancurkan. Kazehaya dengan mudah menghancurkannya dengan satu senyuman."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Siapapun pasti pernah melakukan kesalahan. Yang terpenting adalah mengambil pelajaran dari kesalahan yang telah diperbuat."</em><br>
+  — <strong>Hammerhead</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
