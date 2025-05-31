@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan kugunakan semua yang bisa kugunakan. Jika itu bisa memperbesar kemungkinan kemenangan, maka resikonya sepadan. Untuk seseorang yang serba kekurangan sepertiku, aku hanya bisa menggunakan cara ini."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Bersepeda itu sangat menyenangkan! Melesat menembus angin dengan mengandalkan tenaga kakiku sendiri, rasanya enak!"</em><br>
+  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
