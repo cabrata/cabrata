@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Suka" saja sudah cukup kan?
-Karena saat aku melihat Zaitsu-kun, dadaku berdebar-debar. Tapi itu bukan karena dia keren atau baik hati. Melainkan karena aku suka dia. Bukankah tak perlu alasan untuk suka (seseorang)? Selama kamu berdebar-debar, bukankah itu cinta?"</em><br>
-  — <strong>Ayumi Arihara</strong>, <em>Hatsukoi Limited</em>
+  <em>"Jika satu kata tak cukup mengungkapkan perasaanmu, ungkapkanlah dengan semua kata-kata. Kalau kamu tidak bisa mempercayai kata-kata, ungkapkan dengan tindakan."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
