@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah putus Nico-kun. Aku selalu mencintai Nico-kun. Aku sangat mencintainya, sampai aku tidak bisa menahannya. Mungkin karena itulah aku tidak sadar bagaimana perasaannya."</em><br>
-  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
+  <em>"Aku tidak bisa melihat apapun, jadi aku tak tahu apa yang ada di depan. Jika aku terus maju, mungkin hasilnya nol, atau mungkin satu, atau bisa jadi sepuluh. Jika aku menyerah sekarang, aku takkan pernah tahu. Itulah kenapa aku ingin terus menjadi school idol."</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
