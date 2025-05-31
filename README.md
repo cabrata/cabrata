@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita telah berjanji untuk selalu bersama. Janji itulah yang membuatku merasa damai.
-Aku sadar betapa dirinya sangat berarti bagiku. Mengingatnya (saja) membuatku senang.
-Aku telah mengatakan akan membuatnya bahagia. Mengatakan hal itu membuatku merasa puas.
-Dia telah memberikan banyak hal yang tak kusangka akan kumiliki."</em><br>
-  — <strong>Willem Kmetsch</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Meskipun seluruh dunia membenciku, aku masih bisa hidup selama ada seseorang yang membutuhkanku."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
