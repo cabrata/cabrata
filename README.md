@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita itu terbuat dari gula dan bumbu, serta sesuatu yang menakjubkan, meski aku tidak tahu apa itu. Tentu saja, kalau dimisalkan di dalam Isshiki memang terlalu banyak rasa pedas, tapi ... mau dikasih gula sebanyak apapun, pedas tetaplah pedas. Kau takkan bisa mengerti hal menakjubkannya sebelum merasakannya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
+  <em>"Seseorang yang bertindak melawan keinginannya sendiri menurutku orang yang menarik."</em><br>
+  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
