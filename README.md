@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku pikir (seorang) koki akan mendapatkan nama yang jelek, kalau hanya mempedulikan harga bahan-bahan."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Melihat ke belakang dan belajar dari pengalaman adalah bagian dari kehidupan."</em><br>
+  — <strong>All Might</strong>, <em>Boku no Hero Academia</em>
 </div>
 <!-- QUOTE END -->
 
