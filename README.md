@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk bertahan hidup, terkadang kau harus menghadapi hal-hal yang sulit. Tapi setelah kau merasakan hal itu, kau akan memperolah keberanian untuk melangkah maju."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Meski kita hidup dalam peraturan, kita tak bisa menyalamatkan siapapun. Meski aku harus melanggar peraturan, aku takkan membiarkan siapapun menghalangi mimpiku."</em><br>
+  — <strong>Shirou Kotomine</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
