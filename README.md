@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Takut adalah perasaan yang penting, tetapi jangan sampai terikat oleh perasaan itu. Jika tubuhmu tak mampu menanganinya, gunakan hatimu untuk mengalahkan rasa takut. Ada kalanya hati melebihi kekuatan tubuh."</em><br>
-  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
+  <em>"Jujur saja, aku tak tahu pekerjaan seorang idol itu seperti apa, tapi itu (menjadi idol) adalah mimpiku."</em><br>
+  — <strong>Uzuki Shimamura</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
