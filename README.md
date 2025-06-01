@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku wajar jika kau tidak mempercayai siapa pun di dunia yang tak kau kenal ini. Aku pun juga tak (akan) percaya. Mempercayai seseorang bisa terjadi setelah kau menjadi teman atau kekasihnya."</em><br>
-  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Meskipun peringkat kami yang paling bawah,
+Meskipun kami tak bisa menggunakan sihir,
+Kakek percaya kami bisa mengalahkan ras lain.
+Aku ingin membuktikan kalau yang dipercayai kakekku itu benar."</em><br>
+  — <strong>Stephanie Dola</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
