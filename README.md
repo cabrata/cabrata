@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin kau bahagia, karena itu aku tak ingin kau terluka lagi. Aku mencintaimu."</em><br>
-  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
+  <em>"Aku pikir (seorang) koki akan mendapatkan nama yang jelek, kalau hanya mempedulikan harga bahan-bahan."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
