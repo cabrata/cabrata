@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahasa bunga dari mawar merah adalah semangat dalam menghadapi tantangan."</em><br>
-  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
+  <em>"Aku merasa bahagia ketika melihatmu tersenyum."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
