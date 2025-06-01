@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Apa itu Karya Wisata?)
-Itu adalah semacam tiruan kehidupan bermasyarakat. Kau tidak bisa memilih sendiri tempat yang ingin kau tinggali atau makanan yang ingin kau makan. Tapi dengan beberapa pengecualian, kau bisa bersenang-senang dengan biaya yang menipu dirimu."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Jika kau punya hak untuk hidup, kami juga punya. Meskipun aku yakin, setiap manusia memiliki pemikirannya sendiri mengenai "hak". Pokoknya, kami akan melakukan apapun untuk hidup."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
