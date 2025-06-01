@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama ada seorang yang ingin kau temui, maka kau tidak sendiri lagi."</em><br>
-  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou San</em>
+  <em>"Laki-laki itu bisa mati hanya karena patah hati."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
