@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak benci bekerja keras. Belajar untuk melakukan sesuatu yang sebelumnya tidak bisa ku lakukan itu bukan hal buruk."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Anggap kau punya ikan di akuarium. Lalu kau naikkan temperatur airnya sedikit demi sedikit sampai akhirnya airnya mendidih. Tapi ikan itu tidak menyadarinya dan terus berenang di air yang mendidih. Ini terdengar cerita bohongan, tapi sebenarnya tidak. Nah, apa yang kau tangkap dari cerita ini?"</em><br>
+  — <strong>Tomo Kunagisa</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
