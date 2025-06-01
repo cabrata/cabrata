@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kematian masih jauh, orang-orang mengoceh tentang impian, keyakinan, (dan) bermacam-macam teori. Tapi saat mereka sudah hampir mati, mereka baru sadar kalau manusia hanya ingin hidup dan mati di sisi orang yang mereka percayai."</em><br>
-  — <strong>Kotarou Katsura</strong>, <em>Gintama°</em>
+  <em>"Daripada menyesal karena terlambat, lebih baik serius dari sekarang. Kita harus meneguhkan hati dan mencobanya. Jika tidak berhasil, baru kita segera berhenti."</em><br>
+  — <strong>Tsurayuki Rokuonji</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
