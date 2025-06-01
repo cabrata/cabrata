@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika peringkat (dalam pertandingan) membuatmu khawatir. (Tenang saja) kau sudah mendapatkan peringkat pertama di dalam hatiku."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Rahasia menjadi koki yang hebat adalah bertemu dengan seorang wanita yang membuatmu ingin memberikan semua masakanmu padanya."</em><br>
+  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
