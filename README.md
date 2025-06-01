@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti yang diharapkan, Pemain sang juara dunia memang (terlihat) garang. (Tapi) takkan kubiarkan... Jika aku tertekan, habislah aku. Kalau gentar, aku bisa kalah. Kalau takut, aku bisa mati.
-Baiklah. Siap!!"</em><br>
-  — <strong>Yutaka Hoshino</strong>, <em>Ping Pong The Animation</em>
+  <em>"Penampilan seseorang tergantung pada dua hal, ekspresi dan postur tubuh."</em><br>
+  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
 </div>
 <!-- QUOTE END -->
 
