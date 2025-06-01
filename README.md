@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang yang bertindak melawan keinginannya sendiri menurutku orang yang menarik."</em><br>
-  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Nico Robin-senpai, bagi seorang laki-laki, kedipan matamu itu lebih berharga daripada nyawanya sendiri."</em><br>
+  — <strong>Bartolomeo</strong>, <em>One Piece</em>
 </div>
 <!-- QUOTE END -->
 
