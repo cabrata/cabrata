@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hiduplah seperti biasanya. Memang tidak mudah. Tapi kau punya banyak waktu yang terbentang luas di depanmu."</em><br>
-  — <strong>Ginko</strong>, <em>Mushishi</em>
+  <em>"Siapa pun (orang) itu, aku tak bisa mengabaikan orang yang berada dalam masalah."</em><br>
+  — <strong>Sorey</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
