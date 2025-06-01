@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku terlahir sepuluh tahun lebih awal, dan bertemu dengannya sepuluh tahun lebih awal, mungkin hatiku ini bisa dicuri olehnya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Semua orang pasti pernah membuat kesalahan. Tapi perasaan manusia sering diungkapkan dalam cara yang tak menentu.Kalau kau seorang hakim, jangan mengabaikan hal itu."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
