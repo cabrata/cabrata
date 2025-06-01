@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin melihat senyuman semua orang."</em><br>
-  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Mendekatlah. Aku akan membisikkannya padamu, jadi dengarkan baik-baik.
+Aku mencintaimu. Aku ingin kau melihat dunia di luar sana, dan aku ingin kau bersamaku."</em><br>
+  — <strong>Jun Satou</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
