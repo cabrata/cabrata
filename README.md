@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bisa melakukannya, jika mencobanya."</em><br>
-  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Aku tak tahu apa yang terjadi, tapi aku tahu apa yang harus ku lakukan."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
