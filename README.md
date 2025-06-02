@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena mereka berteman dengan seorang gadis yang baik, bukan berarti mereka juga baik."</em><br>
-  — <strong>Makoto Sunakawa</strong>, <em>Ore Monogatari!!</em>
+  <em>"Setiap langkah itu berharga. Harus ada kemajuan dibanding kemarin. Besoknya lagi harus lebih ada kemajuan dibanding hari ini. Sebelumnya besok adalah hari ini. Begitu pula sebaliknya! Dengan kata lain, sekarang adalah segala-galanya! Hidup itu berharga!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
