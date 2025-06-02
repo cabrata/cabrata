@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk menjadi laki-laki tampan tak boleh melewatkan latihan sehari pun. Jika sampai membiarkan lemak sekecil apapun masuk, nanti akan jadi tumpukan lemak besar! Setetes minyak adalah awal dari obesitas!"</em><br>
-  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Hanya pertemuan yang dapat membuat seorang Koki berkembang. Kalau hanya menghadapi masakanmu sendiri, kau hanya akan melihat dirimu yang tak pernah berubah!"</em><br>
+  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
