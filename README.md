@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama kau bertingkah tidak seperti dirimu sendiri, kesempatannya nol.
-Satu-satunya (orang) yang bisa menghentikan mimpimu menjadi nyata adalah dirimu sendiri."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Jangan pernah minta maaf atas kerja kerasmu.
+Itu sama saja kau menghina tekadmu sendiri."</em><br>
+  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
