@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian semua yang hidup di masa depan adalah harta karun bagi roh pahlawan."</em><br>
-  — <strong>Aka no Lancer</strong>, <em>Fate/Apocrypha</em>
+  <em>"Orang bodoh yang kehilangan ketenangan dan membuat pilihan yang salah, (dia pasti) akan gagal."</em><br>
+  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
