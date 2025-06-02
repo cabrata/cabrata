@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah minta maaf atas kerja kerasmu.
-Itu sama saja kau menghina tekadmu sendiri."</em><br>
-  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Tujuan perbuatan baik dan perbuatan buruk itu sebenarnya sama. Kedua-duanya adalah tindakan seseorang untuk menutupi kekurangannya."</em><br>
+  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
