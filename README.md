@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kupikir kau (memang) benar. (Selama ini) aku berpura-pura. Aku ingin orang-orang menyukaiku. Aku ingin punya teman. Namun ketika aku memikirkan "Apa yang bisa dilakukan oleh orang sepertiku ini?", aku putuskan untuk menyukai semua orang. Lalu, setelah itu jadi jauh lebih mudah untuk berpura-pura."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Seperti yang diharapkan, Pemain sang juara dunia memang (terlihat) garang. (Tapi) takkan kubiarkan... Jika aku tertekan, habislah aku. Kalau gentar, aku bisa kalah. Kalau takut, aku bisa mati.
+Baiklah. Siap!!"</em><br>
+  — <strong>Yutaka Hoshino</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
