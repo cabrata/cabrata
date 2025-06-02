@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus mengatakan apa yang kau rasakan sejujurnya demi (kebaikan) dirimu sendiri."</em><br>
-  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
+  <em>"Hanya karena mereka berteman dengan seorang gadis yang baik, bukan berarti mereka juga baik."</em><br>
+  — <strong>Makoto Sunakawa</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
