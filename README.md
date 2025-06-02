@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan tidak akan tersampaikan kalau tidak diungkapkan."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Kita adalah anak muda yang masih berkembang. Ikatan pertemanan adalah harta karun paling berharga."</em><br>
+  — <strong>Tomomichi Motoyama</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
