@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah cukup! Sudah cukup aku berbohong dan menyakiti orang-orang.
-Telah kuputuskan untuk tidak membiarkanmu menangis, terluka, atau membuatmu sendirian lagi!
-Aku tidak akan melepaskanmu lagi."</em><br>
-  — <strong>Kouichi Sanada</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Aku sedih melihat orang yang berambisi besar senang karena hal kecil."</em><br>
+  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
