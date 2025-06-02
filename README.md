@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah berpura-pura dapat melihat sesuatu yang tidak bisa kau lihat, atau berpura-pura kau tidak bisa melihat sesuatu yang kau bisa lihat."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Bakemonogatari</em>
+  <em>"Daripada menyesal tanpa melakukan apa-apa, kupikir lebih baik melakukan hal yang kubisa dan menyesalinya. Meskipun aku tahu kalau persentasenya nol persen, tapi bukankah akan menjengkelkan jika hanya diam saja?"</em><br>
+  — <strong>Koyuki Ayase</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
 </div>
 <!-- QUOTE END -->
 
