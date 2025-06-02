@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melalui musik, orang-orang yang kau kenal, orang-orang yang tidak kau kenal, (dan) seluruh manusia di bumi saling terhubung."</em><br>
-  — <strong>Hiroko Seto</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Mengharapkan hal yang tinggi tanpa memikirkan untuk mewujudkannya itu membuatku tampak bodoh. Tapi, harapan takkan menjadi kenyataan jika tak mengatakannya dengan lantang."</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
