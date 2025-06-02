@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti yang diharapkan, Pemain sang juara dunia memang (terlihat) garang. (Tapi) takkan kubiarkan... Jika aku tertekan, habislah aku. Kalau gentar, aku bisa kalah. Kalau takut, aku bisa mati.
-Baiklah. Siap!!"</em><br>
-  — <strong>Yutaka Hoshino</strong>, <em>Ping Pong The Animation</em>
+  <em>"Luka fisik dibiarkan akan sembuh sendiri. Namun, rasa sakit karena ditolak olehmu takkan pernah bisa hilang."</em><br>
+  — <strong>Romio Inuzuka</strong>, <em>Kishuku Gakkou no Juliet</em>
 </div>
 <!-- QUOTE END -->
 
