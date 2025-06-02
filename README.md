@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan manusia itu terlalu rumit dan susah dimengerti. Tidak semua perasaan diungkapkan melalui kata-kata, ada kalanya manusia memiliki maksud lain atau niat kebohongan."</em><br>
-  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
+  <em>"Kalau ada orang yang berusaha membunuhmu, kau pasti akan marah.
+Itu sangat berbeda jika ada orang yang mencoba membunuhmu tapi berakhir dengan kegagalan, terlihat memalukan."</em><br>
+  — <strong>Karma Akabane</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
