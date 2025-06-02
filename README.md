@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku yakin suatu saat hari nanti, kita akan terbunuh juga. Sampai saat itu, mari kita hidup dengan keyakinan manusia."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Siapapun yang melawan monster harus berhati-hati. Karena mereka sendiri akan menjadi monster saat melawannya."</em><br>
+  — <strong>Mephisto Pheles</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
