@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tertawa karena baca manga komedi dapat melatih otot perut. Terkejut karena baca manga horor dapat melatih otot punggung. Berdebar-debar karena baca manga romatis dapat melatih otot jantung. Membaca manga edisi khusus setebal 932 halaman dapat melatih otot bisep. Orang-orang yang terlibat dengan manga harus melatih otot dengan manga."</em><br>
-  — <strong>Ami Kakei</strong>, <em>Kakushigoto</em>
+  <em>"Kupikir kau (memang) benar. (Selama ini) aku berpura-pura. Aku ingin orang-orang menyukaiku. Aku ingin punya teman. Namun ketika aku memikirkan "Apa yang bisa dilakukan oleh orang sepertiku ini?", aku putuskan untuk menyukai semua orang. Lalu, setelah itu jadi jauh lebih mudah untuk berpura-pura."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
