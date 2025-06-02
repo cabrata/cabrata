@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dengan orang yang punya tujuan hidup. Aku suka dengan orang yang pekerja keras."</em><br>
-  — <strong>Nanami Aoyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Justru perselisihan (bisa) terjadi karena mereka semakin akrab."</em><br>
+  — <strong>Quetzalcoatl</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
