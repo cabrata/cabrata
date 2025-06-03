@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang yang mencintaiku tidak mungkin akan menyelingkuhiku...
-Dia sangat jujur, serius dan juga sangat setia. Jadi aku pikir tidak ada hal yang harus dikhawatirkan."</em><br>
-  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru OVA</em>
+  <em>"Aku berusaha menjadi orang dewasa yang ideal. (Tapi) yang kulakukan sebenarnya hanya berpura-pura menjadi orang dewasa. (Karena) anak-anak memerlukan sosok orang dewasa yang bisa menjadi sandaran hatinya."</em><br>
+  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
