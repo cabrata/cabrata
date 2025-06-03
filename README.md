@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Uang? Hal seperti itu tidak ada artinya di hadapan cinta."</em><br>
-  — <strong>Tarou Jiroumaru</strong>, <em>Hanasaku Iroha</em>
+  <em>"Seorang yang mencintaiku tidak mungkin akan menyelingkuhiku...
+Dia sangat jujur, serius dan juga sangat setia. Jadi aku pikir tidak ada hal yang harus dikhawatirkan."</em><br>
+  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru OVA</em>
 </div>
 <!-- QUOTE END -->
 
