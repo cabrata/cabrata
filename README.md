@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya seseorang yang bisa memahami dirinya sendirilah yang dapat terus menerus membuat kemajuan."</em><br>
-  — <strong>Masachika Kouda</strong>, <em>3-gatsu no Lion</em>
+  <em>"Aku punya banyak hal yang ingin kulakukan, dan diantara itu kupilih (satu) hal yang paling kusukai sebagai pekerjaanku."</em><br>
+  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
