@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat masa lalu sama artinya dengan tak bisa hidup di masa sekarang."</em><br>
-  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Ketika kebetulan terjadi berulang kali, orang-orang mulai mengasumsikannya pada hal-hal tahayul seperti nasib atau sebagainya...
+Tapi, selama kemungkinannya tidak nol, apapun bisa saja terjadi. Pada dasarnya, tahayul merupakan sebuah lambang dari kebodohan."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
