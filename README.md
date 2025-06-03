@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walaupun kamu tidak punya uang, kamu masih bisa cukup bersenang-senang, asalkan ada cinta."</em><br>
-  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Jangan bergantung pada seseorang untuk menyelamatkan diri."</em><br>
+  — <strong>Yoshitake Tanaka</strong>, <em>Danshi Koukousei no Nichijou</em>
 </div>
 <!-- QUOTE END -->
 
