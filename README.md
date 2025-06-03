@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah seorang anak butuh alasan untuk melindungi peninggalan yang dibanggakan orang tuanya?"</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Dalam hati manusia, selalu ada kelemahan yang tersembunyi."</em><br>
+  — <strong>Saburouta Toudou</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
