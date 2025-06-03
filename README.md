@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka tidak lebih dari sekedar monster yang dapat berbicara. Aku mendefinisikan mereka (para monster) yang dapat berbicara itu sebagai iblis."</em><br>
-  — <strong>Flamme</strong>, <em>Sousou no Frieren</em>
+  <em>"Sekarang alasan terbesarku bermain adalah mencoba untuk membuatmu dan juga tim kita menjadi yang terbaik di jepang."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
