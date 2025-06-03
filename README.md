@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di negara asalku, ada pepatah yang mengatakan "Lebih baik melihat daripada mendengar". Artinya, kita akan lebih cepat mengerti dengan melihat secara langsung dibandingkan hanya mendengar dari orang lain."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Tulip hitam dalam bahasa bunga artinya bahwa kamu sedang gelisah."</em><br>
+  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
 </div>
 <!-- QUOTE END -->
 
