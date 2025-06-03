@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak bisa belajar saat aku mengkhawatirkanmu."</em><br>
-  — <strong>Souichi Kamita</strong>, <em>Seiren</em>
+  <em>"Belajar itu memang penting, tapi cinta juga penting."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
