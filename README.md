@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Alkohol adalah pelicin kehidupan."</em><br>
-  — <strong>Haruno Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Hanya orang bodoh yang memainkan game yang tak bisa dia menangkan."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
