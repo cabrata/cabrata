@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia tidak hidup begitu saja karena (alasan) suatu saat mereka akan mati. (Meski) mereka hidup dan suatu saat mereka akan mati, kehidupan mereka memiliki arti."</em><br>
-  — <strong>Decim</strong>, <em>Death Parade</em>
+  <em>"Kesehatan adalah hal yang paling penting dari apapun."</em><br>
+  — <strong>Latifa Fleuranza</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
