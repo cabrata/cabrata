@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bolehkah aku berjuang untuk membuatmu mencintaiku?"</em><br>
-  — <strong>Nozomi Matsunaga</strong>, <em>Nijiiro Days</em>
+  <em>"Apapun obatnya, cintaku padamu takkan bisa disembuhkan!"</em><br>
+  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
