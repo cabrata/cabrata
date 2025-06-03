@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sekarang alasan terbesarku bermain adalah mencoba untuk membuatmu dan juga tim kita menjadi yang terbaik di jepang."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Manusia tidak hidup begitu saja karena (alasan) suatu saat mereka akan mati. (Meski) mereka hidup dan suatu saat mereka akan mati, kehidupan mereka memiliki arti."</em><br>
+  — <strong>Decim</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
