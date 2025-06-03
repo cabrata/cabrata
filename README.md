@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya orang bodoh yang memainkan game yang tak bisa dia menangkan."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Orang yang membuang dirinya sendiri tidak pantas memandang rendah orang lain."</em><br>
+  — <strong>Touka Scott</strong>, <em>Yuusha ga Shinda!</em>
 </div>
 <!-- QUOTE END -->
 
