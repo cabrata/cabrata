@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Balas dendam adalah hal yang bodoh."</em><br>
-  — <strong>Kino</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Aku tidak bisa belajar saat aku mengkhawatirkanmu."</em><br>
+  — <strong>Souichi Kamita</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
