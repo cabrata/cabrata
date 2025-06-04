@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau ingin bernegosiasi, kau harus menawarkan keuntungan yang bisa didapatkan. Jika tidak, maka tidak ada negosiasi"</em><br>
-  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku tak boleh kalah disini! Aku telah bersumpah di makam ayah bahwa aku akan menjadi exorcist yang hebat seperti dirinya dan akan menghajar Satan!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
