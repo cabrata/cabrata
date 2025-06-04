@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang orang yang hidupnya mengenaskan itu bisa jauh lebih dipercaya."</em><br>
-  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Break Time</em>
+  <em>"Orang dewasa takkan marah pada setiap keteledoran anak-anak."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
