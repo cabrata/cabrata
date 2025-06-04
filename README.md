@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau ingin melindungi seseorang yang berharga bagimu, maka aku akan berada di pihakmu."</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
+  <em>"Kita sudah bertekad akan membuat konser ini suksus. Kita telah membuat sebuah lagu, belajar menari, dan membuat kostum bersama-sama. Kita selalu berusaha keras sampai saat ini. Kita telah berjuang untuk tampil. Aku tak mau semua itu menjadi sia-sia."</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
