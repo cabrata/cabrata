@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli sebanyak apapun kau mencoba. Percuma menutupinya dengan kata-kata, bakat yang belum terlatih adalah fakta kehidupan."</em><br>
-  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
+  <em>"Amarah wanita adalah hal paling sulit untuk dikendalikan."</em><br>
+  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works</em>
 </div>
 <!-- QUOTE END -->
 
