@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak boleh mundur, saat kau sudah maju."</em><br>
-  — <strong>Shiro</strong>, <em>No Game No Life</em>
+  <em>"Kebaikan absolut itu lebih merepotkan daripada kejahatan."</em><br>
+  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
 </div>
 <!-- QUOTE END -->
 
