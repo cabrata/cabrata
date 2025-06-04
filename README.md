@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak bisa melihat apapun, jadi aku tak tahu apa yang ada di depan. Jika aku terus maju, mungkin hasilnya nol, atau mungkin satu, atau bisa jadi sepuluh. Jika aku menyerah sekarang, aku takkan pernah tahu. Itulah kenapa aku ingin terus menjadi school idol."</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Aku telah menjadi monster yang bahkan mengontrol emosi saja tidak bisa."</em><br>
+  — <strong>Acrobatic Sarasara</strong>, <em>Dandadan</em>
 </div>
 <!-- QUOTE END -->
 
