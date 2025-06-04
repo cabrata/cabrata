@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pertarungan antar musuh adalah kelemahan yang paling menghibur."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Yang paling membuatku senang adalah bisa melihatmu ceria dan tumbuh dewasa."</em><br>
+  — <strong>Kakushi Gotou</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
