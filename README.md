@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Latihan itu penting. Dan jika semakin mahir, maka akan semaki seru juga. Makanya kita harus berjuang!"</em><br>
-  — <strong>Uzuki Shimamura</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Kuusap air mataku, akupun mulai berjuang dan bertarung semampuku. Yang ada dipikiranku hanyalah untuk selalu menang, bertambah kuat, dan terus melangkah maju."</em><br>
+  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
