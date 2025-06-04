@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Katanya, jika seorang anak mati sebelum orang tuanya, dia akan jatuh ke neraka yang terdalam."</em><br>
-  — <strong>Mayoi Hachikuji</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Aku akan menjadi pria terhebat di dunia yang akan membuat orang tersenyum dengan kue (buatanku)."</em><br>
+  — <strong>Kouki Ichinose</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
