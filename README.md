@@ -5,15 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu selalu berpikir kalau dirinya sama dengan orang lain.
-Alasan mereka sangatlah mengagumkan, sangat memuaskan, dan sangat menghangatkan.
-Karena semua orang ingin saling mengerti, ingin saling berbagi hal yang berharga, dan ingin saling bekerja sama.
-Itu adalah mimpi yang luar biasa.
-Tapi kenyataannya tak seperti itu.
-Setiap orang memiliki peran dan kelemahan masing-masing.
-Mempercayai orang lain itu memang bagus.
-Tapi sebelum itu, kita harus mengerti perbedaan dengan orang lain."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
+  <em>"Ayahku sangat keras terhadapku. Dia ingin agar aku hanya memiliki latar belakang pendidikan yang bagus dan prestasi yang bagus. Aku ingin lepas dari itu semua. Jadi aku melepaskan seragam sekolahku dan merubah penampilanku, dimana banyak orang yang tak mengenalku. Aku bodoh, kan? Karena hanya bermain-main, kelas yang kudapatkan adalah kelas E. (Sekarang) aku tak tahu lagi kemana aku harus melangkah."</em><br>
+  — <strong>Yukiko Kanzaki</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
