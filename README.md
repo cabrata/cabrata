@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau sudah menyerah dari awal, meski kau bisa menang, kau tidak akan bisa menang."</em><br>
-  — <strong>Chihiro Komiya</strong>, <em>Shounen Maid</em>
+  <em>"Katanya, jika seorang anak mati sebelum orang tuanya, dia akan jatuh ke neraka yang terdalam."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
