@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah menjadi monster yang bahkan mengontrol emosi saja tidak bisa."</em><br>
-  — <strong>Acrobatic Sarasara</strong>, <em>Dandadan</em>
+  <em>"Pertarungan antar musuh adalah kelemahan yang paling menghibur."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
