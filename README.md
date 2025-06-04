@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku seharusnya tidak menangis. Dibandingkan dengan menghabiskan waktu dengan menangis, aku harusnya bisa menambah beberapa teman!"</em><br>
-  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist</em>
+  <em>"Kalau kau ingin bernegosiasi, kau harus menawarkan keuntungan yang bisa didapatkan. Jika tidak, maka tidak ada negosiasi"</em><br>
+  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
