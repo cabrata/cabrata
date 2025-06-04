@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengikuti yang kuat adalah naluri makhluk lemah."</em><br>
-  — <strong>Demiurge</strong>, <em>Overlord III</em>
+  <em>"Keteguhan dan kepasrahan adalah hal yang sama.
+Keduanya merupakan keputusan untuk mengorbankan segalanya demi mencapai tujuan."</em><br>
+  — <strong>Limeskin</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
