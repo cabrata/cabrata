@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang menggunakan masalah mereka sebagai alat pendorong untuk jadi lebih baik."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Aku memang tidak bisa diandalkan dan tidak bisa melakukan apapun. Tapi aku ada di sini. Aku akan selalu berada di sisimu."</em><br>
+  — <strong>Banri Tada</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
