@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan menjadi pria terhebat di dunia yang akan membuat orang tersenyum dengan kue (buatanku)."</em><br>
-  — <strong>Kouki Ichinose</strong>, <em>Ore Monogatari!!</em>
+  <em>"Jika aku terlalu mudah puas dan lengah meski hanya sekali saja, aku akan terjatuh (mulai) dari sini."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
