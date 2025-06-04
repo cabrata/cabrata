@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus tetap berlari. Kau harus memikirkan perasaanmu sendiri. Berbohong pada diri sendiri dan melakukan apa yang orang lain mau hanya akan menyakitimu. Bukankah kau ingin menjadi school idol? Kalau begitu, kau harus terus melangkah maju."</em><br>
-  — <strong>Hanamaru Kunikida</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Tak ada hal yang baik jika terlena oleh kekayaan atau pun kekuasaan."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
 </div>
 <!-- QUOTE END -->
 
