@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesulit apapun keadaannya, biarpun orang-orang di sekitarmu menyerah dan putus asa, jadilah pria dengan pendirian yang kuat. Berusaha juga merupakan sebuah bakat."</em><br>
-  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
+  <em>"Melihat seorang murid yang menatap masa depannya itu begitu indah."</em><br>
+  — <strong>Souma</strong>, <em>Demi-chan wa Kataritai</em>
 </div>
 <!-- QUOTE END -->
 
