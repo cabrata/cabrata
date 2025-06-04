@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka banget melihatmu tertawa."</em><br>
-  — <strong>Chika Fujiwara</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Cinta pertama? Aku tak pernah merasakan hal seperti itu. Tidak untuk sekarang, dan untuk selamanya. Melayani Tuan Putri adalah misiku, dan itulah yang membuatku bahagia. Asal Tuan Putri bahagia, itu sudah cukup bagiku."</em><br>
+  — <strong>Seishirou Tsugumi</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
