@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada hal yang baik jika terlena oleh kekayaan atau pun kekuasaan."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Detektif papan atas adalah detektif yang bisa menyelesaikan kasus sebelum kasus itu terjadi."</em><br>
+  — <strong>Siesta</strong>, <em>Tantei wa Mou, Shindeiru.</em>
 </div>
 <!-- QUOTE END -->
 
