@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Penampilan seseorang tergantung pada dua hal, ekspresi dan postur tubuh."</em><br>
-  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
+  <em>"Sesulit apapun keadaannya, biarpun orang-orang di sekitarmu menyerah dan putus asa, jadilah pria dengan pendirian yang kuat. Berusaha juga merupakan sebuah bakat."</em><br>
+  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
 </div>
 <!-- QUOTE END -->
 
