@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di mana ada pertemuan, pasti ada perpisahan."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
+  <em>"Cowok SMA biasanya kalau ada cewek yang menembaknya pasti seharian dia akan terus memikirkan cewek itu, bahkan meskipun dia tidak menyukainya."</em><br>
+  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
