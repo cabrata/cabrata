@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menjadi Superstar memang banyak rintangannya. Rintangan itu akan membuatmu tahu apakah kaulayak atau tidak."</em><br>
-  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Aku ingin terus bersama orang yang paling membutuhkanku."</em><br>
+  — <strong>Saitou</strong>, <em>Benriya Saitou-san, Isekai ni Iku</em>
 </div>
 <!-- QUOTE END -->
 
