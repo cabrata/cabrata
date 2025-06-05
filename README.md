@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu hari mungkin kita harus berpisah dan mungkin (juga) aku akan dilupakan. Tapi aku tidak akan pernah melupakanmu."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Aku selalu serius! Tapi kenapa kamu selalu lari?
+Setiap kali aku pikir mulai lebih dekat denganmu, kamu malah bergerak semakin jauh."</em><br>
+  — <strong>Megumi Noda</strong>, <em>Nodame Cantabile: Paris Hen</em>
 </div>
 <!-- QUOTE END -->
 
