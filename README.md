@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku masih bisa berjuang (sampai sekarang) itu karena kau percaya padaku. Terima kasih Airi, aku bersyukur telah mempercayaimu."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Sepotong sisa harapan, pertanda keinginan yang samar akan lahir dari keputusasaan."</em><br>
+  — <strong>C.C.</strong>, <em>Code Geass: Hangyaku no Lelouch</em>
 </div>
 <!-- QUOTE END -->
 
