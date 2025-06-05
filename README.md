@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginanku mungkin tidak terpenuhi. Tapi aku pasti tidak akan mendapatkannya, jika aku tidak menginginkannya."</em><br>
-  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
+  <em>"Dinginkan oleh laki-laki, tidak ada yang lebih nikmat dibandingkan perasaan itu."</em><br>
+  — <strong>Akane Minagawa</strong>, <em>Kuzu no Honkai</em>
 </div>
 <!-- QUOTE END -->
 
