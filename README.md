@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin tak banyak orang yang tahu kalau sebenarnya aku tipe orang yang tak begitu peduli dengan penampilanku. Karena menurutku yang lebih penting adalah apa yang keluar dari dalam diriku."</em><br>
-  — <strong>Karen Tendou</strong>, <em>Gamers!</em>
+  <em>"Menulis cerita itu bagaikan menulis seseorang. Penulis dapat menulis bagaimana orang itu hidup dan bagaimana orang itu mati."</em><br>
+  — <strong>Souseki Natsume</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
