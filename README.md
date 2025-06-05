@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyesal itu takkan mengubah apapun. Yang terpenting adalah apa yang akan terjadi."</em><br>
-  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Pagi hari, angin yang menyegarkan dan cahaya matahari yang lembut mengisyaratkan suatu yang indah akan terjadi."</em><br>
+  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
 </div>
 <!-- QUOTE END -->
 
