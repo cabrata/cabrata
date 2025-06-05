@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerja yang hebat adalah pekerja yang mengerjakan pekerjaan sebaik mungkin dalam batas waktu yang diberikan."</em><br>
-  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Mengetahui orang lain mau membaca tulisanku yang kusukai dan mereka memberikan kesan yang cukup bagus itu sangat menyenangkan."</em><br>
+  — <strong>Yoshiteru Zaimokuza</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
