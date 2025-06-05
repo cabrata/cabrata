@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Penampilan seseorang tergantung pada dua hal, ekspresi dan postur tubuh."</em><br>
-  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
+  <em>"Jujur saja, (saat ini) aku tidak bisa bilang "aku mencintaimu", tapi aku tidak ingin orang lain memilikimu."</em><br>
+  — <strong>Daisuke Higashida</strong>, <em>WWW.Working!!</em>
 </div>
 <!-- QUOTE END -->
 
