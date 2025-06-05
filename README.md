@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesenangan takkan pernah berlangsung lama. Begitulah kehidupan."</em><br>
-  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
+  <em>"Di dunia ini, yang jadi masalah bukanlah bisa melakukan hal dengan lebih baik. Kalau dilakukan terlalu sempurna juga bisa merusak keseimbangan. Karena pada akhirnya nanti tidak akan bahagia."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
