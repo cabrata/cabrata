@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka saat kau membelai kepalaku. Rasanya kita jadi saling terhubung melalui ikatan tanganmu dan rambutku. Aku suka suaramu. Hanya dengan mendengar satu kata darimu membuat hatiku terasa hangat. Aku suka matamu. Meskipun biasanya matamu sedikit tegang, tapi aku menyukai (sorot) matamu yang lembut ketika berbuat baik pada orang lain. Aku suka jarimu. Bagi seorang pria, jarimu sungguh indah. Tapi saat kau mengaitkan jarimu padaku, aku tahu kalau jari-jari itu menggenggam dengan kuat selayaknya seorang pria sejati. Aku suka caramu berjalan. Saat kita berjalan bersama, aku suka saat melihat dirimu menengok kebelakang untuk memastikan diriku tetap bersamamu. Aku suka wajahmu ketika tidur. Kau tampak terlena layaknya seorang bayi dengan bulu mata sedikit panjang. Saat aku menyentuh pipimu, kau tampak tenang. Bahkan saat kusentuh bibirmu, kau tak menyadarinya hingga membuat hatiku berdegup kencang... Aku mencintamu..."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Orang-orang cerdas bersinar lebih terang dari orang biasa. Mereka tidak pernah menyesali atau tersiksa atas perbuatan mereka sendiri."</em><br>
+  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
