@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lak-laki itu sejak dulu ditakdirkan tidak pekaan."</em><br>
-  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Menjadi Superstar memang banyak rintangannya. Rintangan itu akan membuatmu tahu apakah kaulayak atau tidak."</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
