@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami (berdua) yang telah terluka saling mengharapkan hal yang sama.
-Jika besok kau mati, maka aku tidak keberatan jika besok hidupku juga berakhir.
-Jika hari ini kau tetap hidup, aku pun juga akan hidup."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
+  <em>"Kehidupan sempurna di rumah itu memang sulit untuk didapatkan."</em><br>
+  — <strong>Shinji Tokita</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
