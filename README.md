@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dinginkan oleh laki-laki, tidak ada yang lebih nikmat dibandingkan perasaan itu."</em><br>
-  — <strong>Akane Minagawa</strong>, <em>Kuzu no Honkai</em>
+  <em>"Kata-kata dapat menyakiti seseorang. Meskipun kau menyesalinya, kau takkan pernah bisa menarik kembali (kata-kata yang telah kau ucapkan)."</em><br>
+  — <strong>Jun Naruse</strong>, <em>Kokoro ga Sakebitagatterunda.</em>
 </div>
 <!-- QUOTE END -->
 
