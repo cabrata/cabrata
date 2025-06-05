@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini, yang jadi masalah bukanlah bisa melakukan hal dengan lebih baik. Kalau dilakukan terlalu sempurna juga bisa merusak keseimbangan. Karena pada akhirnya nanti tidak akan bahagia."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Lak-laki itu sejak dulu ditakdirkan tidak pekaan."</em><br>
+  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
