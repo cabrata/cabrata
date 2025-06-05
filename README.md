@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cowok SMA biasanya kalau ada cewek yang menembaknya pasti seharian dia akan terus memikirkan cewek itu, bahkan meskipun dia tidak menyukainya."</em><br>
-  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke</em>
+  <em>"Menyesal itu takkan mengubah apapun. Yang terpenting adalah apa yang akan terjadi."</em><br>
+  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
