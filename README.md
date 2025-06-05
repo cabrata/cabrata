@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami percaya kalau semua yang diberikan pada kami itu sama seperti yang diberikan pada semua makhluk hidup di planet ini."</em><br>
-  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Nico Robin-senpai, bagi seorang laki-laki, kedipan matamu itu lebih berharga daripada nyawanya sendiri."</em><br>
+  — <strong>Bartolomeo</strong>, <em>One Piece</em>
 </div>
 <!-- QUOTE END -->
 
