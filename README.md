@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada pepatah yang berkata "Tembakan yang benar, tidak pernah meleset." Artinya jika postur menembakmu tepat saat menembak, panah pasti akan tepat menuju sasaran. Bagiku, itu berarti jika kau rajin berlatih, pasti hasilnya akan terlihat. Jika kau merasa sudah berlatih dengan baik, lakukan apa saja yang menurutmu benar. Tubuhmu pasti akan mengingatnya."</em><br>
-  — <strong>Akagi</strong>, <em>Kantai Collection: KanColle</em>
+  <em>"Yang bisa kita sentuh adalah sekumpulan fakta yang bukan satu-satunya kebenaran. Karena itu kita jadi salah pengertian, salah paham, tidak cocok, dan tidak paham. Itu terjadi terus berulah di dunia tempat kita hidup ini. Seperti bayangan yang terpantul dalam cermin."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
