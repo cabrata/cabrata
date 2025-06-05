@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Guru dansa kami selalu bilang bukan berdansa dengan tersenyum. Tapi guru ingin kami tersenyum dengan sendirinya saat sedang berdansa, karena dansa adalah sesuatu yang harus dinikmati dari dalam hati. Karena itu adalah sesuatu yang akan menyinari hidup kami."</em><br>
-  — <strong>Akira Koumoto</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Ada pepatah yang berkata "Tembakan yang benar, tidak pernah meleset." Artinya jika postur menembakmu tepat saat menembak, panah pasti akan tepat menuju sasaran. Bagiku, itu berarti jika kau rajin berlatih, pasti hasilnya akan terlihat. Jika kau merasa sudah berlatih dengan baik, lakukan apa saja yang menurutmu benar. Tubuhmu pasti akan mengingatnya."</em><br>
+  — <strong>Akagi</strong>, <em>Kantai Collection: KanColle</em>
 </div>
 <!-- QUOTE END -->
 
