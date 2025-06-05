@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang paling penting adalah melakukan apa yang ingin kau lakukan."</em><br>
-  — <strong>Rito Yuuki</strong>, <em>To LOVE-Ru Darkness</em>
+  <em>"Apapun hobinya, tidak masalah selama bisa ditekuni dengan baik."</em><br>
+  — <strong>Saori Makishima</strong>, <em>Ore no Imouto ga Konnani Kawaii Wake ga Nai</em>
 </div>
 <!-- QUOTE END -->
 
