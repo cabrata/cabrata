@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan yang sedang jatuh cinta bisa menentang Tuhan."</em><br>
-  — <strong>Tsushima</strong>, <em>Toaru Majutsu no Index III</em>
+  <em>"Aku tak ingin menyimpan dendam dengan masa lalu, lebih baik memaafkan dan melangkah maju."</em><br>
+  — <strong>Iori Nagase</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
