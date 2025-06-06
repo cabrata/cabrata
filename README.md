@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang Idol dapat melakukan banyak hal. Mereka semua sungguh fantastis."</em><br>
-  — <strong>Anastasia</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Jika kau berada satu langkah di depanku, maka aku akan mengambil dua langkah, sepuluh, bahkan seratus langkah di depanmu! Aku takkan membiarkan semua ini berakhir begitu saja."</em><br>
+  — <strong>Takumi Aldini</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
