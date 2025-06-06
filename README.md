@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika dibilang jangan lakukan maka lakukanlah, Jika itu rahasia maka cari tahu."</em><br>
-  — <strong>Mikan Akemi</strong>, <em>Jitsu wa Watashi wa</em>
+  <em>"Atasan yang lebih baik, membawa perusahaan lebih baik. Tak ada gunanya mempermasalahkan siapa atasanmu!"</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
