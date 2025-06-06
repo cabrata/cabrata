@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang aneh memang menarik."</em><br>
-  — <strong>Shunma Suruga</strong>, <em>Re:CREATORS</em>
+  <em>"Percaya pada orang lain, saling membantu dan saling mendukung adalah hal yang paling tepat untuk dilakukan.
+Tapi itu hanya idealistis. Kenyataannya orang-orang tidak seperti itu.
+Jadi aku tidak ingin menyuruhmu bergantung pada orang lain."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
