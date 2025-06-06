@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku berusaha menjadi orang dewasa yang ideal. (Tapi) yang kulakukan sebenarnya hanya berpura-pura menjadi orang dewasa. (Karena) anak-anak memerlukan sosok orang dewasa yang bisa menjadi sandaran hatinya."</em><br>
-  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
+  <em>"Jika dibilang jangan lakukan maka lakukanlah, Jika itu rahasia maka cari tahu."</em><br>
+  — <strong>Mikan Akemi</strong>, <em>Jitsu wa Watashi wa</em>
 </div>
 <!-- QUOTE END -->
 
