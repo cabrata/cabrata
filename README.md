@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Film bagus akan tetap bagus dilihat di layar apa pun."</em><br>
-  — <strong>Tsukasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Kalian akan dapat terus maju dengan berpegang pada penderitaan.
+Jaga teman kalian saat ini. (Karena) jika mereka mati, mereka takkan kembali."</em><br>
+  — <strong>Shinohara</strong>, <em>Hai to Gensou no Grimgar</em>
 </div>
 <!-- QUOTE END -->
 
