@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pria idaman itu seperti apa?
-Wajahnya? Hartanya?
-Bagiku, pria idaman itu adalah seorang yang mau untuk hidup bersama."</em><br>
-  — <strong>Charlotte Abelfreyja Drossel</strong>, <em>Violet Evergarden</em>
+  <em>"Kehidupan adalah gim busuk."</em><br>
+  — <strong>Fumiya Tomozaki</strong>, <em>Jaku-Chara Tomozaki-kun</em>
 </div>
 <!-- QUOTE END -->
 
