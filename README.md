@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau hanya harus menjadi tanduk bagi Ram yang tak memiliki tanduk. Kalian bisa menjadi iblis bersama-sama. Selain itu, kau menganggap dirimu sebagai pengganti, tapi tidak ada yang bisa menggantikanmu. Di tempatku berasal, ada yang bilang "Iblis akan tertawa saat kau membahas tentang masa depan.", Jadi Tertawalah, Rem."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku telah membuatmu melihat air mataku. Meskipun begitu, kau tidak boleh menitihkan air mata. Setidaknya sampai kau bertemu dengan ibumu. Karena saat itu akan menjadi air mata bahagia."</em><br>
+  — <strong>Yoshifumi Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
