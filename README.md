@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suka atau tidak suka tiga tahun kehidupan SMA kalian akan berlalu dengan sangat cepat. Bagaimana kalian menghabiskannya, itu tergantung pada diri kalian masing-masing. Mau fokus belajar, boleh. Mau berjuang di klub, boleh. Atau mau main-main saja juga boleh. Yang paling penting selama tiga tahun di sekolah kalian harus bersenang-senang setiap harinya. Kesenangan itu yang terbaik, kesenangan itu kebenaran, dan kesenangan itu tak terbatas."</em><br>
-  — <strong>Mato Katori</strong>, <em>Amanchu!</em>
+  <em>"Kau harus mengatakan apa yang kau rasakan sejujurnya demi (kebaikan) dirimu sendiri."</em><br>
+  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
 </div>
 <!-- QUOTE END -->
 
