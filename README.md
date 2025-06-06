@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa pun misinya, yang ku lakukan hanya satu, yaitu melindungimu."</em><br>
-  — <strong>Sakuya Tachibana</strong>, <em>God Eater</em>
+  <em>"Sekarang alasan terbesarku bermain adalah mencoba untuk membuatmu dan juga tim kita menjadi yang terbaik di jepang."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
