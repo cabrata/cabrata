@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika sesuatu yang sama sekali tidak bisa dimengerti semakin populer, (maka) ragukanlah generasimu. Anggap itu sebagai sesuatu yang sangat membahayakan. Karena generasimu telah diselimuti oleh kegelapan."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
+  <em>"Apa pun misinya, yang ku lakukan hanya satu, yaitu melindungimu."</em><br>
+  — <strong>Sakuya Tachibana</strong>, <em>God Eater</em>
 </div>
 <!-- QUOTE END -->
 
