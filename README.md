@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bukan berarti) aku tidak ingin menjadi kuat.
-Kalau bisa aku (hanya) ingin tetap menjadi seorang gadis selamanya..."</em><br>
-  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
+  <em>"Aku percaya padamu, Rem. Jadi aku ingin melakukan sesuatu agar kau bisa mempercayaiku."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
