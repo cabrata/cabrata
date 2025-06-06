@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia takkan tahu bahwa diri mereka telah ditipu, tapi (sebaliknya) mereka akan sangat sensitif ketika orang lain yang ditipu."</em><br>
-  — <strong>Hitsujii</strong>, <em>Juuni Taisen</em>
+  <em>"Perempuan yang sedang jatuh cinta bisa menentang Tuhan."</em><br>
+  — <strong>Tsushima</strong>, <em>Toaru Majutsu no Index III</em>
 </div>
 <!-- QUOTE END -->
 
