@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin percaya padamu, tapi kau tak mau memberiku alasan untuk percaya padamu!"</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kau menyebut dirimu seorang pria? Kalau memang iya, perhatikanlah dia!"</em><br>
+  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
