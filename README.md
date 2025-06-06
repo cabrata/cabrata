@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kalian selalu menunda pekerjaan, kalian akan jadi terbiasa untuk menunda semuanya!"</em><br>
-  — <strong>Hajime Suzamoto</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Seorang Idol dapat melakukan banyak hal. Mereka semua sungguh fantastis."</em><br>
+  — <strong>Anastasia</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
