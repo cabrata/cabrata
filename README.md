@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang membutuhkan sandaran hati tidak hanya anak kecil."</em><br>
-  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
+  <em>"Manusia akan lebih kuat bila mereka berjuang untuk melindungi sesuatu."</em><br>
+  — <strong>Heathcliff</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
