@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau akan bertarung dan aku akan melindungimu, dengan begitu tidak akan ada yang mati."</em><br>
-  — <strong>Naofumi Iwatani</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Berhentilah berkecil hati gara-gara kesalahpahaman."</em><br>
+  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
