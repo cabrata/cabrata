@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lelucon itu menarik, tapi ada batasnya. Jika mengarah menuju kesalahpahaman, maka akan menjadi kebohongan."</em><br>
-  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
+  <em>"Maaf, aku tidak bisa membohongi ataupun menipu orang lain. Jadi, aku akan menggunakan kekuatanku untuk tujuan yang lebih mulia!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
