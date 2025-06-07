@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebesar apa pun idealismemu, itu hanyalah idealisme belaka (bukan kenyataan)."</em><br>
-  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Kalau kita tidak bisa memilih pekerjaan (yang diinginkan), setidaknya kita bisa memilih rekan kerja (yang kita inginkan)."</em><br>
+  — <strong>Lancer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
