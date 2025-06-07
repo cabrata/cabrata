@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak punya cukup tenaga untuk bersikap baik terhadap semua orang."</em><br>
-  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Aku mencintaimu Jintan. Cintaku padamu adalah cinta yang singkat dimana aku ingin menikah denganmu."</em><br>
+  — <strong>Meiko Honma</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
