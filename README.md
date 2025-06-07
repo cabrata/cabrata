@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta itu menyeramkan."</em><br>
-  — <strong>Karen Kohiruimaki</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
+  <em>"Keanggunan menciptakan tradisi. Keanggunanlah yang membuat dunia ini menjadi surga firdaus."</em><br>
+  — <strong>Henry Henderson</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
