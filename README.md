@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Berbuatlah demi orang lain. Korbankan diri sendiri demi itu". Aku dibesarkan dengan (memegang) prinsip seperti itu."</em><br>
-  — <strong>Tsukasa Jinguuji</strong>, <em>Fantasy Bishoujo Juniku Ojisan to</em>
+  <em>"Apapun logika yang diterapkan, (atau) apapun teori yang dibentuk, Keyakinan (tentang agama) dan makhluk gaib akan terus ada."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
