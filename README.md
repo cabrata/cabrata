@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akhir-akhir ini, kelompok kalian tidak menghasilkan apa - apa. Badan penelitian yang hanya berbicara tentang kejayaan masa lalu tidak dibutuhkan di Tootsuki."</em><br>
-  — <strong>Erina Nakiri</strong>, <em>Shokugeki no Souma</em>
+  <em>"Kalau kau tidak memperhatikan hal di sekitarmu, kau akan melewatkan hal-hal yang penting."</em><br>
+  — <strong>Haruta Kamijou</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
