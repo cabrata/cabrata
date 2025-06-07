@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebingungan mengakibatkan celah, dan celah mengganggu keuntungan kita. Jangan gelisah hanya karena musuh yang tidak kita kenal. Musuh ingin kita kehilangan ketenangan. Bertindaklah dengan pikiran yang jernih!"</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Yang memberikanku keberanian hingga saat terakhir adalah kau yang telah menyelamatkanku saat novelku ada yang salah. Aku bersyukur dapat bertemu denganmu."</em><br>
+  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei OVA</em>
 </div>
 <!-- QUOTE END -->
 
