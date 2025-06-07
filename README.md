@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sedikit takut. Bukan karena kematian, tapi aku takut berpisah denganmu. Aku tak pernah merasa seperti ini sebelumnya, tapi menurutku inilah yang terbaik untukku. Semua ini demi masa depan umat manusia, dan juga demi masa depanmu. Untuk itu aku mempertaruhkan nyawaku berapa kali pun."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Alkohol adalah pelicin kehidupan."</em><br>
+  — <strong>Haruno Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
