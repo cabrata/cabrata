@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menghancurkan dan menciptakan itu seperti dua sisi koin. Dengan kata lain, itu adalah hukum alam semesta."</em><br>
-  — <strong>Alex Louis Armstrong</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Manusia cenderung belajar pada kekalahan daripada kemenangan."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Zoku Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
