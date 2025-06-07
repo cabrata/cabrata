@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kembang api itu indah, terang, dan menarik. Tapi saat cahayanya mulai menghilang, rasanya menyedihkan."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Rasa sakit di kakiku suatu saat (pasti) akan hilang. Tapi, penyesalan takkan (pernah) hilang."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
