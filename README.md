@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menghancurkan dan menciptakan itu seperti dua sisi koin. Dengan kata lain, itu adalah hukum alam semesta."</em><br>
-  — <strong>Alex Louis Armstrong</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"(Apa itu Karya Wisata?)
+Itu adalah semacam tiruan kehidupan bermasyarakat. Kau tidak bisa memilih sendiri tempat yang ingin kau tinggali atau makanan yang ingin kau makan. Tapi dengan beberapa pengecualian, kau bisa bersenang-senang dengan biaya yang menipu dirimu."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
