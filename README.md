@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesuatu yang diinginkan dan sesuatu yang diharapkan terlihat sangat mirip, tapi kenapa keduanya sangat berbeda?
-Sebenarnya, kebohongan juga bagus."</em><br>
-  — <strong>Yui Yuigahama</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Sesedih apapun suatu ingatan, setelah diceritakan semuanya hanya akan jadi suatu cerita."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
