@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki itu sebenarnya tidak begitu peduli setiap perkataan yang dikatakannya."</em><br>
-  — <strong>Shimura</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
+  <em>"Sebesar apa pun idealismemu, itu hanyalah idealisme belaka (bukan kenyataan)."</em><br>
+  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
