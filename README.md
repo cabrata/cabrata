@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tidak memperhatikan hal di sekitarmu, kau akan melewatkan hal-hal yang penting."</em><br>
-  — <strong>Haruta Kamijou</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
+  <em>"Demi menyelamatkan dirimu, aku memutuskan untuk memulai pertempuran ini."</em><br>
+  — <strong>Kouji Sugawara</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</em>
 </div>
 <!-- QUOTE END -->
 
