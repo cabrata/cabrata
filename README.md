@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua laki-laki itu bodoh dan cemburuan.
-Begitu pula para perempuan bodoh yang bahagia ketika melihat laki-laki sedang cemburu."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"Tak ada gunanya menyemangati orang yang bahkan tak berniat dengan apa yang dilakukannya."</em><br>
+  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
