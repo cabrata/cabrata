@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk membuat manga harus pintar. Paling tidak, kau butuh kepintaran dan pikiran rasional. Tapi aku tak berpikir jika belajar sama dengan pintar."</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Belajar terus kayak orang bodoh saja."</em><br>
+  — <strong>Nino Nakano</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
