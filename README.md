@@ -5,10 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak masalah jika kau cemas, tapi jangan memaksakan dirimu.
-Jika ingin menangis, menangislah.
-(Karena) menangis bukan berarti lemah."</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS</em>
+  <em>"Aku tak butuh alasan.
+Saat aku bilang akan kutolong, maka akan kutolong!
+Aku takkan pernah mengkhianati temanku!"</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
