@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah bersumpah untuk melindungi Kakak! Tak ada lagi tujuanku selain melindungi Kakak dan dunia ini!"</em><br>
-  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Tidak apa kalau hanya aku yang merugi. Asalkan tidak menyusahkan orang lain."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
