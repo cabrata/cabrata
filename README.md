@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Barang jadul tak akan berguna saat dibutuhkan dengan segera."</em><br>
-  — <strong>Minosuke</strong>, <em>Ojiisan no Lamp</em>
+  <em>"Bakat bukanlah sesuatu yang bisa didapat dengan bekerja keras."</em><br>
+  — <strong>Eiko Tsukimi</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
