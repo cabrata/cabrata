@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Namaku adalah Nasa Yuzaki, seorang yang lebih cepat dari Nasa, seorang yang akan mencapai kecepatan cahaya."</em><br>
-  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Selama tidak menyerah, manusia bisa melakukan apa pun. Bahkan manusia yang tak memiliki sayap pun bisa pergi ke bulan."</em><br>
+  — <strong>Ryouma Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
