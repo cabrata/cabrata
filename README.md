@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pengorbanan diri bukanlah sesuatu yang layak dicontoh."</em><br>
-  — <strong>Arash</strong>, <em>Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram</em>
+  <em>"Mereka (para manusia) makhluk yang tak belajar apapun sejak berevolusi dari kera."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
