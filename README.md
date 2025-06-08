@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Doa itu penuh dengan ajaran masa depan."</em><br>
-  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
+  <em>"Kau ini benar-benar menarik. Kau selalu melihat di balik tindakan dan perkataan seseorang. Aku suka dengan (cara pikirmu) itu."</em><br>
+  — <strong>Haruno Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
