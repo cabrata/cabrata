@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang menggunakan kekuatannya karena terbawa emosi bukanlah orang kuat sejati. Kalau hanya karena keisengan kecil, orang dewasa akan menanggapinya dengan senyuman. Lagi pula, tidak akan terjadi pertengkaran kalau dibalas senyuman."</em><br>
-  — <strong>Yor Forger</strong>, <em>Spy x Family</em>
+  <em>"Meskipun aku tidak tahu pilihan mana yang benar, tapi setidaknya aku tahu pilihan mana yang harus aku pilih."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
