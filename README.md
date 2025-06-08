@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak bisa tahu seseorang jika hanya melihat. (Meski penampilannya seperti itu) tapi dia sebenarnya seorang pekerja keras."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Kau sudah puas sekarang? Kalau ini belum cukup untukmu. Akan kuterima tantanganmu sebanyak apapun kau mau, karena aku sudah terbiasa. Jadi, aku mohon padamu, jangan libatkan orang yang tidak bersalah!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
