@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Diatas langit memang masih ada langit."</em><br>
-  — <strong>You Watanabe</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Menjatuhkan orang lain demi keuntungan sendiri adalah usaha yang sia-sia. Itu artinya, mereka sudah menyerah untuk menang."</em><br>
+  — <strong>Michiru Saiki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
