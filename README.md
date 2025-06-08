@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bilang akan membuktikan bahwa ia tak salah membesarkanmu. Jadi buktikanlah!"</em><br>
-  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Setelah manusia mati mereka tidak akan menghilang begitu saja jika orang-orang masih mengingat mereka. Seperti asap yang tidak langsung menghilang walau apinya sudah padam."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
