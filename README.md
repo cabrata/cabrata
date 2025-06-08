@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau bisa melanggar aturan di kota, artinya orang-orang tidak memperhatikan sekitarnya. Kota seperti itu mudah untuk menjadi aksi kejahatan seperti pencurian. Sebaliknya, bila di kota banyak orang yang saling tegur sapa, artinya kewaspadaan penduduk sekitar tinggi. Penjahat pun tak ingin melakukan aksinya di kota itu."</em><br>
-  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Yang kau perlihatkan saat ini bukanlah loyalitas ataupun kesetiaan. Tapi sesuatu yang menjijikkan, seperti nafsu seekor anjing ataupun babi yang serakah. Kau hanyalah babi serakah yang hanya mementingkan egomu saja! Babi serakah adalah hal terburuk yang pernah ada di dunia ini!"</em><br>
+  — <strong>Priscilla Barielle</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
