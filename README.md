@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia menyerang dengan jumlah yang lebih banyak (mengeroyok), membuat hewan lebih baik daripada manusia."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Hidup itu untuk membuat kita jadi lebih baik. Meski hanya sedikit, aku ingin diriku hari ini lebih baik dari diriku yang kemarin. Begitulah aku menjalani hidup."</em><br>
+  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
