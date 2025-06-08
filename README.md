@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka melakukan sesuatu yang tak ingin dilakukan orang lain."</em><br>
-  — <strong>Reines El-Melloi Archisorte</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Spekulasi saja takkan mengubah fakta. Kita harus menerima kenyataan dan bergerak maju."</em><br>
+  — <strong>Kuro no Caster</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
