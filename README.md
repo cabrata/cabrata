@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak apa kalau hanya aku yang merugi. Asalkan tidak menyusahkan orang lain."</em><br>
-  — <strong>Naho Takamiya</strong>, <em>Orange</em>
+  <em>"Dulu kamu bilang padaku kalau pemandangan di Tokyo itu membosankan, kan?
+Aku sendiri tak pernah berpikir seperti itu. Tapi, begitu kau pergi, pemandangan kota (Tokyo) ini mulai membosankan. Mungkin aku menyukai pemandangan di Tokyo karena keberadaanmu."</em><br>
+  — <strong>Kouichi Tanemura</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
