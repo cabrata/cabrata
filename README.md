@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Utarakan saja perasaanmu sesuai dengan alur dan caramu sendiri"</em><br>
-  — <strong>Popura Taneshima</strong>, <em>Working!!!</em>
+  <em>"Bagiku atau pun bagi orang lain, sahabat terbaik adalah diri sendiri."</em><br>
+  — <strong>Akane Sonoyama</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
