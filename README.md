@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita teman, seharusnya tidak boleh ada rahasia, perasaan yang disembunyikan, ataupun keputusan yang dibuat sendiri kan?"</em><br>
-  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Terkadang kesalahan kecil dapat menyebabkan kesalahan yang lebih besar."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
