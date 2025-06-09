@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sendiri tahu apa yang ku lakukan ini bodoh (membantu orang yang sedang dikeroyok).Tapi itulah yang membedakan manusia dengan hewan."</em><br>
-  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Yang kubenci adalah pria yang terus-menerus memikirkan kesalahan di masa lalu dan hal lain yang tak mungkin bisa dia ubah."</em><br>
+  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
