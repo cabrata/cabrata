@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman itu tidak bisa didapat dalam waktu yang singkat."</em><br>
-  — <strong>Shi</strong>, <em>Nyanko Days</em>
+  <em>"Aku sendiri tahu apa yang ku lakukan ini bodoh (membantu orang yang sedang dikeroyok).Tapi itulah yang membedakan manusia dengan hewan."</em><br>
+  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
