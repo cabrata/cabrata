@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang realistis sejati itu orang yang berkepribadian baik."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Sudah menjadi fenomena umum di dunia manusia, orang tidak kompeten yang tidak memiliki pengetahuan atau bakat mendapatkan posisi karena garis keturunan atau relasi."</em><br>
+  — <strong>Shaiapouf</strong>, <em>Hunter x Hunter (2011)</em>
 </div>
 <!-- QUOTE END -->
 
