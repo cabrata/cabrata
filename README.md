@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria sejati pasti sudah melompat ke dalam api jika gadisnya berada dalam bahaya!"</em><br>
-  — <strong>Marco Ikusaba</strong>, <em>Mirai Nikki</em>
+  <em>"Manusia senang menyakiti orang lain ketika mereka tidak bisa menyakiti diri sendiri."</em><br>
+  — <strong>Yozora Mikazuki</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
 </div>
 <!-- QUOTE END -->
 
