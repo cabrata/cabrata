@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada manusia yang lahir karena keinginannya sendiri."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Seorang pria sejati pasti sudah melompat ke dalam api jika gadisnya berada dalam bahaya!"</em><br>
+  — <strong>Marco Ikusaba</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
