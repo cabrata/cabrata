@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada banyak hal yang lebih menakutkan daripada iblis, tapi jangan pernah kalah."</em><br>
-  — <strong>Jukai</strong>, <em>Dororo</em>
+  <em>"Menurutku, bakat bukan didapat sejak lahir. Melainkan sesuatu yang didapat dari hasil pembelajaran."</em><br>
+  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
