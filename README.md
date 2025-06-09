@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan menyelamatkannya karena dia adalah temanku. Kalau ada orang yang membuatnya menderita, aku tidak akan memaafkannya!"</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya 3rei!!</em>
+  <em>"Yang penting adalah menunjukkan dirimu sendiri, dirimu yang bersinar!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
