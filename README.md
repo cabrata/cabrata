@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"kata paling disukai kita (aku dan kakakku) adalah "tidak", pada orang yang berpikiran kalau mereka mempunyai keuntungan mutlak."</em><br>
-  — <strong>Shiro</strong>, <em>No Game No Life</em>
+  <em>"(Di dunia ini) tak ada orang yang baik ataupun orang buruk, karena itu kau tak bisa membandingkan keduanya."</em><br>
+  — <strong>Maiko Fujishima</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
