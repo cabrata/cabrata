@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Ketika anak kecil melakukan kesalahan) Tidak ada yang perlu dimarahi. Dan tidak ada yang perlu ditertawakan."</em><br>
-  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
+  <em>"Tidak ada manusia yang lahir karena keinginannya sendiri."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
