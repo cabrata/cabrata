@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan terus mengatakannya!
-Jangan pernah berhenti membuat game, jangan berhenti berkarya.
-Kau tidak boleh menyerah mengejar impianmu."</em><br>
-  — <strong>Iori Hashima</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Yang paling menakutkan dan sama sekali tak bisa diajak damai itu bukanlah makhluk gaib ataupun manusia, tapi "alam". (Alam itu) mengerikan seperti iblis, dan menakutkan seperti seseorang."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
