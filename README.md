@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang berbakat itu bisa membuat orang lain mendekat dan tanpa sadar menghancurkannya. Semakin kau dekat dengan mereka, kau akan semakin hancur. Mereka hidup dalam dunia yang benar-benar berbeda dari kita, yang tak bisa diraih oleh orang biasa. Dunia yang tak akan pernah bisa kita lihat, dunia diatas awan."</em><br>
-  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Kami bicara basa-basi seperti biasanya sambil terkadang menengok kebelakang, terkadang membuat kesalahan, dan terkadang kehilangan arah. Tetapi, kami terus melangkah maju dengan teguh."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
