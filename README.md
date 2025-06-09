@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, tidak selamanya yang kita harapkan tercapai. Tapi hal yang mesti kita lakukan harus selalu dimulai dengan sebuah harapan."</em><br>
-  — <strong>Guy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Aku akan terus mengatakannya!
+Jangan pernah berhenti membuat game, jangan berhenti berkarya.
+Kau tidak boleh menyerah mengejar impianmu."</em><br>
+  — <strong>Iori Hashima</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
