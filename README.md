@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin tak banyak orang yang tahu kalau sebenarnya aku tipe orang yang tak begitu peduli dengan penampilanku. Karena menurutku yang lebih penting adalah apa yang keluar dari dalam diriku."</em><br>
-  — <strong>Karen Tendou</strong>, <em>Gamers!</em>
+  <em>"Jika kau berada satu langkah di depanku, maka aku akan mengambil dua langkah, sepuluh, bahkan seratus langkah di depanmu! Aku takkan membiarkan semua ini berakhir begitu saja."</em><br>
+  — <strong>Takumi Aldini</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
