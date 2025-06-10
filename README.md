@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau berada satu langkah di depanku, maka aku akan mengambil dua langkah, sepuluh, bahkan seratus langkah di depanmu! Aku takkan membiarkan semua ini berakhir begitu saja."</em><br>
-  — <strong>Takumi Aldini</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Kau bisa berjuang, tapi kau takkan bisa mengalahkanku. Dunia yang sesungguhnya tak semudah itu."</em><br>
+  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
