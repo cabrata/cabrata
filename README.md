@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti inilah pekerjaan yang kulakukan selama ini. Pekerjaan inilah yang telah menafkahimu. Apa kau pikir kalau semua pekerjaan itu indah? 
-Pekerjaan ini mungkin tak berguna. Meskipun begitu, bukan berarti aku tidak berusaha untuk menjadi yang terbaik dibidang ini."</em><br>
-  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Permintaan maaf adalah pengakuan atas kesalahan yang telah diperbuat untuk meminta pengampunan."</em><br>
+  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
