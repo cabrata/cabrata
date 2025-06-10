@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu samar-samar dan tidak sempurna, tapi karena itulah mereka berharga."</em><br>
-  — <strong>Sorey</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Bekerja keras adalah bakat terbaik."</em><br>
+  — <strong>Hiroshi Kido</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
