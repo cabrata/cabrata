@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Takut adalah perasaan yang penting, tetapi jangan sampai terikat oleh perasaan itu. Jika tubuhmu tak mampu menanganinya, gunakan hatimu untuk mengalahkan rasa takut. Ada kalanya hati melebihi kekuatan tubuh."</em><br>
-  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
+  <em>"Kamu harus mendapatkan apa yang kamu mau, karena gairah begitu penting dalam cinta."</em><br>
+  — <strong>Hikari Tsuneki</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
