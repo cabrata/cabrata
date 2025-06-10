@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan dasar polisi adalah melayani dan mengayomi masyarakat."</em><br>
-  — <strong>Seiko Fuji</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Aku adalah seorang koki. Seorang koki tidak boleh lari dari dapur!"</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
