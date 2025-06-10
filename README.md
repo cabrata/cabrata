@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tahu jika kau sedang berbohong. Aku tahu kalau kau juga tak bisa mengatakan alasannya. Jadi, kau tak perlu meyakinkanku, menutupi semuanya dengan kebohongan, atau menyalahkan dirimu sendiri seperti itu. Karena aku percaya padamu."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kau pikir berapa banyak kekalahan yang sudah aku dapatkan sampai detik ini?
+Walau bukan sesuatu yang bisa dibanggakan, tapi aku sudah kalah ratusan, bahkan ribuan kali. Meskipun begitu, aku tidak pernah depresi, tidak pernah sepertimu sekarang!. (Karena) aku selalu yakin pada akhirnya aku akan menang."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
