@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman ya,... Dia bisa punya teman, dia punya orang yang menganggap dia berharga. Bagaimana? Hebat kan? Jadi, meskipun dia tidak pergi sekolah, walaupun dia selalu ada di kamarnya, dia adalah kebanggaanku, aku bangga kepadanya."</em><br>
-  — <strong>Masamune Izumi</strong>, <em>Eromanga-sensei</em>
+  <em>"Menemukan sisi - sisi diriku yang tak pernah ku tahu. Menghadapi sisi - sisi diriku yang tak pernah ku tahu. Aku yakin itu yang namanya jatuh cinta."</em><br>
+  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
