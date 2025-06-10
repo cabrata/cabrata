@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar kalau aku putus asa dengan dunia nyata. Tapi aku tidak putus asa dengan diriku sendiri. Yang memutuskan apakah hidupku membosankan, menyenangkan atau biasa-biasa saja bukalah dunia ini, tapi diriku sendiri. Selama aku memiliki kemauan, tak ada yang mustahil. Kau pun juga bisa melakukan apapun yang kau inginkan."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai II</em>
+  <em>"Aku adalah seorang libero. Pemain central dalam pertahanan, bagian terpenting dalam tim. Tapi, aku bukan pemain yang dapat mencetak poin. Aku tak dapat melakukan serangan. Aku tak peduli jika spiker tidak dapat mencetak poin. Aku tidak akan pernah menyalahkannya. Tapi, aku tidak akan memaafkannya jika dia menyerah begitu saja."</em><br>
+  — <strong>Yuu Nishinoya</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
