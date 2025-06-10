@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pertarungan takkan adil jika kau melanggar janjimu sendiri."</em><br>
-  — <strong>Inojin Yamanaka</strong>, <em>Boruto: Naruto Next Generations</em>
+  <em>"Tak peduli seberapa tinggi kedudukanmu, tak peduli seberapa sunyi tempat ini, jangan pernah menunjukkan kesombonganmu."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
