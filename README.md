@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau melakukan sesuatu yang akan melukaiku, aku akan mengerahkan seluruh kekuatanku untuk menghentikannya."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Mataku tak bisa berpaling lagi. Hatiku telah terikat olehmu."</em><br>
+  — <strong>Shinpachi Shimura</strong>, <em>Gintama°: Aizome Kaori-hen</em>
 </div>
 <!-- QUOTE END -->
 
