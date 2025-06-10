@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tubuh manusia itu tak lebih dari sekedar wadah yang sederhana. Karena itulah, sebesar apapun luka yang didapat, perasaanku padamu takkan pernah berubah."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Aku suka dengan hal-hal yang spesial. Atau lebih tepatnya, aku tertarik dengan hal-hal yang terlihat tabu. Jadi kupikir aku beruntung sekali (ternyata) orang yang kucintai adalah kerabat dekatku."</em><br>
+  — <strong>Azaka Kokutou</strong>, <em>Kara no Kyoukai 6: Boukyaku Rokuon</em>
 </div>
 <!-- QUOTE END -->
 
