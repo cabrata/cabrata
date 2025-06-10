@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun peringkat kami yang paling bawah,
-Meskipun kami tak bisa menggunakan sihir,
-Kakek percaya kami bisa mengalahkan ras lain.
-Aku ingin membuktikan kalau yang dipercayai kakekku itu benar."</em><br>
-  — <strong>Stephanie Dola</strong>, <em>No Game No Life</em>
+  <em>"Pertarungan antar musuh adalah kelemahan yang paling menghibur."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
