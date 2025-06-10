@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jujur saja, aku tak tahu pekerjaan seorang idol itu seperti apa, tapi itu (menjadi idol) adalah mimpiku."</em><br>
-  — <strong>Uzuki Shimamura</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Wanita itu seperti sake, semakin berumur semakin nikmat."</em><br>
+  — <strong>Sumiko Kawai</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
