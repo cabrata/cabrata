@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang abadi. Semuanya akan berubah. Tak terkecuali manusia."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Dewa itu bisa ada di mana pun, bisa juga tidak ada di mana pun."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
