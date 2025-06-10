@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita itu seperti sake, semakin berumur semakin nikmat."</em><br>
-  — <strong>Sumiko Kawai</strong>, <em>Bokura wa Minna Kawaisou</em>
+  <em>"Dia adalah tipe orang yang tak mempercayai orang lain. Bukankah tak mungkin orang seperti dia akan menemukan kebahagiaan?"</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
