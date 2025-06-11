@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tak boleh depresi hanya karena sesuatu, seperti cuma ditolak!"</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Walaupun kamu tidak punya uang, kamu masih bisa cukup bersenang-senang, asalkan ada cinta."</em><br>
+  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
