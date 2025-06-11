@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau punya waktu untuk bicara omong kosong, (lebih baik) lakukan semua yang kau bisa untuk bertahan hidup."</em><br>
-  — <strong>Tanya Degurechaff</strong>, <em>Youjo Senki</em>
+  <em>"Wanita adalah makhluk yang siap tempur."</em><br>
+  — <strong>Yuriko Ochiai</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
