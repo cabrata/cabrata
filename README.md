@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Mereka) benar-benar hebat. Mereka tahu apa yang ingin mereka lakukan. Dibandingkan dengan Misaki-senpai dan yang lainnya, aku tidak ada apa-apanya. Meskipun begitu, suatu hari kuharap aku menemukan apa yang ingin kulakukan."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Kesedihan dan penderitaannya mencengkram hatiku. Aku tahu dia sudah berjuang lebih keras dari siapa pun. Aku ingin menolongnya, tapi aku sudah tak bisa lagi menggapainya."</em><br>
+  — <strong>Daru</strong>, <em>Kanojo to Kanojo no Neko: Everything Flows</em>
 </div>
 <!-- QUOTE END -->
 
