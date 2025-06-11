@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh menertawakan tindakan seseorang, kau pun bebas mengatakan apapun tentang mereka. Tapi jangan pernah kau menertawakan perasaan mereka."</em><br>
-  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Anak muda kadang terobsesi pada kesempurnaan.
+Aku juga pernah begitu.
+Tapi suatu saat nanti, kau pasti akan percaya pada jalanmu sendiri.
+Seperti yang kulakukan.
+Karena itu, tenang saja, tak apa kalau kau cemas."</em><br>
+  — <strong>Shirosaki</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
