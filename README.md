@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tadi aku banyak pikiran. Tapi setelah melihatmu, sekarang aku jadi lebih tenang. Kurasa kau adalah obat yang dibutuhkan untuk hatiku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku sedikit takut. Bukan karena kematian, tapi aku takut berpisah denganmu.
+Aku tak pernah merasa seperti ini sebelumnya, tapi menurutku inilah yang terbaik untukku.
+Semua ini demi masa depan umat manusia, dan juga demi masa depanmu.
+Untuk itu aku bisa mempertaruhkan nyawaku berapa kali pun."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
