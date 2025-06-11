@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berpaling! Lihat ke depan! Tegakkan kepalamu! Saat ini, lakukan apa yang harus kau lakukan sebagai Master!"</em><br>
-  — <strong>Olga Marie Animusphere</strong>, <em>Fate/Grand Order: First Order</em>
+  <em>"Pastikan kamu percaya dengan apa yang kamu lakukan. Semua ini adalah jalan yang kamu pilih. Hanya saja, jangan lupakan semua orang yang sudah mendukungmu."</em><br>
+  — <strong>Fumi Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
