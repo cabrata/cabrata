@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita adalah makhluk yang siap tempur."</em><br>
-  — <strong>Yuriko Ochiai</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Pekerjaan sekecil apapun membutuhkan keseriusan."</em><br>
+  — <strong>Produser Inugane</strong>, <em>Back Street Girls: Gokudolls</em>
 </div>
 <!-- QUOTE END -->
 
