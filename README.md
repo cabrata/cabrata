@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku pikir hujan ini akan membasuh perasaan bimbangku. Tapi (ternyata) setiap tetes yang mengenai wajahku membuatku lebih sengsara."</em><br>
-  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Jika aku terlalu mudah puas dan lengah meski hanya sekali saja, aku akan terjatuh (mulai) dari sini."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
