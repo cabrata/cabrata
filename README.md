@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebencian lahir dari masa lalu."</em><br>
-  — <strong>Hakuno Kishinami</strong>, <em>Fate/Extra Last Encore</em>
+  <em>"Aku pikir hujan ini akan membasuh perasaan bimbangku. Tapi (ternyata) setiap tetes yang mengenai wajahku membuatku lebih sengsara."</em><br>
+  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
