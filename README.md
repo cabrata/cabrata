@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bekerja keras adalah bakat terbaik."</em><br>
-  — <strong>Hiroshi Kido</strong>, <em>Barakamon</em>
+  <em>"Di luar jam kerja, aku tidak ingin melakukan hal yang tidak ingin kulakukan."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
