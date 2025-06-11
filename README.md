@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Momen membahagiakan seorang guru adalah saat kau tak yakin dan murid - muridmu memberikan jawaban yang jelas padamu dari hasil pembelajaranmu."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Pada saat kita bertemu, kau benar-benar gila. Aku seperti terus merasakan belas kasihmu. Tapi kau membuatku melihat seberapa berharganya musik, dan teman-teman kepadaku. Karena kau berada disini, duniaku terbuka begitu lebar. Jadi ayo tetap bersama selamanya!"</em><br>
+  — <strong>Yuu Haruna</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
