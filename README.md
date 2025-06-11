@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku terlalu mudah puas dan lengah meski hanya sekali saja, aku akan terjatuh (mulai) dari sini."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Kau harus mengambil semua tantangan jika itu dapat membuatmu berkembang."</em><br>
+  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
