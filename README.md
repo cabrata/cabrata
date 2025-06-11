@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau selalu berusaha yang terbaik. Sama seperti saat kau menolongku dari perekrutan oleh tim lari, atau ketika aku bingung dan kau khawatir kepada diriku. Kupikir itulah yang membuatmu benar-benar keren."</em><br>
-  — <strong>Fuuka Akitsuki</strong>, <em>Fuuka</em>
+  <em>"Melihat wajah bahagia para pelanggan lebih berharga daripada uang yang ada di dunia."</em><br>
+  — <strong>Shinobu Senke</strong>, <em>Isekai Izakaya: Koto Aitheria no Izakaya Nobu</em>
 </div>
 <!-- QUOTE END -->
 
