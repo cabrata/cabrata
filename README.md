@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau akan bertarung dan aku akan melindungimu, dengan begitu tidak akan ada yang mati."</em><br>
-  — <strong>Naofumi Iwatani</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Jika kau merasa berat berjalan sendirian, aku akan membantumu. Mari berjalan dengan saling mendukung dan berbagi beban bersama. Bukankah itu yang kau katakan padaku pagi itu? Tunjukkan padaku seberapa keren dirimu, Subaru-kun."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
