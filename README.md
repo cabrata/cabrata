@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam  game, mustahil mengetahui aturan atau tujuan seseorang, karena ada 7 milyar pemain yang bergerak sesuai kenginannya."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Orang bodoh yang kehilangan ketenangan dan membuat pilihan yang salah, (dia pasti) akan gagal."</em><br>
+  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
