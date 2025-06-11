@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah berpura-pura dapat melihat sesuatu yang tidak bisa kau lihat, atau berpura-pura kau tidak bisa melihat sesuatu yang kau bisa lihat."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Bakemonogatari</em>
+  <em>"Maafkan aku... Maafkan aku (karena) tak bisa menjadi gadis yang mengangis di pelukanmu. Maafkan aku yang memilih mengejar impianku daripada cintaku. Maafkan aku karena aku akan selalu mencintaimu."</em><br>
+  — <strong>Sayuka</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
