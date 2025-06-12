@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang seniman harus selalu mengungkapkan apa yang dipikirkannya dan bergelut dengan akal sehatnya."</em><br>
-  — <strong>Hiromichi Kudou</strong>, <em>Photokano</em>
+  <em>"Punya bakat atau tidak, itu bukan sesuatu yang bisa disadari oleh diri sendiri."</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
