@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cukup lakukan semampumu dan berhentilah ketika kau sudah tak sanggup lagi."</em><br>
-  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Kuharap ada rumus untuk memahami perasaan wanita."</em><br>
+  — <strong>Keiki Kiryuu</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
 </div>
 <!-- QUOTE END -->
 
