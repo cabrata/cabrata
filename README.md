@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menjadi "orang dewasa" itu tidak selalu mengesankan. Terkadang "dewasa" itu hanya penampilan luarnya saja. Mereka (hanya) ingin terlihat mengagumkan di depan masyarakat, (dan) ingin dihormati oleh anak-anak."</em><br>
-  — <strong>Sakie Satou</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Kalau masih ada jalan untuk mundur itu namanya bukan perjalanan. Saat kau berada di titik dimana kau tak bisa kembali, saat itulah perjalananmu dimulai."</em><br>
+  — <strong>Hinata Miyake</strong>, <em>Sora yori mo Tooi Basho</em>
 </div>
 <!-- QUOTE END -->
 
