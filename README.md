@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita sadar bahwa kita tidak bisa bebas. Karena bebas itu hanyalah perasaan yang kosong dan sunyi. Dan demi alasan itu, kita menginginkan kebebasan. Layaknya harta karun di dalam (cerita) novel petualangan yang tak bisa didapatkan oleh siapa pun. Hidup berarti selalu terpenjara oleh sesuatu."</em><br>
-  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
+  <em>"Impian dan harapan itu hal yang berbeda. Melihat kenyataan, menganalisis dan bertarung sekuat tenaga lah yang dapat membuka jalan harapan kita."</em><br>
+  — <strong>Berserker</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
