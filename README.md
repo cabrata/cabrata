@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mana ada (orang bertarung untuk) menyelamatkan nyawa seseorang hanya karena demi kebaikan. Manusia bertarung demi hasrat mereka."</em><br>
-  — <strong>Wirbel</strong>, <em>Sousou no Frieren</em>
+  <em>"Dengan memikirkan kekuatan yang kau miliki, ada hal yang bisa dan tidak bisa kau lakukan sendiri. Melihatmu yang seperti ini membuatku merasa malu. Tidak tahu diri dan hanya tersakiti, kau bodoh!"</em><br>
+  — <strong>Izumo Kamiki</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
