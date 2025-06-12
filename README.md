@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang aku inginkan bukanlah pisau atau apapun itu, hanya tanganmu inilah yang kuinginkan. Apapun yang akan terjadi di masa depan aku tak akan melepaskan tanganmu ini. Karena itulah kisahku berakhir disini. Aku telah menerima diriku yang sekarang, diriku yang lalu, dan perlahan mulai menjalani kehidupanku."</em><br>
-  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
+  <em>"Hanya mereka yang lahir dengan bakat yang dapat menjadi seniman manga.
+Dan diantara mereka, hanya yang jeniuslah yang bisa melakukannya, sisanya hanyalah berjudi."</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
