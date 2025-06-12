@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah itu orang suci ataupun pendosa, semua orang punya hak untuk menegakkan keadilan mereka. Menolak keadilan mereka dan membunuhnya adalah hal tabu bagiku."</em><br>
-  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
+  <em>"Saat sudah dewasa, kemampuan bersosial itu jadi hal yang penting."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
 </div>
 <!-- QUOTE END -->
 
