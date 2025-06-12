@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pahlawan tidak pernah mengabaikan perbuatan baik yang tak dihargai."</em><br>
-  — <strong>Hiiro</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
+  <em>"Keinginan dari anak buahku yang manis adalah keinginanku juga."</em><br>
+  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
 </div>
 <!-- QUOTE END -->
 
