@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pada dasarnya semua manusia itu penyakitan. Jadi kita hanya perlu menyesuaikan diri."</em><br>
-  — <strong>Midori Kohakobe</strong>, <em>Yofukashi no Uta</em>
+  <em>"Pemenang hanya mendapatkan kepuasan dan kesombongan, tapi kau (yang kalah) mendapatkan sesuatu yang lebih bermakna."</em><br>
+  — <strong>Shouyou Yoshida</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
