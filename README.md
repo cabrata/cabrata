@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak punya cukup tenaga untuk bersikap baik terhadap semua orang."</em><br>
-  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Meski melarikan diri juga bisa berakhir bahagia, (tapi) aku ingin berjuang semampuku hingga titik darah penghabisan."</em><br>
+  — <strong>Moffle</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
