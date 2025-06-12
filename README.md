@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kita sepupu?
-Masalahku adalah masalahmu. Bajumu adalah bajuku (juga).
-Bukankah kita harusnya saling membantu?"</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Mana ada (orang bertarung untuk) menyelamatkan nyawa seseorang hanya karena demi kebaikan. Manusia bertarung demi hasrat mereka."</em><br>
+  — <strong>Wirbel</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
