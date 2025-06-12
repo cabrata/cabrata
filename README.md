@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menolong teman yang sedang kesulitan adalah hal yang wajar."</em><br>
-  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Meski tidak diperbolehkan, harusnya aku tetap memberitahukan keinginanku!"</em><br>
+  — <strong>Mamiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
