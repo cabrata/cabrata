@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya mereka yang lahir dengan bakat yang dapat menjadi seniman manga.
-Dan diantara mereka, hanya yang jeniuslah yang bisa melakukannya, sisanya hanyalah berjudi."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Aku tak peduli walaupun seluruh manusia di dunia ini mati asalkan gadis yang kucintai tetap hidup."</em><br>
+  — <strong>Shinra Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
