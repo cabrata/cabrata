@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci pria yang diam saja melihat seorang wanita tersakiti."</em><br>
-  — <strong>Sen Yarizui</strong>, <em>Ben-To</em>
+  <em>"Manusia bisa menjadi baik karena ada hal yang tidak mereka ketahui. Karena kalau manusia tahu segalanya, mereka tak akan berusaha. Jika mereka tak berusaha, maka tidak ada hal baru yang akan terjadi."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
