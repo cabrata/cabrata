@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tahu kalau aku ini (hanya) tiruan. Meskipun aku tidak memiliki masa lalu, tapi aku mempunyai keyakinan yang kuat!
-Aku mencintai Ryougi! Bahkan jika aku adalah tiruan, tapi hati ini nyata."</em><br>
-  — <strong>Tomoe Enjou</strong>, <em>Kara no Kyoukai 5: Mujun Rasen</em>
+  <em>"Mengikuti yang kuat adalah naluri makhluk lemah."</em><br>
+  — <strong>Demiurge</strong>, <em>Overlord III</em>
 </div>
 <!-- QUOTE END -->
 
