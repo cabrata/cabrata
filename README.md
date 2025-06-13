@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita bersama dan memenuhi kewajiban kita, masa depan yang indah akan menanti kita."</em><br>
-  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Bukan masalah bisa atau tidak bisa. Yang terpenting adalah apakah kau mau atau tidak."</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
