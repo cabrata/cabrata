@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suna, kali ini aku tak akan salah lagi. Tapi, jika aku kehilangan arah dan mulai mengambil jalan yang salah, tolong pukul aku."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Bisa melihat senyuman manismu setiap hari, sudah termasuk imbalan paling sempurna buatku."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Break Time</em>
 </div>
 <!-- QUOTE END -->
 
