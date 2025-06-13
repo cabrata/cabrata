@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku mungkin pria yang kikuk. Tapi ketika sudah menentukan satu hal, maka akan kulakukan sampai akhir."</em><br>
-  — <strong>Fudou Aikawa</strong>, <em>Koi wa Sekai Seifuku no Ato de</em>
+  <em>"Sesedih apapun suatu ingatan, setelah diceritakan semuanya hanya akan jadi suatu cerita."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
