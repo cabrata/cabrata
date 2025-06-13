@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pilihan yang telah kamu pilih sejauh ini, dan pilihan yang telah aku pilih selama ini. Itu adalah kumpulan dari pilihan yang telah kita pilih. Itulah yang membuat kita bersama. Itulah alasan mengapa kita berada di sini."</em><br>
-  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
+  <em>"Jika punya waktu untuk membuat konspirasi, lebih baik gunakan waktu itu untuk mengasah kemampuan."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
