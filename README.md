@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sangat menyukai kerendahan hatimu yang bahkan tak kausadari telah menjadi daya tarikmu."</em><br>
-  — <strong>Neko Fujinomiya</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Setiap orang pasti memiliki pandangan yang berbeda atas perbuatanmu. Ada yang menganggap tindakan yang telah kau lakukan itu benar, ada pula yang menganggapnya salah. Biarkan mereka bicara sesukanya, kau tidak perlu mempedulikannya. Karena yang kau lakukan bukanlah suatu hal yang benar ataupun hal yang salah. Kau hanya sedang menjalani masa mudamu."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Hanamonogatari</em>
 </div>
 <!-- QUOTE END -->
 
