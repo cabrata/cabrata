@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melihat ke bawah! Voli adalah olahraga dimana kau harus melihat ke atas!"</em><br>
-  — <strong>Keishin Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Aku tak ingin memperihatkan sisi bodohku. Kalau mau memperlihatkan, tentu harus memperlihatkan sisi kerenku."</em><br>
+  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
