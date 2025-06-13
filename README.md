@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada kalanya, seorang pria memfokuskan diri mereka pada pekerjaan untuk melupakan suatu hal (yang ingin mereka lupakan)."</em><br>
-  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
+  <em>"Kalian tak perlu selalu harus berdiri dan menghadapi masalah. Kalian boleh lari atau pun bersembunyi."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
