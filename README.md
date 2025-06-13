@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menabung itu hal bagus, tapi melakukan sesuatu yang berkesan juga bagus."</em><br>
-  — <strong>Rin Tooyama</strong>, <em>New Game!</em>
+  <em>"Tidak ada seorang pun yang akan menertawakan orang yang berusaha keras."</em><br>
+  — <strong>Naruzou Machio</strong>, <em>Dumbbell Nan Kilo Moteru?</em>
 </div>
 <!-- QUOTE END -->
 
