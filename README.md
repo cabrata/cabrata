@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang tidak menghargai karya orang lain adalah orang yang sudah lupa cara menikmati hidup."</em><br>
-  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service Kai</em>
+  <em>"Memang benar, akulah yang gila. Aku dibutakan delusi chuunibyou dan terpengaruh rasa keadilan murahan."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
