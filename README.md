@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesempatan takkan menunggu seseorang. Jika kau biarkan kesempatan pergi dengan berkata "Aku belum siap". Maka takkan ada lagi kesempatan seperti itu untukmu."</em><br>
-  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Pilihan yang telah kamu pilih sejauh ini, dan pilihan yang telah aku pilih selama ini. Itu adalah kumpulan dari pilihan yang telah kita pilih. Itulah yang membuat kita bersama. Itulah alasan mengapa kita berada di sini."</em><br>
+  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
 
