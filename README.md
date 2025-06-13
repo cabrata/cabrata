@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku berusaha menjadi orang dewasa yang ideal. (Tapi) yang kulakukan sebenarnya hanya berpura-pura menjadi orang dewasa. (Karena) anak-anak memerlukan sosok orang dewasa yang bisa menjadi sandaran hatinya."</em><br>
-  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
+  <em>"(Jika bertengkar) setidaknya pilih orang yang pantas untuk diajak bertengkar. Bertengkar dengan orang yang tak pantas diajak bertengkar hanya akan membuat dirimu (rendah) seperti orang yang kamu lawan."</em><br>
+  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
