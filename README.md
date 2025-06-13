@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak ingin memperihatkan sisi bodohku. Kalau mau memperlihatkan, tentu harus memperlihatkan sisi kerenku."</em><br>
-  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Aku bekerja demi meneruskan hobiku."</em><br>
+  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
 </div>
 <!-- QUOTE END -->
 
