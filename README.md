@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita adalah penemuan alam yang berada di tingkatan paling atas. Pria harus mengikuti wanita untuk memenuhi perintah alam dengan cara yang paling ekonomis."</em><br>
-  — <strong>Ernesta Kühne</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Orang-orang berkata kalau orang yang meninggal akan pergi ke surga. Tapi menurutku tidak begitu. Aku pikir jika kita mati kita akan pergi ke hati seseorang. Kita akan tinggal dalam kenangan mereka dan terus hidup. Seperti ayah dan ibu yang tinggal di hati kami. Tapi karena waktu, kenangan pun memudar. Jadi itulah mengapa orang-orang berharap untuk meninggalkan sesuatu agar tidak dilupakan dan tidak pernah dilupakan."</em><br>
+  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
