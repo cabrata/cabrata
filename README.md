@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cintaku seperti kilauan kembang api. Kilauan kecil yang perlahan meredup.
-Tapi, secercah cahaya kecil masih bersinar di hatiku."</em><br>
-  — <strong>Kazuko Hosogawa</strong>, <em>Tsurezure Children</em>
+  <em>"Berhutang kepada seseorang bukanlah hal yang memalukan, tapi justru memalukan jika tidak bisa melunasinya."</em><br>
+  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
 </div>
 <!-- QUOTE END -->
 
