@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagaimanapun juga, mereka berhasil memberi kita sedikit "sambutan". Ini tidak baik jika kita tidak "membalas budi"."</em><br>
-  — <strong>Yukio Kasamatsu</strong>, <em>Kuroko no Basket</em>
+  <em>"Kau tidak bisa berspekulasi berdasarkan masa lalu. Kau tak akan tahu apa yang akan terjadi sampai kau memainkannya."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
