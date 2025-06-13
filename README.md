@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia ini adalah realita. Realita adalah keadilan! Aku akan memuaskan hidupku didalam realita!"</em><br>
-  — <strong>Yoshiko Tsushima</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Jika kau adalah tipe orang yang mengabdikan sendiri pada seseorang, aku yakin ada seseorang diluar sana yang akan jatuh cinta padamu. Dengan kata lain, cinta pertamamu pasti akan datang. Aku tak bisa membayangkan seperti apa wajahmu shal itu terjadi, tapi aku yakin kau tak akan pernah menyangkanya."</em><br>
+  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
