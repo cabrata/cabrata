@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah jadi orang dewasa dan paham jarak hubungan dengan orang lain, kita jadi bisa menghindari perselisihan."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Anak muda seharusnya mencoba mendapatkan berbagai macam pengalaman."</em><br>
+  — <strong>Tachibana</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
