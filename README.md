@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ditegur bukanlah hal yang buruk. Itu bukti kalau seseorang sedang memperhatikan kita."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Jika kau menghindari pembicaraan yang tak penting, maka kau akan terhindar dari masalah yang tak penting."</em><br>
+  — <strong>Nozomu Itoshiki</strong>, <em>Sayonara Zetsubou Sensei</em>
 </div>
 <!-- QUOTE END -->
 
