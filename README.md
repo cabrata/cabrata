@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunci kesuksesan dalam berbisnis adalah senyuman."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Manusia yang tak berguna tak punya hak untuk bernapas."</em><br>
+  — <strong>Ryuunosuke Akutagawa</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
