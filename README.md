@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Guru dansa kami selalu bilang bukan berdansa dengan tersenyum. Tapi guru ingin kami tersenyum dengan sendirinya saat sedang berdansa, karena dansa adalah sesuatu yang harus dinikmati dari dalam hati. Karena itu adalah sesuatu yang akan menyinari hidup kami."</em><br>
-  — <strong>Akira Koumoto</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Jika dia belajar sedikit tentang kebahagiaan, dia pasti akan segera melampauiku, meskipun begitu kebahagiaan bukanlah perlombaan. Jika dia melampauiku, nanti giliran aku yang akan belajar darinya. Itulah yang namanya belajar, mengajar, dan saling membantu demi mencapai puncak bersama. Mari belajar bersama. Meskipun kebodohan kita tidak ada batasnya, tapi kita bisa menjadi bijak bersama. Kita bisa mendapat kebahagiaan yang layak bersama."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
