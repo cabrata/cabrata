@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakek berpesan, hiduplah dengan bebas, pilihlah jalan yang kau yakini dan hiduplah dengan kegembiraan."</em><br>
-  — <strong>Mikleo</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Kemungkinan menang hanyalah 0% saat semua pemain menyerah.
+Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
+Itulah sebabnya aku tidak akan menyerah!"</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
