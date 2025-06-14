@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menjadi "orang dewasa" itu tidak selalu mengesankan. Terkadang "dewasa" itu hanya penampilan luarnya saja. Mereka (hanya) ingin terlihat mengagumkan di depan masyarakat, (dan) ingin dihormati oleh anak-anak."</em><br>
-  — <strong>Sakie Satou</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Aku tak peduli dengan dojo. Aku ingin dojo dimana kakakku selalu tersenyum. Jika itu membuat kakakku menangis, maka aku tidak membutuhkan dojo seperti itu."</em><br>
+  — <strong>Shinpachi Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
