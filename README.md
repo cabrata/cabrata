@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kemungkinan menang hanyalah 0% saat semua pemain menyerah.
-Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
-Itulah sebabnya aku tidak akan menyerah!"</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Kau memang benar. Seperti yang telah kau katakan, aku memang bodoh. Jadi aku tak peduli apa yang kau katakan padaku! Tapi, jangan pernah mengarahkan senjatamu ke Kakakmu sendiri! Kita ini bersaudara!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
