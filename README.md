@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Percayalah dan berjalanlah di atas jalanmu sendiri."</em><br>
-  — <strong>Guy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Aku sedang bersaing dengan ayahku. Dan aku harus melakukan sesuatu yang hebat agar dia mau mengakuiku."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
