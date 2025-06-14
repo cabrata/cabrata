@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau menghindari pembicaraan yang tak penting, maka kau akan terhindar dari masalah yang tak penting."</em><br>
-  — <strong>Nozomu Itoshiki</strong>, <em>Sayonara Zetsubou Sensei</em>
+  <em>"Aku merasa menjadi pahlawan itu adalah bagian dari hobi.
+Dengan kata lain, selama aku bisa menghajar musuh, kurasa itu sudah cukup."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
