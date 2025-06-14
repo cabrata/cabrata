@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski tidak diperbolehkan, harusnya aku tetap memberitahukan keinginanku!"</em><br>
-  — <strong>Mamiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Dalam hati manusia, selalu ada kelemahan yang tersembunyi."</em><br>
+  — <strong>Saburouta Toudou</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
