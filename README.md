@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa menjadi pahlawan itu adalah bagian dari hobi.
-Dengan kata lain, selama aku bisa menghajar musuh, kurasa itu sudah cukup."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Asalkan kita masih punya keluarga, itu saja sudah cukup. Mimpiku dari awal hanyalah bisa hidup sampai tua denganmu."</em><br>
+  — <strong>Miyuki Fujioka</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
