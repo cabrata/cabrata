@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena tidak beruntung bukan berarti harus menderita.
-Hanya karena tidak menyenangkan bukan berarti harus membenci.
-Apa pun yang terjadi padamu, tetaplah bahagia."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Nekomonogatari: Kuro</em>
+  <em>"Manusia suka sekali membuat kesalahan yang sama. Mereka tak bisa diharapkan."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
