@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melihat ke atas, tapi lihatlah ke bawah. Hiduplah di dunia ini dengan melihat ke bawah. Jika melihat ke atas terus tidak ada habisnya. Melihat ke bawah juga tak ada habisnya."</em><br>
-  — <strong>Bunko Daikokutei</strong>, <em>Uchi no Shishou wa Shippo ga Nai</em>
+  <em>"Hiduplah seperti biasanya. Memang tidak mudah. Tapi kau punya banyak waktu yang terbentang luas di depanmu."</em><br>
+  — <strong>Ginko</strong>, <em>Mushishi</em>
 </div>
 <!-- QUOTE END -->
 
