@@ -5,9 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang tahu keputusan yang mana yang tepat bagi hidup mereka, dan itu kenapa aku membuat keputusan(ku) ini.
-Juga aku tidak setuju denganmu akan satu hal, seirin tidak lemah."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Dia tiba-tiba berhenti bicara, aku jadi tidak tahu apa yang harus kulakukan...
+Hatiku menjadi tak karuan, (dan) rasanya seperti terlahir kembali. Banyak perasaan yang belum pernah kurasakan sebelumnya.
+Kazehaya-kun seperti sedang memperkenalkanku dengan banyak hal yang baru. Aku senang bisa bertemu dengannya."</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
