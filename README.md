@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanyalah sampah anak tentara bayaran. Aku bodoh dan tak memiliki fisik yang baik. Kekuatan sihirku pun hanya selevel bayi. Namun, tak peduli apa kata orang-orang, aku tak membenci diriku sendiri. Karena akulah yang tahu nilai dari diriku sendiri."</em><br>
-  — <strong>Touka Scott</strong>, <em>Yuusha ga Shinda!</em>
+  <em>"Dazai pernah berkata, "Satu-satunya hal yang hanya dimiliki manusia dan tidak dimiliki oleh makhluk lainnya adalah kita memiliki rahasia""</em><br>
+  — <strong>Kotarou Azumi</strong>, <em>Tsuki ga Kirei</em>
 </div>
 <!-- QUOTE END -->
 
