@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bilang "Kebalikan dari dicintai itu bukanlah dibenci, tapi diabaikan"."</em><br>
-  — <strong>Retto Enjou</strong>, <em>Dokyuu H* HxEros</em>
+  <em>"Senang sekali ketika bersama dengan semuanya. Tapi ketika dia ada di sana jadi lebih menyenangkan. Ketika bersama dengannya jantungku berdebar-debar. Aku ingin lebih lama lagi bersama dengannya."</em><br>
+  — <strong>Anna Kobayakawa</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
