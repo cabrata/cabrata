@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebahagiaan cuma akan jadi kebahagiaan jika semua orang membaginya."</em><br>
-  — <strong>Nanana Ryuugajou</strong>, <em>Ryuugajou Nanana no Maizoukin</em>
+  <em>"Kerinduan mencengkeram orang lebih kuat daripada racun, dan lebih dalam daripada penyakit."</em><br>
+  — <strong>Lyza</strong>, <em>Made in Abyss</em>
 </div>
 <!-- QUOTE END -->
 
