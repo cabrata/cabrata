@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang kubenci adalah pria yang terus-menerus memikirkan kesalahan di masa lalu dan hal lain yang tak mungkin bisa dia ubah."</em><br>
-  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
+  <em>"Jika terus melarikan diri, kau takkan pernah bisa bangkit dan maju."</em><br>
+  — <strong>Elena Fujisawa</strong>, <em>Hanebado!</em>
 </div>
 <!-- QUOTE END -->
 
