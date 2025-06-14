@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi yang berusaha maka Tuhan akan tersenyum padamu, itu adalah bohong.
-Tapi, takdir Tuhan akan berkedip padamu."</em><br>
-  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
+  <em>"Jangan bilang semua (hal yang kau lakukan) itu sia-sia. Kau sudah berjuang keras untuk membuat dirimu menjadi lebih baik."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
