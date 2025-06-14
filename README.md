@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam hati manusia, selalu ada kelemahan yang tersembunyi."</em><br>
-  — <strong>Saburouta Toudou</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Aku hanyalah sampah anak tentara bayaran. Aku bodoh dan tak memiliki fisik yang baik. Kekuatan sihirku pun hanya selevel bayi. Namun, tak peduli apa kata orang-orang, aku tak membenci diriku sendiri. Karena akulah yang tahu nilai dari diriku sendiri."</em><br>
+  — <strong>Touka Scott</strong>, <em>Yuusha ga Shinda!</em>
 </div>
 <!-- QUOTE END -->
 
