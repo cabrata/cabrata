@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau aku merasa kesakitan hanya karena hal seperti ini, aku tak pantas menjadi pengawal Tuan Putri!"</em><br>
-  — <strong>Seishirou Tsugumi</strong>, <em>Nisekoi</em>
+  <em>"Selama ini aku telah menghabiskan waktu hidupku untuk berbohong. Setidaknya mulai dari sekarang, aku akan berusaha untuk jujur pada diriku sendiri."</em><br>
+  — <strong>Cagliostro</strong>, <em>Senki Zesshou Symphogear AXZ</em>
 </div>
 <!-- QUOTE END -->
 
