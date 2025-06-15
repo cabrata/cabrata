@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teruslah maju dan jangan berhenti sebelum bakat dan masa muda kalian menghilang."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Bukan masalah bisa atau tidak bisa. Yang terpenting adalah apakah kau mau atau tidak."</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
