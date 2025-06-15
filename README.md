@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak bisa terus-terusan terluka karena hal yang telah berlalu. Aku harus menghadapinya, menerimanya, memikirkannya, dan terus melangkah maju."</em><br>
-  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Tanpa rasa ingin tahu dan emosi, kau tidak akan puas dengan hobimu."</em><br>
+  — <strong>Soune</strong>, <em>Kobayashi-san Chi no Maid Dragon S</em>
 </div>
 <!-- QUOTE END -->
 
