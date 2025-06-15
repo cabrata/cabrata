@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku bisa menyelamatkan orang-orang yang ada disini, aku yakin mimpiku pasti ada di jalan Sang Pelindung. Aku akan menjadi Sang Pelindung!"</em><br>
-  — <strong>Sorey</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Saat kita terpisah, aku selalu saja memikirkan tentangmu. Kalau bisa, selama 24 jam (dalam sehari) aku ingin selalu bersama denganmu. Aku ingin memperhatikan setiap apa yang kamu lihat, apa yang kamu dengar, apa yang kamu makan, (dan) apa yang kamu rasakan. Aku ingin tahu segalanya (tentangmu)."</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
