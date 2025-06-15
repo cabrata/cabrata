@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling menakutkan dan sama sekali tak bisa diajak damai itu bukanlah makhluk gaib ataupun manusia, tapi "alam". (Alam itu) mengerikan seperti iblis, dan menakutkan seperti seseorang."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
+  <em>"Hari (pernikahan) ini adalah hari di mana seorang wanita terlihat paling cantik selama hidupnya."</em><br>
+  — <strong>Tomoe Wajima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
