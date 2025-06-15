@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cowok SMA biasanya kalau ada cewek yang menembaknya pasti seharian dia akan terus memikirkan cewek itu, bahkan meskipun dia tidak menyukainya."</em><br>
-  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke</em>
+  <em>"Jangan asal ambil keputusan penting yang bisa mengubah arah hidupmu hanya karena dirimu mengantuk atau bosan."</em><br>
+  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
