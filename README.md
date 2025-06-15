@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku pikir (seorang) koki akan mendapatkan nama yang jelek, kalau hanya mempedulikan harga bahan-bahan."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Pemandangan yang kau lihat dari tempat tinggi akan terlihat sangat menakjubkan, tak peduli walau pemandangannya biasa saja."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
