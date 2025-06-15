@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan terlalu menyalahkan dirimu hanya karena satu kesalahan."</em><br>
-  — <strong>Ibu Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Harapan yang tak berdasar hanyalah sebuah khayalan."</em><br>
+  — <strong>William Orville</strong>, <em>Toaru Majutsu no Index III</em>
 </div>
 <!-- QUOTE END -->
 
