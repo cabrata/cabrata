@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika lusa kau mati, aku akan hidup hingga tiga hari lagi.
-Aku akan menceritakan kisahmu pada orang-orang.
-Aku akan menceritakan tentang tuanku yang aku banggakan."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Satu nyawa dapat menyelamatkan nyawa lain."</em><br>
+  — <strong>Kuro no Saber</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
