@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau ada orang yang berusaha membunuhmu, kau pasti akan marah.
-Itu sangat berbeda jika ada orang yang mencoba membunuhmu tapi berakhir dengan kegagalan, terlihat memalukan."</em><br>
-  — <strong>Karma Akabane</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Cowok SMA biasanya kalau ada cewek yang menembaknya pasti seharian dia akan terus memikirkan cewek itu, bahkan meskipun dia tidak menyukainya."</em><br>
+  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
