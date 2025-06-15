@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan biarkan orang lain menentukan nilai dirimu."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Untuk mencapai potensi mereka sepenuhnya.
+Dengan semua mata yang melihat mereka, mereka harus menunjukkan banyak keberanian."</em><br>
+  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
