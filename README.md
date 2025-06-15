@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Spekulasi saja takkan mengubah fakta. Kita harus menerima kenyataan dan bergerak maju."</em><br>
-  — <strong>Kuro no Caster</strong>, <em>Fate/Apocrypha</em>
+  <em>"Saya sangat senang bahwa (hidup di) dunia ini tidak mudah."</em><br>
+  — <strong>Nadeko Sengoku</strong>, <em>Monogatari Series: Off & Monster Season</em>
 </div>
 <!-- QUOTE END -->
 
