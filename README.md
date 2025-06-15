@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pengeringan luka pada sisi yang terinfeksi adalah obat paling efektif.
-Tapi karena dia busuknya sampai ke inti, kalau kau terus mengeringkan lukanya, mungkin takkan ada lagi yang tersisa."</em><br>
-  — <strong>Chiriko Tsurumi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Aku pikir (seorang) koki akan mendapatkan nama yang jelek, kalau hanya mempedulikan harga bahan-bahan."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
