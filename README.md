@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau mungkin istimewa dan orang yang terpilih. Aku mungkin tidak istimewa dan juga bukan orang yang terpilih. Tidak ada yang bisa menggantikanmu, tapi banyak orang yang bisa menggantikanku. Namun, kau tidak akan bisa menjadi sepertiku. Banyak orang yang bisa menggantikanku, tapi aku adalah satu-satunya (tidak ada yang lain). Dirimu bukanlah diriku, dan diriku bukanlah dirimu."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Menghormati setiap individu tanpa merusak keinginan mereka bentuk dari idealisme yang sesungguhnya."</em><br>
+  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
