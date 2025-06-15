@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu hal yang berubah tidak selalu hal buruk."</em><br>
-  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
+  <em>"Bayak teman-temanku yang mati karena sesuatu yang mereka sukai."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
