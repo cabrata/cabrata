@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pergilah dulu, dan tunggu aku. Aku akan segera menyusul, mengendarai angin."</em><br>
-  — <strong>Sei Handa</strong>, <em>Barakamon</em>
+  <em>"Keadilan tanpa kekuatan hanyalah omong kosong."</em><br>
+  — <strong>Kakek Seigi</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
