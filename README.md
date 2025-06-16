@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang genius adalah orang yang mendedikasikan dirinya pada satu hal dan satu arah dalam kehidupannya. Setiap orang dapat melakukan berbagai hal. Namun, orang yang fokus pada satu hal mendapatkan keuntungan lebih daripada melakukan banyak hal."</em><br>
-  — <strong>Jun Aikawa</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Hati bukanlah sesuatu yang bisa dimengerti hanya dengan memikirkannya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
