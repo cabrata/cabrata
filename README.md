@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa pun yang kau lakukan, aku tetap mencintaimu."</em><br>
-  — <strong>Sumireko Sanshokuin</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Diatas langit memang masih ada langit."</em><br>
+  — <strong>You Watanabe</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
