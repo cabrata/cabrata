@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sudah memutuskannya, aku takkan kembali menjadi diriku yang naif dan tak berkutik."</em><br>
-  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Aku ingin menikmati hubungan asmara ini, bukan hasilnya."</em><br>
+  — <strong>Mari Shiina</strong>, <em>Renai Boukun</em>
 </div>
 <!-- QUOTE END -->
 
