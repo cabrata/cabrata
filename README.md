@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak peduli apapun itu, kau tak boleh memperlakukan orang lain dengan buruk."</em><br>
-  — <strong>Keita Amano</strong>, <em>Gamers!</em>
+  <em>"Kau tak boleh bilang "hidup sendiri" ketika banyak orang yang mengkhawatirkan dirimu."</em><br>
+  — <strong>Akari Kawamoto</strong>, <em>3-gatsu no Lion</em>
 </div>
 <!-- QUOTE END -->
 
