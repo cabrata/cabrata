@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau tak punya kekuatan, kau masih bisa berjuang dan berharap untuk meraih tujuanmu.
-Itu adalah prinsip yang di pegang teroris. ingat baik-baik."</em><br>
-  — <strong>Minene Uryuu</strong>, <em>Mirai Nikki</em>
+  <em>"Menghajar orang yang lemah itu menyedihkan."</em><br>
+  — <strong>Kana Kimishima</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
