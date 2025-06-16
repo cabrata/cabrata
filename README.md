@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masa muda itu seperti itu. Meskipun kau kesulitan atau tersesat, akan ada peluang untuk mencari tantangan baru dan menciptakan hal baru."</em><br>
-  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Balas dendam adalah motivasiku."</em><br>
+  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
