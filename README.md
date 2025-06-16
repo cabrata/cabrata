@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama jantungmu masih berdetak, kau berhak untuk tetap hidup dan mewujudkan keinginanmu."</em><br>
-  — <strong>Kuro no Rider</strong>, <em>Fate/Apocrypha</em>
+  <em>"Kalau kita bekerja sebagai politikus, kita akan dikelilingi oleh kebohongan."</em><br>
+  — <strong>Shizuka Takanashi</strong>, <em>Working!!! Lord of the Takanashi</em>
 </div>
 <!-- QUOTE END -->
 
