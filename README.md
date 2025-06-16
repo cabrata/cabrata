@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku memutuskan untuk selalu menjalani hidup dengan sepenuh hati. Dengan begitu, hidupku akan penuh dengan kebahagiaan hingga ajal datang menjemputku. Aku tak tahu apakah itu jalan yang benar atau salah. Tapi aku akan tetap menjalani dan menikmatinya hingga akhir."</em><br>
-  — <strong>Yoshifumi Aoki</strong>, <em>Kokoro Connect</em>
+  <em>"Hari (pernikahan) ini adalah hari di mana seorang wanita terlihat paling cantik selama hidupnya."</em><br>
+  — <strong>Tomoe Wajima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
