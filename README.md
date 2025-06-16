@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Diatas langit memang masih ada langit."</em><br>
-  — <strong>You Watanabe</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Aku adalah kesatria. Melindungi mata pencaharian wargaku merupakan tugas dan kehormatanku."</em><br>
+  — <strong>Dustiness Ford Lalatina</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!</em>
 </div>
 <!-- QUOTE END -->
 
