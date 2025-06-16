@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak bisa terus-terusan terluka karena hal yang telah berlalu. Aku harus menghadapinya, menerimanya, memikirkannya, dan terus melangkah maju."</em><br>
-  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Apapun logika yang diterapkan, (atau) apapun teori yang dibentuk, Keyakinan (tentang agama) dan makhluk gaib akan terus ada."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
