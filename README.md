@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada kutukan yang lebih kuat dari cinta."</em><br>
-  — <strong>Satoru Gojou</strong>, <em>Jujutsu Kaisen 0 Movie</em>
+  <em>"Kau boleh bekerja lembur, tapi perhatikan juga kesehatanmu!"</em><br>
+  — <strong>Chihiro Komiya</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
