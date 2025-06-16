@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan menyelamatkannya karena dia adalah temanku. Kalau ada orang yang membuatnya menderita, aku tidak akan memaafkannya!"</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya 3rei!!</em>
+  <em>"Mozart bilang, "Mulailah perjalananmu". Tak ada yang tahu kedepannya nanti akan seperti apa. Tapi, aku sudah mengambil satu langkah maju. (Meski begitu) kita baru memulai perjalanan kita. Aku sama sepertimu, seorang pemusik. Karena itulah aku melangkah maju."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
