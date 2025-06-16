@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita bekerja sebagai politikus, kita akan dikelilingi oleh kebohongan."</em><br>
-  — <strong>Shizuka Takanashi</strong>, <em>Working!!! Lord of the Takanashi</em>
+  <em>"Bahkan jika itu berarti mati, tidak ada satu pun dari kami yang akan mengkhianati teman sendiri."</em><br>
+  — <strong>Kakashi Hatake</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
