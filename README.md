@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka melakukan sesuatu yang tak ingin dilakukan orang lain."</em><br>
-  — <strong>Reines El-Melloi Archisorte</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Sebenarnya, tidak ada kehidupan yang tak berarti selain keindahan."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
