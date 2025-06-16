@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesedihan dan penderitaannya mencengkram hatiku. Aku tahu dia sudah berjuang lebih keras dari siapa pun. Aku ingin menolongnya, tapi aku sudah tak bisa lagi menggapainya."</em><br>
-  — <strong>Daru</strong>, <em>Kanojo to Kanojo no Neko: Everything Flows</em>
+  <em>"Tidak peduli apapun itu, kau tak boleh memperlakukan orang lain dengan buruk."</em><br>
+  — <strong>Keita Amano</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
