@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lupakan orang yang meninggalkanmu, dan persiapkan dirimu untuk cinta yang baru. Itulah yang harus dilakukan dalam menjalani cinta."</em><br>
-  — <strong>Kagura</strong>, <em>Gintama</em>
+  <em>"Aku tahu dia bisa berdiri sendiri. Meskipun begitu, aku akan tetap mengulurkan tanganku."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
