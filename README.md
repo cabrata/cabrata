@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta datang dalam berbagai bentuk. Mungkin memang tidak semuanya menyenangkan, tapi tetap saja (cinta) itu indah."</em><br>
-  — <strong>Mitsuki Shijou</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Aku tidak tahu apa yang sedang kamu lakukan, tapi kamu sangat berusaha keras, makanya aku ingin membuatkan sesuatu untukmu."</em><br>
+  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
