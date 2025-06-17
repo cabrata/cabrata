@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang tak mungkin bisa mendapatkan segalanya. Pasti akan datang hari ketika kita kehilangan. Karena itu majulah terus agar tak ada penyesalan."</em><br>
-  — <strong>Endorsi Jahad</strong>, <em>Kami no Tou</em>
+  <em>"(Touko-san, apa yang menyebabkan seseorang membunuh orang lain?)
+Itu terjadi ketika perasaan emosi pembunuh terhadap korban melampaui batasnya. Entah itu perasaan benci atau cinta, emosi yang tumpah dari wadahnya harus dibersihkan apapun caranya. Dan saat cara itu berubah ekstrem, maka akan menjadi pembunuhan."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
