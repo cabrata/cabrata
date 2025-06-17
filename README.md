@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua yang terlibat dalam pembuatan film adalah kreator. Tak ada perbedaan di sana."</em><br>
-  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
+  <em>"Menghancurkan dan menciptakan itu seperti dua sisi koin. Dengan kata lain, itu adalah hukum alam semesta."</em><br>
+  — <strong>Alex Louis Armstrong</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
