@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanya ingin hidup bermodal semangat dan senyuman aja."</em><br>
-  — <strong>Minami Nanami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
+  <em>"Saat anak - anak bermasalah, mereka membutuhkan orang dewasa disampingnya."</em><br>
+  — <strong>Yukari Nitani</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
