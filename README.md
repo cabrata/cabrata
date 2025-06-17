@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Alasanmu, terwujud dalam pengetahuanmu. Dan pengalamanmu, terwujud dalam kesadaranmu."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Kita sadar bahwa kita tidak bisa bebas. Karena bebas itu hanyalah perasaan yang kosong dan sunyi. Dan demi alasan itu, kita menginginkan kebebasan. Layaknya harta karun di dalam (cerita) novel petualangan yang tak bisa didapatkan oleh siapa pun. Hidup berarti selalu terpenjara oleh sesuatu."</em><br>
+  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
