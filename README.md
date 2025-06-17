@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah rangkaian dari pilihan yang kita buat. Kau harus melihat sejauh mana pilihan naifmu itu akan membawamu."</em><br>
-  — <strong>Abuto</strong>, <em>Gintama</em>
+  <em>"Siapapun pasti memiliki masalah dalam hidupnya. Kita semua sama. Karena itu, kamu harus menerima hal buruk sekalipun agar dapat melangkah ke depan."</em><br>
+  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
