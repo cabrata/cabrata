@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melihat ke atas terus.
-Bersabarlah, nanti juga akan ada yang jatuh ke tanah.
-Kalau tidak bisa mendapat yang di atas, kita ambil yg di bawah saja."</em><br>
-  — <strong>Yasu Nomura</strong>, <em>Barakamon</em>
+  <em>"Untuk membuat sesuatu yang dapat menarik perasaan user, pertama kau harus membuat sesuatu yang dapat menarik hatimu sendiri. Kau tidak bisa menggerakkan hati sesorang jika kau tak bisa menggerakkan hatimu sendiri."</em><br>
+  — <strong>Kazuki Fujisawa</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
