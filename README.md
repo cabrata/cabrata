@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mempelajari bahasa asing adalah sebuah siklus untuk mengatasi tantangan."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Yang paling menyebalkan adalah ketika orang lain berisik saat kita menginginkan ketenangan."</em><br>
+  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
