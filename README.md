@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan masalah benci atau tidaknya. Ibuku adalah Ibuku, takkan pernah berubah. Apapun yang terjadi, dialah yang melahirkanku."</em><br>
-  — <strong>Asuka Tanaka</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Aku hanya ingin hidup bermodal semangat dan senyuman aja."</em><br>
+  — <strong>Minami Nanami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
 </div>
 <!-- QUOTE END -->
 
