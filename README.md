@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berpikir untuk tidak terluka saat kau memutuskan untuk melangkahkan kakimu.
-Jangan terpaku pada kesempurnaan. Karena itu akan melukai orang lain dan orang lain juga akan melukaimu.
-Meski kau berlumuran lumpur sekalipun, kau harus tetap maju."</em><br>
-  — <strong>Evangeline Athanasia Katherine McDowell</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Seseorang tak mungkin bisa mendapatkan segalanya. Pasti akan datang hari ketika kita kehilangan. Karena itu majulah terus agar tak ada penyesalan."</em><br>
+  — <strong>Endorsi Jahad</strong>, <em>Kami no Tou</em>
 </div>
 <!-- QUOTE END -->
 
