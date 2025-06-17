@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat memang penting, tapi aku (lebih) cemburu dengan orang yang punya tujuan hidup."</em><br>
-  — <strong>Atomu Kai</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Jangan berpikir untuk tidak terluka saat kau memutuskan untuk melangkahkan kakimu.
+Jangan terpaku pada kesempurnaan. Karena itu akan melukai orang lain dan orang lain juga akan melukaimu.
+Meski kau berlumuran lumpur sekalipun, kau harus tetap maju."</em><br>
+  — <strong>Evangeline Athanasia Katherine McDowell</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
