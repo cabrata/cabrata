@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesuatu yang paling diinginkan seseorang pasti dimiliki oleh orang lain.
-Bagi orang yang memilikinya, sesuatu itu dianggap tidak penting.
-Bagi orang yang mendapatkan sesuatu yang paling mereka inginkan itu bagaikan sebuah keajaiban.
-Bahkan seluruh lelucon dan kejadian buruk yang terjadi akan luluh karena keajaiban itu.
-Pada dasarnya dunia ini seperti itu."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Otaku yang bersikap normal benar-benar membuat kesal."</em><br>
+  — <strong>Hanako Koyanagi</strong>, <em>Wotaku ni Koi wa Muzukashii</em>
 </div>
 <!-- QUOTE END -->
 
