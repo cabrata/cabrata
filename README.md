@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Otaku yang bersikap normal benar-benar membuat kesal."</em><br>
-  — <strong>Hanako Koyanagi</strong>, <em>Wotaku ni Koi wa Muzukashii</em>
+  <em>"Kematian adalah puncak dari kehidupan, untuk mendapatkan kematian terbaik, kau harus menghargai kehidupan."</em><br>
+  — <strong>Rory Mercury</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
 </div>
 <!-- QUOTE END -->
 
