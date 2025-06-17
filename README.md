@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak ingin membiarkan temanku menghadapi bahaya sendirian!"</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya</em>
+  <em>"Manusia boleh hidup dengan cara yang mereka mau. Menurutku orang yang berpegang teguh pada cara hidupnya sendiri adalah orang kuat yang sejati."</em><br>
+  — <strong>Oji-san</strong>, <em>Isekai Ojisan</em>
 </div>
 <!-- QUOTE END -->
 
