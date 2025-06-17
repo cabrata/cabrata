@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupanku di dunia nyata selalu saja membosankan, interaksi sosialpun terasa merepotkan. Jadi dunia maya adalah yang paling aku nikmati. Dan sekarang, aku telah dibuat menjadi orang jahat bagi banyak orang. Tapi di dunia nyata, aku punya keluarga yang menyemangati saat hidupku begitu berat sampai ingin mati, aku memiliki teman yang mendukung dan menyemangati dan ada rekan di band yang berkata ayo berjuang bersama. Jadi akan aku lakukan yang terbaik untuk mereka."</em><br>
-  — <strong>Yuu Haruna</strong>, <em>Fuuka</em>
+  <em>"Aku suka saat kau membelai kepalaku. Rasanya kita jadi saling terhubung melalui ikatan tanganmu dan rambutku. Aku suka suaramu. Hanya dengan mendengar satu kata darimu membuat hatiku terasa hangat. Aku suka matamu. Meskipun biasanya matamu sedikit tegang, tapi aku menyukai (sorot) matamu yang lembut ketika berbuat baik pada orang lain. Aku suka jarimu. Bagi seorang pria, jarimu sungguh indah. Tapi saat kau mengaitkan jarimu padaku, aku tahu kalau jari-jari itu menggenggam dengan kuat selayaknya seorang pria sejati. Aku suka caramu berjalan. Saat kita berjalan bersama, aku suka saat melihat dirimu menengok kebelakang untuk memastikan diriku tetap bersamamu. Aku suka wajahmu ketika tidur. Kau tampak terlena layaknya seorang bayi dengan bulu mata sedikit panjang. Saat aku menyentuh pipimu, kau tampak tenang. Bahkan saat kusentuh bibirmu, kau tak menyadarinya hingga membuat hatiku berdegup kencang... Aku mencintamu..."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
