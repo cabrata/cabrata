@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pahlawan tidak pernah mengabaikan perbuatan baik yang tak dihargai."</em><br>
-  — <strong>Hiiro</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
+  <em>"Jangan melihat ke atas terus.
+Bersabarlah, nanti juga akan ada yang jatuh ke tanah.
+Kalau tidak bisa mendapat yang di atas, kita ambil yg di bawah saja."</em><br>
+  — <strong>Yasu Nomura</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
