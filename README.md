@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun semua orang menyalahkannya, atau bahkan jika dirinya juga menyalahkan dirinya sendiri, aku akan menggenggam tangannya dan membawanya ke tempat yang terang."</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
+  <em>"Sesuatu yang paling diinginkan seseorang pasti dimiliki oleh orang lain.
+Bagi orang yang memilikinya, sesuatu itu dianggap tidak penting.
+Bagi orang yang mendapatkan sesuatu yang paling mereka inginkan itu bagaikan sebuah keajaiban.
+Bahkan seluruh lelucon dan kejadian buruk yang terjadi akan luluh karena keajaiban itu.
+Pada dasarnya dunia ini seperti itu."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
