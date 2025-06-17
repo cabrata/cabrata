@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika bersama denganmu, segalanya jadi menyenangkan."</em><br>
-  — <strong>Yukiko Asai</strong>, <em>Nijiiro Days</em>
+  <em>"Kesukaan orang itu berbeda-beda. Dan mungkin saja kamu menemukan hal yang lebih kamu sukai. Hal itu tidak perlu diputuskan sekarang. Selama tidak terburu-buru, kamu pasti baik-baik saja."</em><br>
+  — <strong>Chigusa Fukasawa</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
