@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Jalani) seperti (saat naik) kereta. Selama tetap di jalurnya, kau pasti akan sampai tujuan dengan lancar. Jadi, duduklah dengan tenang sampai tiba di tujuan."</em><br>
-  — <strong>Shikadai Nara</strong>, <em>Boruto: Naruto Next Generations</em>
+  <em>"Dunia ini adalah tanah kosong. Di mana yang tidak bersalah akan dilahap. Di mana seseorang tidak bisa bertahan hidup hanya dengan melakukan hal yang disenangi saja. Hanya mereka yang membakar ambisi dalam hati merekalah yang akan bisa bersaing untuk impian mereka di tanah kosong yang kejam ini!."</em><br>
+  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
