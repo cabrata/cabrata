@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cuma orang aneh yang bilang orang lain aneh."</em><br>
-  — <strong>Meiko Honma</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Hasil pertarungan tidaklah penting, menang ataupun kalah yang terpenting kau bisa mencapai tujuanmu."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
