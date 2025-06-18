@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Debar hatiku ini... menggelitik dan terasa menyenangkan.
-Kuharap besok segera tiba. Aku ingin segera melihat wajahnya."</em><br>
-  — <strong>Ai Nanasaki</strong>, <em>Amagami SS</em>
+  <em>"Seorang pria kesepian yang tidak mengenal cinta harus diselimuti dengan cinta tanpa syarat."</em><br>
+  — <strong>Mizuho Asano</strong>, <em>Bleach</em>
 </div>
 <!-- QUOTE END -->
 
