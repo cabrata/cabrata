@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"The Zone adalah keahlian yang hanya dimiliki dan disempurnakan oleh mereka yang benar-benar normal.
-Karakter utamanya adalah mereka dapat menahan situasi. Karena mereka senang dengan kehidupannya, mereka dapat membahagiakan yang sedang murung. Ini adalah aura unik dari karismatik "orang baik"."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Kesimpulan yang berbeda datang saat satu fakta dilihat dari dua titik pandang yang berbeda. Saat itu terjadi, itulah waktu untuk menilai dari sudut pandang yang paling benar. Bukan waktu untuk menyimpulkan kesimpulan sendirilah yang benar. Tapi memutuskan bahwa kau tidak benar juga hal yang salah."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
