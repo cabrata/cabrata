@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita yang baik menjaga rumah dengan tenang."</em><br>
-  — <strong>Anna Kyouyama</strong>, <em>Shaman King</em>
+  <em>"Tak peduli kau dilahirkan dimana, Aku senang kau ada disini!"</em><br>
+  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
