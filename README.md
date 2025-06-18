@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah rangkaian dari pilihan yang kita buat. Kau harus melihat sejauh mana pilihan naifmu itu akan membawamu."</em><br>
-  — <strong>Abuto</strong>, <em>Gintama</em>
+  <em>"Cinta adalah sesuatu yang dengan sendirinya dapat dirasakan oleh hatimu. Manis, berkilauan, membuatmu sadar bahwa kau merasa senang tanpa diberitahu orang lain."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
