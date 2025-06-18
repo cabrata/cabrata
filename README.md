@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang dewasa punya cara sendiri untuk tumbuh."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Kaulah tokoh utama dalam hidupmu sendiri."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100</em>
 </div>
 <!-- QUOTE END -->
 
