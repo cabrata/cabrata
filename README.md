@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam hati manusia, selalu ada kelemahan yang tersembunyi."</em><br>
-  — <strong>Saburouta Toudou</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Mengapa kau tidak bisa mempercayainya? Kalau orang tuanya saja tidak mempercayainya, lalu dia akan bergantung kepada siapa?"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
