@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meraka yang tak pernah mencoba tidak berhak iri pada mereka yang memiliki bakat.
-Mereka yang gagal itu karena mereka tidak membayangkan usaha yang dilakukan orang yang berhasil."</em><br>
-  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Jika kebohonganmu tidak bisa menipu dirimu sendiri, orang lain pun takkan bisa tertipu."</em><br>
+  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
