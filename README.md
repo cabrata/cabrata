@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebuah program komputer pasti memilih langkah terbaik, karena itu kau bisa mengalahkannya."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Kau tidak bisa berspekulasi berdasarkan masa lalu. Kau tak akan tahu apa yang akan terjadi sampai kau memainkannya."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
