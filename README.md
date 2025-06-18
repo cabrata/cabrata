@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang jenius itu bukanlah orang yang memiliki bakat atau kemampuan luar biasa. Memang itu diperlukan, tapi jika hanya mengandalkan bakat, orang itu tak lebih dari sekedar orang berbakat."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
+  <em>"Jangan ditunda lagi, lakukan sekarang.
+Seorang pria tidak akan pernah mencari-cari alasan."</em><br>
+  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
