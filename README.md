@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki itu bisa mati hanya karena patah hati."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Bunga-bunga yang indah pun pada akhirnya akan layu dan berguguran. Itulah takdir dari semua bentuk kehidupan."</em><br>
+  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
