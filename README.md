@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin menyalahkan seseorang karena tak ada yang berubah (dalam hidupku). Tapi aku salah. (Ternyata) jika aku ingin, bahkan dunia pun bisa berubah warna dalam sekejap."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Aku akan berada di sisimu. Mekipun aku pacarmu yang tidak bisa apa-apa dan hanya seperti sampah, tapi cintaku (padamu) melebihi siapapun. Aku akan melakukan yang bisa kulakukan."</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
