@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan berada di sisimu. Mekipun aku pacarmu yang tidak bisa apa-apa dan hanya seperti sampah, tapi cintaku (padamu) melebihi siapapun. Aku akan melakukan yang bisa kulakukan."</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Aku sedih. Aku cemas dan takut, hal itu membuatku tidak nyaman. Aku terpaku dan bersemangat, hal itu membuatku senang. Aku merasa kesepian, marah, dan juga menangis. Dadaku seperti tersengat dan rasanya sangat sakit. Aku sangat terpukau hingga tidak ingin kembali. Tapi, aku bahagia."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
