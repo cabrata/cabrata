@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku selalu berpikir bahwa hal terpenting untuk kakak adalah melakukan apapun yang membuat kakak senang. Karena kau selalu melindungiku lebih dari yang lain. Tapi aku ingin menjadi kuat. Kalau kakak ingin bertarung, aku akan bertarung denganmu. Aku tidak mau hanya dilindungi olehmu, aku ingin berdiri disampingmu. Jadi, kau tidak boleh menghentikanku, oke? Dan suatu hari nanti, Aku pasti akan menjadi lebih kuat darimu!"</em><br>
-  — <strong>Priscilla Urzaiz</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Aku ingin menyalahkan seseorang karena tak ada yang berubah (dalam hidupku). Tapi aku salah. (Ternyata) jika aku ingin, bahkan dunia pun bisa berubah warna dalam sekejap."</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
