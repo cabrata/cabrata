@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka tidak lebih dari sekedar monster yang dapat berbicara. Aku mendefinisikan mereka (para monster) yang dapat berbicara itu sebagai iblis."</em><br>
-  — <strong>Flamme</strong>, <em>Sousou no Frieren</em>
+  <em>"Orang jenius itu bukanlah orang yang memiliki bakat atau kemampuan luar biasa. Memang itu diperlukan, tapi jika hanya mengandalkan bakat, orang itu tak lebih dari sekedar orang berbakat."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
