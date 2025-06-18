@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selalu memandang hidup ke depan hanya akan membuat kita lelah."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Berdasarkan pamanku, ada syarat untuk menjadi seorang seniman manga. Dalam sekolah angan-angan Taro Kawaguchi, tiga syarat untuk menjadi seniman manga, jika kau bukanlah seorang jenius.
+1. kebanggaan, berpikirlah kau lebih baik daripada orang lain
+2. kerja keras
+3. keberuntungan"</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
