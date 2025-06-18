@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"kata paling disukai kita (aku dan kakakku) adalah "tidak", pada orang yang berpikiran kalau mereka mempunyai keuntungan mutlak."</em><br>
-  — <strong>Shiro</strong>, <em>No Game No Life</em>
+  <em>"Cuma orang aneh yang bilang orang lain aneh."</em><br>
+  — <strong>Meiko Honma</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
