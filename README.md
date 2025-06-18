@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang namanya keberuntungan di dunia ini. Aturan, prasyarat, keadaan psikologis, semua itu adalah jumlah faktor tak terlihat yang dikombinasikan menghasilkan ketidakpastian yang tak bisa dihindari."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Lalat bisa terbang tanpa belajar terlebih dahulu. Laba-laba bisa membuat jaring tanpa belajar terlebih dahulu. Kenapa bisa begitu? Menurutku lalat dan laba-laba hanya mengikuti perintah saja. Aku yakin seluruh makhluk di bumi menerima perintah dari suatu makhluk."</em><br>
+  — <strong>Reiko Tamura</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
