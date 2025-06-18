@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika ada yang berbohong, yang terpenting bukan isi dari kebohongannya, tetapi alasan kenapa berbohong."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"Senyumlah saat sedang dalam masalah."</em><br>
+  — <strong>Canaria Utara</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
