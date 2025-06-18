@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang selalu ingin mengetahui kebenaran, atau lebih tepatnya mereka ingin mempercayai apa yang diketahuinya itu benar. Jadi, kebenaran sebenarnya bukanlah hal yang utama."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Ketika aku menatap Kazehaya, aku tak bisa mengalihkan pandanganku. Mungkin karena itu, sebelum tidur wajah Kazehaya selalu muncul di pikiranku. Aku belum pernah merasakan perasaan spesial seperti ini sebelumnya."</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
