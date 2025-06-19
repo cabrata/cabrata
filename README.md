@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bodoh akan menghabiskan uangnya untuk hal yang tidak penting.
-Orang bijak akan menghabiskan uangnya untuk hal yang baik untuk dirinya.
-Baik buruknya orang dapat dinilai dari cara dia menghabiskan uangnya."</em><br>
-  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Asalkan kebenciannya padaku bisa membuatnya mencintai dirinya sendiri, kurasa itu lebih baik."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
