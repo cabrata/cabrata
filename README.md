@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu bergerak sesuai kata hati. Jadi hatimu akan semakin kuat."</em><br>
-  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Aku sangat suka melihat orang-orang bahagia karena melakukan sesuatu yang mereka cintai."</em><br>
+  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
 </div>
 <!-- QUOTE END -->
 
