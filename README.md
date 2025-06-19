@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau sangat baik, pekerja keras, dan selalu berusaha yang terbaik, dan juga, dadamu lebih besar dari dadanya! Jika tidak ada kau, aku pasti sudah mati digigit anjing-anjing itu. Aku selamat karena kau ada di sana. Dan sekarang, aku masih hidup! Bukan hanya karena kakakmu, tapi karena kau juga."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Orang bodoh akan menghabiskan uangnya untuk hal yang tidak penting.
+Orang bijak akan menghabiskan uangnya untuk hal yang baik untuk dirinya.
+Baik buruknya orang dapat dinilai dari cara dia menghabiskan uangnya."</em><br>
+  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
