@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan berada di sisimu. Mekipun aku pacarmu yang tidak bisa apa-apa dan hanya seperti sampah, tapi cintaku (padamu) melebihi siapapun. Aku akan melakukan yang bisa kulakukan."</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Misalnya...
+Misal saja aku bisa kembali ke save data seperti dalam sebuah game dan aku bisa mengambil pilihan yang tepat, maka apakah kehidupanku akan berubah...?
+Jawabannya adalah "tidak"."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
