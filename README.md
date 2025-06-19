@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau orangnya baik. Kau selalu mengajarkanku hal-hal baru. Terima kasih untuk semuanya. Jika tidak keberatan, tetaplah bersamaku selamanya."</em><br>
-  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
+  <em>"Aku suka buku. Aku sangat suka di perpustakaan.
+Satu buku berisi satu dunia. Dalam setiap "kata" yang berbeda, ada dunia yang berbeda. Setiap satu rak memiliki satu galaksi. Ini adalah dunia fantasi yang tak berujung. Ketika aku di perpustakaan ini, aku bisa pergi ke mana saja. Aku bisa menjadi siapa saja. Aku bisa melakukan apa saja."</em><br>
+  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
