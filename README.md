@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan menikah dengan orang lain (selain dirimu). Aku telah berdoa agar bisa bersamamu untuk selamanya."</em><br>
-  — <strong>Sae Nakata</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Aku adalah anak satan, dan aku tak bisa kabur dari kekuatan ini. Aku selalu takut untuk mengakui kekuatan ini dan menggunakannya. Tapi itu takkan berguna. Ini adalah aku, dan ini juga (anak satan) tetaplah aku. Sampai aku bisa mengakui kekuatan ini, aku takkan bisa melangkah kedepan. Jadi tolong terimalah aku dan kekuatan ini."</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
