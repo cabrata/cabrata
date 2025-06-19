@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Spekulasi saja takkan mengubah fakta. Kita harus menerima kenyataan dan bergerak maju."</em><br>
-  — <strong>Kuro no Caster</strong>, <em>Fate/Apocrypha</em>
+  <em>"Aku ingin melindungi waktuku bersamamu. Itu satu-satunya yang berarti bagiku."</em><br>
+  — <strong>Sakura Matou</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
