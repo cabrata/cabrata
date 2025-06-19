@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Pacaran itu) bukan untuk mencintai, tapi untuk "jatuh" cinta."</em><br>
-  — <strong>Aguri</strong>, <em>Gamers!</em>
+  <em>"Aku merasa kalau aku terus mengatakan (tentang impianku), itu benar-benar akan terwujud."</em><br>
+  — <strong>Airi Katagiri</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
