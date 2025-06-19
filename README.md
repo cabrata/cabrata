@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Faktor terbesar seseorang tak bisa berenang adalah rasa takut. Takut tak bisa bernapas, takut tak bisa menapakkan kaki, dan takut tenggelam. Karena ketakutan itu, tubuh menjadi kaku."</em><br>
-  — <strong>Mafuyu Kirisu</strong>, <em>Bokutachi wa Benkyou ga Dekinai!</em>
+  <em>"Yang kubenci adalah pria yang terus-menerus memikirkan kesalahan di masa lalu dan hal lain yang tak mungkin bisa dia ubah."</em><br>
+  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
