@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah seseorang mengajarimu untuk "lakukan yang paling mungkin, dan tuhan akan melakukan yang terbaik?" (tidak begitu bukan?) Usaha yang optimal membuatmu berhak menerima kebaikan nasib."</em><br>
-  — <strong>Shintarou Midorima</strong>, <em>Kuroko no Basket</em>
+  <em>"Jika kau ingin melakukan sesuatu yang kau sukai, kau harus memperjuangkan itu dengan belajar lebih baik lagi."</em><br>
+  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
