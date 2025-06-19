@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta hanyalah sebuah bug dari sirkuit saraf manusia. Kau bisa buang emosi yang tidak perlu itu ke tempat sampah."</em><br>
-  — <strong>Ryuunosuke Akasaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Menggunakan internet itu seperti menggunakan pisau untuk memasak atau menggunakan kertas untuk menulis. Pada dasarnya itu bukan tentang baik atau buruk. Karena keberadaan internet, maka kita (tinggal) menerimanya dan menggunakannya."</em><br>
+  — <strong>Akane Tsunemori</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
