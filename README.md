@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerja keras pasti membuahkan hasil. Bantuan pasti akan datang bagi mereka yang selalu bekerja keras."</em><br>
-  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Pahlawan itu tidak ada.
+Dalam dunia nyata, mereka yang beradaptasi dengan kenyataan yang akan menang."</em><br>
+  — <strong>Ryuuichi Kazama</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
