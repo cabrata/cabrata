@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus membunuh, demi kebaikan yang lebih besar."</em><br>
-  — <strong>Aiguille</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Cinta dapat membuat seseorang menjadi kuat dan lemah."</em><br>
+  — <strong>Hibiki Tsukahara</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
