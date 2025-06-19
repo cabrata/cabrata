@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah anak satan, dan aku tak bisa kabur dari kekuatan ini. Aku selalu takut untuk mengakui kekuatan ini dan menggunakannya. Tapi itu takkan berguna. Ini adalah aku, dan ini juga (anak satan) tetaplah aku. Sampai aku bisa mengakui kekuatan ini, aku takkan bisa melangkah kedepan. Jadi tolong terimalah aku dan kekuatan ini."</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Kau harus tetap berlari. Kau harus memikirkan perasaanmu sendiri. Berbohong pada diri sendiri dan melakukan apa yang orang lain mau hanya akan menyakitimu. Bukankah kau ingin menjadi school idol? Kalau begitu, kau harus terus melangkah maju."</em><br>
+  — <strong>Hanamaru Kunikida</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
