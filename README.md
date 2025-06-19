@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku menulis novel sebagai hobi. Dan hobi yang tidak dilakukan dengan serius akan membosankan, 'kan? Karena ini hobiku, maka aku melakukannya sepenuh hati."</em><br>
-  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei</em>
+  <em>"Kita hanya bisa menduga apa yang mereka pikirkan saat ini. Kau boleh menyebutnya prasangka, tapi membutuhkan pengalaman serta pengamatan untuk melakukan sebuah penghakiman."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
