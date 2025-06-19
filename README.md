@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakak itu memang hebat. Aku takkan pernah menandinginya."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Faktor terbesar seseorang tak bisa berenang adalah rasa takut. Takut tak bisa bernapas, takut tak bisa menapakkan kaki, dan takut tenggelam. Karena ketakutan itu, tubuh menjadi kaku."</em><br>
+  — <strong>Mafuyu Kirisu</strong>, <em>Bokutachi wa Benkyou ga Dekinai!</em>
 </div>
 <!-- QUOTE END -->
 
