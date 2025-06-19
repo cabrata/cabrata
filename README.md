@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menggunakan internet itu seperti menggunakan pisau untuk memasak atau menggunakan kertas untuk menulis. Pada dasarnya itu bukan tentang baik atau buruk. Karena keberadaan internet, maka kita (tinggal) menerimanya dan menggunakannya."</em><br>
-  — <strong>Akane Tsunemori</strong>, <em>Psycho-Pass</em>
+  <em>"Spekulasi saja takkan mengubah fakta. Kita harus menerima kenyataan dan bergerak maju."</em><br>
+  — <strong>Kuro no Caster</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
