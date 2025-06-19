@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku bisa menyelamatkan orang-orang yang ada disini, aku yakin mimpiku pasti ada di jalan Sang Pelindung. Aku akan menjadi Sang Pelindung!"</em><br>
-  — <strong>Sorey</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Entah melakukan hal baik ataupun hal buruk, jadilah boss!!"</em><br>
+  — <strong>Kagura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
