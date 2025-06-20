@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu harus mendapatkan apa yang kamu mau, karena gairah begitu penting dalam cinta."</em><br>
-  — <strong>Hikari Tsuneki</strong>, <em>Seiren</em>
+  <em>"Dunia tidak akan menunggumu untuk mendapat keyakinan."</em><br>
+  — <strong>Hansung Yu</strong>, <em>Kami no Tou</em>
 </div>
 <!-- QUOTE END -->
 
