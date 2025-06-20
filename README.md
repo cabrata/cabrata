@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman itu tidak bisa didapat dalam waktu yang singkat."</em><br>
-  — <strong>Shi</strong>, <em>Nyanko Days</em>
+  <em>"Aku iri padamu yang mempunyai semua yang aku inginkan. Kenapa selalu dirimu? Itu membuatku frustasi. Memang ada saat dimana aku membencimu. Tapi tidak hanya itu. Berkat dirimu, aku menemukan tujuan hidupku. Karena itu aku berusaha untuk meraihnya, namun (ternyata) gagal. Itu membuatku lebih frustasi. Meskipun begitu, semua itu adalah saat terbaik dalam hidupku. Jika saja aku tidak bertemu denganmu, aku takkan pernah merasakan perasaan seperti ini. Semua hal yang telah kau ajarkan padaku inilah yang membuatku mencintaimu. Aku sangat mencintaimu!"</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
