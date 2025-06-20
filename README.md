@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bila di dalam dirimu ada kenangan yang berharga, menurutku mubazir kalau kau meninggal (dengan sia-sia)."</em><br>
-  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
+  <em>"Kenyataan itu memang kejam, tapi kenyataan bukanlah kebohongan."</em><br>
+  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
