@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pikirkanlah sesuatu yang mungkin membuatmu tertarik, mungkin dengan merendam jari kakimu? Aku yakin jika dunia yang baru akan datang menyambutmu."</em><br>
-  — <strong>Producer</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Kenapa kau bohong pada dirimu sendiri? Kau mungkin bisa melarikan diri saat ini, tapi waktu tetap akan berlalu tanpa menyelesaikan masalahmu."</em><br>
+  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
