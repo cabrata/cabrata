@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku senang karenamu. Aku bahagia karenamu. Aku tertawa, tersenyum, dan ceria karenamu. Aku seperti bukan diriku sendiri. Karenamu aku percaya bahwa seorang sepertiku bisa berubah. Tapi... pada akhirnya aku tidak berubah."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Kita tak bisa menilai sesuatu yang tak bisa dilihat."</em><br>
+  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
 </div>
 <!-- QUOTE END -->
 
