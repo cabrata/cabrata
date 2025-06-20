@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin menyalahkan seseorang karena tak ada yang berubah (dalam hidupku). Tapi aku salah. (Ternyata) jika aku ingin, bahkan dunia pun bisa berubah warna dalam sekejap."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Justru membosankan kalau kamu sedih saat (gagal) mencoba menjawab ekspektasi orang lain."</em><br>
+  — <strong>Chisato Nishikigi</strong>, <em>Lycoris Recoil</em>
 </div>
 <!-- QUOTE END -->
 
