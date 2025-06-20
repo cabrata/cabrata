@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami sudah terbiasa diseret olehmu. Jadi, sebagai gantinya, bawalah kami ke dunia yang belum pernah kami lihat."</em><br>
-  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Sosoknya yang hanya diterangi oleh cahaya bulan itu lebih indah dari karya artistik mana pun."</em><br>
+  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
