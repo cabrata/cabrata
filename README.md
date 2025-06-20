@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia bisa benar dan salah. Kesalahan membuat mereka belajar lebih cepat, tapi butuh waktu untuk melihat kesalahan. Dan menghabiskan waktu bersama orang lain cukup membosankan. Sejauh yang kutahu, kesalahan yang menyusup kedalam rumahku dan mencuri hartaku itu lebih baik. Namun, aku tidak masalah, karena kau adalah sebuah kesalahan."</em><br>
-  — <strong>Fafnir</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Kita memang menemui jalan buntu, tapi aku takkan berhenti. Demi mereka yang telah tiada, aku harus tetap maju. Sebagai Putri Hyland, sebagai seseorang yang membimbing negeri ini menuju keadilan, tolong pinjamkanlah kekuatan kalian."</em><br>
+  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
