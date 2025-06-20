@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yakinlah pada dirimu sendiri! Semuanya akan baik baik saja! Semakin keras kau berusaha, kau pasti akan semakin beruntung!"</em><br>
-  — <strong>Miyano</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
+  <em>"Dunia ini terus maju. Kesenangan semua orang juga (terus) berubah. Karena itu, aku pun juga akan terus mencari sesuatu yang lebih berguna (bagi banyak orang)."</em><br>
+  — <strong>Minosuke</strong>, <em>Ojiisan no Lamp</em>
 </div>
 <!-- QUOTE END -->
 
