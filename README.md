@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenyataan itu memang kejam, tapi kenyataan bukanlah kebohongan."</em><br>
-  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
+  <em>"Aku telah menjadi monster yang bahkan mengontrol emosi saja tidak bisa."</em><br>
+  — <strong>Acrobatic Sarasara</strong>, <em>Dandadan</em>
 </div>
 <!-- QUOTE END -->
 
