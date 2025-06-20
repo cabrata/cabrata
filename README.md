@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku selalu mengutamakan apa yang aku inginkan meski banyak mengalami kegagalan."</em><br>
-  — <strong>Chisato Nishikigi</strong>, <em>Lycoris Recoil</em>
+  <em>"Seseorang tidak akan berjuang sekeras itu jika dia tidak menyukainya."</em><br>
+  — <strong>Keiko Ayano</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
