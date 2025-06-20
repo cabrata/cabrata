@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau begitu, jika kau tak lagi menganggapku sebagai ancaman, kau mau berteman denganku kan?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Kamu harus mendapatkan apa yang kamu mau, karena gairah begitu penting dalam cinta."</em><br>
+  — <strong>Hikari Tsuneki</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
