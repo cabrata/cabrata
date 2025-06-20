@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"The Zone adalah keahlian yang hanya dimiliki dan disempurnakan oleh mereka yang benar-benar normal.
-Karakter utamanya adalah mereka dapat menahan situasi. Karena mereka senang dengan kehidupannya, mereka dapat membahagiakan yang sedang murung. Ini adalah aura unik dari karismatik "orang baik"."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Kenapa kau bisa percaya pada makhluk hidup lemah seperti manusia? Jawabannya sederhana, aku tak percaya pada umat manusia. Manusia itu rendah, mereka semua adalah makhluk bodoh, termasuk aku. Mereka semua hanyalah sampah. Manusia di dunia ini dan duniaku tak ada bedanya sama sekali. Tapi aku percaya pada potensi umat manusia. Dialah (Shiro) bukti yang kupunya. Manusia berpotensi itu ada. Manusia berpotensi, memiliki harapan, dan fantasi yang dapat menggapai tempat dewa itu sendiri, dan semua itu tersimpan dalam tubuh kecil (nya)."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
