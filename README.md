@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada saat dimana kita harus tetap bertarung meskipun kita tahu pasti akan kalah."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Sejak awal kita memang tidak mungkin memahami apa yang dipikirkan orang lain. Bahkan jika kita memikirkan hal yang sama."</em><br>
+  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
