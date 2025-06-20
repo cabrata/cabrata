@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pada dasarnya, orang yang kuat adalah orang yang berusaha melindungi sesuatu."</em><br>
-  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
+  <em>"Teman itu tidak bisa didapat dalam waktu yang singkat."</em><br>
+  — <strong>Shi</strong>, <em>Nyanko Days</em>
 </div>
 <!-- QUOTE END -->
 
