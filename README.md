@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau ingin menyelamatkan seseorang yang tak bisa diselamatkan, kau akan tenggelam bersamanya."</em><br>
-  — <strong>Doppo Kunikida</strong>, <em>Bungou Stray Dogs</em>
+  <em>"Jika seseorang sudah bertekad, mereka pasti bisa melakukan apapun."</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
