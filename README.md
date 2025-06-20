@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sosoknya yang hanya diterangi oleh cahaya bulan itu lebih indah dari karya artistik mana pun."</em><br>
-  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Aku mendengarkan semua lagu mereka. Aku melihat video mereka setiap hari dan menghapal lagunya. Lalu aku berpikir, aku juga ingin melakukannya bersama teman-temanku. Aku ingin memiliki tujuan yang sama seperti mereka. Aku juga ingin bersinar!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
