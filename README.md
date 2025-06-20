@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Luka fisik dibiarkan akan sembuh sendiri. Namun, rasa sakit karena ditolak olehmu takkan pernah bisa hilang."</em><br>
-  — <strong>Romio Inuzuka</strong>, <em>Kishuku Gakkou no Juliet</em>
+  <em>"Agar dapat membaur dengan orang-orang di sekitar, aku bertingkah layaknya seorang anak yang baik dimata orang lain."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
