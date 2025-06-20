@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika dengan bertarung bisa melindungi senyuman seseorang, maka itu saja sudah cukup memberi alasan untukku melakukannya."</em><br>
-  — <strong>Hayato Kisaragi</strong>, <em>Hundred</em>
+  <em>"Jika aku bisa mengubah keadaan dengan pergi kesana (ke lapangan), kumohon biarkan aku masuk (bermain)."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
