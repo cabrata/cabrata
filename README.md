@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang tidak akan berjuang sekeras itu jika dia tidak menyukainya."</em><br>
-  — <strong>Keiko Ayano</strong>, <em>Sword Art Online</em>
+  <em>"Manusia akan memilih kesukaan mereka sendiri, lebih tepatnya mereka harus memilih sendiri."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
