@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nico Robin-senpai, bagi seorang laki-laki, kedipan matamu itu lebih berharga daripada nyawanya sendiri."</em><br>
-  — <strong>Bartolomeo</strong>, <em>One Piece</em>
+  <em>"Setiap kali kau mendapatkan satu hal yang kau inginkan, kau (juga) akan kehilangan satu hal yang kau inginkan."</em><br>
+  — <strong>Francis Scott Key Fitzgerald</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
