@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak tahu seberapa banyak orang yang datang, tapi jangan lupa ... setidaknya kamu memiliki penggemar disana."</em><br>
-  — <strong>Maya Haruna</strong>, <em>Fuuka</em>
+  <em>"Semua orang adalah orang bodoh yang tak mau dibilang bodoh oleh orang lain."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
