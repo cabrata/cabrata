@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebahagiaan adalah sesuatu yang hanya dapat dirasakan oleh diri sendiri dan tidak dapat dirasakan oleh orang lain. Memilihkan dan memutuskan kebahagiaan seseorang adalah tindakan egois."</em><br>
-  — <strong>Rhantolk Ytri Historia</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Saat kamu memuji sihirku, aku sangat senang. Kamu menyukai sesuatu yang sangat kubenci. Kamu menerima semuanya dariku. Hanya dengan bersamamu, aku merasa senang. Terima kasih karena telah memberikan sihir berharga untuk masa depanku."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
