@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengan menyelamatkan seseorang, berarti ada orang lain yang tak terselamatkan. Manusia hanya bisa menyelamatkan seseorang yang memang pantas diselamatkan sejak awal. Ini adalah hal yang wajar, sebagai bentuk pengorbanan seorang pahlawan."</em><br>
-  — <strong>Kiritsugu Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works</em>
+  <em>"Seorang yang berniat membunuh ayahnya sendiri tidak berhak untuk menjadi Raja."</em><br>
+  — <strong>Shizu</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
 </div>
 <!-- QUOTE END -->
 
