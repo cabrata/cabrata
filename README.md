@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sudah bukan anak kecil yang selalu ingin menang kalau bersaing."</em><br>
-  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
+  <em>"Kuberitahu rahasia melawan musuh yang kuat. Caranya mudah, teruslah bangkit dan serang mereka dengan jurusmu secara terus-menerus. Bagi pendekar, mereka yang berdiri hingga akhir adalah pemenangnya."</em><br>
+  — <strong>Eisen</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
