@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cepatlah meminta maaf kepada Ayahmu, kau takkan bisa meminta maaf jika dia telah mati."</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Bagi seorang Shakespeare sepertiku, karya seni adalah kehidupanku."</em><br>
+  — <strong>Aka no Caster</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
