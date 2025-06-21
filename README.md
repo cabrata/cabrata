@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi seorang Shakespeare sepertiku, karya seni adalah kehidupanku."</em><br>
-  — <strong>Aka no Caster</strong>, <em>Fate/Apocrypha</em>
+  <em>"Ekskul adalah metode terbaik untuk memisahkan anak muda yang belum matang dari masyarakat."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
