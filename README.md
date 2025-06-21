@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Justru membosankan kalau kamu sedih saat (gagal) mencoba menjawab ekspektasi orang lain."</em><br>
-  — <strong>Chisato Nishikigi</strong>, <em>Lycoris Recoil</em>
+  <em>"Aku sudah bukan anak kecil yang selalu ingin menang kalau bersaing."</em><br>
+  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
