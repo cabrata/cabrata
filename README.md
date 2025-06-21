@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dulu, ada kalanya kita berjuang tanpa malu terlunta-lunta tak jelas. Tapi sekarang, semuanya telah usai. Api yang kecil tapi kuat di hati kita ini memberitahu kita kalau yang kita lakukan selama ini tidak sia-sia."</em><br>
-  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Meskipun bergantung pada teman bukanlah hal yang buruk. Tapi jujur saja, sebaiknya kita mencari jalan keluar dengan kemampuan kita sendiri."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
