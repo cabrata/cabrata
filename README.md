@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hidup berkat bantuan dari banyak orang. Aku disini karena Ibu ada disini. Aku senang kau menjadi orang tuaku. Aku benar-benar beruntung."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>""Violet", saat kau dewasa nanti, kau pasti akan menjadi gadis yang cocok dengan nama itu. Kau bukanlah sebuah alat, tapi seorang yang pantas memiliki nama itu (Violet)."</em><br>
+  — <strong>Gilbert Bougainvillea</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
