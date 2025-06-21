@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika manusia memiliki keinginan, mereka bisa saja menjadi malaikat atau pun iblis."</em><br>
-  — <strong>Rika Suzuki</strong>, <em>Hataraku Maou-sama!</em>
+  <em>"Kita para penguasa itu seperti hewan ternak yang hanya memakan jabatan."</em><br>
+  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
