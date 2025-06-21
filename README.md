@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah putus Nico-kun. Aku selalu mencintai Nico-kun. Aku sangat mencintainya, sampai aku tidak bisa menahannya. Mungkin karena itulah aku tidak sadar bagaimana perasaannya."</em><br>
-  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
+  <em>"Mengurus murid dengan serius lebih penting daripada mengakhiri dunia."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
