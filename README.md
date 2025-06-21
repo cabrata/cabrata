@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama kau (masih) hidup, masa depan akan tetap ada. Entah nantinya akan berwarna seperti mawar atau lumpur, tapi jika tidak memiliki masa depan maka jalan (hidup) tak akan terhubung."</em><br>
-  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
+  <em>"Keinginanku mungkin tidak terpenuhi. Tapi aku pasti tidak akan mendapatkannya, jika aku tidak menginginkannya."</em><br>
+  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
 </div>
 <!-- QUOTE END -->
 
