@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Petualangan seribu mil harus dimulai dengan satu langkah!"</em><br>
-  — <strong>Kongou</strong>, <em>Kantai Collection: KanColle</em>
+  <em>"Aku tidak tahu seberapa banyak orang yang datang, tapi jangan lupa ... setidaknya kamu memiliki penggemar disana."</em><br>
+  — <strong>Maya Haruna</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
