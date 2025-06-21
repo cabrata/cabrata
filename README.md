@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kita membantu orang lain pada akhirnya akan berujung pada kebaikan pada diri kita sendiri."</em><br>
-  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba: Katanakaji no Sato-hen</em>
+  <em>"Ada hukum berarti ada pelanggaran."</em><br>
+  — <strong>Masakazu Masaki</strong>, <em>Eve no Jikan</em>
 </div>
 <!-- QUOTE END -->
 
