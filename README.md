@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan dasar polisi adalah melayani dan mengayomi masyarakat."</em><br>
-  — <strong>Seiko Fuji</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Di lingkungan orang-orang dewasa, setiap kerja keras akan selalu mendapat imbalan."</em><br>
+  — <strong>Yoshifumi Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
