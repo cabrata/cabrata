@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bunga Corong Ungu, dalam bahasa bunga berarti "Aku akan mengobati sakitmu"."</em><br>
-  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
+  <em>"Wanita terlihat paling cantik ketika mereka membicarakan orang yang mereka sukai."</em><br>
+  — <strong>Hiroomi Souma</strong>, <em>Working!!</em>
 </div>
 <!-- QUOTE END -->
 
