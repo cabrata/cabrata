@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika dibilang jangan lakukan maka lakukanlah, Jika itu rahasia maka cari tahu."</em><br>
-  — <strong>Mikan Akemi</strong>, <em>Jitsu wa Watashi wa</em>
+  <em>"Cuma orang aneh yang bilang orang lain aneh."</em><br>
+  — <strong>Meiko Honma</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
