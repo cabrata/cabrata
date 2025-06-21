@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagaimanapun juga, mereka berhasil memberi kita sedikit "sambutan". Ini tidak baik jika kita tidak "membalas budi"."</em><br>
-  — <strong>Yukio Kasamatsu</strong>, <em>Kuroko no Basket</em>
+  <em>"Sebuah program komputer pasti memilih langkah terbaik, karena itu kau bisa mengalahkannya."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
