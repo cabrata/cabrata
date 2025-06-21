@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa kau percaya dengan takdir?
-Apa kau mendengarnya? suara dari langkah takdir kita yang semakin mendekat."</em><br>
-  — <strong>Souichi Jounouchi</strong>, <em>Kimi ni Todoke</em>
+  <em>"Cepatlah meminta maaf kepada Ayahmu, kau takkan bisa meminta maaf jika dia telah mati."</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
