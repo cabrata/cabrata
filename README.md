@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ini tidak berpikir kalau aku memiliki tenaga yang lemah. Aku hanya tidak ingin membuang energi untuk hal yang percuma."</em><br>
-  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
+  <em>"Apa kau percaya dengan takdir?
+Apa kau mendengarnya? suara dari langkah takdir kita yang semakin mendekat."</em><br>
+  — <strong>Souichi Jounouchi</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
