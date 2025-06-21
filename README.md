@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada yang memberitahuku kalau menemui hambatan yang berat dan kehilangan harapan, maka ubahlah caramu melihat cahaya (kehidupan)."</em><br>
-  — <strong>Aso Misato</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
+  <em>"Preman dan politikus itu mempedulikan imej mereka lebih dari apapun."</em><br>
+  — <strong>Ekubo</strong>, <em>Mob Psycho 100</em>
 </div>
 <!-- QUOTE END -->
 
