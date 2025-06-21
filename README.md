@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Preman dan politikus itu mempedulikan imej mereka lebih dari apapun."</em><br>
-  — <strong>Ekubo</strong>, <em>Mob Psycho 100</em>
+  <em>"Bagaimanapun juga, mereka berhasil memberi kita sedikit "sambutan". Ini tidak baik jika kita tidak "membalas budi"."</em><br>
+  — <strong>Yukio Kasamatsu</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
