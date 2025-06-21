@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ini tidak berpikir kalau aku memiliki tenaga yang lemah. Aku hanya tidak ingin membuang energi untuk hal yang percuma."</em><br>
-  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
+  <em>"Rasanya mendebarkan saat kau berpikir bahwa setiap orang memiliki rahasia masing-masing."</em><br>
+  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
