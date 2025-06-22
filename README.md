@@ -5,10 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Percaya pada orang lain, saling membantu dan saling mendukung adalah hal yang paling tepat untuk dilakukan.
-Tapi itu hanya idealistis. Kenyataannya orang-orang tidak seperti itu.
-Jadi aku tidak ingin menyuruhmu bergantung pada orang lain."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Semua laki-laki itu bodoh dan cemburuan.
+Begitu pula para perempuan bodoh yang bahagia ketika melihat laki-laki sedang cemburu."</em><br>
+  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
 </div>
 <!-- QUOTE END -->
 
