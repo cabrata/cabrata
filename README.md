@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah kau ada di pihak yang membunuh atau di pihak yang menyelamatkan, apapun yang kau harapkan takkan muncul. Tak ada satu pun di dunia ini yang bisa mengisi lubang di hatimu. Kau akan berkelana di dalam kegelapan selamanya. (Meskipun begitu) berpihaklah pada mereka yang menyelamatkan orang-orang. Jika kedua pihak sama saja, maka jadilah orang baik. Selamatkan yang lemah dan lindungi anak-anak yatim piatu. Meski itu tak ada pengaruhnya padamu, tapi itu akan membuatmu jadi manusia yang lebih baik."</em><br>
-  — <strong>Sakunosuke Oda</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Kalau kau menghentikan langkahmu karena takut dengan masa depan, maka kau takkan mendapatkan apa-apa, takkan ada  hal yang dimulai. Kau hanya akan menghabiskan hidupmu seperti orang yang sudah mati."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
