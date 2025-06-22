@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Datang terlambat sebenarnya bukan hal yang buruk.
-Polisi datang setelah ada kejadian yang terjadi.
-Dan pahlawan selalu datang terlambat.
-Tapi, apakah ada yang menyalahkan mereka?
-Jadi keterlambatan adalah keadilan."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Tidak ada yang tahu apa yang menunggu di masa depan. Karena itulah ada kemungkinan yang tak terbatas. Seperti pertemuan ini..."</em><br>
+  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate</em>
 </div>
 <!-- QUOTE END -->
 
