@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau menelusuri akar, ranting, dan daun yang membawamu mencapai kebenaran, maka kau akan mengerti segalanya, lalu kau mampu menguasainya!"</em><br>
-  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Entah itu jalan yang lurus ataupun jalan yang menyesatkan, selama kami masih bisa berjalan di sampingmu, kami tak peduli ke manapun kami pergi."</em><br>
+  — <strong>Toushirou Hijikata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
