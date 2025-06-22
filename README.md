@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah itu jalan yang lurus ataupun jalan yang menyesatkan, selama kami masih bisa berjalan di sampingmu, kami tak peduli ke manapun kami pergi."</em><br>
-  — <strong>Toushirou Hijikata</strong>, <em>Gintama°</em>
+  <em>"Jarang sekali rencana pertamaku berjalan mulus seperti yang ku harapkan. (Maka dari itu) Aku membuat rencana cadangan yang lebih detail untuk hal yang tak terduga dalam misi pembunuhan."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
