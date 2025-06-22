@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jarang sekali rencana pertamaku berjalan mulus seperti yang ku harapkan. (Maka dari itu) Aku membuat rencana cadangan yang lebih detail untuk hal yang tak terduga dalam misi pembunuhan."</em><br>
-  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Aku mencari yang kuat dan cukup ambisius.
+Kau harus melakukan lebih baik dari sekedar "memainkan pertadingan pertamaku" atau "melakukan yang terbaik"."</em><br>
+  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
