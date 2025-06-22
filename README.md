@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerajaan Lugnica bukanlah milik sang Naga! Tapi milik kita semua!"</em><br>
-  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Keadilan adalah senjata... Senjata yang dapat digunakan untuk melukai, tapi tidak bisa digunakan untuk melindungi ataupun menyelamatkan orang lain."</em><br>
+  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
