@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu hari waktu akan memisahkan kita kan?
-Tapi.., walaupun begitu, hingga saat itu, mari tetap bersama."</em><br>
-  — <strong>Hotaru Takegawa</strong>, <em>Hotarubi no Mori e</em>
+  <em>"Aku tidak tahu apa yang sedang kamu lakukan, tapi kamu sangat berusaha keras, makanya aku ingin membuatkan sesuatu untukmu."</em><br>
+  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
