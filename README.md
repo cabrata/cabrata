@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam perjalanan nanti aku tidak tahu seberapa besar kemungkinanku bisa bertemu lagi dengannya.
-Mungkin hal itu semustahil melihat komet (yang hanya muncul 200 tahun sekali).
-Meskipun begitu, aku tidak akan ragu lagi. Karena dia telah memberiku keberanian untuk melangkah maju melewati pintu yang telah lama mengurungku."</em><br>
-  — <strong>Leon Stephanotis</strong>, <em>Violet Evergarden</em>
+  <em>"Yang aku inginkan bukanlah pisau atau apapun itu, hanya tanganmu inilah yang kuinginkan. Apapun yang akan terjadi di masa depan aku tak akan melepaskan tanganmu ini. Karena itulah kisahku berakhir disini. Aku telah menerima diriku yang sekarang, diriku yang lalu, dan perlahan mulai menjalani kehidupanku."</em><br>
+  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
