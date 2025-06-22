@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan membiarkanmu dimiliki oleh siapapun. Terima kasih sudah mau menyukaiku."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Yang harus kulakukan sebagai yang terlemah adalah mengalahkan yang terkuat."</em><br>
+  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
