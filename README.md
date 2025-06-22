@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku menulis novel sebagai hobi. Dan hobi yang tidak dilakukan dengan serius akan membosankan, 'kan? Karena ini hobiku, maka aku melakukannya sepenuh hati."</em><br>
-  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei</em>
+  <em>"Sudah kuputuskan. Aku adalah "bayangan".
+Semakin kuat cahayanya, semakin kuat bayangannya.
+Aku akan menjadi bayangan dari cahayamu, dan menjadikanmu pemain terbaik di jepang."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
