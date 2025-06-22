@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat anak - anak bermasalah, mereka membutuhkan orang dewasa disampingnya."</em><br>
-  — <strong>Yukari Nitani</strong>, <em>Usagi Drop</em>
+  <em>"Aku tak mau kencan dengan gadis yang menjelek-jelekkan teman baikku."</em><br>
+  — <strong>Makoto Sunakawa</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
