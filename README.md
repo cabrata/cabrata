@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menjadi Superstar memang banyak rintangannya. Rintangan itu akan membuatmu tahu apakah kaulayak atau tidak."</em><br>
-  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kami tidak seperti manusia yang takut akan kematian. Karena kami sudah hidup cukup lama dan tidak meninggalkan penyesalan."</em><br>
+  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
