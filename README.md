@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat wanita menunjukkan kelemahannya, saat itulah pria bertindak. Tolong berhati-hatilah."</em><br>
-  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
+  <em>"Dia begitu periang dan polos. Dia juga tahu apa yang tidak bisa kukatakan. Kupikir itulah yang membuatku suka padanya."</em><br>
+  — <strong>Tsuyoshi Naoe</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
