@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang aku inginkan bukanlah pisau atau apapun itu, hanya tanganmu inilah yang kuinginkan. Apapun yang akan terjadi di masa depan aku tak akan melepaskan tanganmu ini. Karena itulah kisahku berakhir disini. Aku telah menerima diriku yang sekarang, diriku yang lalu, dan perlahan mulai menjalani kehidupanku."</em><br>
-  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
+  <em>"Manusia itu kuat karena memiliki kemampuan untuk mengubah dirinya sendiri."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
