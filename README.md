@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tidak memperhatikan hal di sekitarmu, kau akan melewatkan hal-hal yang penting."</em><br>
-  — <strong>Haruta Kamijou</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
+  <em>"Walau dunia ini memusuhimu, aku akan tetap di sampingmu."</em><br>
+  — <strong>Miyabi Azumaya</strong>, <em>Dimension W</em>
 </div>
 <!-- QUOTE END -->
 
