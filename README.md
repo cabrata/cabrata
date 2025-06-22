@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walau dunia ini memusuhimu, aku akan tetap di sampingmu."</em><br>
-  — <strong>Miyabi Azumaya</strong>, <em>Dimension W</em>
+  <em>"Intinya, ada 2 pilihan yang bisa diambil saat bermain game. Buat strategimu sendiri, atau memanfaatkan strategi pemain lain. Pertanyaannya adalah siapa yang memiliki inisiatif. Dalam pertandingan ini, kamilah yang membuat inisiatif selama game berlangsung."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
