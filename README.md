@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginanku mungkin tidak terpenuhi. Tapi aku pasti tidak akan mendapatkannya, jika aku tidak menginginkannya."</em><br>
-  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
+  <em>"Jika satu kata tak cukup mengungkapkan perasaanmu, ungkapkanlah dengan semua kata-kata. Kalau kamu tidak bisa mempercayai kata-kata, ungkapkan dengan tindakan."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
