@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada yang tahu apa yang menunggu di masa depan. Karena itulah ada kemungkinan yang tak terbatas. Seperti pertemuan ini..."</em><br>
-  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate</em>
+  <em>"Hanya manusia saja yang membutuhkan waktu untuk menjadi dewasa."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
