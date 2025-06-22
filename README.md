@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berjuanglah sekeras mungkin. Kerahkan seluruh pikiran dan hatimu untuk mencari jalan keluar bersama dengan mereka. Biarkan hatimu yang telah mengering dan layu itu sekali lagi bermekaran."</em><br>
-  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
+  <em>"Kalau memang benar bahwa ada Sang Pencipta, pasti Dia yang membuat dunia yang besar ini. Karena (besarnya dunia yang diciptakanNya) itu, membuat manusia kecil yang penakut menjadi kesulitan (untuk hidup). Di dunia yang luas ini, kita bahkan tidak bisa mengukur jarak antara manusia. Meskipun ada enam milyar orang, tapi semuanya (hidup) sendirian. Semua orang terus mencari, seorang (pendamping) yang tak butuh jarak (untuk hidup bersama)."</em><br>
+  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge</em>
 </div>
 <!-- QUOTE END -->
 
