@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pistol itu simpel. Pistol dapat mengakhiri suatu hal hanya dengan satu letupan. Tidak serumit hubungan antara manusia."</em><br>
-  — <strong>Canaan</strong>, <em>Canaan</em>
+  <em>"Orang-orang sering melihat ke langit ketika mereka sedang bingung."</em><br>
+  — <strong>Tooru Miyamae</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
