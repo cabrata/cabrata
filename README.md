@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Belajar itu memang penting, tapi cinta juga penting."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>""</em><br>
+  — <strong>Masafumi Akagi</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
