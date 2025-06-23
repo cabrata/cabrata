@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada masalah adalah masalah."</em><br>
-  — <strong>Medaka Kurokami</strong>, <em>Medaka Box</em>
+  <em>"Aku tak tahan jauh darimu. Aku cemas jika kau tak ada (disampingku)."</em><br>
+  — <strong>Misaki Kamiigusa</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
