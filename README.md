@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak peduli siapa orang yang dulu kau sukai. Karena saat ini akulah yang berjalan bersamamu."</em><br>
-  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Tidak ada masalah adalah masalah."</em><br>
+  — <strong>Medaka Kurokami</strong>, <em>Medaka Box</em>
 </div>
 <!-- QUOTE END -->
 
