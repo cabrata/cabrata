@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berjuang sebisa mungkin adalah kunci keberhasilan."</em><br>
-  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Manusia lahir, tumbuh, dan mati tanpa arti. Setelah semuanya berakhir barulah terlihat apa itu arti hidup."</em><br>
+  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
