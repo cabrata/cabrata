@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau ingin menyelamatkan seseorang yang tak bisa diselamatkan, kau akan tenggelam bersamanya."</em><br>
-  — <strong>Doppo Kunikida</strong>, <em>Bungou Stray Dogs</em>
+  <em>"Aku seharusnya tidak menangis. Dibandingkan dengan menghabiskan waktu dengan menangis, aku harusnya bisa menambah beberapa teman!"</em><br>
+  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
