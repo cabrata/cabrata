@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah minta maaf atas kerja kerasmu.
-Itu sama saja kau menghina tekadmu sendiri."</em><br>
-  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Hiduplah seperti biasanya. Memang tidak mudah. Tapi kau punya banyak waktu yang terbentang luas di depanmu."</em><br>
+  — <strong>Ginko</strong>, <em>Mushishi</em>
 </div>
 <!-- QUOTE END -->
 
