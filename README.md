@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia sudah ditakdirkan mengecap rasa enak, wajar jika mereka mencari yang sesuai dengan seleranya!"</em><br>
-  — <strong>Zero</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
+  <em>"Mereka yang bekerja keras pasti akan diberikan kesempatan sebagai imbalan."</em><br>
+  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
