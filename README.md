@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Takkan ada orang yang senang jika kau hanya mementingkan tujuanmu saja. Inti dari sebuah negosiasi adalah mendengarkan persyaratan dari kedua belah pihak."</em><br>
-  — <strong>Anastasia Hoshin</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kuusap air mataku, akupun mulai berjuang dan bertarung semampuku. Yang ada dipikiranku hanyalah untuk selalu menang, bertambah kuat, dan terus melangkah maju."</em><br>
+  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
