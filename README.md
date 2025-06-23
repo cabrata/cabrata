@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk mengetahui siapa sebenarnya dirimu, kau harus melangkah keluar dari duniamu sendiri."</em><br>
-  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Jangan marah begitu, Tuan Putri. Tatapan marahmu akan membuat kecantikanmu menurun drastis."</em><br>
+  — <strong>Aldebaran</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
