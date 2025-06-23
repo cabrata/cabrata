@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman adalah seseorang yang selalu bersama tak peduli apapun yang terjadi. Teman adalah seseorang yang dapat menanggung dosa bersama. Bukankah itu yang dinamakan teman?"</em><br>
-  — <strong>Yoshitake Tanaka</strong>, <em>Danshi Koukousei no Nichijou</em>
+  <em>"24 jam dalam satu hari itu tidak cukup. Apakah kamu pernah merasakan seperti itu?
+Aku ingin melakukan semua hal yang ingin kulakukan. Tapi, tidak bisa (karena waktunya tak cukup)."</em><br>
+  — <strong>Yuuka Kobayakawa</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
