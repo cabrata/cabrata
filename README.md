@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat seorang murid yang menatap masa depannya itu begitu indah."</em><br>
-  — <strong>Souma</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Bagiku, keberadaan dirinya seperti dunia itu sendiri. Aku lebih baik mati daripada kehilangan dirinya."</em><br>
+  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
