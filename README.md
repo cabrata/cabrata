@@ -5,12 +5,13 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku kebanggaan diri dan keserakahan juga penting.
-Jika seseorang tidak memiliki kebanggaan diri, dia jadi tak punya rasa percaya diri.
-Jika ada seseorang yang tidak memiliki rasa keserakahan, aku yakin dia pasti kesulitan untuk menafkahi keluarganya.
-Jika di dunia ini orang tidak saling iri dengan milik sesamanya, mungkin saja penemuan-penemuan baru tidak akan tercipta.
-Aku hanya berpikir kalau konsep "dosa besar" tidak dapat diterapkan begitu saja dalam kehidupan sehari-hari kita."</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Apa kalian menyukai sekolah?
+Aku sangat menyukainya. Kalian mungkin menganggapnya aneh, tapi sekolah adalah tempat yang hebat.Ruang fisika punya banyak peralatan yang aneh...
+Ruang musik punya instrumen-instrumen yang indah dan potret yang menyeramkan.
+Ruang penyiaran adalah panggung sekolah, segalanya ada layaknya sebuah negara. Tidak ada bangunan yang aneh selain ini. Aku menyukainya...Aku benci belajar, tapi aku tidak benci guru. Saat aku lupa PR-ku, mereka mengajarkan cara menyelesaikannya. Saat tertidur di kelas, aku dimarahi.Aku berteman baik dengan teman sekelas dan (terkadang) bertengkar.
+Semuanya bersama-sama. Terkadang juga sendirian.
+Ada kalanya menyenangkan, ada kalanya sedih, ada banyak hal (yang kurasakan), itulah mengapa aku sangat menyukai sekolah ini."</em><br>
+  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
