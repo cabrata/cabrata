@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di jamanku dulu, tidak ada hal yang sia-sia. Meskipun ada perbudakan, tapi budak itu memiliki tujuan (hidup). Apapun perannya, mereka tetap punya arti dalam hidupnya. Tapi bagaimana dengan era di dunia yang sekarang? (Era dimana) manusia lebih banyak daripada tujuan hidup itu sendiri."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Ide tanpa idealisme itu tidak ada artinya."</em><br>
+  — <strong>Miko Iino</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
