@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan marah begitu, Tuan Putri. Tatapan marahmu akan membuat kecantikanmu menurun drastis."</em><br>
-  — <strong>Aldebaran</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Cinta hanyalah sebuah bug dari sirkuit saraf manusia. Kau bisa buang emosi yang tidak perlu itu ke tempat sampah."</em><br>
+  — <strong>Ryuunosuke Akasaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
