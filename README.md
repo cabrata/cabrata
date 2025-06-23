@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak baik bagi kesehatanmu jika kamu tidak makan."</em><br>
-  — <strong>Makoto Kowata</strong>, <em>Flying Witch</em>
+  <em>"Ketika kematian masih jauh, orang-orang mengoceh tentang impian, keyakinan, (dan) bermacam-macam teori. Tapi saat mereka sudah hampir mati, mereka baru sadar kalau manusia hanya ingin hidup dan mati di sisi orang yang mereka percayai."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
