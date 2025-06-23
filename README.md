@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama ada seorang yang ingin kau temui, maka kau tidak sendiri lagi."</em><br>
-  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou San</em>
+  <em>"Kalau kau ingin menyelamatkan seseorang yang tak bisa diselamatkan, kau akan tenggelam bersamanya."</em><br>
+  — <strong>Doppo Kunikida</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
