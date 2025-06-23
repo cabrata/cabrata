@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hiduplah seperti biasanya. Memang tidak mudah. Tapi kau punya banyak waktu yang terbentang luas di depanmu."</em><br>
-  — <strong>Ginko</strong>, <em>Mushishi</em>
+  <em>"Nyawa jauh lebih penting daripada misi."</em><br>
+  — <strong>Tengen Uzui</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
 </div>
 <!-- QUOTE END -->
 
