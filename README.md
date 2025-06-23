@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nyawa jauh lebih penting daripada misi."</em><br>
-  — <strong>Tengen Uzui</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
+  <em>"Aku tak peduli apa yang akan kalian katakan atau pikirkan. Aku bukanlah anak iblis. Ayahku hanya satu, tidak lain dan tidak bukan adalah pria itu!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
