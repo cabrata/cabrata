@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanya ingin melihatmu membuktikan bahwa kerja keras pasti membawa hasil yang memuaskan."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Tak peduli masalah apa yang kau hadapi, kelak semua itu akan berubah. Saat ada hal yang tak berjalan sesuai dengan kehendakmu, kau tidak boleh menyalahkan dirimu sendiri."</em><br>
+  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
