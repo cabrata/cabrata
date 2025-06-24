@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat sudah dewasa, kemampuan bersosial itu jadi hal yang penting."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
+  <em>""</em><br>
+  — <strong>Masafumi Akagi</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
