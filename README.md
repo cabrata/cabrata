@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Misalnya...
-Misal saja aku bisa kembali ke save data seperti dalam sebuah game dan aku bisa mengambil pilihan yang tepat, maka apakah kehidupanku akan berubah...?
-Jawabannya adalah "tidak"."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Manusia tetaplah manusia. Mereka adalah makhluk busuk yang bisa melakukan kejahatan sesuai keadaan. Pada akhirnya, mereka hanyalah seekor binatang yang sedikit lebih pintar dari binatang lainnya. Tindakan mereka hanya berdasarkan pada keinginan diri sendiri, mereka sering melupakan balas budi, dan hanya mengingat balas dendam."</em><br>
+  — <strong>Aka no Saber</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
