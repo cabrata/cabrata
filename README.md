@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada yang tahu masa depan seperti apa. Selama kamu tidak menyerah, selalu akan ada kesempatan."</em><br>
-  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Aku ingin menikmati hubungan asmara ini, bukan hasilnya."</em><br>
+  — <strong>Mari Shiina</strong>, <em>Renai Boukun</em>
 </div>
 <!-- QUOTE END -->
 
