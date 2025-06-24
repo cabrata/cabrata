@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar mereka adalah murid - murid dari sekolah terkenal. Tapi mereka dianggap sebagai murid buangan. Kelas mereka merupakan target diskriminasi.Tapi mereka menghadapi berbagai macam hal dengan pandangan positif. Mereka tak akan merusak yang lain seperti kalian.Sekolah dan reputasi tak ada hubungannya dengan itu."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Bahkan jika kata-kata itu bohong, perasaanku tidaklah bohong."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
