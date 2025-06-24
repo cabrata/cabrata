@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau masih saja membicarakan tentang tujuan hidup dan alasan kenapa kau dilahirkan?
-Tak pernah kubayangkan ada orang yang bingung karena hal seperti itu."</em><br>
-  — <strong>Shuusei Kagari</strong>, <em>Psycho-Pass</em>
+  <em>"Hubungan antara manusia tidak harus diukur berdasarkan lamanya waktu (yang mereka habiskan bersama)."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
