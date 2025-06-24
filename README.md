@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Istirahat sejenak sangatlah penting untuk pekerjaanmu."</em><br>
-  — <strong>Kou Yagami</strong>, <em>New Game!</em>
+  <em>"Aku adalah seorang koki. Seorang koki tidak boleh lari dari dapur!"</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
