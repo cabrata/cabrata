@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Origami (memang) tidak bisa terbang, tapi kelopak bunga sakura bisa menari di atas angin kan?
-Jika aku menguburnya di dekat pohon sakura, aku pikir suatu hari nanti (origami ini) akan seperti kelopak bunga sakura."</em><br>
-  — <strong>Tetsu</strong>, <em>Sket Dance</em>
+  <em>"Dengarkan kalian (para murid). Saat malam hari orang harus tidur. Karena nanti kalau sudah dewasa meskipun kalian benci begadang, tapi (keadaan membuat) kalian harus melakukannya. Selagi masih muda, kalian harus terbiasa hidup sehat."</em><br>
+  — <strong>Sensei</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
