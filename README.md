@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli masalah apa yang kau hadapi, kelak semua itu akan berubah. Saat ada hal yang tak berjalan sesuai dengan kehendakmu, kau tidak boleh menyalahkan dirimu sendiri."</em><br>
-  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
+  <em>"Aku ingin bergandengan tangan denganmu. Lalu... terkadang aku juga ingin berpelukan denganmu. Maafkan aku karena tak sepolos seperti yang kau pikirkan."</em><br>
+  — <strong>Rinko Yamato</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
