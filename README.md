@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena sudah tidak ada waktu, maka menyerah? Sebalinya kan?
-Karena tidak ada waktu, kita tak boleh buang-buang waktu lagi."</em><br>
-  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
+  <em>"Mungkin kau akan gagal. Mungkin juga mereka akan menolakmu. Meskipun begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
