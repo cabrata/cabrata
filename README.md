@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama perasaan kita masih saling mencintai, kita bisa melakukan apapun."</em><br>
-  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Selama ini aku telah menghabiskan waktu hidupku untuk berbohong. Setidaknya mulai dari sekarang, aku akan berusaha untuk jujur pada diriku sendiri."</em><br>
+  — <strong>Cagliostro</strong>, <em>Senki Zesshou Symphogear AXZ</em>
 </div>
 <!-- QUOTE END -->
 
