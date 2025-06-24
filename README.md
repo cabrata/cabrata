@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di Tootsuki, semua orang menunjukkan apakah dia layak atau tidak dengan kemampuannya sendiri. Apakah kau layak untuk tetap bertahan atau tidak, itu bergantung pada dirimu sendiri!"</em><br>
-  — <strong>Gin Doujima</strong>, <em>Shokugeki no Souma</em>
+  <em>"Satu-satunya cara untuk menyingkirkan rasa (kecewa) ini adalah dengan melakukannya. Tak peduli seberapa banyak kegagalan, aku harus melakukannya. Setelah aku pikir-pikir, kurasa aku mulai menikmati ini."</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
