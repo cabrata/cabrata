@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang terpenting adalah jangan menyerah. Suatu hari nanti, pasti pantang menyerah akan menjadi senjata terkuatmu."</em><br>
-  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
+  <em>"Kerja keras pasti membuahkan hasil. Bantuan pasti akan datang bagi mereka yang selalu bekerja keras."</em><br>
+  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect: Michi Random</em>
 </div>
 <!-- QUOTE END -->
 
