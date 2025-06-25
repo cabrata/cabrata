@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat ini aku takut kehilanganmu. Meskipun sampai sekarang hidupku tidak terlalu beruntung, tapi aku senang, karena justru kemalangan itulah yang membuatmu melihatku. Karena itu, aku jatuh cinta padamu."</em><br>
-  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
+  <em>"Kekuatan yang terlalu besar akan menghancurkan sekelilingnya."</em><br>
+  — <strong>Koushi Usa</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
