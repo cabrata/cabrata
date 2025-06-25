@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena ada kesediahan, maka ada kesenangan."</em><br>
-  — <strong>Kanna Tanigawa</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Orang yang bisa mencapai tujuannya adalah orang-orang bodoh yang terus melangkah ke depan. (Sedangkan) orang yang tidak bisa mencapai tujuannya adalah orang-orang bijak yang berhenti melangkah."</em><br>
+  — <strong>Celica Arfonia</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
 </div>
 <!-- QUOTE END -->
 
