@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak akan ku biarkan kau mengotori nama restoranku, setelah kau bilang masakanku menjijikan!
-Tunggu saja, ku akan membuatmu mengatakan "enak!"
-Akan ku kerahkan seluruh kemampuan memasakku !"</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Aku tak keberatan jika dia menyukai pria lain, hanya saja aku ingin menjadi orang terakhir yang menerima senyuman dari dirinya."</em><br>
+  — <strong>Seiji Yagiri</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
