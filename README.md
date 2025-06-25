@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pejuang harus selalu berpegang teguh pada keyakinannya."</em><br>
-  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
+  <em>"Bergaul dengan pecundang, akan membuatmu menjadi pecundang juga."</em><br>
+  — <strong>Takaya Kurisu</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
