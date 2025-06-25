@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Agar dapat membaur dengan orang-orang di sekitar, aku bertingkah layaknya seorang anak yang baik dimata orang lain."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Seseorang akan lebih puas jika mendengarkan kata terima kasih daripada kata maaf. Aku melakukannya karena aku ingin menolongmu, dan bukan untuk mendapatkan kata maaf."</em><br>
+  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
