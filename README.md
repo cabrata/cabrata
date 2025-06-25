@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hidup berkat bantuan dari banyak orang. Aku disini karena Ibu ada disini. Aku senang kau menjadi orang tuaku. Aku benar-benar beruntung."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Kau hanya harus menjadi tanduk bagi Ram yang tak memiliki tanduk. Kalian bisa menjadi iblis bersama-sama. Selain itu, kau menganggap dirimu sebagai pengganti, tapi tidak ada yang bisa menggantikanmu. Di tempatku berasal, ada yang bilang "Iblis akan tertawa saat kau membahas tentang masa depan.", Jadi Tertawalah, Rem."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
