@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerja keras pasti membuahkan hasil. Bantuan pasti akan datang bagi mereka yang selalu bekerja keras."</em><br>
-  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Seorang pejuang harus selalu berpegang teguh pada keyakinannya."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
