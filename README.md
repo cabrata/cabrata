@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup tanpa sebuah tujuan akan terasa hampa!"</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Diatas langit memang masih ada langit."</em><br>
+  — <strong>You Watanabe</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
