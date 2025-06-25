@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua mungkin melihat ke arah yang berbeda-beda, tapi kita semua punya tujuan kembali yang sama."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama°</em>
+  <em>""Kerja keras pasti membuahkan hasil" aku tahu dunia tidak sesederhana itu. Tapi, aku ingin perasaanku ini tersampaikan."</em><br>
+  — <strong>Nanako Kogure</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
