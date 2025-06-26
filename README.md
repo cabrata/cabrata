@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagaimanapun juga, mereka berhasil memberi kita sedikit "sambutan". Ini tidak baik jika kita tidak "membalas budi"."</em><br>
-  — <strong>Yukio Kasamatsu</strong>, <em>Kuroko no Basket</em>
+  <em>"Aku tidak tahu apa yang akan terjadi nanti. Sejujurnya, aku sedikit takut. Meskipun begitu, aku ingin (tetap) bersamamu. Aku ingin menghabiskan waktu yang sama denganmu, aku ingin melihat dunia yang sama denganmu."</em><br>
+  — <strong>Shoutarou Tatewaki</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
