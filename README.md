@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta adalah alat untuk menguasai."</em><br>
-  — <strong>Quinella</strong>, <em>Sword Art Online: Alicization</em>
+  <em>"Kau yang selalu menyalahkan orang lain itulah yang membuatmu tidak bisa berkembang."</em><br>
+  — <strong>Gojou Karasuma</strong>, <em>Gi(a)rlish Number</em>
 </div>
 <!-- QUOTE END -->
 
