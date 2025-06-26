@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bisa melindungi orang-orang yang aku sayang. Aku bisa berjuang demi orang-orang yang aku cintai. Tekad bajaku diperuntukkan untuk berperang. Darahku ada untuk melindungi. Hatiku yang tersembunyi ada untuk mencintai. Terima kasih. Aku mencintaimu. Kau luar biasa. Aku sangat bahagia. Jangan ragu untuk mengatakan pada orang-orang yang kau sayang tentang perasaanmu pada mereka. Karena mereka mungkin saja tidak ada lagi besok."</em><br>
-  — <strong>Akagi</strong>, <em>Kantai Collection: KanColle</em>
+  <em>"Sesulit apapun keadaannya, biarpun orang-orang di sekitarmu menyerah dan putus asa, jadilah pria dengan pendirian yang kuat. Berusaha juga merupakan sebuah bakat."</em><br>
+  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
 </div>
 <!-- QUOTE END -->
 
