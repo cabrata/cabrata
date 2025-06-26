@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak boleh bilang "hidup sendiri" ketika banyak orang yang mengkhawatirkan dirimu."</em><br>
-  — <strong>Akari Kawamoto</strong>, <em>3-gatsu no Lion</em>
+  <em>"Supaya diriku diakui oleh ayahku, aku juga harus bisa menjadi orang yang bisa diandalkan! Aku juga akan menjadi orang baik."</em><br>
+  — <strong>Miyako Otori</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
