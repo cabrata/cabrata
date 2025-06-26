@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka melakukan sesuatu yang tak ingin dilakukan orang lain."</em><br>
-  — <strong>Reines El-Melloi Archisorte</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Aku sangat suka melihat orang-orang bahagia karena melakukan sesuatu yang mereka cintai."</em><br>
+  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
 </div>
 <!-- QUOTE END -->
 
