@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak peduli dengan masa depan yang belum pasti."</em><br>
-  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
+  <em>"Detektif papan atas adalah detektif yang bisa menyelesaikan kasus sebelum kasus itu terjadi."</em><br>
+  — <strong>Siesta</strong>, <em>Tantei wa Mou, Shindeiru.</em>
 </div>
 <!-- QUOTE END -->
 
