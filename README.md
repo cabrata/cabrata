@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau ada gadis cantik yang sedang kesulitan, pria baik (pasti) akan menyelamatkannya."</em><br>
-  — <strong>Rita Ainsworth</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Kupikir kalau aku hidup dengan jujur pada diriku sendiri, aku tak akan punya penyesalan. Tapi ternyata itu salah..."</em><br>
+  — <strong>Hime Onizuka</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
