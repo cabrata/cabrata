@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kurasa semua orang ingin tahu apa yang tak mereka mengerti. (Mekipun) terkadang kebenaran itu dapat menyakiti seseorang."</em><br>
-  — <strong>Shinjirou Kusakabe</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
+  <em>"Siapapun yang ingin turun sebelum sampai di puncak, sebaiknya jatuh saja."</em><br>
+  — <strong>Sougo Okita</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
