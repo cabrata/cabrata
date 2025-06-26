@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin lebih mudah menjalani hidup dalam ketidaktahuan dan kebahagiaan."</em><br>
-  — <strong>Claudia Hoggins</strong>, <em>Violet Evergarden</em>
+  <em>"Tetap seperti itu hanya membuatmu jadi orang yang tak jelas. Tidak mencoba untuk menjadi (orang yang) bahagia adalah (sifat) pengecut."</em><br>
+  — <strong>Yotsugi Ononoki</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
