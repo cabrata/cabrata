@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang terjadi kalian harus hidup dengan rasa bangga."</em><br>
-  — <strong>Hisa</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Laki-laki itu makhluk yang tidak terlalu memikirkan hal-hal kecil seperti ulang tahun atau hari peringatan."</em><br>
+  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
