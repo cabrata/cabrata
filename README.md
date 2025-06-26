@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bergabung dengan orang yang bersungguh-sungguh sedangkan kamu hanya setengah hati (menjalaninya), itu tindakan yang paling tidak sopan."</em><br>
-  — <strong>Madoka Yachi</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Jangan pikir semua orang melihat dunia yang sama seperti yang kau lihat!"</em><br>
+  — <strong>Ichiya Suzaku</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
