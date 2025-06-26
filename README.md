@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak tahu apa yang akan terjadi nanti. Sejujurnya, aku sedikit takut. Meskipun begitu, aku ingin (tetap) bersamamu. Aku ingin menghabiskan waktu yang sama denganmu, aku ingin melihat dunia yang sama denganmu."</em><br>
-  — <strong>Shoutarou Tatewaki</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Tidak ada arti untung atau rugi demi menyelamatkan seorang teman."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
