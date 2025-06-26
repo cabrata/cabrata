@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki itu makhluk yang tidak terlalu memikirkan hal-hal kecil seperti ulang tahun atau hari peringatan."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Saat kau memiliki masalah, kau harus bersandar pada orang lain. Aku yakin akan ada orang lain yang akan membantumu."</em><br>
+  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
