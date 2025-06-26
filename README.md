@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Syarat pertama menjadi pahlawan tidaklah perlu benar, tapi kuat. Itulah mengapa pahlawan selalu menang."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Nisemonogatari</em>
+  <em>"Berusahalah dengan keras. Hanya pekerja keras yang pantas diberi hadiah."</em><br>
+  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
