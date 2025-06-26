@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekuatan sejati adalah kekuatan yang dapat mengendalikan lingkungan dan jiwa mereka yang lemah, lalu membuat mereka melayanimu tanpa mereka sadari."</em><br>
-  — <strong>Aryabahta</strong>, <em>Taboo Tattoo</em>
+  <em>"Kurasa semua orang ingin tahu apa yang tak mereka mengerti. (Mekipun) terkadang kebenaran itu dapat menyakiti seseorang."</em><br>
+  — <strong>Shinjirou Kusakabe</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
