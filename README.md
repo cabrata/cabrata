@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun aku tidak tahu pilihan mana yang benar, tapi setidaknya aku tahu pilihan mana yang harus aku pilih."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Terkadang kesalahan kecil dapat menyebabkan kesalahan yang lebih besar."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
