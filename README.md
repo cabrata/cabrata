@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tetap seperti itu hanya membuatmu jadi orang yang tak jelas. Tidak mencoba untuk menjadi (orang yang) bahagia adalah (sifat) pengecut."</em><br>
-  — <strong>Yotsugi Ononoki</strong>, <em>Owarimonogatari</em>
+  <em>"Syarat pertama menjadi pahlawan tidaklah perlu benar, tapi kuat. Itulah mengapa pahlawan selalu menang."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
