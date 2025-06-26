@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia yang berlebihan dalam kehidupannya adalah manusia yang berlebihan dalam hatinya."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
+  <em>"Kaulah tokoh utama dalam hidupmu sendiri."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100</em>
 </div>
 <!-- QUOTE END -->
 
