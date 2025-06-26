@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Supaya diriku diakui oleh ayahku, aku juga harus bisa menjadi orang yang bisa diandalkan! Aku juga akan menjadi orang baik."</em><br>
-  — <strong>Miyako Otori</strong>, <em>Shounen Maid</em>
+  <em>"Meskipun aku tidak tahu pilihan mana yang benar, tapi setidaknya aku tahu pilihan mana yang harus aku pilih."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
