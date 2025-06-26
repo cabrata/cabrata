@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesulit apapun keadaannya, biarpun orang-orang di sekitarmu menyerah dan putus asa, jadilah pria dengan pendirian yang kuat. Berusaha juga merupakan sebuah bakat."</em><br>
-  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
+  <em>"Aku suka melakukan sesuatu yang tak ingin dilakukan orang lain."</em><br>
+  — <strong>Reines El-Melloi Archisorte</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
