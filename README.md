@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun yang ingin turun sebelum sampai di puncak, sebaiknya jatuh saja."</em><br>
-  — <strong>Sougo Okita</strong>, <em>Gintama°</em>
+  <em>"Mungkin lebih mudah menjalani hidup dalam ketidaktahuan dan kebahagiaan."</em><br>
+  — <strong>Claudia Hoggins</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
