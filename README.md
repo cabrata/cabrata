@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli mereka kuat atau lemah, intinya adalah apakah kita menang atau kalah, dan jika kita kalah, kita tidak akan berdiri lagi di lapangan."</em><br>
-  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!!</em>
+  <em>"Tak ada pengamat yang lebih terpercaya dari orang yang mencurigaimu."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
