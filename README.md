@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kutukan dan berkah itu pada dasarnya sama, tergantung bagaimana kita menerimanya."</em><br>
-  — <strong>Rahab</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Selama dua tahun ini kau melakukan semuanya sendirian. Kau memikirkan dan memutuskan semuanya sendiri. Kau salah besar, jika kau pikir (melakukan semua hal sendirian) itu bisa membuatmu menjadi dewasa. (Yang kau lakukan) itu semua hanya akan membuatmu jadi anak yang tak mau mendengarkan nasehat orang lain."</em><br>
+  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
