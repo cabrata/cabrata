@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah jadi orang dewasa dan paham jarak hubungan dengan orang lain, kita jadi bisa menghindari perselisihan."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Sesulit apapun yang akan terjadi, selama ada dirimu aku bisa terus berjuang."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
