@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita para manusia adalah makhluk yang menyedihkan. Kita menolak setiap hal yang kita takuti. Kita menyerah karena kita tidak mengerti. Sifat pengecut manusia telah melahirkan peperangan."</em><br>
-  — <strong>Biba Amatori</strong>, <em>Koutetsujou no Kabaneri</em>
+  <em>"(Apa itu Karya Wisata?)
+Itu adalah semacam tiruan kehidupan bermasyarakat. Kau tidak bisa memilih sendiri tempat yang ingin kau tinggali atau makanan yang ingin kau makan. Tapi dengan beberapa pengecualian, kau bisa bersenang-senang dengan biaya yang menipu dirimu."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
