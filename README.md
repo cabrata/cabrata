@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah itu orang suci ataupun pendosa, semua orang punya hak untuk menegakkan keadilan mereka. Menolak keadilan mereka dan membunuhnya adalah hal tabu bagiku."</em><br>
-  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
+  <em>"Satu-satunya cara untuk menyingkirkan rasa (kecewa) ini adalah dengan melakukannya. Tak peduli seberapa banyak kegagalan, aku harus melakukannya. Setelah aku pikir-pikir, kurasa aku mulai menikmati ini."</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
