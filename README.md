@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena ada kesediahan, maka ada kesenangan."</em><br>
-  — <strong>Kanna Tanigawa</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Seseorang dapat berubah karena jatuh cinta."</em><br>
+  — <strong>Chiaki Uchimura</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
