@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah memukul seseorang jika kalian belum siap untuk dipukul (juga)."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama°</em>
+  <em>"Kita para manusia adalah makhluk yang menyedihkan. Kita menolak setiap hal yang kita takuti. Kita menyerah karena kita tidak mengerti. Sifat pengecut manusia telah melahirkan peperangan."</em><br>
+  — <strong>Biba Amatori</strong>, <em>Koutetsujou no Kabaneri</em>
 </div>
 <!-- QUOTE END -->
 
