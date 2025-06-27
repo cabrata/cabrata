@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada yang lebih menjijikkan dari kasih sayang orang yang tidak disukai."</em><br>
-  — <strong>Hanabi Yasuraoka</strong>, <em>Kuzu no Honkai</em>
+  <em>"Bakat bukanlah sesuatu yang bisa didapat dengan bekerja keras."</em><br>
+  — <strong>Eiko Tsukimi</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
