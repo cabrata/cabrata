@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jiwa dan ragaku tidak akan bergerak untuk siapapun kecuali untuk Togame."</em><br>
-  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
+  <em>"Aku berlari lebih cepat dari siapa pun karena kamu melihat dan mendukungku.
+Alasan kenapa aku berlari dengan cepat, alasan aku ingin menjadi cantik, dan alasan aku ingin jatuh cinta adalah karenamu!"</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
