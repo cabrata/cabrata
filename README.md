@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat masa lalu sama artinya dengan tak bisa hidup di masa sekarang."</em><br>
-  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Melalui lagu, aku bisa menyampaikan perasaanku pada kalian. Melalui lagu, perasaan kita saling terhubung. Itulah alasan mengapa aku menyuikai yang namanya bernyanyi! Aku sangat menyukainya!"</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
