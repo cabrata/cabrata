@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tugas kami sebagai orang biasa adalah untuk memastikan bahwa potensi yang tak bisa dimengerti itu bisa terwujud."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Meskipun aku mengetahui segalanya, tapi bukan berarti semuanya berjalan sesuai dengan yang kuinginkan."</em><br>
+  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
