@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yg kau cintai belum tentu akan mencintaimu. Orang yg kau benci belum tentu juga akan membencimu. Terkadang, bahkan orang itu tidak akan membiarkanmu membenci dirinya.
-Karena manusia bukanlah karakter dalam manga. Orang yg benar-benar dibenci itu tidak ada. Orang yg benar-benar jahat juga tidak ada. Tidak ada sifat (seseorang) yang terlihat sama dari setiap sudut pandang, dan sifat seseorang tidak selamanya sama. Walaupun kau yakin dengan kemampuan berlarimu, tapi kau tidak selalu berlari kan? (Setidaknya) kau pasti berjalan dan tidur."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Hanamonogatari</em>
+  <em>"Hanya pria yang maju ke medan perang dengan gagah berani disampingku yang pantas menjadi Masterku. Dan bukanlah pengecut yang bahkan hampir tidak punya keberanian untuk menunjukkan dirinya sendiri!"</em><br>
+  — <strong>Rider</strong>, <em>Fate/Zero</em>
 </div>
 <!-- QUOTE END -->
 
