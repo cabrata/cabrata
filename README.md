@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seiring bertambahnya usia, kita akan semakin khawatir tentang masa depan."</em><br>
-  — <strong>Santouka Taneda</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
+  <em>"Aku mungkin pria yang kikuk. Tapi ketika sudah menentukan satu hal, maka akan kulakukan sampai akhir."</em><br>
+  — <strong>Fudou Aikawa</strong>, <em>Koi wa Sekai Seifuku no Ato de</em>
 </div>
 <!-- QUOTE END -->
 
