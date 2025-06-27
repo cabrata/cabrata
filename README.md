@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupanku di dunia nyata selalu saja membosankan, interaksi sosialpun terasa merepotkan. Jadi dunia maya adalah yang paling aku nikmati. Dan sekarang, aku telah dibuat menjadi orang jahat bagi banyak orang. Tapi di dunia nyata, aku punya keluarga yang menyemangati saat hidupku begitu berat sampai ingin mati, aku memiliki teman yang mendukung dan menyemangati dan ada rekan di band yang berkata ayo berjuang bersama. Jadi akan aku lakukan yang terbaik untuk mereka."</em><br>
-  — <strong>Yuu Haruna</strong>, <em>Fuuka</em>
+  <em>"Manusia yang benar-benar jenius memang ada. Dan meski aku tak meyakini keberadaannya, tapi dia malah muncul dengan sendirinya. Di dunia kami, manusia bisa terbang melewati langit dan berpergian antar planet. Semuanya, bahkan manusia itu sendiri berpikir begitu (hal itu tak mungkin bisa terjadi). Tapi seseorang berhasil melakukannya. Seseorang benar-benar melakukannya."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
