@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat bukanlah sesuatu yang bisa didapat dengan bekerja keras."</em><br>
-  — <strong>Eiko Tsukimi</strong>, <em>Paripi Koumei</em>
+  <em>"Kita para penguasa itu seperti hewan ternak yang hanya memakan jabatan."</em><br>
+  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
