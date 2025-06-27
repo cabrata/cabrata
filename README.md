@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya pria yang maju ke medan perang dengan gagah berani disampingku yang pantas menjadi Masterku. Dan bukanlah pengecut yang bahkan hampir tidak punya keberanian untuk menunjukkan dirinya sendiri!"</em><br>
-  — <strong>Rider</strong>, <em>Fate/Zero</em>
+  <em>"Apa kau masih anak-anak?
+Kau melihat dunia ini hanya hitam dan putih.
+Tapi dunia tidak sesederhana itu.
+Segala sesuatu di sekitar kita ada di tengah-tengahnya.
+Bukan hitam ataupun putih, tapi abu-abu."</em><br>
+  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
