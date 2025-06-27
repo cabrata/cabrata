@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanya ingin melihat harapanku terwujud daripada memintanya pada sesuatu."</em><br>
-  — <strong>Kuro no Saber</strong>, <em>Fate/Apocrypha</em>
+  <em>"Cinta dapat membuat seseorang menjadi kuat dan lemah."</em><br>
+  — <strong>Hibiki Tsukahara</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
