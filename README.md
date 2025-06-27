@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua hanya menari di atas telapak tangan Tuhan."</em><br>
-  — <strong>Otoko</strong>, <em>Konohana Kitan</em>
+  <em>"Diatas langit memang masih ada langit."</em><br>
+  — <strong>You Watanabe</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
