@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Touko-san, apa yang menyebabkan seseorang membunuh orang lain?)
-Itu terjadi ketika perasaan emosi pembunuh terhadap korban melampaui batasnya. Entah itu perasaan benci atau cinta, emosi yang tumpah dari wadahnya harus dibersihkan apapun caranya. Dan saat cara itu berubah ekstrem, maka akan menjadi pembunuhan."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
+  <em>"Entah menang atau kalah itu bukan masalah. Karena bekerja keras menuju tujuan itu sangat menyenangkan.
+Tapi jangan salah, meskipun aku bilang begitu. Aku tidak berniat untuk kalah."</em><br>
+  — <strong>Teppei Kiyoshi</strong>, <em>Kuroko no Basket 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
