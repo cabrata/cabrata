@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keanggunan menciptakan tradisi. Keanggunanlah yang membuat dunia ini menjadi surga firdaus."</em><br>
-  — <strong>Henry Henderson</strong>, <em>Spy x Family</em>
+  <em>"Mencita-citakan sesuatu yang tinggi adalah sesuatu yang penting, lebih tinggi lagi, lagi dan lagi."</em><br>
+  — <strong>Noboru Taki</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
