@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat ini, aku hanya memikirkan bagaimana caranya mewujudkan pemikiranku. Aku akan menghidangkan tekadku dan semuanya di atas piring."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Kau pikir berapa banyak kekalahan yang sudah aku dapatkan sampai detik ini?
+Walau bukan sesuatu yang bisa dibanggakan, tapi aku sudah kalah ratusan, bahkan ribuan kali. Meskipun begitu, aku tidak pernah depresi, tidak pernah sepertimu sekarang!. (Karena) aku selalu yakin pada akhirnya aku akan menang."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
