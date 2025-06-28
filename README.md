@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melarikan diri dari masalah. Diam saja tidak akan memecahkan masalah. Bersikap sok keren tidak akan menghasilkan apapun. Kau hanya bersikap seakan semuanya baik-baik saja, tapi di mataku kau hanya terlihat seperti anak-anak."</em><br>
-  — <strong>Manami Ogura</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Celty, bahkan jika kau mengatakan akan membinasakan seluruh manusia, aku (juga) akan mengkhianati umat manusia dan akan mendukungmu. Selama aku bisa mati bersamamu sebagai manusia terakhir di bumi, aku akan bahagia."</em><br>
+  — <strong>Shinra Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
