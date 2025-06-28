@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebaikan terkadang dapat memberi jalan untuk permusuhan."</em><br>
-  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
+  <em>"Ini adalah hidupku, jadi akan kujalani dengan caraku sendiri."</em><br>
+  — <strong>Iori Nagase</strong>, <em>Kokoro Connect: Michi Random</em>
 </div>
 <!-- QUOTE END -->
 
