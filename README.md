@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi mencapainya, aku tidak peduli walau harus menjadi segala bentuk kejahatan di dunia ini. Jika hal itu mampu menyelamatkan dunia, maka dengan senang hati akan kulakukan."</em><br>
-  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Ada banyak hal yang tak bisa diselesaikan hanya dengan mengandalkan kata-kata saja."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
