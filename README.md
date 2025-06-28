@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejak kecil, aku selalu membayangkan pemandangan indah yang ada di mana-mana. Pemandangan yang selalu aku lihat dan tak terhitung dalam mimpiku. Tapi aku belum pernah kesana. Mereka mengatakan itu adalah efek samping dari Antifeminas milik Inglobe yang ada pada diriku. Tapi aku tak peduli dengan penyebab itu, Aku hanya ingin mencari sesuatu. Karena itu aku melakukan perjalanan."</em><br>
-  — <strong>Ichika Takatsuki</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Waktu berlalu dengan sangat cepat.
+Untuk saat ini... Aku ingin mengeluh pada Einstein.
+Nee... Okabe... Entah waktu cepat atau lambat...
+Semua itu bergantung pada pandangan kita.
+Teori relativitas itu benar-benar romantis dan juga sangat menyedihkan."</em><br>
+  — <strong>Kurisu Makise</strong>, <em>Steins;Gate</em>
 </div>
 <!-- QUOTE END -->
 
