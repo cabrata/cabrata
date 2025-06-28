@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesuatu yang paling diinginkan seseorang pasti dimiliki oleh orang lain.
-Bagi orang yang memilikinya, sesuatu itu dianggap tidak penting.
-Bagi orang yang mendapatkan sesuatu yang paling mereka inginkan itu bagaikan sebuah keajaiban.
-Bahkan seluruh lelucon dan kejadian buruk yang terjadi akan luluh karena keajaiban itu.
-Pada dasarnya dunia ini seperti itu."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Dalam mencintai seseorang tidak boleh mengharapkan balasan. Cinta sejati adalah ketika dapat mengorbankan diri sendiri demi orang lain."</em><br>
+  — <strong>Miyoko Kinjou</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
