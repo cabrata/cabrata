@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencita-citakan sesuatu yang tinggi adalah sesuatu yang penting, lebih tinggi lagi, lagi dan lagi."</em><br>
-  — <strong>Noboru Taki</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Orang bilang "Kebalikan dari dicintai itu bukanlah dibenci, tapi diabaikan"."</em><br>
+  — <strong>Retto Enjou</strong>, <em>Dokyuu H* HxEros</em>
 </div>
 <!-- QUOTE END -->
 
