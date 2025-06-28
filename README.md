@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tugas kami sebagai orang biasa adalah untuk memastikan bahwa potensi yang tak bisa dimengerti itu bisa terwujud."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Selesaikan apa yang telah kau perbuat!"</em><br>
+  — <strong>Tsukinose Vignette April</strong>, <em>Gabriel DropOut</em>
 </div>
 <!-- QUOTE END -->
 
