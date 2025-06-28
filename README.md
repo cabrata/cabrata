@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bersyukur karena laut berwarna biru. Aku pun bersyukur karena langit pun biru. Warna yang telah kamu berikan, masa depanku penuh dengan warna."</em><br>
-  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Peganglah tekad kalian, tak perlu buru-buru, dan tak perlu berkecil hati. Jika kalian terus melakukan hal itu, suatu saat nanti kalian pasti akan mendapatkan hasil yang luar biasa."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
