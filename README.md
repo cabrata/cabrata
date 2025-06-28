@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebelumnya, aku percaya akan kebenaran bahwa di dunia ini ada hal yang "benar", dan tergantung kita bisa melakukannya atau tidak. Namun, kini aku tahu bahwa kebenaran bisa diproduksi massal. Kini aku tahu bahwa kebenaran ditentukan berdasarkan banyaknya orang. Kini aku tahu bahwa suara mayoritas adalah segalanya. Karena itu, aku memilih sendiri daripada berkumpul. Aku tidak butuh teman karena nanti kemampuan kemanusiaanku akan berkurang. Hanya itu yang bisa kulakukan demi melindungi kebenaran yang kuyakini."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Tak ada yang tahu keputusan yang mana yang tepat bagi hidup mereka, dan itu kenapa aku membuat keputusan(ku) ini.
+Juga aku tidak setuju denganmu akan satu hal, seirin tidak lemah."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
