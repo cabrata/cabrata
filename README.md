@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Momen membahagiakan seorang guru adalah saat kau tak yakin dan murid - muridmu memberikan jawaban yang jelas padamu dari hasil pembelajaranmu."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Kejujuran tidak selalu membawa pada kebaikan."</em><br>
+  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
