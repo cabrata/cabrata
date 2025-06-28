@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Shio-chan, aku harap kau masih mencintaiku ketika kita dilahirkan kembali. Aku minta maaf,... dan terima kasih."</em><br>
-  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
+  <em>"Kalau kita bersama dan memenuhi kewajiban kita, masa depan yang indah akan menanti kita."</em><br>
+  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
