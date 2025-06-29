@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria kesepian yang tidak mengenal cinta harus diselimuti dengan cinta tanpa syarat."</em><br>
-  — <strong>Mizuho Asano</strong>, <em>Bleach</em>
+  <em>"Tak ada pertandingan yang tak bisa dimenangkan. Dan tak ada pertandingan yang pasti bisa dimenangkan."</em><br>
+  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
