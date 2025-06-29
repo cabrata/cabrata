@@ -5,7 +5,7 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia tidak hidup begitu saja karena (alasan) suatu saat mereka akan mati. (Meski) mereka hidup dan suatu saat mereka akan mati, kehidupan mereka memiliki arti."</em><br>
+  <em>"Hidup adalah sesuatu yang sangat akrab dengan ketidakadilan. Ada yang hidup dengan makmur, dan ada juga yang hidupnya sangat menderita."</em><br>
   — <strong>Decim</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
