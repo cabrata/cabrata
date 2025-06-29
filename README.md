@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak bermain sesuai dengan arahan partiturnya hanyalah keegoisan manusia yang sudah menyerah."</em><br>
-  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Aku tahu kalau diriku ini sangat lemah, aku tak punya kesempatan untuk mengalahkanmu. Akulah yang paling tahu akan hal itu.Meski begitu, aku akan tetap melakukannya. Ini bukan soal menang atau kalah, tapi karena aku harus melawanmu disini sekarang juga (sebagai pahlawan yang akan melawan penjahat)."</em><br>
+  — <strong>Mumen Rider</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
