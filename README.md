@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengharapkan hal yang tinggi tanpa memikirkan untuk mewujudkannya itu membuatku tampak bodoh. Tapi, harapan takkan menjadi kenyataan jika tak mengatakannya dengan lantang."</em><br>
-  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
+  <em>"Aku tentara dari dahulu hingga kini. Aku bersiap untuk mengorbankan diri jika dibutuhkan. Namun menolak menjadi bidak catur yang digunakan, selesai dan dibuang."</em><br>
+  — <strong>Sakuma</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
