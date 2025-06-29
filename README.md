@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peperangan akan menimbulkan kebencian meski kau menang. Dan rantai kebencian akan berlanjut. Peperangan seharusnya tidak pernah dilakukan."</em><br>
-  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Ilusi yang dilakukan oleh para pahlawan sepanjang masa telah menyebabkan banyak lautan darah kematian demi tercapainya kehormatan dan kemuliaan fana."</em><br>
+  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
