@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta itu menyeramkan."</em><br>
-  — <strong>Karen Kohiruimaki</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
+  <em>"Kau takkan bisa merasa puas jika tidak membebaskan dirimu sendiri."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
