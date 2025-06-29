@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk mendapatkan masakan yang enak, membutuhkan bahan-bahan yang bagus. Begitulah motto asrama kita!"</em><br>
-  — <strong>Yuuki Yoshino</strong>, <em>Shokugeki no Souma</em>
+  <em>"(Pacaran itu) bukan untuk mencintai, tapi untuk "jatuh" cinta."</em><br>
+  — <strong>Aguri</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
