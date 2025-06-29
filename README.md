@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan jika kata-kata itu bohong, perasaanku tidaklah bohong."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Kami percaya kalau semua yang diberikan pada kami itu sama seperti yang diberikan pada semua makhluk hidup di planet ini."</em><br>
+  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
