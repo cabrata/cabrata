@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ini adalah hidupku, jadi akan kujalani dengan caraku sendiri."</em><br>
-  — <strong>Iori Nagase</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Orang yang tidak menghargai karya orang lain adalah orang yang sudah lupa cara menikmati hidup."</em><br>
+  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service Kai</em>
 </div>
 <!-- QUOTE END -->
 
