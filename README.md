@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam permainan (judi) aku benci situasi ketika mengetahui aku pasti menang atau pasti kalah."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Manusia tidak hidup begitu saja karena (alasan) suatu saat mereka akan mati. (Meski) mereka hidup dan suatu saat mereka akan mati, kehidupan mereka memiliki arti."</em><br>
+  — <strong>Decim</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
