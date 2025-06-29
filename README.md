@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ilusi yang dilakukan oleh para pahlawan sepanjang masa telah menyebabkan banyak lautan darah kematian demi tercapainya kehormatan dan kemuliaan fana."</em><br>
-  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Tak masalah kabur untuk tetap hidup. Karena kau bukan hewan ternak yang tak punya tempat untuk melarikan diri."</em><br>
+  — <strong>Kouchou</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
