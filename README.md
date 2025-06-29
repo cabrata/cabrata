@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau masih ada jalan untuk mundur itu namanya bukan perjalanan. Saat kau berada di titik dimana kau tak bisa kembali, saat itulah perjalananmu dimulai."</em><br>
-  — <strong>Hinata Miyake</strong>, <em>Sora yori mo Tooi Basho</em>
+  <em>"Bagi kami, selama di situ ada guru, entah itu di sawah atau pun di lapangan, itu adalah sekolah (tempat untuk belajar)."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
