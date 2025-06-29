@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tiba lima menit sebelum jam yang ditentukan, merupakan aturan dasar di masyarakat."</em><br>
-  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
+  <em>"Karena kalian kembar, hal yang dapat kamu lakukan pasti bisa dilakukan oleh keempat saudarimu. Sebaliknya, hal yang dapat dilakukan oleh keempat saudarimu, pasti bisa dilakukan olehmu."</em><br>
+  — <strong>Fuutarou Uesugi</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
