@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ayo kita bersama selamanya mulai dari sekarang!"</em><br>
-  — <strong>Fuuka Akitsuki</strong>, <em>Fuuka</em>
+  <em>"Menyimpan harta hanya untuk diri sendiri mungkin akan membuatmu kaya raya, tapi itu tidak akan membuatmu makmur."</em><br>
+  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
