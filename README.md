@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik lakukan hal yang diinginkan daripada yang diharuskan!"</em><br>
-  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Ada kalanya manusia tak boleh lari dari pertarungan."</em><br>
+  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
