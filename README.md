@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rekan-rekanku dan aku bersumpah kalau kami akan rela berkorban, jika itu memang diharuskan. Aku akan rela berkorban demi menyelamatkan orang lain."</em><br>
-  — <strong>Sakuma</strong>, <em>Joker Game</em>
+  <em>"Untuk mendapatkan masakan yang enak, membutuhkan bahan-bahan yang bagus. Begitulah motto asrama kita!"</em><br>
+  — <strong>Yuuki Yoshino</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
