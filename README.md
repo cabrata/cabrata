@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu adalah orang yang hebat. Sangat berkebalikan denganku. Tentunya aku ingin menjadi seperti dirimu. Bisa mengakui seseorang, menerima seseorang, mencintai seseorang, dicintai seseorang. Bagaimana caranya agar aku dapat seperti dirimu?"</em><br>
-  — <strong>Haruki Shiga</strong>, <em>Kimi no Suizou wo Tabetai</em>
+  <em>"Aku takkan memaksamu untuk melakukan sesuatu yang besar. Cukup lakukan apa yang bisa kau lakukan. Aku pun akan melakukan apa yang bisa kulakukan. Begitulah peran yang bisa kita lakukan di dunia ini."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
