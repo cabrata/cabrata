@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika sesuatu yang sama sekali tidak bisa dimengerti semakin populer, (maka) ragukanlah generasimu. Anggap itu sebagai sesuatu yang sangat membahayakan. Karena generasimu telah diselimuti oleh kegelapan."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
+  <em>"Ada jarak jutaan tahun cahaya yang memisahkan antara "suka" dan "tidak suka"."</em><br>
+  — <strong>Nao Kashiwagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
