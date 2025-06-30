@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pada dasarnya, orang yang kuat adalah orang yang berusaha melindungi sesuatu."</em><br>
-  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
+  <em>"Semua orang diciptakan berbeda!"</em><br>
+  — <strong>Izuku Midoriya</strong>, <em>Boku no Hero Academia</em>
 </div>
 <!-- QUOTE END -->
 
