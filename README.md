@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih memilih persahabatan daripada cinta adalah alasan yang klise."</em><br>
-  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Uang? Hal seperti itu tidak ada artinya di hadapan cinta."</em><br>
+  — <strong>Tarou Jiroumaru</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
