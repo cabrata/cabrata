@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kita bukan orang yang istimewa, tapi kita bisa menjadi orang yang istimewa bagi seseorang."</em><br>
-  — <strong>Hitagi Senjougahara</strong>, <em>Owarimonogatari</em>
+  <em>"Memang benar, pemain di seusiamu masih bisa memaksakan diri untuk berjuang. Tapi, jikalau ingin jadi juara dunia, kau juga harus berani mengibarkan bendera putih."</em><br>
+  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
