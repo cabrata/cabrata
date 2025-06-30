@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Di dunia ini) tak ada orang yang baik ataupun orang buruk, karena itu kau tak bisa membandingkan keduanya."</em><br>
-  — <strong>Maiko Fujishima</strong>, <em>Kokoro Connect</em>
+  <em>"Selama kau bertingkah tidak seperti dirimu sendiri, kesempatannya nol.
+Satu-satunya (orang) yang bisa menghentikan mimpimu menjadi nyata adalah dirimu sendiri."</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
