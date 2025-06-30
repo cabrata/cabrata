@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan hiraukan kelemahanmu, gunakan kekuatan dan semangatmu untuk melakukan yang terbaik."</em><br>
-  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
+  <em>"Melawan musuh yang tidak mungkin dikalahkan membuatku semangat, tapi sayangnya tak ada artinya jika aku tidak menang!"</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
