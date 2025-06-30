@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakakku selalu mengingatkanku untuk mengembalikan apa yang kupinjam."</em><br>
-  — <strong>Ayato Amagiri</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Peganglah tekad kalian, tak perlu buru-buru, dan tak perlu berkecil hati. Jika kalian terus melakukan hal itu, suatu saat nanti kalian pasti akan mendapatkan hasil yang luar biasa."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
