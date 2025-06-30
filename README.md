@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling penting bagiku adalah kehangatan genggaman tanganmu, senyumanmu yang imut dan masa depan yang akan kita bangun bersama."</em><br>
-  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Orang-orang cerdas bersinar lebih terang dari orang biasa. Mereka tidak pernah menyesali atau tersiksa atas perbuatan mereka sendiri."</em><br>
+  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
