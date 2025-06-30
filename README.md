@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kuperingatkan kau! Jangan pernah ragu-ragu! Ayah tidak pernah membesarkanmu supaya jadi seorang pengecut!
-Tapi, ini adalah kehidupanmu. (Jadi) hiduplah dengan jalan yang kau pilih."</em><br>
-  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Tak ada alasan bagiku untuk bicara dengan seseorang yang bermain sangat menyedihkan. Jika kau ingin mengatakan sesuatu,
+kau bisa memberitahukannya padaku, dengan permainanmu."</em><br>
+  — <strong>Shintarou Midorima</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
