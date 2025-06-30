@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Izinkan aku berada di sisimu."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Raja ada untuk rakyatnya. Tanpa rakyat, tidak mungkin ada raja."</em><br>
+  — <strong>Ling Yao</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
