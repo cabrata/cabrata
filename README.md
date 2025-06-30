@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melawan musuh yang tidak mungkin dikalahkan membuatku semangat, tapi sayangnya tak ada artinya jika aku tidak menang!"</em><br>
-  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
+  <em>"Meskipun kita bukan orang yang istimewa, tapi kita bisa menjadi orang yang istimewa bagi seseorang."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
