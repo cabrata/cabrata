@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seaneh apapun peristiwa yang terjadi, jika itu terjadi yang kedua kalinya maka akan terlihat biasa saja. (Jadi) tak perlu dipikirkan, biarkan saja. Itulah prinsipku"</em><br>
-  — <strong>Tom Tanaka</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Lalat bisa terbang tanpa belajar terlebih dahulu. Laba-laba bisa membuat jaring tanpa belajar terlebih dahulu. Kenapa bisa begitu? Menurutku lalat dan laba-laba hanya mengikuti perintah saja. Aku yakin seluruh makhluk di bumi menerima perintah dari suatu makhluk."</em><br>
+  — <strong>Reiko Tamura</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
