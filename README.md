@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu hari waktu akan memisahkan kita kan?
-Tapi.., walaupun begitu, hingga saat itu, mari tetap bersama."</em><br>
-  — <strong>Hotaru Takegawa</strong>, <em>Hotarubi no Mori e</em>
+  <em>"Melihat wajah bahagia para pelanggan lebih berharga daripada uang yang ada di dunia."</em><br>
+  — <strong>Shinobu Senke</strong>, <em>Isekai Izakaya: Koto Aitheria no Izakaya Nobu</em>
 </div>
 <!-- QUOTE END -->
 
