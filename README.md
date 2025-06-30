@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap makhluk itu berusaha untuk hidup. Kita semua adalah teman."</em><br>
-  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Kadang-kadang pria harus melindungi sesuatu, walaupun dia harus membuang kehormatannya sendiri."</em><br>
+  — <strong>Kanichi Konishi</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
