@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang diciptakan berbeda!"</em><br>
-  — <strong>Izuku Midoriya</strong>, <em>Boku no Hero Academia</em>
+  <em>"Aku baru saja mengetahuinya. Ketika orang yang berharga bagimu menghilang dunia ini terlihat seperti sebuah monochrome."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
