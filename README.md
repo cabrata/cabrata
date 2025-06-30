@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesuatu yang tidak bisa dihitung adalah perasaan seseorang."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Aku sudah bukan anak kecil yang selalu ingin menang kalau bersaing."</em><br>
+  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
