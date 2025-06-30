@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin pekerjaanku yang paling diakui, tapi aku takkan bisa membuatnya sendirian."</em><br>
-  — <strong>Kou Yagami</strong>, <em>New Game!</em>
+  <em>"Kejadian terhebat dalam hidup dan alasan yang terpenting untuk sukses adalah "mencintai""</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
