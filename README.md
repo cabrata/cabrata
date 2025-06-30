@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peperangan itu benar-benar kejam. Entah kau menang atau kalah, kau selalu kehilangan lebih banyak dari pada apa yang kau peroleh."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Manusia yang tak berguna tak punya hak untuk bernapas."</em><br>
+  — <strong>Ryuunosuke Akutagawa</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
