@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Kenapa kamu menolong orang-orang?).Mungkin karena demi diriku sendiri. Meskipun hanya sedikit, aku ingin orang-orang mengingatku."</em><br>
-  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
+  <em>"Setiap makhluk itu berusaha untuk hidup. Kita semua adalah teman."</em><br>
+  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
