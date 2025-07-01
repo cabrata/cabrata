@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah menjadi monster yang bahkan mengontrol emosi saja tidak bisa."</em><br>
-  — <strong>Acrobatic Sarasara</strong>, <em>Dandadan</em>
+  <em>"Lelucon itu menarik, tapi ada batasnya. Jika mengarah menuju kesalahpahaman, maka akan menjadi kebohongan."</em><br>
+  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
