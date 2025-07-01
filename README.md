@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keadilan tanpa kekuatan hanyalah omong kosong."</em><br>
-  — <strong>Kakek Seigi</strong>, <em>Taboo Tattoo</em>
+  <em>"Tidak ada yang tahu apa yang menunggu di masa depan. Karena itulah ada kemungkinan yang tak terbatas. Seperti pertemuan ini..."</em><br>
+  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate</em>
 </div>
 <!-- QUOTE END -->
 
