@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita hanya bisa menduga apa yang mereka pikirkan saat ini. Kau boleh menyebutnya prasangka, tapi membutuhkan pengalaman serta pengamatan untuk melakukan sebuah penghakiman."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Aku tidak peduli tentang menjadi generasi keajaiban, tapi aku tak bisa mengabaikan sebuah tantangan.
+Aku belum cukup dewasa untuk membiarkannya."</em><br>
+  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
