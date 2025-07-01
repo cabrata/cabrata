@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pernah membuat kesalahan. Sekarang, bagaimana cara untuk menutupi kesalahan tersebut, itulah yang harus dipikirkan!"</em><br>
-  — <strong>Ainz Ooal Gown</strong>, <em>Overlord</em>
+  <em>"Keadilan tanpa kekuatan hanyalah omong kosong."</em><br>
+  — <strong>Kakek Seigi</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
