@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerinduan mencengkeram orang lebih kuat daripada racun, dan lebih dalam daripada penyakit."</em><br>
-  — <strong>Lyza</strong>, <em>Made in Abyss</em>
+  <em>"Setiap pertahanan pasti memiliki celah."</em><br>
+  — <strong>Wakatoshi Ushijima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
