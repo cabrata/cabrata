@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang dewasa takkan marah pada setiap keteledoran anak-anak."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Memberitahukan kelemahanmu pada masuh adalah hal yang berbahaya."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
