@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ini adalah aturan yang ku buat sendiri. Kalau tidak bisa mengikuti aturanku sendiri, tidak ada artinya aku menjadi diriku."</em><br>
-  — <strong>Nanana Ryuugajou</strong>, <em>Ryuugajou Nanana no Maizoukin</em>
+  <em>"Untuk menipu orang, kau harus tahu musuhmu (orang yang akan kau tipu). Kau (juga) harus merencanakan perkataanmu."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
