@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama perasaan kita masih saling mencintai, kita bisa melakukan apapun."</em><br>
-  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Yang bermain lebih agresif itu jauh lebih diuntungkan."</em><br>
+  — <strong>Makoto Shimada</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
