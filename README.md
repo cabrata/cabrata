@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jujur saja, aku tak tahu pekerjaan seorang idol itu seperti apa, tapi itu (menjadi idol) adalah mimpiku."</em><br>
-  — <strong>Uzuki Shimamura</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Sebelumnya, aku percaya akan kebenaran bahwa di dunia ini ada hal yang "benar", dan tergantung kita bisa melakukannya atau tidak. Namun, kini aku tahu bahwa kebenaran bisa diproduksi massal. Kini aku tahu bahwa kebenaran ditentukan berdasarkan banyaknya orang. Kini aku tahu bahwa suara mayoritas adalah segalanya. Karena itu, aku memilih sendiri daripada berkumpul. Aku tidak butuh teman karena nanti kemampuan kemanusiaanku akan berkurang. Hanya itu yang bisa kulakukan demi melindungi kebenaran yang kuyakini."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
