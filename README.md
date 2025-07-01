@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang terlalu banyak pikiran, justru karena situasi yang sulit, kita harus melangkah maju."</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Kau tak boleh mundur, saat kau sudah maju."</em><br>
+  — <strong>Shiro</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
