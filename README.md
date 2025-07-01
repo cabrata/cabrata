@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berpikir bodoh seperti itu. Tinggalkan rasa cemburumu yang menggemaskan itu. Jangan bingung. Saat ini hanya kaulah satu-satunya yang ku punya."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Di era informasi seperti saat ini, masalah kecil bisa mencoreng nama baik kita."</em><br>
+  — <strong>Miko Iino</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
