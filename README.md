@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau melihat ke bawah dari tempat setinggi ini, kota (jadi) terlihat kecil ya?
-Tapi, aku lahir disini, besar disini... dan jatuh cinta disini."</em><br>
-  — <strong>Kaoru Tanamachi</strong>, <em>Amagami SS</em>
+  <em>"Aku suka dengan orang yang tidak menutup-nutupi kata-katanya."</em><br>
+  — <strong>Mana Ryougi</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
 </div>
 <!-- QUOTE END -->
 
