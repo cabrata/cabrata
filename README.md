@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di era informasi seperti saat ini, masalah kecil bisa mencoreng nama baik kita."</em><br>
-  — <strong>Miko Iino</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Kau sangat hebat saat membaca pikiran seseorang. Tapi kau tidak memahami perasaan mereka.
+Pikiran dan perasaan seseorang itu tidaklah sama. Karena itulah, kadang-kadang kau bisa menarik kesimpulan yang tidak rasional."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
