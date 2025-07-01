@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang cerdas bersinar lebih terang dari orang biasa. Mereka tidak pernah menyesali atau tersiksa atas perbuatan mereka sendiri."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Manusia boleh hidup dengan cara yang mereka mau. Menurutku orang yang berpegang teguh pada cara hidupnya sendiri adalah orang kuat yang sejati."</em><br>
+  — <strong>Oji-san</strong>, <em>Isekai Ojisan</em>
 </div>
 <!-- QUOTE END -->
 
