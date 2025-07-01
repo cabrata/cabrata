@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada yang tahu apa yang menunggu di masa depan. Karena itulah ada kemungkinan yang tak terbatas. Seperti pertemuan ini..."</em><br>
-  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate</em>
+  <em>"Kita harus terus maju ke depan, bukan naik ke atas agar cerita terus berlanjut menuju akhir yang bahagia."</em><br>
+  — <strong>Shuu Matsubara</strong>, <em>Re:CREATORS</em>
 </div>
 <!-- QUOTE END -->
 
