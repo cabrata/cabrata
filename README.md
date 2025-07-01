@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada sesuatu yang harus ku raih, bahkan jika aku harus mengotorinya (*melakukan dengan cara kotor atau curang)."</em><br>
-  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
+  <em>"Tertawa karena baca manga komedi dapat melatih otot perut. Terkejut karena baca manga horor dapat melatih otot punggung. Berdebar-debar karena baca manga romatis dapat melatih otot jantung. Membaca manga edisi khusus setebal 932 halaman dapat melatih otot bisep. Orang-orang yang terlibat dengan manga harus melatih otot dengan manga."</em><br>
+  — <strong>Ami Kakei</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
