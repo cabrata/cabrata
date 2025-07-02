@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku yakin aku akan cerewet dan khawatir dengan setiap hal kecil (yang terjadi pada anak yang ku asuh). Mungkin kami semua (semua orang tua) begitu."</em><br>
-  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
+  <em>"Teruslah hidup untuk melihat akhir dari dunia ini, untuk mengetahui maksud mengapa dunia ini dilahirkan, untuk mengetahui maksud mengapa gadis lemah sepertiku bisa ada di sini, dan juga untuk mengetahui arti dari pertemuan kita."</em><br>
+  — <strong>Sachi</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
