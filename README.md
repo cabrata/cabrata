@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku memutuskan untuk selalu menjalani hidup dengan sepenuh hati. Dengan begitu, hidupku akan penuh dengan kebahagiaan hingga ajal datang menjemputku. Aku tak tahu apakah itu jalan yang benar atau salah. Tapi aku akan tetap menjalani dan menikmatinya hingga akhir."</em><br>
-  — <strong>Yoshifumi Aoki</strong>, <em>Kokoro Connect</em>
+  <em>"Memikirkan masalah dengan wajah serius mungkin membuatmu tampak bijak, tapi kau salah. Tidak ada alasan untuk terus memikirkannya. Menerima segala yang terjadi di hidupmu adalah cara yang tepat dalam menjalani hidup.
+Mengkhawatirkan masalah hanya akan membuang waktumu. Jika kau punya waktu untuk merenung, lebih baik lakukan sesuatu.
+Lupakanlah masalahmu. Tak ada gunanya menyesali hal yang telah terjadi."</em><br>
+  — <strong>Tooe Kanbaru</strong>, <em>Hanamonogatari</em>
 </div>
 <!-- QUOTE END -->
 
