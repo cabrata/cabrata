@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teror dalam arti sebenarnya bukanlah ketakutan dalam keadaan statis, tapi dinamis. Itu terjadi di saat harapan seketika berubah menjadi keputusasaan."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Zero</em>
+  <em>"Menurutku semua laki-laki menginginkan kelembutan dari seorang wanita yang baik."</em><br>
+  — <strong>Haruto Fuwa</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
