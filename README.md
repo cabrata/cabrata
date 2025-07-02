@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Prinsip kuhaku adalah menjadi nomor satu dalam permainan apapun."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Tidak ada arti untung atau rugi demi menyelamatkan seorang teman."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
