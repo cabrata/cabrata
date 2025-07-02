@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang pasti memiliki pandangan yang berbeda atas perbuatanmu. Ada yang menganggap tindakan yang telah kau lakukan itu benar, ada pula yang menganggapnya salah. Biarkan mereka bicara sesukanya, kau tidak perlu mempedulikannya. Karena yang kau lakukan bukanlah suatu hal yang benar ataupun hal yang salah. Kau hanya sedang menjalani masa mudamu."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Hanamonogatari</em>
+  <em>"Selama ini aku telah menghabiskan waktu hidupku untuk berbohong. Setidaknya mulai dari sekarang, aku akan berusaha untuk jujur pada diriku sendiri."</em><br>
+  — <strong>Cagliostro</strong>, <em>Senki Zesshou Symphogear AXZ</em>
 </div>
 <!-- QUOTE END -->
 
