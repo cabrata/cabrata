@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kota itu bagaikan raga manusia. Berbagai sistem bekerja secara organis, yang akhirnya tumbuh dan berkembang. Ada kalanya tubuh mengidap penyakit tumor. Penyakit yang tak bisa disembuhkan dengan obat. Saat itu kita harus membasminya. Tugas kita sebagai ahli bedah adalah mencabut penyakit itu dari kota"</em><br>
-  — <strong>Masamune Mochizuki</strong>, <em>Triage X</em>
+  <em>"Aku senang karenamu. Aku bahagia karenamu. Aku tertawa, tersenyum, dan ceria karenamu. Aku seperti bukan diriku sendiri. Karenamu aku percaya bahwa seorang sepertiku bisa berubah. Tapi... pada akhirnya aku tidak berubah."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
