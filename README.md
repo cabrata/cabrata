@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Semua) alasan selalu sederhana. Kita hidup di dunia yang sangat sederhana. Di mana saat kita menarik pelatuk, musuh pun akan mati."</em><br>
-  — <strong>Riza Hawkeye</strong>, <em>Fullmetal Alchemist: Brotherhood Specials</em>
+  <em>"Tak peduli apa kata orang tentang dirimu, tak peduli apa yang kau pikirkan tentang dirimu, aku tetap mencintaimu. Aku mencintaimu, sangat mencintaimu! Aku ingin terus bersamamu. Aku ingin terus menggenggam tanganmu."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
