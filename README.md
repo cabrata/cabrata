@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Mereka) benar-benar hebat. Mereka tahu apa yang ingin mereka lakukan. Dibandingkan dengan Misaki-senpai dan yang lainnya, aku tidak ada apa-apanya. Meskipun begitu, suatu hari kuharap aku menemukan apa yang ingin kulakukan."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Aku yakin aku akan cerewet dan khawatir dengan setiap hal kecil (yang terjadi pada anak yang ku asuh). Mungkin kami semua (semua orang tua) begitu."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
