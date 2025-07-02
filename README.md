@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan seenaknya mengejek sesuatu yang disukai seseorang."</em><br>
-  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
+  <em>"Untuk melihat keaslian, kita harus bersikap realistis."</em><br>
+  — <strong>Yusuke Kitagawa</strong>, <em>Persona 5 the Animation</em>
 </div>
 <!-- QUOTE END -->
 
