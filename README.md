@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kemenangan sejati bukanlah saat kau menang melawan yang kuat.
-Melainkan saat kau berhasil melindungi sesuatu yang berharga bagimu."</em><br>
-  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Permintaan maaf adalah pengakuan atas kesalahan yang telah diperbuat untuk meminta pengampunan."</em><br>
+  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
