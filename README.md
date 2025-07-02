@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada seorang pun yang dapat meninggalkan masa lalunya."</em><br>
-  — <strong>Atsumu Matsuyuki</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Kau tak boleh bilang "hidup sendiri" ketika banyak orang yang mengkhawatirkan dirimu."</em><br>
+  — <strong>Akari Kawamoto</strong>, <em>3-gatsu no Lion</em>
 </div>
 <!-- QUOTE END -->
 
