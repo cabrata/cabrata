@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejak kecil, aku adalah gadis pendiam yang suka menyendiri. Aku tak pandai olahraga, dan selalu jadi anak bawang di sekolah. Jadi aku terbiasa bermain sendirian, dan jatuh cinta pada membaca. Tanpa sadar, perpustakan seakan menjadi rumahku, dan imajinasiku jadi berkembang karena membaca buku-buku disana. Setelah selesai membaca sebuah buku, aku akan merasakan kehampaan, tapi aku yakin selama aku punya buku, aku akan baik baik saja."</em><br>
-  — <strong>Hanamaru Kunikida</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Entah melakukan hal baik ataupun hal buruk, jadilah boss!!"</em><br>
+  — <strong>Kagura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
