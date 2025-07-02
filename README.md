@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku takkan pernah menjadi seorang Yakuza! Aku ingin lulus dari universitas yang terkenal, dan mendapatkan pekerjaan, dan berjalan santai sambil menengok keatas melihat matahari bersinar."</em><br>
-  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
+  <em>"Sejak kecil, aku adalah gadis pendiam yang suka menyendiri. Aku tak pandai olahraga, dan selalu jadi anak bawang di sekolah. Jadi aku terbiasa bermain sendirian, dan jatuh cinta pada membaca. Tanpa sadar, perpustakan seakan menjadi rumahku, dan imajinasiku jadi berkembang karena membaca buku-buku disana. Setelah selesai membaca sebuah buku, aku akan merasakan kehampaan, tapi aku yakin selama aku punya buku, aku akan baik baik saja."</em><br>
+  — <strong>Hanamaru Kunikida</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
