@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki itu makhluk yang tidak terlalu memikirkan hal-hal kecil seperti ulang tahun atau hari peringatan."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Ada beberapa hal yang tak bisa dengan mudah diperhitungkan. Itulah perbedaan level pengalaman kita. Aku sudah hidup lebih lama darimu, dan mengetahui sedikit lebih banyak pengetahuan darimu. Aku menjadi seorang guru karena aku ingin berbagi pengalaman itu dengan kalian semua. Jika kalian tak belajar dari pengalamanku dari kelas ini, kalian tak akan pernah bisa mengalahkanku."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
