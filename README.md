@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku semua laki-laki menginginkan kelembutan dari seorang wanita yang baik."</em><br>
-  — <strong>Haruto Fuwa</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Aku tak perlu sebuah alasan untuk menyukaimu. Ketika kusadari, aku sudah menyukaimu."</em><br>
+  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
