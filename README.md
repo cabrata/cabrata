@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pria idaman itu seperti apa?
-Wajahnya? Hartanya?
-Bagiku, pria idaman itu adalah seorang yang mau untuk hidup bersama."</em><br>
-  — <strong>Charlotte Abelfreyja Drossel</strong>, <em>Violet Evergarden</em>
+  <em>"Semua orang hidup dengan melihat ke masa depan. Semua impian masa depan didasarkan dari diri kita saat ini."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
 </div>
 <!-- QUOTE END -->
 
