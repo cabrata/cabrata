@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa mereka tidak tahu, harga diri seorang pria itu lebih berharga dari nyawanya."</em><br>
-  — <strong>Motoharu</strong>, <em>Danshi Koukousei no Nichijou</em>
+  <em>"Seluruh kehidupan memiliki akhir. Kematian justru salah satu nilai dari kehidupan."</em><br>
+  — <strong>Assassin</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
