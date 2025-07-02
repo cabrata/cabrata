@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Simbol kebebasan itu adalah "musik"."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Aku tak mau kencan dengan gadis yang menjelek-jelekkan teman baikku."</em><br>
+  — <strong>Makoto Sunakawa</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
