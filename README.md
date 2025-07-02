@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik lakukan hal yang diinginkan daripada yang diharuskan!"</em><br>
-  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Jika kau ingin menegakkan ideologimu, maka kendalikan lawanmu dengan kemampuanmu. Itu adalah satu-satunya hukum yang ada di dunia ini."</em><br>
+  — <strong>Iltutmish</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
