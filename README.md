@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bekerja demi meneruskan hobiku."</em><br>
-  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Terkadang kau akan melihat sesuatu saat memejamkan mata."</em><br>
+  — <strong>Arthur Boyle</strong>, <em>Enen no Shouboutai</em>
 </div>
 <!-- QUOTE END -->
 
