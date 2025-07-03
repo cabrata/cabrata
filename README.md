@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan menghapus kegelapan di masa lalu, dan membangun masa depan yang cerah dari awal."</em><br>
-  — <strong>Sasuke Uchiha</strong>, <em>Naruto Shippuden</em>
+  <em>"Ingatan dari 10 tahun yang lalu... seorang laki-laki yang dulu menjadi ayahku berkata "Meskipun sejak awal, aku adalah kesalahan. Tapi jalan yang aku pilih bukanlah kesalahan"."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
