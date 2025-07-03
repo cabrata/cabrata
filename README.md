@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang dapat berdiri di puncak adalah mereka yang memiliki kapasitas untuk menerima kejahatan dan kebaikan secara bersamaan. Orang yang melihat semuanya dengan pola pikir hitam dan putih saja takkan bisa maju selangkah pun."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Tak peduli seberapa kuat seseorang, mereka pasti memiliki kelemahan dalam hatinya. Biasanya kita tidak bisa melihat kelemahan dalam hati kita. Itu sebabnya hidup menjadi sulit."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai II</em>
 </div>
 <!-- QUOTE END -->
 
