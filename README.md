@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagiku, senyum Emilia-tan adalah bintang yang bersinar paling terang di langit malam."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Memakai alasan untuk lari akan membuatmu terlihat menyedihkan."</em><br>
+  — <strong>Hikari Takanashi</strong>, <em>Demi-chan wa Kataritai</em>
 </div>
 <!-- QUOTE END -->
 
