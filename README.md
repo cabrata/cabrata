@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berapa banyak pun uang yang bisa kamu dapatkan, kamu tidak akan bisa terus melakukan hal yang tidak ingin kamu lakukan. Kamu tidak akan bisa berusaha keras kalau kamu tidak menyukai hal itu."</em><br>
-  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Laki-laki yang tetap perjaka sampai umur 30 disebut dengan "Tangan Tuhan"."</em><br>
+  — <strong>Shinpachi Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
