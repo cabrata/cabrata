@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tentara dari dahulu hingga kini. Aku bersiap untuk mengorbankan diri jika dibutuhkan. Namun menolak menjadi bidak catur yang digunakan, selesai dan dibuang."</em><br>
-  — <strong>Sakuma</strong>, <em>Joker Game</em>
+  <em>"Karena sudah tidak ada waktu, maka menyerah? Sebalinya kan?
+Karena tidak ada waktu, kita tak boleh buang-buang waktu lagi."</em><br>
+  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
 </div>
 <!-- QUOTE END -->
 
