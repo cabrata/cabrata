@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena sudah tidak ada waktu, maka menyerah? Sebalinya kan?
-Karena tidak ada waktu, kita tak boleh buang-buang waktu lagi."</em><br>
-  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
+  <em>"Kau takkan bisa maju kalau kau masih takut mengotori tanganmu sendiri."</em><br>
+  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
