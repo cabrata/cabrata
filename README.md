@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di balik pintu, kehidupanmu telah menantimu. Karena itu, kau bisa bersikap jujur saat berada di sini.
-Mungkin itu lah kenapa suasana bar dibuat seperti ini."</em><br>
-  — <strong>Hitomi Mishima</strong>, <em>Hinamatsuri</em>
+  <em>"Bertarunglah! Meski jika Anda memiliki penyesalan, atau meski anda memiliki luka, Anda harus tetap bertarung! Jika Anda membuat keputusan untuk bertarung dan berusaha, Anda harus bertarung sekuat tenaga! Jangan sampai menyerah meski hanya satu detik, hanya sesaat, atau sekilas saja. Anda harus berpegang teguh pada rasa haus kemenangan yang terpancar dimata Anda. Jika Anda masih bisa berdiri, jika jari Anda masih bisa bergerak, jika seluruh gigi Anda masih belum hancur, Anda harus berdiri dan bertarung! Anda harus bertarung!"</em><br>
+  — <strong>Wilhelm van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
