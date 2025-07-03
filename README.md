@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesehatan adalah hal yang paling penting dari apapun."</em><br>
-  — <strong>Latifa Fleuranza</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Dengan berpihak pada seseorang, kau harus bermusuhan dengan pihak lain."</em><br>
+  — <strong>Kirei Kotomine</strong>, <em>Fate/stay night Movie: Heaven's Feel - I. Presage Flower</em>
 </div>
 <!-- QUOTE END -->
 
