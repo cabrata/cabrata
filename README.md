@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kuusap air mataku, akupun mulai berjuang dan bertarung semampuku. Yang ada dipikiranku hanyalah untuk selalu menang, bertambah kuat, dan terus melangkah maju."</em><br>
-  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
+  <em>"Bagi seorang Shakespeare sepertiku, karya seni adalah kehidupanku."</em><br>
+  — <strong>Aka no Caster</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
