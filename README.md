@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bergabung dengan orang yang bersungguh-sungguh sedangkan kamu hanya setengah hati (menjalaninya), itu tindakan yang paling tidak sopan."</em><br>
-  — <strong>Madoka Yachi</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Kau harus mengatakan apa yang kau rasakan sejujurnya demi (kebaikan) dirimu sendiri."</em><br>
+  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
 </div>
 <!-- QUOTE END -->
 
