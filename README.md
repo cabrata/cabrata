@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berjanji jika tidak bisa menepatinya!"</em><br>
-  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Kau takkan bisa maju kalau kau masih takut mengotori tanganmu sendiri."</em><br>
+  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
