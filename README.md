@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memang menempa besi (untuk membuat pedang), tapi (kita menempa besi) dengan seluruh jiwa kita.
-Tempalah hatimu supaya tajam seperti menempa besi itu. Jadilah orang yang ramah. Itulah keindahan hidup. Jika kau jadi orang baik, orang-orang akan menggunakan pedangmu dengan baik."</em><br>
-  — <strong>Jintetsu Murata</strong>, <em>Gintama</em>
+  <em>"Ayato, jangan mencoba bertarung sendirian. Kita adalah tim. Kalau kau akan menjagaku, akupun akan menjagamu."</em><br>
+  — <strong>Julis-Alexia von Riessfeld</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
