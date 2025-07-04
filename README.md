@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal terpenting dalam bekerja adalah tidak menyerahkan pekerjaan (kita) pada orang lain."</em><br>
-  — <strong>Francis Scott Key Fitzgerald</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Aku memiliki kehidupan yang kosong, tak ada apapun kecuali perasaanku padamu.
+(Meskipun) aku juga tidak punya pedang, tapi hatiku ingin menjadi seorang kesatria."</em><br>
+  — <strong>Akitoshi Daimon</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
