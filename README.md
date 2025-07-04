@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling membuatku senang adalah bisa melihatmu ceria dan tumbuh dewasa."</em><br>
-  — <strong>Kakushi Gotou</strong>, <em>Kakushigoto</em>
+  <em>"Aku ingin menikmati hubungan asmara ini, bukan hasilnya."</em><br>
+  — <strong>Mari Shiina</strong>, <em>Renai Boukun</em>
 </div>
 <!-- QUOTE END -->
 
