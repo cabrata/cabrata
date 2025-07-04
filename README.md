@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun seluruh dunia membenciku, aku masih bisa hidup selama ada seseorang yang membutuhkanku."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Untuk menjadi dewasa, kau butuh rival."</em><br>
+  — <strong>Takao Kawafuji</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
