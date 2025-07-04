@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seluruh pengalaman yang didapat adalah alat untuk membersihkan jalanmu ke depan."</em><br>
-  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Kita semua punya hati. Jadi wajar kalau memiliki hasrat terpendam."</em><br>
+  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
