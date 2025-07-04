@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku pertemanan jauh lebih bermakna daripada kata-kata dan logika."</em><br>
-  — <strong>Tomohiro Nagatsu</strong>, <em>Koe no Katachi</em>
+  <em>"Saat kita berbicara, lihatlah ke depan untuk menghapus seluruh waktu yang kau habiskan untuk melihat masa lalu!"</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
