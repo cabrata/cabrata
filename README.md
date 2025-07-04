@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang punya cara berbeda untuk mencapai hal yang diinginkan. Makanya, kita tidak bisa begitu saja menjalani satu hal yang pasti. Hanya saja, kalau terus terperangkap dalam pikiran sempit seperti itu dan membohongi perasaan kita sendiri, maka kita tidak akan pernah bisa merasakan apa arti kebahagiaan sejati."</em><br>
-  — <strong>Hiroomi Nase</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
+  <em>"Tetaplah terjaga sampai kau merasa puas menjalani harimu. Cara hidup seperti itu juga tidak buruk."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
