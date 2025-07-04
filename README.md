@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku harus membuang segalanya kecuali tujuanku."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Seluruh pengalaman yang didapat adalah alat untuk membersihkan jalanmu ke depan."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
