@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada orang yang suka padamu, karena sifatmu yang tak mau menerima apa yang dikatakan orang."</em><br>
-  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
+  <em>"Orang yang terlalu memusingkan peringkat seseorang itu sama sekali tidak spesial."</em><br>
+  — <strong>Kasumi Chigusa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
