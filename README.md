@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia ini adalah tanah kosong. Di mana yang tidak bersalah akan dilahap. Di mana seseorang tidak bisa bertahan hidup hanya dengan melakukan hal yang disenangi saja. Hanya mereka yang membakar ambisi dalam hati merekalah yang akan bisa bersaing untuk impian mereka di tanah kosong yang kejam ini!."</em><br>
-  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Yang paling membuatku senang adalah bisa melihatmu ceria dan tumbuh dewasa."</em><br>
+  — <strong>Kakushi Gotou</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
