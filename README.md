@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak tahu apa yang terjadi, tapi aku tahu apa yang harus ku lakukan."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Jika kau membuka hatimu untuknya, sejauh apapun kalian terpisah, kau pasti bisa mendengar suaranya."</em><br>
+  — <strong>Lailah</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
