@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada saat dimana kita harus tetap bertarung meskipun kita tahu pasti akan kalah."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Mempelajari (tentang) seseorang dan berinteraksi dengan mereka itu adalah sesuatu yang berbeda."</em><br>
+  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
