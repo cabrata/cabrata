@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua punya hati. Jadi wajar kalau memiliki hasrat terpendam."</em><br>
-  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke 2nd Season</em>
+  <em>"Guru dansa kami selalu bilang bukan berdansa dengan tersenyum. Tapi guru ingin kami tersenyum dengan sendirinya saat sedang berdansa, karena dansa adalah sesuatu yang harus dinikmati dari dalam hati. Karena itu adalah sesuatu yang akan menyinari hidup kami."</em><br>
+  — <strong>Akira Koumoto</strong>, <em>Ballroom e Youkoso</em>
 </div>
 <!-- QUOTE END -->
 
