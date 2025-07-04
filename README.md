@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk menjadi dewasa, kau butuh rival."</em><br>
-  — <strong>Takao Kawafuji</strong>, <em>Barakamon</em>
+  <em>"Semakin banyak aku menyimpan momen ini, semakin sedih yang kurasakan ketika saat itu tiba. Tapi aku tak ingin menyebut perasaan ini dengan penyesalan."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
