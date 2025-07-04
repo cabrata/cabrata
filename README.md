@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau membuka hatimu untuknya, sejauh apapun kalian terpisah, kau pasti bisa mendengar suaranya."</em><br>
-  — <strong>Lailah</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Aku iri pada orang-orang yang punya impian dan bersemangat mewujudkannya."</em><br>
+  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
