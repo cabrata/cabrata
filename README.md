@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin banyak aku menyimpan momen ini, semakin sedih yang kurasakan ketika saat itu tiba. Tapi aku tak ingin menyebut perasaan ini dengan penyesalan."</em><br>
-  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Impianku sederhana. Aku hanya ingin terus mencintai orang yang kucintai dan terus bersamanya."</em><br>
+  — <strong>Shinra Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
