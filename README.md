@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bunga-bunga yang indah pun pada akhirnya akan layu dan berguguran. Itulah takdir dari semua bentuk kehidupan."</em><br>
-  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
+  <em>""Suka" saja sudah cukup kan?
+Karena saat aku melihat Zaitsu-kun, dadaku berdebar-debar. Tapi itu bukan karena dia keren atau baik hati. Melainkan karena aku suka dia. Bukankah tak perlu alasan untuk suka (seseorang)? Selama kamu berdebar-debar, bukankah itu cinta?"</em><br>
+  — <strong>Ayumi Arihara</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
