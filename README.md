@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan kugunakan semua yang bisa kugunakan. Jika itu bisa memperbesar kemungkinan kemenangan, maka resikonya sepadan. Untuk seseorang yang serba kekurangan sepertiku, aku hanya bisa menggunakan cara ini."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Saat kau melihat ke bawah dari tempat setinggi ini, kota (jadi) terlihat kecil ya?
+Tapi, aku lahir disini, besar disini... dan jatuh cinta disini."</em><br>
+  — <strong>Kaoru Tanamachi</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
