@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin mati dengan kepuasan terhadap kehidupanku."</em><br>
-  — <strong>Airi Yuunami</strong>, <em>Qualidea Code</em>
+  <em>"Aku dengar kau mengatakan sesuatu yang menarik di upacara pembukaan.
+Menjadi yang terbaik di Akademi Tootsuki mungkin tak semudah yang kau bayangkan."</em><br>
+  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
