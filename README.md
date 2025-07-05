@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya dengan memiliki orang yang dicintai saja dapat membuat pagi yang hampa menjadi indah."</em><br>
-  — <strong>Akira Hiiragi</strong>, <em>KimiKiss Pure Rouge: Love Fighter</em>
+  <em>"Jangan lupakan kekalahan pahit dan menyedihkan dari Seijou. Tapi, kalian tak perlu mendramatisir perasaan kalah itu.
+Enyahkan perasaan itu dan majulah!"</em><br>
+  — <strong>Keishin Ukai</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
