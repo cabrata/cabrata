@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pahlawan tidak pernah mengabaikan perbuatan baik yang tak dihargai."</em><br>
-  — <strong>Hiiro</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
+  <em>"Sekolah itu hanya seperti satu akuarium kecil. Di luar sana masih ada lautan dan akuarium lain. Kau bebas memilih (tempatmu)."</em><br>
+  — <strong>Nagi Yoshino</strong>, <em>Jujutsu Kaisen</em>
 </div>
 <!-- QUOTE END -->
 
