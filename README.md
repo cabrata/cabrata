@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita telah kehilangan rekan yang tak tergantikan. Tapi kita tidak punya waktu untuk terus merenung dalam kesedihan. Apa yang mereka ingin kita lakukan? Tetap diam dalam kesedihan dan mencoba mengejar mereka? Atau meletakkan senjata kita dan membiarkan orang lain menginvasi negeri kita? Tidak! Tentu saja tidak! Kalau kalian meratapi kematian, hadapilah! Kalau meletakkan bunga di atas kuburan, angkat pedangmu! Kita manusia tidak bisa membiarkan satu sama lain untuk saling meratap ke belakang!"</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Demi menyelamatkan dirimu, aku memutuskan untuk memulai pertempuran ini."</em><br>
+  — <strong>Kouji Sugawara</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</em>
 </div>
 <!-- QUOTE END -->
 
