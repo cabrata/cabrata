@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masa depan lahir dari pengalaman masa lalu."</em><br>
-  — <strong>Sanae Kouzuki</strong>, <em>Sakura Quest</em>
+  <em>"Jika kau tak bisa memilih salah satu, maka kau hanya perlu mencari pilihan lain untuk membuat dua pilihan itu tetap terjadi."</em><br>
+  — <strong>Kazuki Fujisawa</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
