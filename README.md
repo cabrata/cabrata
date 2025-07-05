@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat tak selalu mendatangkan kebahagiaan bagi pemiliknya."</em><br>
-  — <strong>Atsushi Nakajima</strong>, <em>Bungou Stray Dogs</em>
+  <em>"Deru ombak adalah lagu pengantar tidur terbaik."</em><br>
+  — <strong>Kaguya Shinomiya</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
