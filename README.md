@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suka atau tidak suka tiga tahun kehidupan SMA kalian akan berlalu dengan sangat cepat. Bagaimana kalian menghabiskannya, itu tergantung pada diri kalian masing-masing. Mau fokus belajar, boleh. Mau berjuang di klub, boleh. Atau mau main-main saja juga boleh. Yang paling penting selama tiga tahun di sekolah kalian harus bersenang-senang setiap harinya. Kesenangan itu yang terbaik, kesenangan itu kebenaran, dan kesenangan itu tak terbatas."</em><br>
-  — <strong>Mato Katori</strong>, <em>Amanchu!</em>
+  <em>"Saat-saat sulit ia selalu ada untuk membantuku. Cowok SMA memang yang terbaik."</em><br>
+  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
 </div>
 <!-- QUOTE END -->
 
