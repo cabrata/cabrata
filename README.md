@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bangun dan melangkahlah. Teruslah berjalan maju. Bukankah kau memiliki dua kaki yang (dapat berjalan dengan) baik kan?. Kau tak membutuhkan pegangan apapun."</em><br>
-  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Pandangan yang sempit adalah musuh idealisme dan kecerdasan."</em><br>
+  — <strong>Eiha Kudou</strong>, <em>Gimai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
