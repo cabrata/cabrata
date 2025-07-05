@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mataku tak bisa berpaling lagi. Hatiku telah terikat olehmu."</em><br>
-  — <strong>Shinpachi Shimura</strong>, <em>Gintama°: Aizome Kaori-hen</em>
+  <em>"Kau harus membuang tujuan demi tujuanmu.
+Ambisi, keinginan, dendam... Kau harus singkirkan semua tujuan itu demi tujuan sejatimu."</em><br>
+  — <strong>Rinne Higaki</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
