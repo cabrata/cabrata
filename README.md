@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi menyelamatkan dirimu, aku memutuskan untuk memulai pertempuran ini."</em><br>
-  — <strong>Kouji Sugawara</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</em>
+  <em>"Berusaha menjadi sosok yang ideal memang luar biasa. Namun, kalau terlalu terpaku pada hal itu, kita akan mengalami kegagalan dan kehilangan jati diri."</em><br>
+  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
