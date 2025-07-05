@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun diri kita, selama kita bisa jujur memikirkan orang yang paling berharga dan bisa terus berada di sampingnya, maka semua orang yang melihatnya pun akan ikut bahagia."</em><br>
-  — <strong>Yayoi Kanbara</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
+  <em>"Wanita itu terbuat dari gula dan bumbu, serta sesuatu yang menakjubkan, meski aku tidak tahu apa itu. Tentu saja, kalau dimisalkan di dalam Isshiki memang terlalu banyak rasa pedas, tapi ... mau dikasih gula sebanyak apapun, pedas tetaplah pedas. Kau takkan bisa mengerti hal menakjubkannya sebelum merasakannya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
