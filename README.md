@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan jika harus menunggu hingga 10 tahun, aku rela jika nanti bisa berkencan dengan gadis cantik sepertimu."</em><br>
-  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Selama dua tahun ini kau melakukan semuanya sendirian. Kau memikirkan dan memutuskan semuanya sendiri. Kau salah besar, jika kau pikir (melakukan semua hal sendirian) itu bisa membuatmu menjadi dewasa. (Yang kau lakukan) itu semua hanya akan membuatmu jadi anak yang tak mau mendengarkan nasehat orang lain."</em><br>
+  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
