@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seekor ikan, baik yang tinggal di air jernih atau kotor, selama ikan itu terus berenang ke depan, dia akan tumbuh dengan indah."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Bahkan jika harus menunggu hingga 10 tahun, aku rela jika nanti bisa berkencan dengan gadis cantik sepertimu."</em><br>
+  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
