@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktumu di dunia nyata tidaklah terbuang dengan percuma, karena setiap detiknya telah dilewati di dunia (Sword Art Online) ini."</em><br>
-  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
+  <em>"Apa ini cemburu? Cemburu. Cemburu? Senangnya, Soalnya perasaan ini, rasa sakit ini terlahir karena kau mencintai Shio-chan kan? Perasaan pertamaku."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
