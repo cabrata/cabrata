@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melakukan hal yang tidak perlu. Bergantung pada keberuntungan itu tak akan membuat kemajuan (dalam hidup). Yang perlu dilakukan hanyalah membuat keputusan yang tepat. Kehidupan dunia nyata tidaklah berbeda dengan dunia game. Yang (perlu) aku pikirkan hanyalah ending terbaik."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Bukankah kau mengayunkan pedang untuk melindungi sesuatu? Ksatria adalah seseorang yang wajib melindungi orang lain."</em><br>
+  — <strong>Theresia van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
