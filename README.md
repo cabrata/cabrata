@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan lupakan kekalahan pahit dan menyedihkan dari Seijou. Tapi, kalian tak perlu mendramatisir perasaan kalah itu.
-Enyahkan perasaan itu dan majulah!"</em><br>
-  — <strong>Keishin Ukai</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Kita telah kehilangan rekan yang tak tergantikan. Tapi kita tidak punya waktu untuk terus merenung dalam kesedihan. Apa yang mereka ingin kita lakukan? Tetap diam dalam kesedihan dan mencoba mengejar mereka? Atau meletakkan senjata kita dan membiarkan orang lain menginvasi negeri kita? Tidak! Tentu saja tidak! Kalau kalian meratapi kematian, hadapilah! Kalau meletakkan bunga di atas kuburan, angkat pedangmu! Kita manusia tidak bisa membiarkan satu sama lain untuk saling meratap ke belakang!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
