@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau terus berusaha tanpa menyerah, aku yakin hal yang baik akan terjadi"</em><br>
-  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Kedamaian adalah hal yang paling indah dan paling sulit (wujudkan)."</em><br>
+  — <strong>Chio Miyamo</strong>, <em>Chio-chan no Tsuugakuro</em>
 </div>
 <!-- QUOTE END -->
 
