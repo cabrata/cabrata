@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang dapat tidur lebih nyenyak ketika merasa puas pada hari (yang telah ia lalui)."</em><br>
-  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
+  <em>"Aku suka dengan orang yang tidak menutup-nutupi kata-katanya."</em><br>
+  — <strong>Mana Ryougi</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
 </div>
 <!-- QUOTE END -->
 
