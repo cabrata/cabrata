@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pejudi itu orang terburuk."</em><br>
-  — <strong>Fern</strong>, <em>Sousou no Frieren</em>
+  <em>"Tak ada yang lebih mahal dari sesuatu yang gratis."</em><br>
+  — <strong>Honoka Maki</strong>, <em>Kiznaiver</em>
 </div>
 <!-- QUOTE END -->
 
