@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengapa kau tidak bisa mempercayainya? Kalau orang tuanya saja tidak mempercayainya, lalu dia akan bergantung kepada siapa?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Aku adalah Sang Ahli Pedang. Aku memang tak mengerti alasannya, tapi sekarang aku tahu. Penggenggam pedang untuk melindungi seseorang. Sepertinya alasan itu cocok untukku."</em><br>
+  — <strong>Theresia van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
