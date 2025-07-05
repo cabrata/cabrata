@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Percaya pada orang lain, saling membantu dan saling mendukung adalah hal yang paling tepat untuk dilakukan.
-Tapi itu hanya idealistis. Kenyataannya orang-orang tidak seperti itu.
-Jadi aku tidak ingin menyuruhmu bergantung pada orang lain."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Pejudi itu orang terburuk."</em><br>
+  — <strong>Fern</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
