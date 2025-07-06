@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah perjalanan tanpa akhir. Untuk melihat sesuatu yang baru, kau harus membuka jalanmu sendiri."</em><br>
-  — <strong>King</strong>, <em>One Punch Man Season 2</em>
+  <em>"Dia memang lebih kuat dariku, tapi itu bukan alasan untuk tidak mencemaskannya. Apapun yang kami lakukan, dia selalu lebih baik dariku. Tapi, aku adalah kakaknya. Aku takkan pernah goyah dari posisi itu."</em><br>
+  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
