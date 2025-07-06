@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Otak manusia takkan melihat sesuatu yang tak ingin dilihatnya."</em><br>
-  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Hidup adalah perjalanan tanpa akhir. Untuk melihat sesuatu yang baru, kau harus membuka jalanmu sendiri."</em><br>
+  — <strong>King</strong>, <em>One Punch Man Season 2</em>
 </div>
 <!-- QUOTE END -->
 
