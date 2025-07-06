@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Benar-benar tidak masuk akal. Aku bertindak berdasarkan emosi layaknya manusia bodoh. Bahkan anjing pun punya pengendalian diri yang lebih bagus (dariku)"</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Ada yang salah dengan dunia ini, orang-orang tak bisa bermimpi dan memikirkan masa depan."</em><br>
+  — <strong>Boogiepop</strong>, <em>Boogiepop wa Warawanai</em>
 </div>
 <!-- QUOTE END -->
 
