@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada yang salah dengan dunia ini, orang-orang tak bisa bermimpi dan memikirkan masa depan."</em><br>
-  — <strong>Boogiepop</strong>, <em>Boogiepop wa Warawanai</em>
+  <em>"Mendekatlah. Aku akan membisikkannya padamu, jadi dengarkan baik-baik.
+Aku mencintaimu. Aku ingin kau melihat dunia di luar sana, dan aku ingin kau bersamaku."</em><br>
+  — <strong>Jun Satou</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
