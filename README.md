@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun aku mengetahui segalanya, tapi bukan berarti semuanya berjalan sesuai dengan yang kuinginkan."</em><br>
-  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
+  <em>""Kerja keras pasti membuahkan hasil" aku tahu dunia tidak sesederhana itu. Tapi, aku ingin perasaanku ini tersampaikan."</em><br>
+  — <strong>Nanako Kogure</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
