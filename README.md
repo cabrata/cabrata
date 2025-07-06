@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau berteriak atau saat menangis, aku akan selalu berada di sisimu. Kita akan selalu bersama untuk saling berbagi perasaan yang sama. Meskipun kamu menggapku cuma mengganggu, kemanapun kamu pergi aku akan menemukanmu. Bagaimanapun caranya aku akan selalu mendengarmu. Bahkan saat hujan, saat angin kencang, (atau) bahkan saat bunga-bunga sudah berguguran. Bagaimanapun caranya aku akan mencari suaramu, aku berjanji."</em><br>
-  — <strong>Banri Tada</strong>, <em>Golden Time</em>
+  <em>"Meskipun seluruh dunia membenciku, aku masih bisa hidup selama ada seseorang yang membutuhkanku."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
