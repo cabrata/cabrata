@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jarang sekali rencana pertamaku berjalan mulus seperti yang ku harapkan. (Maka dari itu) Aku membuat rencana cadangan yang lebih detail untuk hal yang tak terduga dalam misi pembunuhan."</em><br>
-  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Pada saat kita bertemu, kau benar-benar gila. Aku seperti terus merasakan belas kasihmu. Tapi kau membuatku melihat seberapa berharganya musik, dan teman-teman kepadaku. Karena kau berada disini, duniaku terbuka begitu lebar. Jadi ayo tetap bersama selamanya!"</em><br>
+  — <strong>Yuu Haruna</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
