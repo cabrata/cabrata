@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mataku tak bisa berpaling lagi. Hatiku telah terikat olehmu."</em><br>
-  — <strong>Shinpachi Shimura</strong>, <em>Gintama°: Aizome Kaori-hen</em>
+  <em>"Kalau sudah bertekad, lebih baik kita segera bertindak."</em><br>
+  — <strong>Enri Emmot</strong>, <em>Overlord III</em>
 </div>
 <!-- QUOTE END -->
 
