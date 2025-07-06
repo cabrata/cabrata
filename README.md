@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria bernama Araragi Koyomi, terkadang mengutamakan seorang anak perempuan daripada mengutamakan temannya ataupun pacarnya."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Manusia hidup untuk menyelamatkan dirinya sendiri."</em><br>
+  — <strong>Sakunosuke Oda</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
