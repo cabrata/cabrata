@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ayato, jangan mencoba bertarung sendirian. Kita adalah tim. Kalau kau akan menjagaku, akupun akan menjagamu."</em><br>
-  — <strong>Julis-Alexia von Riessfeld</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Berusaha menjadi sosok yang ideal memang luar biasa. Namun, kalau terlalu terpaku pada hal itu, kita akan mengalami kegagalan dan kehilangan jati diri."</em><br>
+  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
