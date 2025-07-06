@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pistol itu simpel. Pistol dapat mengakhiri suatu hal hanya dengan satu letupan. Tidak serumit hubungan antara manusia."</em><br>
-  — <strong>Canaan</strong>, <em>Canaan</em>
+  <em>"Jika laki-laki diibaratkan serigala, maka perempuan itu ular."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
