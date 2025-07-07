@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melalui lagu, aku bisa menyampaikan perasaanku pada kalian. Melalui lagu, perasaan kita saling terhubung. Itulah alasan mengapa aku menyuikai yang namanya bernyanyi! Aku sangat menyukainya!"</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Menulis cerita itu bagaikan menulis seseorang. Penulis dapat menulis bagaimana orang itu hidup dan bagaimana orang itu mati."</em><br>
+  — <strong>Souseki Natsume</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
