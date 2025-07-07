@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Adik perempuan adalah makhluk buas tercantik di dunia."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Meskipun kamu seorang otaku, tapi jangan anggap dirimu tidak penting."</em><br>
+  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
