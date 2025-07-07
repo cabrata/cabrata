@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Prinsip kuhaku adalah menjadi nomor satu dalam permainan apapun."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Sebanyak apapun kejahatan yang dilakukan seseorang, membunuh orang itu teteplah tidak benar. Tidak ada manusia yang pantas dibunuh."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
