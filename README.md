@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bukan berarti) aku tidak ingin menjadi kuat.
-Kalau bisa aku (hanya) ingin tetap menjadi seorang gadis selamanya..."</em><br>
-  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
+  <em>"Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan."</em><br>
+  — <strong>Kurumi Ebisuzawa</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
