@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak peduli di garis dunia mana pun, di waktu kapanpun atau dimanapun, aku selalu menyukaimu."</em><br>
-  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate: Oukoubakko no Poriomania</em>
+  <em>"Aku berharap kalian dapat menunjukkan pada dunia bahwa ada hal yang lebih penting daripada gelar atau pun kekuasaan."</em><br>
+  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
