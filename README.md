@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang kau akan melihat sesuatu saat memejamkan mata."</em><br>
-  — <strong>Arthur Boyle</strong>, <em>Enen no Shouboutai</em>
+  <em>"Aku ingin menciptakan banyak senyuman bahagia dengan sihir. Karena ini kekuatan yang diberikan oleh tuhan, kita harus menggunakannya untuk dunia."</em><br>
+  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
