@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tahu tidak Kak, saat aku melihat konser µ's, aku merasakan emosi yang menggebu-gebu di dadaku. Mereka berlatih dengan keras dan mereka terlihat sangat menikmatinya!"</em><br>
-  — <strong>Arisa Ayase</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Aku harus segera melangkah ke depan. Daripada terus menyesali kegagalan lebih baik menjalani hidup dengan bahagia."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
