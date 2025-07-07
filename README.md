@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku berharap kalian dapat menunjukkan pada dunia bahwa ada hal yang lebih penting daripada gelar atau pun kekuasaan."</em><br>
-  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
+  <em>"Kalau terkenal di internet saja dapat menghasilkan banyak uang, pasti kau akan merasa kalau pergi bekerja adalah tindakan yang bodoh."</em><br>
+  — <strong>Shuusei Kagari</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
