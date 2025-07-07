@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Samurai tidak membutuhkan alasan untuk bertindak.
-Jika mereka ingin melindungi sesuatu, maka mereka akan menarik pedangnya."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Meskipun kamu seorang otaku, tapi jangan anggap dirimu tidak penting."</em><br>
+  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
