@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus melakukan apapun dengan sepenuh hati. Itulah makna dari kehidupan."</em><br>
-  — <strong>Rider</strong>, <em>Fate/Zero</em>
+  <em>"Bermimpilah seakan kau hidup selamanya. Hiduplah seakan kau akan mati hari ini."</em><br>
+  — <strong>Hijiri Minowa</strong>, <em>Bakuon!!</em>
 </div>
 <!-- QUOTE END -->
 
