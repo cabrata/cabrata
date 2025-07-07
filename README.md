@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bermimpilah seakan kau hidup selamanya. Hiduplah seakan kau akan mati hari ini."</em><br>
-  — <strong>Hijiri Minowa</strong>, <em>Bakuon!!</em>
+  <em>"Berhentilah berkecil hati gara-gara kesalahpahaman."</em><br>
+  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
