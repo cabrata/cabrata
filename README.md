@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau akan membenci dirimu sendiri jika kau melakukan apa yang kau benci."</em><br>
-  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Sesuatu yang paling diinginkan seseorang pasti dimiliki oleh orang lain.
+Bagi orang yang memilikinya, sesuatu itu dianggap tidak penting.
+Bagi orang yang mendapatkan sesuatu yang paling mereka inginkan itu bagaikan sebuah keajaiban.
+Bahkan seluruh lelucon dan kejadian buruk yang terjadi akan luluh karena keajaiban itu.
+Pada dasarnya dunia ini seperti itu."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
