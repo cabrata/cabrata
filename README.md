@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seseorang sudah bertekad, mereka pasti bisa melakukan apapun."</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Seperti halnya hompimpa, batu tak dapat mengalahkan kertas. Kertas tak dapat mengalahkan gunting. Dan gunting tak dapat mengalahkan batu. Itulah istilah yang menggambarkan hubunganmu dengan Omekata. Kemampuan untuk melarikan diri, tak sepadan dengan kemampuan yang dapat mengikat apapun dalam jarak jauh."</em><br>
+  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
