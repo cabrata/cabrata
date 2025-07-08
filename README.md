@@ -5,8 +5,15 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tahu kalau diriku ini sangat lemah, aku tak punya kesempatan untuk mengalahkanmu. Akulah yang paling tahu akan hal itu.Meski begitu, aku akan tetap melakukannya. Ini bukan soal menang atau kalah, tapi karena aku harus melawanmu disini sekarang juga (sebagai pahlawan yang akan melawan penjahat)."</em><br>
-  — <strong>Mumen Rider</strong>, <em>One Punch Man</em>
+  <em>"Orang jenius adalah orang yang mengetahui perbedaan dirinya dengan orang lain.
+Saat seseorang saling membandingkan kemampuannya dengan orang lain, mereka akan menganggap diri mereka sama.
+Tapi sayangnya sebenarnya itu salah. Setiap manusia itu berbeda.
+Sesuatu yang bisa dilakukan oleh diri kita, takkan bisa dilakukan oleh orang lain.
+Lalu, sesuatu yang bisa dilakukan oleh orang lain takkan pernah bisa dilakukan oleh diri kita.
+Orang jenius adalah orang yang bisa mengalahkan ketidakadilan itu.
+Orang jenius takkan pernah mengharapkan seseorang mengerjakan tugas yang sama seperti diri kita.
+Disaat yang sama, tak peduli sebesar apapun bakat seseorang, orang itu pasti takkan mampu meniru orang lain."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra: Last Encore - Irusterias Tendouron</em>
 </div>
 <!-- QUOTE END -->
 
