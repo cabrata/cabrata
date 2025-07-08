@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakek berpesan, hiduplah dengan bebas, pilihlah jalan yang kau yakini dan hiduplah dengan kegembiraan."</em><br>
-  — <strong>Mikleo</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Aku tak butuh alasan.
+Saat aku bilang akan kutolong, maka akan kutolong!
+Aku takkan pernah mengkhianati temanku!"</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
