@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Junichi... tempat mana yang ingin kau kunjungi di wisata kali ini?)
-Aku tak keberatan pergi ke mana pun selama itu tempat yang kamu inginkan."</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Ada sesuatu yang harus ku raih, bahkan jika aku harus mengotorinya (*melakukan dengan cara kotor atau curang)."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
