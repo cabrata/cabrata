@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kita membantu orang lain pada akhirnya akan berujung pada kebaikan pada diri kita sendiri."</em><br>
-  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba: Katanakaji no Sato-hen</em>
+  <em>"Ada pepatah yang berkata "Tembakan yang benar, tidak pernah meleset." Artinya jika postur menembakmu tepat saat menembak, panah pasti akan tepat menuju sasaran. Bagiku, itu berarti jika kau rajin berlatih, pasti hasilnya akan terlihat. Jika kau merasa sudah berlatih dengan baik, lakukan apa saja yang menurutmu benar. Tubuhmu pasti akan mengingatnya."</em><br>
+  — <strong>Akagi</strong>, <em>Kantai Collection: KanColle</em>
 </div>
 <!-- QUOTE END -->
 
