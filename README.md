@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika ada yang menyatakan suka padamu, kamu akan merasa senang, geli, malu, tapi terasa nyaman di hati."</em><br>
-  — <strong>Rika Dobashi</strong>, <em>Hatsukoi Limited</em>
+  <em>"Agar dapat membaur dengan orang-orang di sekitar, aku bertingkah layaknya seorang anak yang baik dimata orang lain."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
