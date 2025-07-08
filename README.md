@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bisa jatuh cinta pada seseorang itu hal yang membahagiakan."</em><br>
-  — <strong>Hikari Tsutsui</strong>, <em>3D Kanojo: Real Girl</em>
+  <em>"Aku tidak bisa memaafkan kau yang telah membuat istriku menangis!"</em><br>
+  — <strong>Hideki Nishimura</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
