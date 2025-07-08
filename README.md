@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Touko-san, apa yang menyebabkan seseorang membunuh orang lain?)
-Itu terjadi ketika perasaan emosi pembunuh terhadap korban melampaui batasnya. Entah itu perasaan benci atau cinta, emosi yang tumpah dari wadahnya harus dibersihkan apapun caranya. Dan saat cara itu berubah ekstrem, maka akan menjadi pembunuhan."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
+  <em>"Aku tahu kalau diriku ini sangat lemah, aku tak punya kesempatan untuk mengalahkanmu. Akulah yang paling tahu akan hal itu.Meski begitu, aku akan tetap melakukannya. Ini bukan soal menang atau kalah, tapi karena aku harus melawanmu disini sekarang juga (sebagai pahlawan yang akan melawan penjahat)."</em><br>
+  — <strong>Mumen Rider</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
