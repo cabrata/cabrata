@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika saja aku masih lemah, akan ada hari ketika aku tidak bisa berteriak sekuat-kuatnya. Jika hal seperti itu terjadi, maka kau akan dimakan (oleh yang kuat)."</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Sepertinya suasana hatimu masih belum sembuh... tapi perasaanmu itu terlihat bagaikan berlian yang berkilau di antara berlian-berlian yang lain."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
