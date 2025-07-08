@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah orang paling berharga yang pernah mengisi kehidupanku. Sejak awal bertemu, kau selalu ada bersamaku. Karena kita berdua (terus bersama), semua masalah dapat terlewati. Tapi, disaat yang bersamaan, semua itu menimbulkan kepedihan dan rasa sakit yang amat mendalam. Aku tak ingin lagi melihatmu memikul semua beban berat itu, aku tak ingin kau tersakiti. Karena itu kita berdua tidak boleh bersama."</em><br>
-  — <strong>Akihito Kanbara</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
+  <em>"Jika kau adalah tipe orang yang mengabdikan sendiri pada seseorang, aku yakin ada seseorang diluar sana yang akan jatuh cinta padamu. Dengan kata lain, cinta pertamamu pasti akan datang. Aku tak bisa membayangkan seperti apa wajahmu shal itu terjadi, tapi aku yakin kau tak akan pernah menyangkanya."</em><br>
+  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
