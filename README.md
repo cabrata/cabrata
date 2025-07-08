@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan masalah bisa atau tidak bisa. Yang terpenting adalah apakah kau mau atau tidak."</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Semua orang takut dengan kematian. Tapi itu bukan sesuatu yang harus dihindari."</em><br>
+  — <strong>Joel Garland</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
