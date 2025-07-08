@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenyataan itu memang kejam, tapi kenyataan bukanlah kebohongan."</em><br>
-  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
+  <em>"Menyakitkan sekali..., meskipun aku berada sedekat ini denganmu, tapi aku tak pernah bisa meraihmu."</em><br>
+  — <strong>Shigemi Kubota</strong>, <em>Sakamoto desu ga?</em>
 </div>
 <!-- QUOTE END -->
 
