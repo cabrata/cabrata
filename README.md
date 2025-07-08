@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang terjadi kalian harus hidup dengan rasa bangga."</em><br>
-  — <strong>Hisa</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Mungkin aku harus belajar dari orang bodoh yang terlampau optimis."</em><br>
+  — <strong>Kazuma Satou</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
