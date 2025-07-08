@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang takut dengan kematian. Tapi itu bukan sesuatu yang harus dihindari."</em><br>
-  — <strong>Joel Garland</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Apapun yang terjadi kalian harus hidup dengan rasa bangga."</em><br>
+  — <strong>Hisa</strong>, <em>Kimetsu no Yaiba</em>
 </div>
 <!-- QUOTE END -->
 
