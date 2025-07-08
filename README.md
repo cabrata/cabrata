@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak bisa memaafkan kau yang telah membuat istriku menangis!"</em><br>
-  — <strong>Hideki Nishimura</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Yang paling membuatku senang adalah bisa melihatmu ceria dan tumbuh dewasa."</em><br>
+  — <strong>Kakushi Gotou</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
