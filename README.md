@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencintai orang lain selain diri sendiri adalah hal yang penting."</em><br>
-  — <strong>Ruth</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Apakah kekalahan membuktikan bahwa kalian itu lemah?
+Bukankah bagi kalian "kalah" itu lebih terlihat seperti ujian?
+Apa kalian bisa berdiri dan berjalan lagi setelah kalian terjatuh.
+Jika kalian tetap duduk di situ, justru itulah yang membuktikan bahwa kalian lemah."</em><br>
+  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
