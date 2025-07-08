@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menghormati setiap individu tanpa merusak keinginan mereka bentuk dari idealisme yang sesungguhnya."</em><br>
-  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Pahlawan tidak butuh alasan untuk menghunuskan pedangnya.
+Dia hanya harus bertarung demi kehormatannya."</em><br>
+  — <strong>Hajime Nishikawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
