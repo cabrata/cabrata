@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyakitkan sekali..., meskipun aku berada sedekat ini denganmu, tapi aku tak pernah bisa meraihmu."</em><br>
-  — <strong>Shigemi Kubota</strong>, <em>Sakamoto desu ga?</em>
+  <em>"Air mata palsu dapat menyakiti orang lain. (Sedangkan) senyum palsu akan menyakiti dirimu sendiri."</em><br>
+  — <strong>C.C.</strong>, <em>Code Geass: Hangyaku no Lelouch</em>
 </div>
 <!-- QUOTE END -->
 
