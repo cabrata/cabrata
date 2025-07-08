@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami bicara basa-basi seperti biasanya sambil terkadang menengok kebelakang, terkadang membuat kesalahan, dan terkadang kehilangan arah. Tetapi, kami terus melangkah maju dengan teguh."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Dalam mencintai seseorang tidak boleh mengharapkan balasan. Cinta sejati adalah ketika dapat mengorbankan diri sendiri demi orang lain."</em><br>
+  — <strong>Miyoko Kinjou</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
