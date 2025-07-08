@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika ada suatu hal yang membuatmu sedih, tidak apa kau bersedih. Kau tidak perlu selalu (berpura-pura) terlihat baik-baik saja."</em><br>
-  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Ketika kau memiliki orang yang kau cintai, kau akan menjadi lebih kuat. Berkat Tetsurou, aku juga sudah berubah. Paling tidak aku sudah mencoba untuk menjadi lebih berani dan lebih kuat."</em><br>
+  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
