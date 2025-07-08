@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hewan bukanlah "sebuah mainan". Mereka hidup, sama seperti manusia."</em><br>
-  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Aku yakin banyak pemusik yang mengalami hal sepertimu (gemetar ketika mau tampil dipanggung)! "mana mungkin aku bisa melakukannya" atau "kalau begitu, kau saja yang main". Meski begitu, mereka mengambil lagi partitur musiknya dan bermain lagi. Begitulah caranya menciptakan kebohongan yang paling indah."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
