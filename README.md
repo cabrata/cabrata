@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang memanggil orang lain bodoh, adalah orang yang bodoh."</em><br>
-  — <strong>Subaru Uchimaki</strong>, <em>Kono Bijutsubu ni wa Mondai ga Aru!</em>
+  <em>"Jika kau memiliki kehormatan, (berarti) kau memiliki keberanian."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Kizumonogatari I: Tekketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
