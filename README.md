@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat aku masih kecil, aku bercita-cita ingin menjadi seorang pahlawan.
-Tapi aku ingin jadi pahlawan yang menghempaskan penjahat kurang ajar (sepertimu) dengan satu pukulan !"</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Dari nol menjadi satu! Mari kita bersinar dengan segala yang kita miliki!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
