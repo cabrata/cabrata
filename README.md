@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mustahil kita disukai oleh semua orang. Kita cukup menyayangi orang yang memahami kita."</em><br>
-  — <strong>Shiori Saginomiya</strong>, <em>Joshikousei no Mudazukai</em>
+  <em>"Akhir-akhir ini, kelompok kalian tidak menghasilkan apa - apa. Badan penelitian yang hanya berbicara tentang kejayaan masa lalu tidak dibutuhkan di Tootsuki."</em><br>
+  — <strong>Erina Nakiri</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
