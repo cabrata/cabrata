@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu tidak perlu terburu-buru untuk memutuskan (sesuatu)."</em><br>
-  — <strong>Hajime Suzamoto</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Dengan memikirkan kekuatan yang kau miliki, ada hal yang bisa dan tidak bisa kau lakukan sendiri. Melihatmu yang seperti ini membuatku merasa malu. Tidak tahu diri dan hanya tersakiti, kau bodoh!"</em><br>
+  — <strong>Izumo Kamiki</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
