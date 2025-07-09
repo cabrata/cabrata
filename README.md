@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku masih bisa berjuang (sampai sekarang) itu karena kau percaya padaku. Terima kasih Airi, aku bersyukur telah mempercayaimu."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Dimarahi karena diharapkan bisa menjadi ninja yang hebat. Tidak ada anak yang sesempurna itu."</em><br>
+  — <strong>Shikamaru Nara</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
