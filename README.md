@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akhir-akhir ini, kelompok kalian tidak menghasilkan apa - apa. Badan penelitian yang hanya berbicara tentang kejayaan masa lalu tidak dibutuhkan di Tootsuki."</em><br>
-  — <strong>Erina Nakiri</strong>, <em>Shokugeki no Souma</em>
+  <em>"Kau adalah bunga yang mekar dihatiku."</em><br>
+  — <strong>Santana</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
