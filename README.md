@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa sulitnya (menjalani hidup), aku ingin kau percaya bahwa dunia ini indah."</em><br>
-  — <strong>Fujino Asagami</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
+  <em>"Orang yang memanggil orang lain bodoh, adalah orang yang bodoh."</em><br>
+  — <strong>Subaru Uchimaki</strong>, <em>Kono Bijutsubu ni wa Mondai ga Aru!</em>
 </div>
 <!-- QUOTE END -->
 
