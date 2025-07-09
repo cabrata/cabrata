@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutmu kenapa orang bisa terjaga di malam hari?Karena orang itu merasa tidak puas pada hari (yang telah ia lalui)."</em><br>
-  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
+  <em>"Aku sedikit takut. Bukan karena kematian, tapi aku takut berpisah denganmu. Aku tak pernah merasa seperti ini sebelumnya, tapi menurutku inilah yang terbaik untukku. Semua ini demi masa depan umat manusia, dan juga demi masa depanmu. Untuk itu aku mempertaruhkan nyawaku berapa kali pun."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
