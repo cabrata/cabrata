@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu terus berjalan, bagi Watari maupun Kausei. Meski mereka takut, terluka, meski mereka tak bisa melihat ke depan, mereka masih mencari sesuatu (jalan menuju cita - citanya). Mereka mengambil langkah demi langkah untuk mengumpulkan keberanian, mereka saling menginspirasi, saling mendukung, lalu mereka mencoba untuk maju. Hanya aku yang tak mengambil langkah (untuk mencapai keinginanku). Hanya aku yang waktunya berhenti."</em><br>
-  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Uang? Hal seperti itu tidak ada artinya di hadapan cinta."</em><br>
+  — <strong>Tarou Jiroumaru</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
