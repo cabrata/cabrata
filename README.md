@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keyakinan saja tidak cukup untuk mewujudkan idealismemu."</em><br>
-  — <strong>Doppo Kunikida</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
+  <em>"Pertarungan takkan adil jika kau melanggar janjimu sendiri."</em><br>
+  — <strong>Inojin Yamanaka</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
