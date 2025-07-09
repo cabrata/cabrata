@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada perasaan yang tenang setelah kau mencurahkan perasaanmu melalui pesan singkat untuk orang lain.
-Lalu, meskipun kau baru saja mengirimkan pesannya, kau sudah tidak sabar menunggu balasannya.
-Akhirnya HP-mu pun berdering dan kau kegirangan saat melihat nama pengirimnya."</em><br>
-  — <strong>Shinzou Takemitsu</strong>, <em>Sket Dance</em>
+  <em>"Meskipun semua orang menyalahkannya, atau bahkan jika dirinya juga menyalahkan dirinya sendiri, aku akan menggenggam tangannya dan membawanya ke tempat yang terang."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
