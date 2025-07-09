@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berbeda denganku, kalian semua lahir dari negara yang tak begitu berbahaya. Bersyukurlah dan gunakan semua yang kalian punya, untuk membuat kalian bersinar sebagai perempuan."</em><br>
-  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Setiap orang punya sisi rahasianya tersendiri."</em><br>
+  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
