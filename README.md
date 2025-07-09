@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia lahir, tumbuh, dan mati tanpa arti. Setelah semuanya berakhir barulah terlihat apa itu arti hidup."</em><br>
-  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Sudah kuputuskan. Akan kubuat Hiyori menjadi wanita paling bahagia di dunia ini."</em><br>
+  — <strong>Yato</strong>, <em>Noragami Aragoto</em>
 </div>
 <!-- QUOTE END -->
 
