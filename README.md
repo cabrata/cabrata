@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau orangnya baik. Kau selalu mengajarkanku hal-hal baru. Terima kasih untuk semuanya. Jika tidak keberatan, tetaplah bersamaku selamanya."</em><br>
-  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
+  <em>"Manusia lahir, tumbuh, dan mati tanpa arti. Setelah semuanya berakhir barulah terlihat apa itu arti hidup."</em><br>
+  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
