@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dari nol menjadi satu! Mari kita bersinar dengan segala yang kita miliki!"</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Saat kau melihat ke bawah dari tempat setinggi ini, kota (jadi) terlihat kecil ya?
+Tapi, aku lahir disini, besar disini... dan jatuh cinta disini."</em><br>
+  — <strong>Kaoru Tanamachi</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
