@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah perjalanan tanpa akhir. Untuk melihat sesuatu yang baru, kau harus membuka jalanmu sendiri."</em><br>
-  — <strong>King</strong>, <em>One Punch Man Season 2</em>
+  <em>"Orang realistis sejati itu orang yang berkepribadian baik."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
