@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Intinya, ada 2 pilihan yang bisa diambil saat bermain game. Buat strategimu sendiri, atau memanfaatkan strategi pemain lain. Pertanyaannya adalah siapa yang memiliki inisiatif. Dalam pertandingan ini, kamilah yang membuat inisiatif selama game berlangsung."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Meskipun semua orang menyalahkannya, atau bahkan jika dirinya juga menyalahkan dirinya sendiri, aku akan menggenggam tangannya dan membawanya ke tempat yang terang."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
