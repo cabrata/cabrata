@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau dalam masalah, aku ingin jadi yang pertama membantumu. Hanya itu yang kuinginkan."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Permintaan maaf adalah pengakuan atas kesalahan yang telah diperbuat untuk meminta pengampunan."</em><br>
+  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
