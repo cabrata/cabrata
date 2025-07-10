@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hewan bukanlah "sebuah mainan". Mereka hidup, sama seperti manusia."</em><br>
-  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Aku tidak mau kamu minta maaf padaku. Membuat Araragi-senpai menunduk meminta maaf adalah aib bagi Kanbaru Suruga."</em><br>
+  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
