@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau bukan karena panas yang sampai ke kepalaku ini, aku takkan repot-repot sampai pergi ke kebun binatang bodoh yang disebut "sekolah"."</em><br>
-  — <strong>Jinta Yadomi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Di perpustakaan aku telah membaca bermacam-macam buku. Buku yang menarik, buku yang tidak menarik, buku yang menyenangkan, buku yang menyedihkan, buku yang baik dan buku yang besok ingin ku baca lagi. Aku suka membaca buku yang populer, karena buku ada untuk dibaca. Aku juga membaca dan merawat buku yang tidak populer, karena setiap buku memiliki daya tarik tersendiri. Aku menyukai buku yang bersih. Dengan melihatnya saja membuatku bahagia. Aku menyukai buku yang usang, (karena) itu menunjukkan bahwa buku itu telah melakukan tugasnya dengan baik. Semua buku itu hidup dalam sebuah rumah besar yang disebut dengan perpustakaan. Tempat dimana aku merasa bahagia. Tempat berbagai macam pengetahuan, pengalaman dan pemikiran orang yang berbeda-beda saling berkumpul."</em><br>
+  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
