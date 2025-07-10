@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa yang membuat kami memulai dari nol? Kami mengejar sesuatu yang tak berwujud, tersesat, ketakutan, menangis, kami ingin keluar dari zona nol itu. Dan dimana yang seharusnya tidak ada apa-apa, sebuah sinar terus bersinar di dalam hati kami. Dan keyakinan bahwa kesembilan dari kami bisa melakukan sesuatu yang istimewa karena dituntun oleh sinar cahaya itu. Dari situlah kami berasal, dimana Aqours berasal. Kami akan membuat kisah kami menjadi nyata! Dengan sinar cahaya ini!"</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Jika kau punya waktu untuk memikirkan kematianmu, kenapa tak kau jalani kehidupan indahmu sampai akhir?"</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
