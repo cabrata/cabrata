@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senang, sakit, bahagia, sedih... kuharap berbagai macam perasaan itu bisa menjadi cinta."</em><br>
-  — <strong>Kou Yamori</strong>, <em>Yofukashi no Uta</em>
+  <em>"Kalau bukan karena panas yang sampai ke kepalaku ini, aku takkan repot-repot sampai pergi ke kebun binatang bodoh yang disebut "sekolah"."</em><br>
+  — <strong>Jinta Yadomi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
