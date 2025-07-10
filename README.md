@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pasti sangat sulit berusaha melakukan apa yang diinginkan. (Sebenarnya) aku tidak terlalu mengerti, tapi pasti butuh kerja keras untuk mendapatkan hasilnya. Meskipun (kadang) memiliki impian itu membuatmu sulit (menjalani hidup)."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Jika gadis yang kau sukai menyukai orang lain, hatimu pasti hancur."</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
