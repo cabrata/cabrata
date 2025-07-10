@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua cewek dada besar itu musuh dari cewek dada rata."</em><br>
-  — <strong>Yuika Koga</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
+  <em>"Bagi kami, selama di situ ada guru, entah itu di sawah atau pun di lapangan, itu adalah sekolah (tempat untuk belajar)."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
