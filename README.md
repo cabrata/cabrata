@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada gadis yang membuat seseorang repot."</em><br>
-  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
+  <em>"Kunci keberhasilan dari sebuah negosiasi adalah persiapan yang telah kau rencanakan sebelumnya. Ketahuilah keinginan lawanmu, dan buat dia terbuai dengan keinginannya. Dan kesalahan terbesarmu adalah karena kau hanya memikirkan keinginanmu sendiri."</em><br>
+  — <strong>Anastasia Hoshin</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
