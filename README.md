@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Hidup itu seperti membuat origami)Dalam origami dengan membuat lipatan-lipatan, jika pembentukan terakhir berjalan dengan lancar hasilnya akan sangat indah. Kau membuat lipatan, lalu mengembalikan lipatan seperti semula dan membuat lipatan lainnya. Mungkin rasanya seperti mengulangi hal yang sama terus-menerus dan tak ada hasil apapun. Tapi aku yakin pengalaman itu, lipatan-lipatan itu akan menjadi sebuah origami yang indah yang hanya bisa dibuat olehmu."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Jika kau hanya sendirian, kamu takkan mengerti keberadaanmu. Aku merasa kalau hubungan antar manusia adalah bukti tentang hidup. Aku memiliki hati karena ada semua orang. Aku memiliki tubuh karena aku disentuh semua orang. Jadi, hidup seseorang itu memiliki arti. Memilih sendiri, seperti kau dan aku, seperti hidup kita yang sekarang."</em><br>
+  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
 
