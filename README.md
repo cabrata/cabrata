@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita tidak bahagia, maka kita tidak bisa membuat tamu bahagia. Selain itu, ini bukan hanya demi kamu. Kalau kau bahagia, aku juga bahagia."</em><br>
-  — <strong>Seiji Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Kau adalah pahlawan karena menyelamatkan seorang wanita tua."</em><br>
+  — <strong>Alan Lernier</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
