@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melakukan yang terbaik, berjuang dengan segala apa yang kubisa untuk berbohong. Karena bagitu, kebohongan adalah cinta. Dengan kata lain, berbohong adalah caraku untuk mengungkapkan rasa cinta."</em><br>
-  — <strong>Ai Hoshino</strong>, <em>[Oshi no Ko]</em>
+  <em>"Senang, sakit, bahagia, sedih... kuharap berbagai macam perasaan itu bisa menjadi cinta."</em><br>
+  — <strong>Kou Yamori</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
