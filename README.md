@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena tidak beruntung bukan berarti harus menderita.
-Hanya karena tidak menyenangkan bukan berarti harus membenci.
-Apa pun yang terjadi padamu, tetaplah bahagia."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Nekomonogatari: Kuro</em>
+  <em>"Kalau kita tidak bahagia, maka kita tidak bisa membuat tamu bahagia. Selain itu, ini bukan hanya demi kamu. Kalau kau bahagia, aku juga bahagia."</em><br>
+  — <strong>Seiji Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
