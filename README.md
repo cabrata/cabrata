@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mata-mata tidak percaya siapa pun, selain dirinya sendiri."</em><br>
-  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
+  <em>"Tak peduli berapa banyak kebohongan yang kau katakan, kau takkan bisa membohongi hatimu sendiri."</em><br>
+  — <strong>Meliodas</strong>, <em>Nanatsu no Taizai</em>
 </div>
 <!-- QUOTE END -->
 
