@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan menangis Yamato. Jangan menangis demi aku. Kau tak perlu mengkhawatirkanku. Tertawalah...
-Yang paling tidak kuinginkan adalah saat melihatmu menangis."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Manusia tumbuh lebih kuat demi dirinya sendiri."</em><br>
+  — <strong>Hibana</strong>, <em>Enen no Shouboutai</em>
 </div>
 <!-- QUOTE END -->
 
