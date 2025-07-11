@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua hal saling terhubung. Tubuh kita merupakan bagian kecil dari alam semesta. Bagian itu saling terhubung dengan alam semesta yang lebih besar."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
+  <em>"Ada dua cara untuk menjalani hidup. Hidup dengan menyadari bahwa hanya sedikit hal yang bernilai dalam diri sendiri, atau hidup dengan menyadari bahwa hanya sedikit hal yang berharga di dunia ini."</em><br>
+  — <strong>Jun Aikawa</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
