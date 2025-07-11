@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pistol itu simpel. Pistol dapat mengakhiri suatu hal hanya dengan satu letupan. Tidak serumit hubungan antara manusia."</em><br>
-  — <strong>Canaan</strong>, <em>Canaan</em>
+  <em>"Terkadang kesalahan kecil dapat menyebabkan kesalahan yang lebih besar."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
