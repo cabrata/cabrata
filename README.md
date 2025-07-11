@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pejudi itu orang terburuk."</em><br>
-  — <strong>Fern</strong>, <em>Sousou no Frieren</em>
+  <em>"Aku menulis novel sebagai hobi. Dan hobi yang tidak dilakukan dengan serius akan membosankan, 'kan? Karena ini hobiku, maka aku melakukannya sepenuh hati."</em><br>
+  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei</em>
 </div>
 <!-- QUOTE END -->
 
