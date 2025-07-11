@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah menjadi sedikit tidak adil membuatku jadi lebih seperti gadis?"</em><br>
-  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
+  <em>"Apa kau percaya dengan takdir?
+Apa kau mendengarnya? suara dari langkah takdir kita yang semakin mendekat."</em><br>
+  — <strong>Souichi Jounouchi</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
