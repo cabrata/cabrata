@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesempatan takkan menunggu seseorang. Jika kau biarkan kesempatan pergi dengan berkata "Aku belum siap". Maka takkan ada lagi kesempatan seperti itu untukmu."</em><br>
-  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Jangan menangis Yamato. Jangan menangis demi aku. Kau tak perlu mengkhawatirkanku. Tertawalah...
+Yang paling tidak kuinginkan adalah saat melihatmu menangis."</em><br>
+  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
