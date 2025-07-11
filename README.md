@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada yang salah dengan dunia ini, orang-orang tak bisa bermimpi dan memikirkan masa depan."</em><br>
-  — <strong>Boogiepop</strong>, <em>Boogiepop wa Warawanai</em>
+  <em>"Keadilan yang tak membuahkan hasil itu hanya omong kosong."</em><br>
+  — <strong>Ayase Ayatsuji</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
