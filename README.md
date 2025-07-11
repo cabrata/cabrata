@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal terpenting dalam bekerja adalah tidak menyerahkan pekerjaan (kita) pada orang lain."</em><br>
-  — <strong>Francis Scott Key Fitzgerald</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"(Dalam sebuah kompetisi) menganggap semua orang di sini sebagai musuh, adalah keputusan yang bijaksana."</em><br>
+  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
