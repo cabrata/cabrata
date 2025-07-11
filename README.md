@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku menulis novel sebagai hobi. Dan hobi yang tidak dilakukan dengan serius akan membosankan, 'kan? Karena ini hobiku, maka aku melakukannya sepenuh hati."</em><br>
-  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei</em>
+  <em>"Aku benar-benar beruntung, punya orang-orang yang mendukungku dan menolongku.
+Hanya dapat hidup saja sudah (membuatku) beruntung."</em><br>
+  — <strong>Ryousuke Kirishima</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
