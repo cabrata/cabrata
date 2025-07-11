@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang kesalahan kecil dapat menyebabkan kesalahan yang lebih besar."</em><br>
-  — <strong>Umiko Ahagon</strong>, <em>New Game!</em>
+  <em>"Tidak ada masalah adalah masalah."</em><br>
+  — <strong>Medaka Kurokami</strong>, <em>Medaka Box</em>
 </div>
 <!-- QUOTE END -->
 
