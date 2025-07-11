@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia tumbuh lebih kuat demi dirinya sendiri."</em><br>
-  — <strong>Hibana</strong>, <em>Enen no Shouboutai</em>
+  <em>"Manusia mudah memuja sesuatu yang mistis dan hal-hal yang di luar nalar."</em><br>
+  — <strong>Ekubo</strong>, <em>Mob Psycho 100 III</em>
 </div>
 <!-- QUOTE END -->
 
