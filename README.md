@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria yang kalah oleh kesedihan dalam hidupnya itu sama seperti seorang yang sedang menunggu ajalnya."</em><br>
-  — <strong>Joutarou Kawasumi</strong>, <em>Inu x Boku SS</em>
+  <em>"Di luar jam kerja, aku tidak ingin melakukan hal yang tidak ingin kulakukan."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
