@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin ada kalanya (kau) merasa bingung dan merasa kesal karena kenyataan tidak berjalan sesuai dengan harapan. Tapi, hal yang kau pelajari tidak akan pernah mengkhianatimu."</em><br>
-  — <strong>Tooru Miyagishi</strong>, <em>Hanasaku Iroha</em>
+  <em>"Jangan sia-siakan kehidupanmu tanpa cinta."</em><br>
+  — <strong>Mao Mizusawa</strong>, <em>KimiKiss Pure Rouge: Love Fighter</em>
 </div>
 <!-- QUOTE END -->
 
