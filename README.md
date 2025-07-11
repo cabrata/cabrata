@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah kuputuskan. Aku adalah "bayangan".
-Semakin kuat cahayanya, semakin kuat bayangannya.
-Aku akan menjadi bayangan dari cahayamu, dan menjadikanmu pemain terbaik di jepang."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Kau sudah puas sekarang? Kalau ini belum cukup untukmu. Akan kuterima tantanganmu sebanyak apapun kau mau, karena aku sudah terbiasa. Jadi, aku mohon padamu, jangan libatkan orang yang tidak bersalah!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
