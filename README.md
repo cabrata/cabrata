@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan asal taruh barang aneh di hati orang."</em><br>
-  — <strong>Kurisu Makise</strong>, <em>Steins;Gate</em>
+  <em>"Mungkin ada kalanya (kau) merasa bingung dan merasa kesal karena kenyataan tidak berjalan sesuai dengan harapan. Tapi, hal yang kau pelajari tidak akan pernah mengkhianatimu."</em><br>
+  — <strong>Tooru Miyagishi</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
