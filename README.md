@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang terbaik adalah melakukan hal yang kau inginkan."</em><br>
-  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
+  <em>"Aku benar-benar beruntung, punya orang-orang yang mendukungku dan menolongku.
+Hanya dapat hidup saja sudah (membuatku) beruntung."</em><br>
+  — <strong>Ryousuke Kirishima</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
