@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua cewek dada besar itu musuh dari cewek dada rata."</em><br>
-  — <strong>Yuika Koga</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
+  <em>"Aku ingin menyerap pengetahuan dan teknik memasak sebanyak mungkin, dan terus bertarung di Akademi. Aku ingin terus mengeluarkan seluruh kemampuanku."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
