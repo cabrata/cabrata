@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebelumnya, aku merasa tak mungkin aku mau jalan dengan orang aneh sepertimu di depan orang banyak. Tapi hari ini, aku merasa ingin bersama denganmu selamanya."</em><br>
-  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Semua cewek dada besar itu musuh dari cewek dada rata."</em><br>
+  — <strong>Yuika Koga</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
 </div>
 <!-- QUOTE END -->
 
