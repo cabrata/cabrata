@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena tidak beruntung bukan berarti harus menderita.
-Hanya karena tidak menyenangkan bukan berarti harus membenci.
-Apa pun yang terjadi padamu, tetaplah bahagia."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Nekomonogatari: Kuro</em>
+  <em>"Aku takkan memaksamu untuk melakukan sesuatu yang besar. Cukup lakukan apa yang bisa kau lakukan. Aku pun akan melakukan apa yang bisa kulakukan. Begitulah peran yang bisa kita lakukan di dunia ini."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
