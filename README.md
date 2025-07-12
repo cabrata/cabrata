@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bukanlah orang baik. Tak ada apa pun yang bisa kuajarkan padamu, tapi aku ingin kau berjanji satu hal padaku. Saat teman atau perempuan yang kau cintai sedang kesulitan, lindungilah dengan cara apa pun, itu adalah tugas laki-laki. Dengan cara itu, laki-laki bisa terus bangkit dalam situasi sesulit apa pun. Jadilah laki-laki seperti itu."</em><br>
-  — <strong>Papa Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Ketika kau memiliki orang yang kau cintai, kau akan menjadi lebih kuat. Berkat Tetsurou, aku juga sudah berubah. Paling tidak aku sudah mencoba untuk menjadi lebih berani dan lebih kuat."</em><br>
+  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
