@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tidak hidup demi dirimu sendiri, maka kau takkan pernah mengerti apa itu arti kebahagiaan!"</em><br>
-  — <strong>Rin Tohsaka</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Saat tak ada orang di dunia ini yang percaya padamu, bahkan saat kau tak percaya pada dirimu sendiri, aku akan tetap percaya padamu!"</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
