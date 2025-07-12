@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau tak punya kekuatan, kau masih bisa berjuang dan berharap untuk meraih tujuanmu.
-Itu adalah prinsip yang di pegang teroris. ingat baik-baik."</em><br>
-  — <strong>Minene Uryuu</strong>, <em>Mirai Nikki</em>
+  <em>"Kunci keberhasilan dari sebuah negosiasi adalah persiapan yang telah kau rencanakan sebelumnya. Ketahuilah keinginan lawanmu, dan buat dia terbuai dengan keinginannya. Dan kesalahan terbesarmu adalah karena kau hanya memikirkan keinginanmu sendiri."</em><br>
+  — <strong>Anastasia Hoshin</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
