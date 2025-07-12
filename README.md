@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama kau tak menyerah, impianmu akan terwujud. Begitulah dunia ini."</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Beda orang, beda pandangan. Rasa sayang itu ada macam-macam bentuknya."</em><br>
+  — <strong>Kakek Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
