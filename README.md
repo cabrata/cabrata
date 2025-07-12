@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Mereka) benar-benar hebat. Mereka tahu apa yang ingin mereka lakukan. Dibandingkan dengan Misaki-senpai dan yang lainnya, aku tidak ada apa-apanya. Meskipun begitu, suatu hari kuharap aku menemukan apa yang ingin kulakukan."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Hanya karena tidak beruntung bukan berarti harus menderita.
+Hanya karena tidak menyenangkan bukan berarti harus membenci.
+Apa pun yang terjadi padamu, tetaplah bahagia."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Nekomonogatari: Kuro</em>
 </div>
 <!-- QUOTE END -->
 
