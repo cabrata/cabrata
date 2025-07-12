@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan menikah dengan orang lain (selain dirimu). Aku telah berdoa agar bisa bersamamu untuk selamanya."</em><br>
-  — <strong>Sae Nakata</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Kampanye itu hanyalah tindakan mengemis suara."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
