@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pilihan benar atau salah itu tak ada hubungannya denganku. Aku hanya melakukan apa yang ingin kulakukan. Tentu saja aku akan menerima konsekuensinya."</em><br>
-  — <strong>Aka no Saber</strong>, <em>Fate/Apocrypha</em>
+  <em>"Ada perdebatan kenapa alien tidak menginvasi Bumi padahal mereka maju dalam hal sains dan teknologi. Mereka tidak bisa (menyerang) karena ada siluman (di Bumi). Siluman dan setan melindungi Bumi dari invasi alien."</em><br>
+  — <strong>Ken Takakura</strong>, <em>Dandadan</em>
 </div>
 <!-- QUOTE END -->
 
