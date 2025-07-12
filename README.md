@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebaiknya jangan pernah menerima uang yang tak pantas diterima. Kalau kau terima, nanti kau akan selalu manggampangkan masalah."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Aku tak akan menikah dengan orang lain (selain dirimu). Aku telah berdoa agar bisa bersamamu untuk selamanya."</em><br>
+  — <strong>Sae Nakata</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
