@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun aku baru pertama kali melihatmu di konser, aku tetap akan menjadi penggemarmu. Aku selalu melihatmu, aku juga sudah banyak mengirimimu surat penggemar. Meski dalam keadaan sulit sekalipun, atau dalam keadaan sedih sekalipun, aku menyemangati diriku dengan mendengarkan lagu-lagumu. Terimakasih selalu menjadi teman bagiku."</em><br>
-  — <strong>Mayu Arita</strong>, <em>Death Parade</em>
+  <em>"Selama masalah tidak dipermasalahkan, masalah tidak akan menjadi masalah."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
