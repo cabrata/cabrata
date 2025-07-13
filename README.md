@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria lebih sering mengungkapkan suatu hal dengan tindakan daripada kata-kata. Jika ada hal yang menyakitkan, mereka tidak ingin merepotkan orang lain. Mereka tidak ingin membuat orang lain khawatir. Karena itu mereka tidak mengatakannya."</em><br>
-  — <strong>Maes Hughes</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Bola voli adalah olahraga yang mengutamakan tinggi badan. Semakin tinggi tubuh seseorang, maka dia akan semakin kuat. Mengasah kekuatan para pemain untuk semakin berkembang, dan juga menemukan cara baru untuk bertarung. Karena itulah hari ini banyak sekali variasi serangan dan pertahanan. Ada banyak makna dari sebuah "kekuatan"."</em><br>
+  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
