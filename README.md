@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Uang? Hal seperti itu tidak ada artinya di hadapan cinta."</em><br>
-  — <strong>Tarou Jiroumaru</strong>, <em>Hanasaku Iroha</em>
+  <em>"Ada banyak hal yang menyenangkan dan menyedihkan. Begitu juga kesuksesan dan kegagalan. Kalian memang sudah lulus SD hari ini, tapi masih ada banyak hal lagi yang belum kalian rasakan. Begitu juga denganku. Tapi, merasakan semua hal yang masih belum kita rasakan itu pasti adalah tujuan utama kita hidup."</em><br>
+  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
