@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keteguhan dan kepasrahan adalah hal yang sama.
-Keduanya merupakan keputusan untuk mengorbankan segalanya demi mencapai tujuan."</em><br>
-  — <strong>Limeskin</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Aku tak peduli dengan dojo. Aku ingin dojo dimana kakakku selalu tersenyum. Jika itu membuat kakakku menangis, maka aku tidak membutuhkan dojo seperti itu."</em><br>
+  — <strong>Shinpachi Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
