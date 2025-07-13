@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Apakah bunuh diri itu dapat di benarkan, Mikiya?)
-Hm... Misalnya aku mengidap virus berbahaya. Jika aku hidup semua orang di Tokyo akan mati. Jika semuanya bisa selamat kalau aku mati, maka aku mungkin akan bunuh diri. Tapi aku melakukannya karena aku lemah. Aku bunuh diri karena aku tak punya keberanian untuk tetap hidup jika semua orang di Tokyo menyalahkanku.
-Keberanian sesaat atau keberanian berlanjut selama hidupmu. Kau tahu mana yang paling sulit kan?
-Itu adalah argumen yang sulit, tapi kupikir kematian hanyalah pelarian. Ada saat seseorang ingin lari menjauh. Itu sesuatu yang tak bisa dielak ataupun ditolak, karena aku orang yang lemah juga."</em><br>
-  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Seseorang yang bertindak melawan keinginannya sendiri menurutku orang yang menarik."</em><br>
+  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
