@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk apa kita berusaha menjadi manusia dengan cara yang tidak manusiawi?"</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
+  <em>"Jangan menilai orang dari satu sudut pandang. Kamu harus melihat dari berbagai sudut pandang."</em><br>
+  — <strong>Tetsuo Takahashi</strong>, <em>Demi-chan wa Kataritai</em>
 </div>
 <!-- QUOTE END -->
 
