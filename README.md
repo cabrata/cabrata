@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan biarkan orang lain menentukan nilai dirimu."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Aku menjadi koki masakan Prancis agar aku dapat membuat ibuku tersenyum setiap saat."</em><br>
+  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
