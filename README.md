@@ -5,19 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci cewek yang baik.
-Hanya saling menyapa bisa membuatku penasaran, hanya saling mengirim pesan membuatku gelisah.
-Jika mereka menelponku, aku akan selalu melihat daftar panggilanku dengan senyum bodoh.
-Tapi aku tahu. Mereka hanya bersikap baik.
-Jika mereka baik padaku, berarti mereka juga baik pada yang lain. Aku hampir lupa akan hal itu.
-Jika kenyataan itu kejam, maka kebohongan itu baik.
-Jadi, kebaikan adalah kebohongan.
-Aku selalu memegang harapan ini. Dan aku selalu salah paham (akan hal ini).
-Hingga tanpa kusadari aku telah berhenti berharap.
-Penyendiri berpengalaman tidak akan terjebak dalam perangkap yang sama.
-Sebagai veteran dalam pertempuran kehidupan, akulah yang terkuat dalam hal kekalahan.
-Jadi sampai kapanpun, aku benci cewek yang baik."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Aku iri padamu yang mempunyai semua yang aku inginkan. Kenapa selalu dirimu? Itu membuatku frustasi. Memang ada saat dimana aku membencimu. Tapi tidak hanya itu. Berkat dirimu, aku menemukan tujuan hidupku. Karena itu aku berusaha untuk meraihnya, namun (ternyata) gagal. Itu membuatku lebih frustasi. Meskipun begitu, semua itu adalah saat terbaik dalam hidupku. Jika saja aku tidak bertemu denganmu, aku takkan pernah merasakan perasaan seperti ini. Semua hal yang telah kau ajarkan padaku inilah yang membuatku mencintaimu. Aku sangat mencintaimu!"</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
