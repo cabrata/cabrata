@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Debar hatiku ini... menggelitik dan terasa menyenangkan.
-Kuharap besok segera tiba. Aku ingin segera melihat wajahnya."</em><br>
-  — <strong>Ai Nanasaki</strong>, <em>Amagami SS</em>
+  <em>"Seiring bertambahnya usia, kita akan semakin khawatir tentang masa depan."</em><br>
+  — <strong>Santouka Taneda</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
 </div>
 <!-- QUOTE END -->
 
