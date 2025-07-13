@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli kau dilahirkan dimana, Aku senang kau ada disini!"</em><br>
-  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist</em>
+  <em>"Ketika dia berbicara seperti itu (sangat percaya diri), dia tidak akan membiarkan tembakannya meleset. (Maka) Serahkan penyerangan padanya. Kau hanya harus bertahan seperti hidupmu bergantung padanya."</em><br>
+  — <strong>Shun Izuki</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
