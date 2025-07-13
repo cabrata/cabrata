@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau begitu, jika kau tak lagi menganggapku sebagai ancaman, kau mau berteman denganku kan?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Teruslah hidup untuk melihat akhir dari dunia ini, untuk mengetahui maksud mengapa dunia ini dilahirkan, untuk mengetahui maksud mengapa gadis lemah sepertiku bisa ada di sini, dan juga untuk mengetahui arti dari pertemuan kita."</em><br>
+  — <strong>Sachi</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
