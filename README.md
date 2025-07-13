@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejak awal kita memang tidak mungkin memahami apa yang dipikirkan orang lain. Bahkan jika kita memikirkan hal yang sama."</em><br>
-  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Manusia itu makhluk yang dangkal. Mereka hanya melihat (orang lain) berdasarkan gosip yang beredar di permukaan."</em><br>
+  — <strong>Becky Blackbell</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
