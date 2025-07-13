@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah seorang anak butuh alasan untuk melindungi peninggalan yang dibanggakan orang tuanya?"</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Aku harus melindungi kehidupanku bersama Shio-chan karena aku ingin lebih mengetahui tentang cinta."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
