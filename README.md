@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tahu kalau aku ini (hanya) tiruan. Meskipun aku tidak memiliki masa lalu, tapi aku mempunyai keyakinan yang kuat!
-Aku mencintai Ryougi! Bahkan jika aku adalah tiruan, tapi hati ini nyata."</em><br>
-  — <strong>Tomoe Enjou</strong>, <em>Kara no Kyoukai 5: Mujun Rasen</em>
+  <em>"Seorang pria lebih sering mengungkapkan suatu hal dengan tindakan daripada kata-kata. Jika ada hal yang menyakitkan, mereka tidak ingin merepotkan orang lain. Mereka tidak ingin membuat orang lain khawatir. Karena itu mereka tidak mengatakannya."</em><br>
+  — <strong>Maes Hughes</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
