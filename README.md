@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kesunyian ini mulai membuatku nyaman, rasanya detak jantungku ini ingin meninggalkan jarum jam ke dalam debu dan bergegas ke masa depan."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Untuk apa kita berusaha menjadi manusia dengan cara yang tidak manusiawi?"</em><br>
+  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
