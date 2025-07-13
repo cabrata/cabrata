@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunang-kunang hidupnya sangat singkat dan lemah, tapi dia bersinar dengan terang. Dag dig dug, seperti jantung yang berdetak. Ini adalah cahaya kehidupan."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Seseorang tak mungkin bisa mendapatkan segalanya. Pasti akan datang hari ketika kita kehilangan. Karena itu majulah terus agar tak ada penyesalan."</em><br>
+  — <strong>Endorsi Jahad</strong>, <em>Kami no Tou</em>
 </div>
 <!-- QUOTE END -->
 
