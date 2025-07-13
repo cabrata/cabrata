@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"kata paling disukai kita (aku dan kakakku) adalah "tidak", pada orang yang berpikiran kalau mereka mempunyai keuntungan mutlak."</em><br>
-  — <strong>Shiro</strong>, <em>No Game No Life</em>
+  <em>"Apakah seorang anak butuh alasan untuk melindungi peninggalan yang dibanggakan orang tuanya?"</em><br>
+  — <strong>Tae Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
