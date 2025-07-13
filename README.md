@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebelumnya, aku merasa tak mungkin aku mau jalan dengan orang aneh sepertimu di depan orang banyak. Tapi hari ini, aku merasa ingin bersama denganmu selamanya."</em><br>
-  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Hanya pertemuan yang dapat membuat seorang Koki berkembang. Kalau hanya menghadapi masakanmu sendiri, kau hanya akan melihat dirimu yang tak pernah berubah!"</em><br>
+  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
