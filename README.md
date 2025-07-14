@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pejuang adalah seorang yang melindungi anak-anak dan menghargai teman-temannya."</em><br>
-  — <strong>Ruijerd Superdia</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu</em>
+  <em>"Lupakan orang yang meninggalkanmu, dan persiapkan dirimu untuk cinta yang baru. Itulah yang harus dilakukan dalam menjalani cinta."</em><br>
+  — <strong>Kagura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
