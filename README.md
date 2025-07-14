@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa mereka tidak tahu, harga diri seorang pria itu lebih berharga dari nyawanya."</em><br>
-  — <strong>Motoharu</strong>, <em>Danshi Koukousei no Nichijou</em>
+  <em>"Saat kondisi terjepit, saat itulah ada kesempatan. Saat kita dalam keadaan tanpa harapan, saat itu pula energi negatif dari luar berkumpul. Tapi dengan mengubah pola pikir, kita bisa mengubah keadaan. Karena itu, sesulit atau seburuk apa pun situasinya kita harus berjuang sampai akhir."</em><br>
+  — <strong>Oji-san</strong>, <em>Isekai Ojisan</em>
 </div>
 <!-- QUOTE END -->
 
