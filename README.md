@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci pria yang diam saja melihat seorang wanita tersakiti."</em><br>
-  — <strong>Sen Yarizui</strong>, <em>Ben-To</em>
+  <em>"Sejujurnya, aku dari dulu sedikit tertarik padamu. Setelah mengobrol denganmu secara langsung, ketertarikan itu semakin kuat sekarang."</em><br>
+  — <strong>Sylvia Lyyneheym</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
