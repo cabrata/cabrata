@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Takkan kubiarkan anggota partyku mati. Tidak selama aku masih hidup. Aku takkan membiarkan itu terjadi!"</em><br>
-  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
+  <em>"Walau dunia ini memusuhimu, aku akan tetap di sampingmu."</em><br>
+  — <strong>Miyabi Azumaya</strong>, <em>Dimension W</em>
 </div>
 <!-- QUOTE END -->
 
