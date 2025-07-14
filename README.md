@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku senang karenamu. Aku bahagia karenamu. Aku tertawa, tersenyum, dan ceria karenamu. Aku seperti bukan diriku sendiri. Karenamu aku percaya bahwa seorang sepertiku bisa berubah. Tapi... pada akhirnya aku tidak berubah."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Ketika semua orang bermain video game, aku tinggal dan bekerja keras. Aku terus bekerja keras untuk menjadi penulis yang karyanya terlaris di (majalah manga) Jack."</em><br>
+  — <strong>Eiji Niizuma</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
