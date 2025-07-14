@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita telah berjanji untuk selalu bersama. Janji itulah yang membuatku bahagia.
-Aku sadar betapa aku sangat mencintainya. Mengingatnya (saja) membuatku bahagia.
-Dia mengatakan akan membuatku bahagia. Apa yang dikatakannya itu membuatku bahagia.
-Dia telah banyak membawa kebahagiaan dalam hidupku.
-Karena itulah, tak peduli apa kata orang lain, aku merasa bahwa aku adalah gadis paling bahagia di dunia ini."</em><br>
-  — <strong>Chtholly Nota Seniorious</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Doa itu penuh dengan ajaran masa depan."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
 </div>
 <!-- QUOTE END -->
 
