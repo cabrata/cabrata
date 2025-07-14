@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Imajinasi adalah senjata. Orang yang tak memilikinya akan mati."</em><br>
-  — <strong>Goblin Slayer</strong>, <em>Goblin Slayer</em>
+  <em>"(Berbicara mengenai koro-sensei) Dia menulis pertanyaan individual, dengan mempertimbangkan soal yang murid kuasai.
+Dia memiliki kecerdasan dan kecepatan luar biasa, makhluk berbahaya inilah yang akan menghancurkan bumi.
+Dan kemampuan mengajarnya mendekati sempurna."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
