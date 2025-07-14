@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang kubenci adalah pria yang terus-menerus memikirkan kesalahan di masa lalu dan hal lain yang tak mungkin bisa dia ubah."</em><br>
-  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
+  <em>"Hidup itu berharga, nyawamu hanya ada satu!"</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
