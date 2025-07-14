@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada banyak hal yang menyenangkan dan menyedihkan. Begitu juga kesuksesan dan kegagalan. Kalian memang sudah lulus SD hari ini, tapi masih ada banyak hal lagi yang belum kalian rasakan. Begitu juga denganku. Tapi, merasakan semua hal yang masih belum kita rasakan itu pasti adalah tujuan utama kita hidup."</em><br>
-  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Aku senang karenamu. Aku bahagia karenamu. Aku tertawa, tersenyum, dan ceria karenamu. Aku seperti bukan diriku sendiri. Karenamu aku percaya bahwa seorang sepertiku bisa berubah. Tapi... pada akhirnya aku tidak berubah."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
