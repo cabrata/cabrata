@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang menang selalu benar! Dan yang salah adalah setan!"</em><br>
-  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
+  <em>"Aku mempercayai kekuatanmu, kata-katamu dan senyummu."</em><br>
+  — <strong>Minato Sahashi</strong>, <em>Sekirei</em>
 </div>
 <!-- QUOTE END -->
 
