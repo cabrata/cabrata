@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah aku, jadi aku akan menyelamatkannya karena itu membuatku puas."</em><br>
-  — <strong>Kuro no Rider</strong>, <em>Fate/Apocrypha</em>
+  <em>"Kau tidak boleh gampang menyerah!"</em><br>
+  — <strong>Suguha Kirigaya</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
