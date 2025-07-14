@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang menang selalu benar! Dan yang salah adalah setan!"</em><br>
-  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
+  <em>"Yang kubenci adalah pria yang terus-menerus memikirkan kesalahan di masa lalu dan hal lain yang tak mungkin bisa dia ubah."</em><br>
+  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
