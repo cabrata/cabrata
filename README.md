@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena seseorang mengatakan sesuatu yang tidak kau sukai, bukan berarti mereka tidak menyukaimu."</em><br>
-  — <strong>Hyougo Otoo</strong>, <em>Working!!!</em>
+  <em>"Kalau kita bersama dan memenuhi kewajiban kita, masa depan yang indah akan menanti kita."</em><br>
+  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
