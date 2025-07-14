@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang selalu bilang, tertawalah dengan wajahmu dan menangislah dengan hatimu."</em><br>
-  — <strong>Koharu Shiroyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Aku tak tahan jauh darimu. Aku cemas jika kau tak ada (disampingku)."</em><br>
+  — <strong>Misaki Kamiigusa</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
