@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan berbohong apabila mengatakan tidak mengorbankan diriku disini (pengorbanan merawat anak).
-Jadi aku harap dapat melewati tahun-tahun kedepan (menjadi lebih baik)."</em><br>
-  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
+  <em>"Jika dia belajar sedikit tentang kebahagiaan, dia pasti akan segera melampauiku, meskipun begitu kebahagiaan bukanlah perlombaan. Jika dia melampauiku, nanti giliran aku yang akan belajar darinya. Itulah yang namanya belajar, mengajar, dan saling membantu demi mencapai puncak bersama. Mari belajar bersama. Meskipun kebodohan kita tidak ada batasnya, tapi kita bisa menjadi bijak bersama. Kita bisa mendapat kebahagiaan yang layak bersama."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
