@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat bertemu denganmu, aku mulai mengerti makna dari kata mencintai."</em><br>
-  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
+  <em>"Hanya karena seseorang mengatakan sesuatu yang tidak kau sukai, bukan berarti mereka tidak menyukaimu."</em><br>
+  — <strong>Hyougo Otoo</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
