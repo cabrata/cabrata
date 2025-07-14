@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pikirkanlah sesuatu yang mungkin membuatmu tertarik, mungkin dengan merendam jari kakimu? Aku yakin jika dunia yang baru akan datang menyambutmu."</em><br>
-  — <strong>Producer</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Takkan kubiarkan anggota partyku mati. Tidak selama aku masih hidup. Aku takkan membiarkan itu terjadi!"</em><br>
+  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
