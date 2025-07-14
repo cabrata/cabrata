@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang realistis sejati itu orang yang berkepribadian baik."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Aku sedih melihat orang yang berambisi besar senang karena hal kecil."</em><br>
+  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
