@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rasa sakit ini adalah bukti kalau aku hidup.Karena ada rasa sakit, maka ada rasa senang.Itulah arti menjadi manusia."</em><br>
-  — <strong>Bruford</strong>, <em>JoJo no Kimyou na Bouken</em>
+  <em>""Partisipasi adalah hal yang terpenting". Kalimat yang dikatakan oleh "Ayah Olimpiade" Pierre de Fredy saat pidatonya yang didengar semua orang. Tapi kutipan ini sering disalahgunakan dan dianggap seperti ancaman untuk pemaksaan. Di luar sana, banyak usaha yang berakhir sia-sia.
+Jika partisipasi itu penting, maka partisipasi untuk tidak ikut berpartisipasi juga penting. Dan jika pengalaman adalah segalanya, maka pengalaman untuk tidak berpengalaman juga segalanya. Bahkan, tidak pengalaman dengan yang orang lain lakukan bisa dibilang pengalaman berharga."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
