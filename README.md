@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus membunuh, demi kebaikan yang lebih besar."</em><br>
-  — <strong>Aiguille</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Pikirkanlah sesuatu yang mungkin membuatmu tertarik, mungkin dengan merendam jari kakimu? Aku yakin jika dunia yang baru akan datang menyambutmu."</em><br>
+  — <strong>Producer</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
