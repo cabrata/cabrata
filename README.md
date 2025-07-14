@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak boleh gampang menyerah!"</em><br>
-  — <strong>Suguha Kirigaya</strong>, <em>Sword Art Online</em>
+  <em>"Keinginan semua manusia adalah (ingin) dicintai dan dipuji."</em><br>
+  — <strong>Hosokawa</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
