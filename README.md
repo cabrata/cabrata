@@ -5,10 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Berbicara mengenai koro-sensei) Dia menulis pertanyaan individual, dengan mempertimbangkan soal yang murid kuasai.
-Dia memiliki kecerdasan dan kecepatan luar biasa, makhluk berbahaya inilah yang akan menghancurkan bumi.
-Dan kemampuan mengajarnya mendekati sempurna."</em><br>
-  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Kita telah berjanji untuk selalu bersama. Janji itulah yang membuatku bahagia.
+Aku sadar betapa aku sangat mencintainya. Mengingatnya (saja) membuatku bahagia.
+Dia mengatakan akan membuatku bahagia. Apa yang dikatakannya itu membuatku bahagia.
+Dia telah banyak membawa kebahagiaan dalam hidupku.
+Karena itulah, tak peduli apa kata orang lain, aku merasa bahwa aku adalah gadis paling bahagia di dunia ini."</em><br>
+  — <strong>Chtholly Nota Seniorious</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
