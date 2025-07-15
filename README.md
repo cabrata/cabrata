@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tanpa rasa ingin tahu dan emosi, kau tidak akan puas dengan hobimu."</em><br>
-  — <strong>Soune</strong>, <em>Kobayashi-san Chi no Maid Dragon S</em>
+  <em>"Meskipun aku mengetahui segalanya, tapi bukan berarti semuanya berjalan sesuai dengan yang kuinginkan."</em><br>
+  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
