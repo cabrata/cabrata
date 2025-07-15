@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan jatuh cinta dengan seseorang muncul secara alami. Jangan menyangkal perasaan seseorang yang mencintaimu!"</em><br>
-  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
+  <em>"Nyawa jauh lebih penting daripada misi."</em><br>
+  — <strong>Tengen Uzui</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
 </div>
 <!-- QUOTE END -->
 
