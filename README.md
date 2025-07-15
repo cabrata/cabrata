@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bekerja demi meneruskan hobiku."</em><br>
-  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Aku akan berbohong apabila mengatakan tidak mengorbankan diriku disini (pengorbanan merawat anak).
+Jadi aku harap dapat melewati tahun-tahun kedepan (menjadi lebih baik)."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
