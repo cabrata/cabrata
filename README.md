@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyerah karena menghadapi kesulitan adalah hal yang bodoh."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Hal yang aneh memang menarik."</em><br>
+  — <strong>Shunma Suruga</strong>, <em>Re:CREATORS</em>
 </div>
 <!-- QUOTE END -->
 
