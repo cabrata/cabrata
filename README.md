@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Agar dapat membaur dengan orang-orang di sekitar, aku bertingkah layaknya seorang anak yang baik dimata orang lain."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Tanpa rasa ingin tahu dan emosi, kau tidak akan puas dengan hobimu."</em><br>
+  — <strong>Soune</strong>, <em>Kobayashi-san Chi no Maid Dragon S</em>
 </div>
 <!-- QUOTE END -->
 
