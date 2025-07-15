@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun aku mengetahui segalanya, tapi bukan berarti semuanya berjalan sesuai dengan yang kuinginkan."</em><br>
-  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
+  <em>"Aku senang karenamu. Aku bahagia karenamu. Aku tertawa, tersenyum, dan ceria karenamu. Aku seperti bukan diriku sendiri. Karenamu aku percaya bahwa seorang sepertiku bisa berubah. Tapi... pada akhirnya aku tidak berubah."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
