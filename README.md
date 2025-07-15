@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menolong teman yang sedang kesulitan adalah hal yang wajar."</em><br>
-  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Di dunia ini ada banyak hal yang tidak bisa dijelaskan hanya dengan kata-kata saja."</em><br>
+  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge</em>
 </div>
 <!-- QUOTE END -->
 
