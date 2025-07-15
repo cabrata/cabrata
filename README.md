@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ide tanpa idealisme itu tidak ada artinya."</em><br>
-  — <strong>Miko Iino</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Jika terus melarikan diri, kau takkan pernah bisa bangkit dan maju."</em><br>
+  — <strong>Elena Fujisawa</strong>, <em>Hanebado!</em>
 </div>
 <!-- QUOTE END -->
 
