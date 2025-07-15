@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketakutan, penyesalan, keputusasaan. Rasa yang akan jatuh selamanya bersamamu saat kau merangkul semua perasaan negatifmu. Itulah tempat yang disebut kehampaan."</em><br>
-  — <strong>Ginti</strong>, <em>Death Parade</em>
+  <em>"Aku ini orang yang paling mengerti perasaan siscon."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
