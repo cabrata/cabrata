@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup tak seperti adegan film yang bisa diulang."</em><br>
-  — <strong>Direktur</strong>, <em>Bokutachi no Remake</em>
+  <em>"Apa sesuatu yang terlupakan itu, memang seharusnya dilupakan?"</em><br>
+  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
