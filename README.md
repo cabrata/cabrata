@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak peduli tentang menjadi generasi keajaiban, tapi aku tak bisa mengabaikan sebuah tantangan.
-Aku belum cukup dewasa untuk membiarkannya."</em><br>
-  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
+  <em>"Hidup tak seperti adegan film yang bisa diulang."</em><br>
+  — <strong>Direktur</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
