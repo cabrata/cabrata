@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benar-benar beruntung, punya orang-orang yang mendukungku dan menolongku.
-Hanya dapat hidup saja sudah (membuatku) beruntung."</em><br>
-  — <strong>Ryousuke Kirishima</strong>, <em>Sket Dance</em>
+  <em>"Hari (pernikahan) ini adalah hari di mana seorang wanita terlihat paling cantik selama hidupnya."</em><br>
+  — <strong>Tomoe Wajima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
