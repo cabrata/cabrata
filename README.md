@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa sesuatu yang terlupakan itu, memang seharusnya dilupakan?"</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Orang bodoh akan menghabiskan uangnya untuk hal yang tidak penting.
+Orang bijak akan menghabiskan uangnya untuk hal yang baik untuk dirinya.
+Baik buruknya orang dapat dinilai dari cara dia menghabiskan uangnya."</em><br>
+  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
