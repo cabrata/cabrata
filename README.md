@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kebetulan terjadi berulang kali, orang-orang mulai mengasumsikannya pada hal-hal tahayul seperti nasib atau sebagainya...
-Tapi, selama kemungkinannya tidak nol, apapun bisa saja terjadi. Pada dasarnya, tahayul merupakan sebuah lambang dari kebodohan."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Anak muda seharusnya mencoba mendapatkan berbagai macam pengalaman."</em><br>
+  — <strong>Tachibana</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
