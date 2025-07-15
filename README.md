@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang perlu dicemaskan.
-Semuanya, fokuslah menghadapi musuh di depan. (Sebagai gantinya) aku akan melindungi kalian dari belakang."</em><br>
-  — <strong>Yuu Nishinoya</strong>, <em>Haikyuu!!</em>
+  <em>"Seseorang yang bertindak melawan keinginannya sendiri menurutku orang yang menarik."</em><br>
+  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
