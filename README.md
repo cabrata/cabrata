@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu menarik sekali. Bahkan menurutku pengalamanku selama ini, masih banyak hal yang belum kuketahui mengenai jalan pikiran mereka."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Bahkan jika harus menunggu hingga 10 tahun, aku rela jika nanti bisa berkencan dengan gadis cantik sepertimu."</em><br>
+  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
