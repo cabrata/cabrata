@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu berlalu dengan sangat cepat.
-Untuk saat ini... Aku ingin mengeluh pada Einstein.
-Nee... Okabe... Entah waktu cepat atau lambat...
-Semua itu bergantung pada pandangan kita.
-Teori relativitas itu benar-benar romantis dan juga sangat menyedihkan."</em><br>
-  — <strong>Kurisu Makise</strong>, <em>Steins;Gate</em>
+  <em>"Anak muda seharusnya mencoba mendapatkan berbagai macam pengalaman."</em><br>
+  — <strong>Tachibana</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
