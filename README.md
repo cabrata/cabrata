@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta itu sama halnya dengan "soal ujian".
-Pertama kau harus mengenalnya dengan baik, lalu mulailah ketika kau sudah memahaminya."</em><br>
-  — <strong>Soujirou Agata</strong>, <em>Sket Dance</em>
+  <em>"Teman adalah seseorang yang selalu bersama tak peduli apapun yang terjadi. Teman adalah seseorang yang dapat menanggung dosa bersama. Bukankah itu yang dinamakan teman?"</em><br>
+  — <strong>Yoshitake Tanaka</strong>, <em>Danshi Koukousei no Nichijou</em>
 </div>
 <!-- QUOTE END -->
 
