@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu bergerak sesuai kata hati. Jadi hatimu akan semakin kuat."</em><br>
-  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Laki-laki yang kebiasaannya hanya diam aja sangat membosankan."</em><br>
+  — <strong>Winry Rockbell</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
