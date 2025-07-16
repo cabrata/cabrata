@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teruslah hidup untuk melihat akhir dari dunia ini, untuk mengetahui maksud mengapa dunia ini dilahirkan, untuk mengetahui maksud mengapa gadis lemah sepertiku bisa ada di sini, dan juga untuk mengetahui arti dari pertemuan kita."</em><br>
-  — <strong>Sachi</strong>, <em>Sword Art Online</em>
+  <em>"Aku tidak suka hubungan yang tidak jelas."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
