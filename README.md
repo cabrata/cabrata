@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berpaling! Lihat ke depan! Tegakkan kepalamu! Saat ini, lakukan apa yang harus kau lakukan sebagai Master!"</em><br>
-  — <strong>Olga Marie Animusphere</strong>, <em>Fate/Grand Order: First Order</em>
+  <em>"Bukankah menjadi sedikit tidak adil membuatku jadi lebih seperti gadis?"</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
