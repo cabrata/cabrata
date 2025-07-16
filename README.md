@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu tidak dapat dihentikan. Waktu bergerak maju tanpa akhir, seperti jasad yang terkubur dalam tanah (hingga) suatu hari menjadi tulang putih."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Aku selalu berpikir bahwa hal terpenting untuk kakak adalah melakukan apapun yang membuat kakak senang. Karena kau selalu melindungiku lebih dari yang lain. Tapi aku ingin menjadi kuat. Kalau kakak ingin bertarung, aku akan bertarung denganmu. Aku tidak mau hanya dilindungi olehmu, aku ingin berdiri disampingmu. Jadi, kau tidak boleh menghentikanku, oke? Dan suatu hari nanti, Aku pasti akan menjadi lebih kuat darimu!"</em><br>
+  — <strong>Priscilla Urzaiz</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
