@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia begitu periang dan polos. Dia juga tahu apa yang tidak bisa kukatakan. Kupikir itulah yang membuatku suka padanya."</em><br>
-  — <strong>Tsuyoshi Naoe</strong>, <em>Nijiiro Days</em>
+  <em>"Hidup itu tidak terlalu sulit, jadi jangan terlalu dipikirkan."</em><br>
+  — <strong>Chiyo Komiya</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
