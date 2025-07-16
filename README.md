@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini berlaku hukum rimba. Yang kuat dapat menyelamatkan atau membunuh yang lemah."</em><br>
-  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Origami (memang) tidak bisa terbang, tapi kelopak bunga sakura bisa menari di atas angin kan?
+Jika aku menguburnya di dekat pohon sakura, aku pikir suatu hari nanti (origami ini) akan seperti kelopak bunga sakura."</em><br>
+  — <strong>Tetsu</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
