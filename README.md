@@ -5,10 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam kehidupan, selalu ada tiga pertanyaan.
-Aku ini apa? (Aku) datang dari mana? dan (Aku) akan pergi ke mana?
-Yang bisa kupikirkan hanya itu. Sebenarnya, hal yang (hanya harus) dipikirkan itu adalah "kebebasan". Akan tetapi, entah sejak kapan sebuah kekuatan aneh mengendalikanku, dan sedikit demi sedikit merenggut kebebasanku. Padahal saat masih kecil aku sudah memikirkan banyak hal tentang kebebasan, tapi pasti manusia sudah diprogram untuk menjadi bodoh sebelum pintar."</em><br>
-  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Tanpa adanya perkelahian dan perselisihan, maka kalian belum benar-benar menjadi teman.
+Seperti kata pepatah "Jika kau terus mengambil jalan yang aman, maka suatu saat nanti kau akan kehilangan hal yang sangat berharga bagimu"."</em><br>
+  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
