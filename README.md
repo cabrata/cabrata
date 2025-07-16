@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman adalah seseorang yang selalu bersama tak peduli apapun yang terjadi. Teman adalah seseorang yang dapat menanggung dosa bersama. Bukankah itu yang dinamakan teman?"</em><br>
-  — <strong>Yoshitake Tanaka</strong>, <em>Danshi Koukousei no Nichijou</em>
+  <em>"Siapapun tak ada yang bisa menebak apa yang akan terjadi di kehidupan ini. Tapi selama kita yakin dengan langkah kaki kita, jalan menuju kebenaran pasti akan muncul."</em><br>
+  — <strong>Iori Nagase</strong>, <em>Kokoro Connect: Michi Random</em>
 </div>
 <!-- QUOTE END -->
 
