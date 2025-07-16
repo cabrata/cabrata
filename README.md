@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau pria yang berhati dingin, ya.... Tapi aku jadi menyukaimu."</em><br>
-  — <strong>Zero</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
+  <em>"Mengetahui (kemampuan) diri sendiri dan (kemampuan) musuh adalah dasar dari bertarung."</em><br>
+  — <strong>Kamui</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
