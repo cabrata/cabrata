@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tahu, aku merasakan sesuatu di (atas panggung) sana. Kalau semua orang mempunyai sesuatu di dalam hatinya. Untuk beberapa orang mungkin kebencian, aspirasi, harapan, keinginan untuk di perhatikan, perasaan yang ingin tercapai (seperti) perasaan untuk ibuku. Semua orang di dukung oleh perasaannya sendiri. (Dan) mungkin mustahil bagi seseorang untuk berdiri sendiri di atas panggung."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Meskipun berusaha keras bisa menjadi kunci kesuksesan (seseorang), tapi tidak bisa dijadikan pembenaran untuk membebani (orang lain). Hanya karena telah berusaha kau ingin dimaafkan (atas kegagalanmu), itu hanya sikap egois."</em><br>
+  — <strong>Ares Srowa</strong>, <em>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</em>
 </div>
 <!-- QUOTE END -->
 
