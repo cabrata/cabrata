@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada masalah adalah masalah."</em><br>
-  — <strong>Medaka Kurokami</strong>, <em>Medaka Box</em>
+  <em>"Sejujurnya, aku masih bingung...
+Tapi hatiku akhirnya sudah tenang."</em><br>
+  — <strong>Homura</strong>, <em>Sekirei: Pure Engagement</em>
 </div>
 <!-- QUOTE END -->
 
