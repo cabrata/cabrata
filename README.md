@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat aku mencari tahu tentang iblis, makhluk yang mirip dengan itu adalah manusia.
-Karena manusia membunuh dan memakan segala jenis spesies."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Aku tidak tahu seberapa banyak orang yang datang, tapi jangan lupa ... setidaknya kamu memiliki penggemar disana."</em><br>
+  — <strong>Maya Haruna</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
