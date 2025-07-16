@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjalanan dapat mempertemukan kita dengan sahabat dan cinta, perjalanan (juga) dapat membawa kesulitan dan kebahagiaan."</em><br>
-  — <strong>Rokurou Rangetsu</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Kejujuran tidak selalu membawa pada kebaikan."</em><br>
+  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
