@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak akan membuat kesimpulan mengenai sesuatu yang tak terbukti, itulah aturan dunia akademis."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Kenapa iblis jahat pada manusia?Itu karena untuk membantu Tuhan dalam Penilaian Akhir dengan menguji dan memberi cobaan pada manusia. Pada dasarnya kita (para iblis) bekerja atas kehendak Tuhan."</em><br>
+  — <strong>Beelzebub</strong>, <em>Beelzebub-jou no Okinimesu mama.</em>
 </div>
 <!-- QUOTE END -->
 
