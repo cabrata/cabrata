@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus hidup, hiduplah dengan bebas. Dari dalam hatiku, aku mencintaimu."</em><br>
-  — <strong>Gilbert Bougainvillea</strong>, <em>Violet Evergarden</em>
+  <em>"Selama ada seorang yang ingin kau temui, maka kau tidak sendiri lagi."</em><br>
+  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou San</em>
 </div>
 <!-- QUOTE END -->
 
