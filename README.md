@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memang harus melakukan apa saja untuk (tetap) hidup. Tapi jangan membuang alasanmu (untuk hidup). Kalau kau membuangnya, kau bukan lagi manusia."</em><br>
-  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Kunjunganmu merupakan obat terbaik yang dia miliki."</em><br>
+  — <strong>Ume Sawa</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
