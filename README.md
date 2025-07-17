@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku iri pada orang-orang yang punya impian dan bersemangat mewujudkannya."</em><br>
-  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji</em>
+  <em>"Ninja yang menampung seluruh kebencian dan melindungi desa dari balik bayangan. Kurasa, dialah Hokage (Pemimpin) yang sebenarnya."</em><br>
+  — <strong>Sasuke Uchiha</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
