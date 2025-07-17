@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebenarnya, tidak ada kehidupan yang tak berarti selain keindahan."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Cinta bisa membuat hati seseorang berkilauan."</em><br>
+  — <strong>Shuu Igarashi</strong>, <em>Koi to Uso</em>
 </div>
 <!-- QUOTE END -->
 
