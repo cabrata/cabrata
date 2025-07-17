@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan kita (sebagai polisi) memang tidak langsung bermanfaat, tapi aku bahagia (pekerjaan kita) bisa mencegah satu insiden yang mungkin terjadi (di masa mendatang)."</em><br>
-  — <strong>Seiko Fuji</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Mengambil resiko itu hal yang membosankan. Tapi memiliki keuntungan besar juga membosankan."</em><br>
+  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
 </div>
 <!-- QUOTE END -->
 
