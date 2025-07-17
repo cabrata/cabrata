@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik jika hanya salah satu dari kita berkorban! Mungkin ini sulit, tapi tahanlah untuk sekarang."</em><br>
-  — <strong>Aqua</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
+  <em>"Tugas kami sebagai orang biasa adalah untuk memastikan bahwa potensi yang tak bisa dimengerti itu bisa terwujud."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
