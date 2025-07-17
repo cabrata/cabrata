@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa kalau aku terus mengatakan (tentang impianku), itu benar-benar akan terwujud."</em><br>
-  — <strong>Airi Katagiri</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Bolehkah aku berjuang untuk membuatmu mencintaiku?"</em><br>
+  — <strong>Nozomi Matsunaga</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
