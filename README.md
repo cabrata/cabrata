@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Malam sebelum fajar adalah yang paling gelap. Tapi, jangan menutup matamu. Kalau kau menutup matamu dari kegelapan, kau takkan bisa melihat cahaya dari hari esok yang baru."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama°</em>
+  <em>"Menurutku, satu-satunya masa di mana orang menjadi berharga adalah ketika mereka bertindak sesuai dengan keinginan mereka sendiri."</em><br>
+  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
