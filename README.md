@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli di manapun, tak peduli seberapa takut dirimu, matahari akan selalu ada. Mataharimu mungkin terkadang tertutup mendung. Meskipun begitu, jika kau terus melihat langit, lama-kelamaan mendung pasti akan hilang. Karena itu kita tak boleh melupakan hal itu. Kita tak boleh berhenti melihat langit. Berdirilah dengan tegap, lihatlah surga, dan lanjutkanlah hidupmu."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Bersepeda itu sangat menyenangkan! Melesat menembus angin dengan mengandalkan tenaga kakiku sendiri, rasanya enak!"</em><br>
+  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
