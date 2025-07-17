@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan gadis namanya kalau dia berwujud 3D."</em><br>
-  — <strong>Koutarou Takebayashi</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Hidup itu berharga, nyawamu hanya ada satu!"</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
