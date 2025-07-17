@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh kalah di permainan ataupun di pertandaingan.
-Tapi kalau kau tidak kalah dengan dirimu sendiri, itu bukan kekalahan."</em><br>
-  — <strong>Karen Araragi</strong>, <em>Nisemonogatari</em>
+  <em>"Kau harus hidup, hiduplah dengan bebas. Dari dalam hatiku, aku mencintaimu."</em><br>
+  — <strong>Gilbert Bougainvillea</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
