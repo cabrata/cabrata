@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang terlalu memusingkan peringkat seseorang itu sama sekali tidak spesial."</em><br>
-  — <strong>Kasumi Chigusa</strong>, <em>Qualidea Code</em>
+  <em>"Sekolah itu hanya seperti satu akuarium kecil. Di luar sana masih ada lautan dan akuarium lain. Kau bebas memilih (tempatmu)."</em><br>
+  — <strong>Nagi Yoshino</strong>, <em>Jujutsu Kaisen</em>
 </div>
 <!-- QUOTE END -->
 
