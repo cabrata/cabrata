@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau menghentikan langkahmu karena takut dengan masa depan, maka kau takkan mendapatkan apa-apa, takkan ada  hal yang dimulai. Kau hanya akan menghabiskan hidupmu seperti orang yang sudah mati."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Semua manusia memiliki sifat bodoh yang sama. Makhluk yang lupa kalau suatu saat mereka akan mati. Saat mereka berhadapan dengan kematian, mereka bergantung pada kehidupan."</em><br>
+  — <strong>Ginti</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
