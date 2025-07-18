@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau terkenal di internet saja dapat menghasilkan banyak uang, pasti kau akan merasa kalau pergi bekerja adalah tindakan yang bodoh."</em><br>
-  — <strong>Shuusei Kagari</strong>, <em>Psycho-Pass</em>
+  <em>"Semua orang jika menginginkan sesuatu mereka terus bersabar, berusaha keras, belajar, dan menyemangati diri."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
