@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pria itu mengandalkan keberanian, dan Wanita mengandalkan kecantikan!"</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Dalam perjalanan nanti aku tidak tahu seberapa besar kemungkinanku bisa bertemu lagi dengannya.
+Mungkin hal itu semustahil melihat komet (yang hanya muncul 200 tahun sekali).
+Meskipun begitu, aku tidak akan ragu lagi. Karena dia telah memberiku keberanian untuk melangkah maju melewati pintu yang telah lama mengurungku."</em><br>
+  — <strong>Leon Stephanotis</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
