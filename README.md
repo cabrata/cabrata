@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita sedang jatuh cinta, dunia jadi kelihatan lebih berwarna."</em><br>
-  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Memang benar, pemain di seusiamu masih bisa memaksakan diri untuk berjuang. Tapi, jikalau ingin jadi juara dunia, kau juga harus berani mengibarkan bendera putih."</em><br>
+  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
