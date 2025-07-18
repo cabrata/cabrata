@@ -5,10 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam perjalanan nanti aku tidak tahu seberapa besar kemungkinanku bisa bertemu lagi dengannya.
-Mungkin hal itu semustahil melihat komet (yang hanya muncul 200 tahun sekali).
-Meskipun begitu, aku tidak akan ragu lagi. Karena dia telah memberiku keberanian untuk melangkah maju melewati pintu yang telah lama mengurungku."</em><br>
-  — <strong>Leon Stephanotis</strong>, <em>Violet Evergarden</em>
+  <em>"Akan terasa pedih untuk menjaga ataupun melepaskan sesuatu yang tak bisa kau dapatkan kembali.
+Jika kedua-duanya akan terasa pedih, aku lebih baik menderita untuk mempertahankannya."</em><br>
+  — <strong>Tae Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
