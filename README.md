@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah seorang libero. Pemain central dalam pertahanan, bagian terpenting dalam tim. Tapi, aku bukan pemain yang dapat mencetak poin. Aku tak dapat melakukan serangan. Aku tak peduli jika spiker tidak dapat mencetak poin. Aku tidak akan pernah menyalahkannya. Tapi, aku tidak akan memaafkannya jika dia menyerah begitu saja."</em><br>
-  — <strong>Yuu Nishinoya</strong>, <em>Haikyuu!!</em>
+  <em>"Saat kau memiliki masalah, kau harus bersandar pada orang lain. Aku yakin akan ada orang lain yang akan membantumu."</em><br>
+  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
