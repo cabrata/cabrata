@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku selalu berpikir bahwa hal terpenting untuk kakak adalah melakukan apapun yang membuat kakak senang. Karena kau selalu melindungiku lebih dari yang lain. Tapi aku ingin menjadi kuat. Kalau kakak ingin bertarung, aku akan bertarung denganmu. Aku tidak mau hanya dilindungi olehmu, aku ingin berdiri disampingmu. Jadi, kau tidak boleh menghentikanku, oke? Dan suatu hari nanti, Aku pasti akan menjadi lebih kuat darimu!"</em><br>
-  — <strong>Priscilla Urzaiz</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Manusia memang makhluk bodoh yang banyak kekurangan, meskipun begitu usaha dan perjuangan kalian sangat indah. Apapun akhir yang menanti kalian, sejarah kalian layak ditinggalkan di bumi ini."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
