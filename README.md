@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau memiliki masalah, kau harus bersandar pada orang lain. Aku yakin akan ada orang lain yang akan membantumu."</em><br>
-  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Luka fisik dibiarkan akan sembuh sendiri. Namun, rasa sakit karena ditolak olehmu takkan pernah bisa hilang."</em><br>
+  — <strong>Romio Inuzuka</strong>, <em>Kishuku Gakkou no Juliet</em>
 </div>
 <!-- QUOTE END -->
 
