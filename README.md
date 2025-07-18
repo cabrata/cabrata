@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pertarungan antar musuh adalah kelemahan yang paling menghibur."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Aku adalah seorang libero. Pemain central dalam pertahanan, bagian terpenting dalam tim. Tapi, aku bukan pemain yang dapat mencetak poin. Aku tak dapat melakukan serangan. Aku tak peduli jika spiker tidak dapat mencetak poin. Aku tidak akan pernah menyalahkannya. Tapi, aku tidak akan memaafkannya jika dia menyerah begitu saja."</em><br>
+  — <strong>Yuu Nishinoya</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
