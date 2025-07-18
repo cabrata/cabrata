@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling penting bagiku adalah kehangatan genggaman tanganmu, senyumanmu yang imut dan masa depan yang akan kita bangun bersama."</em><br>
-  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Menurutku semua laki-laki menginginkan kelembutan dari seorang wanita yang baik."</em><br>
+  — <strong>Haruto Fuwa</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
