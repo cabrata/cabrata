@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin pekerjaanku yang paling diakui, tapi aku takkan bisa membuatnya sendirian."</em><br>
-  — <strong>Kou Yagami</strong>, <em>New Game!</em>
+  <em>"Bila kau pikir bisa membuahkan hasil hanya dengan bekerja keras, berarti kau bodoh."</em><br>
+  — <strong>Tomitte</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
 </div>
 <!-- QUOTE END -->
 
