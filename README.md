@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bila kau pikir bisa membuahkan hasil hanya dengan bekerja keras, berarti kau bodoh."</em><br>
-  — <strong>Tomitte</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
+  <em>"Kita memang menemui jalan buntu, tapi aku takkan berhenti. Demi mereka yang telah tiada, aku harus tetap maju. Sebagai Putri Hyland, sebagai seseorang yang membimbing negeri ini menuju keadilan, tolong pinjamkanlah kekuatan kalian."</em><br>
+  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
