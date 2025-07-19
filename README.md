@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu harus mendapatkan apa yang kamu mau, karena gairah begitu penting dalam cinta."</em><br>
-  — <strong>Hikari Tsuneki</strong>, <em>Seiren</em>
+  <em>"Menyesal itu takkan mengubah apapun. Yang terpenting adalah apa yang akan terjadi."</em><br>
+  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
