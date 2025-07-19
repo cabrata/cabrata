@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat bukanlah sesuatu yang bisa didapat dengan bekerja keras."</em><br>
-  — <strong>Eiko Tsukimi</strong>, <em>Paripi Koumei</em>
+  <em>"Mengikuti yang kuat adalah naluri makhluk lemah."</em><br>
+  — <strong>Demiurge</strong>, <em>Overlord III</em>
 </div>
 <!-- QUOTE END -->
 
