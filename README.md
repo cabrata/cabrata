@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama jantungmu masih berdetak, kau berhak untuk tetap hidup dan mewujudkan keinginanmu."</em><br>
-  — <strong>Kuro no Rider</strong>, <em>Fate/Apocrypha</em>
+  <em>"Semua musik dimulai dengan cinta.
+Cinta dan kematian adalah tema abadi musik."</em><br>
+  — <strong>Sapphire Kawashima</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
