@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seorang gadis tidak menyukaimu, maka rumor buruk akan menyebar dan mempengaruhi gadis lain."</em><br>
-  — <strong>Kodaka Hasegawa</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
+  <em>"Walau apapun yang terjadi kedepannya nanti, aku tetap akan terus melindungimu! Aku janji!"</em><br>
+  — <strong>Akihito Kanbara</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
 </div>
 <!-- QUOTE END -->
 
