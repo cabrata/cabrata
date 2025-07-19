@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebenci apapun kau terhadap perang, jika terlalu terpaku memikirkan cara untuk menghindarinya, pada akhirnya kau akan kehilangan segalanya."</em><br>
-  — <strong>Piña Co Lada</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Ada sesuatu dalam dirimu. Kau bersikap biasa, namun aku merasa kau selalu berada di tengah-tengah orang lain. Kau seperti tak peduli, namun kau peduli. Saat terjadi suatu masalah, kau selalu memiliki kata-kata yang tepat sasaran. Karena itulah ada sesuatu dalam dirimu."</em><br>
+  — <strong>Reina Kousaka</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
