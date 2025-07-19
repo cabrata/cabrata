@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika terus melarikan diri, kau takkan pernah bisa bangkit dan maju."</em><br>
-  — <strong>Elena Fujisawa</strong>, <em>Hanebado!</em>
+  <em>"Cepatlah meminta maaf kepada Ayahmu, kau takkan bisa meminta maaf jika dia telah mati."</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
