@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerinduan mencengkeram orang lebih kuat daripada racun, dan lebih dalam daripada penyakit."</em><br>
-  — <strong>Lyza</strong>, <em>Made in Abyss</em>
+  <em>"Tanpa rasa ingin tahu dan emosi, kau tidak akan puas dengan hobimu."</em><br>
+  — <strong>Soune</strong>, <em>Kobayashi-san Chi no Maid Dragon S</em>
 </div>
 <!-- QUOTE END -->
 
