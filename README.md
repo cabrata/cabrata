@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang hanya dapat diketahui setelah kau menghadapinya."</em><br>
-  — <strong>Yoshiyuki Nakajima</strong>, <em>Gin no Saji</em>
+  <em>"Orang-orang sering melihat ke langit ketika mereka sedang bingung."</em><br>
+  — <strong>Tooru Miyamae</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
