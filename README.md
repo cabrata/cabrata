@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia begitu periang dan polos. Dia juga tahu apa yang tidak bisa kukatakan. Kupikir itulah yang membuatku suka padanya."</em><br>
-  — <strong>Tsuyoshi Naoe</strong>, <em>Nijiiro Days</em>
+  <em>"Aku akan menjadi pria terhebat di dunia yang akan membuat orang tersenyum dengan kue (buatanku)."</em><br>
+  — <strong>Kouki Ichinose</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
