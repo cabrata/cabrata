@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ini tidak berpikir kalau aku memiliki tenaga yang lemah. Aku hanya tidak ingin membuang energi untuk hal yang percuma."</em><br>
-  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
+  <em>"Semoga saja suatu saat jalan yang kuambil ini akan mempertemukanku denganmu lagi."</em><br>
+  — <strong>Miki Naoki</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
