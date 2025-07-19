@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semoga saja suatu saat jalan yang kuambil ini akan mempertemukanku denganmu lagi."</em><br>
-  — <strong>Miki Naoki</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Sebagai senior dalam menjalani hidup, (aku) yang berada sedikit di depannya akan menunjukkannya jalan menuju kebahagiaan."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
