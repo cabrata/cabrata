@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan manusia itu terlalu rumit dan susah dimengerti. Tidak semua perasaan diungkapkan melalui kata-kata, ada kalanya manusia memiliki maksud lain atau niat kebohongan."</em><br>
-  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
+  <em>"Peluklah anak ini, dan berbanggalah layaknya seorang ayah."</em><br>
+  — <strong>Irisviel von Einzbern</strong>, <em>Fate/Zero</em>
 </div>
 <!-- QUOTE END -->
 
