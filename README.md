@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walau apapun yang terjadi kedepannya nanti, aku tetap akan terus melindungimu! Aku janji!"</em><br>
-  — <strong>Akihito Kanbara</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
+  <em>"Jika kau membenci dirimu sendiri sebanyak seratus kali, aku akan mencintaimu sebanyak dua ribu kali. Dan itulah, perlakuan khusus yang ingin kuberikan padamu. "Mengapa dua ribu kali?" Karena angka ratusan takkan cukup untuk menggambarkan perasaanku terhadapmu."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
