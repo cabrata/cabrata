@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cara bagi yang lemah untuk tetap menjadi yang lemah tapi tetap dapat mengalahkan yang kuat. Cara untuk menjadi dirimu sendiri, tapi melebihi batasmu. Untuk bisa terbang dilangit, meski kau tak bisa terbang. Dia selalu menemukan caranya, dalam keputusasaan, penderitaan dan kegelapan."</em><br>
-  — <strong>Chlammy Zell</strong>, <em>No Game No Life</em>
+  <em>"Uang, kebanggaan, patriotisme, bahkan kematian pun fiksi. Semua yang ada di masa depanmu adalah kekosongan. Dan yang bisa kau lakukan adalah kemampuanmu beradaptasi terhadap segala sesuatu, dan secara langsung memutuskan apa yang terbaik."</em><br>
+  — <strong>Yuuki</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
