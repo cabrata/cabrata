@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus meraih surga dan tetap menjaga langkah kaki kita tetap selalu berada di atas tanah."</em><br>
-  — <strong>Tatsuya Shiba</strong>, <em>Mahouka Koukou no Rettousei</em>
+  <em>"Imajinasi adalah senjata. Orang yang tak memilikinya akan mati."</em><br>
+  — <strong>Goblin Slayer</strong>, <em>Goblin Slayer</em>
 </div>
 <!-- QUOTE END -->
 
