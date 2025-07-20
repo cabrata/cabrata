@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak bisa terus-terusan terluka karena hal yang telah berlalu. Aku harus menghadapinya, menerimanya, memikirkannya, dan terus melangkah maju."</em><br>
-  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Detektif papan atas adalah detektif yang bisa menyelesaikan kasus sebelum kasus itu terjadi."</em><br>
+  — <strong>Siesta</strong>, <em>Tantei wa Mou, Shindeiru.</em>
 </div>
 <!-- QUOTE END -->
 
