@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau menghindari pembicaraan yang tak penting, maka kau akan terhindar dari masalah yang tak penting."</em><br>
-  — <strong>Nozomu Itoshiki</strong>, <em>Sayonara Zetsubou Sensei</em>
+  <em>"Lebih dari siapapun di dunia ini, aku sangat mengenalmu. Aku mengenal kebaikan mu. Karena itu, meski seluruh dunia menyalahkanmu, aku berbeda. Sebanyak apapun itu, aku akan selalu berkata bahwa kau adalah orang baik. Kau telah menyelamatkanku."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
