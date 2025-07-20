@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik kau periksa motormu sebelum mengendarainya, tapi yang lebih penting lagi, periksalah pria sebelum menaikinya."</em><br>
-  — <strong>Baita</strong>, <em>Bakuon!!</em>
+  <em>"Kita adalah anak muda yang masih berkembang. Ikatan pertemanan adalah harta karun paling berharga."</em><br>
+  — <strong>Tomomichi Motoyama</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
