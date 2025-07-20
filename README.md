@@ -5,10 +5,15 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada perasaan yang tenang setelah kau mencurahkan perasaanmu melalui pesan singkat untuk orang lain.
-Lalu, meskipun kau baru saja mengirimkan pesannya, kau sudah tidak sabar menunggu balasannya.
-Akhirnya HP-mu pun berdering dan kau kegirangan saat melihat nama pengirimnya."</em><br>
-  — <strong>Shinzou Takemitsu</strong>, <em>Sket Dance</em>
+  <em>"Kau akan kesana untuk berlatihkan?
+Jadi yang kau butuhkan bukan kemampuan, tapi keberanian.
+Kau bisa saja menempuh jalan biasa.
+Jika itu benar-benar tempat yang ingin kau tuju, maka bagus.
+Bahkan walau mengambil rute yang biasa, setiap orang khawatir tentang keputusan yang akan dibuat di sepanjang jalan.
+Pada awalnya tak seorangpun yang memiliki kepercayaan diri.
+Kalau kau ingin mengarungi dunia yang penuh talenta, mungkin itu akan jadi jalan yg sulit.
+Tapi bagi orang yang dapat mencapai banyak hal, hidup ini penuh dengan keputusan besar, tidak peduli apapun itu."</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
