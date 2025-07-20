@@ -5,9 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau tak punya kekuatan, kau masih bisa berjuang dan berharap untuk meraih tujuanmu.
-Itu adalah prinsip yang di pegang teroris. ingat baik-baik."</em><br>
-  — <strong>Minene Uryuu</strong>, <em>Mirai Nikki</em>
+  <em>"Ada perasaan yang tenang setelah kau mencurahkan perasaanmu melalui pesan singkat untuk orang lain.
+Lalu, meskipun kau baru saja mengirimkan pesannya, kau sudah tidak sabar menunggu balasannya.
+Akhirnya HP-mu pun berdering dan kau kegirangan saat melihat nama pengirimnya."</em><br>
+  — <strong>Shinzou Takemitsu</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
