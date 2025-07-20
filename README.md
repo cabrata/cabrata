@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cara bagi yang lemah untuk tetap menjadi yang lemah tapi tetap dapat mengalahkan yang kuat. Cara untuk menjadi dirimu sendiri, tapi melebihi batasmu. Untuk bisa terbang dilangit, meski kau tak bisa terbang. Dia selalu menemukan caranya, dalam keputusasaan, penderitaan dan kegelapan."</em><br>
-  — <strong>Chlammy Zell</strong>, <em>No Game No Life</em>
+  <em>"Meraka yang tak pernah mencoba tidak berhak iri pada mereka yang memiliki bakat.
+Mereka yang gagal itu karena mereka tidak membayangkan usaha yang dilakukan orang yang berhasil."</em><br>
+  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
