@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seaneh apapun peristiwa yang terjadi, jika itu terjadi yang kedua kalinya maka akan terlihat biasa saja. (Jadi) tak perlu dipikirkan, biarkan saja. Itulah prinsipku"</em><br>
-  — <strong>Tom Tanaka</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Pagi hari, angin yang menyegarkan dan cahaya matahari yang lembut mengisyaratkan suatu yang indah akan terjadi."</em><br>
+  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
 </div>
 <!-- QUOTE END -->
 
