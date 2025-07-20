@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah seorang anak butuh alasan untuk melindungi peninggalan yang dibanggakan orang tuanya?"</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Saat wanita menunjukkan kelemahannya, saat itulah pria bertindak. Tolong berhati-hatilah."</em><br>
+  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
