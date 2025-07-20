@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pasti memiliki masalah dalam hidupnya. Kita semua sama. Karena itu, kamu harus menerima hal buruk sekalipun agar dapat melangkah ke depan."</em><br>
-  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
+  <em>"Aku ini tidak berpikir kalau aku memiliki tenaga yang lemah. Aku hanya tidak ingin membuang energi untuk hal yang percuma."</em><br>
+  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
