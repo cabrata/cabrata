@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita adalah anak muda yang masih berkembang. Ikatan pertemanan adalah harta karun paling berharga."</em><br>
-  — <strong>Tomomichi Motoyama</strong>, <em>Tsurezure Children</em>
+  <em>"Manusia itu menarik sekali. Bahkan menurutku pengalamanku selama ini, masih banyak hal yang belum kuketahui mengenai jalan pikiran mereka."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
