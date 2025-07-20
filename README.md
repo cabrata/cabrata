@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia tidak akan menunggumu untuk mendapat keyakinan."</em><br>
-  — <strong>Hansung Yu</strong>, <em>Kami no Tou</em>
+  <em>"Langit itu adil. Mereka tak pernah membeda-bedakan orang. Mereka menyinari semua orang dengan sinar yang sama. Tapi terkadang langit menguji kita. Mereka menyembunyikan matahari saat malam hari ataupun saat mendung dan hujan. Meski begitu, kita tak kehilangan arah. Tak ada malam yang tak berakhir. Tak ada hujan yang tak berhenti. Selama matahari itu bersinar di hati kita, kita takkan kehilangan arah. Tapi saat itu kita tak sadar bahwa semakin terang matahari bersinar, semakin gelap bayangan yang tercipta."</em><br>
+  — <strong>Hinowa</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
