@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian semua yang hidup di masa depan adalah harta karun bagi roh pahlawan."</em><br>
-  — <strong>Aka no Lancer</strong>, <em>Fate/Apocrypha</em>
+  <em>"Apa pun misinya, yang ku lakukan hanya satu, yaitu melindungimu."</em><br>
+  — <strong>Sakuya Tachibana</strong>, <em>God Eater</em>
 </div>
 <!-- QUOTE END -->
 
