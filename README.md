@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Membunuh manusia tak ada bedanya dengan membunuh binatang."</em><br>
-  — <strong>Inounoshishi</strong>, <em>Juuni Taisen</em>
+  <em>"Tak akan ku biarkan kau mengotori nama restoranku, setelah kau bilang masakanku menjijikan!
+Tunggu saja, ku akan membuatmu mengatakan "enak!"
+Akan ku kerahkan seluruh kemampuan memasakku !"</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
