@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nico Robin-senpai, bagi seorang laki-laki, kedipan matamu itu lebih berharga daripada nyawanya sendiri."</em><br>
-  — <strong>Bartolomeo</strong>, <em>One Piece</em>
+  <em>"Idol tidak akan membiarkan apapun menjatuhkan mereka!"</em><br>
+  — <strong>Naka</strong>, <em>Kantai Collection: KanColle</em>
 </div>
 <!-- QUOTE END -->
 
