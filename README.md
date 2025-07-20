@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pernah membuat kesalahan. Sekarang, bagaimana cara untuk menutupi kesalahan tersebut, itulah yang harus dipikirkan!"</em><br>
-  — <strong>Ainz Ooal Gown</strong>, <em>Overlord</em>
+  <em>"Kalian semua yang hidup di masa depan adalah harta karun bagi roh pahlawan."</em><br>
+  — <strong>Aka no Lancer</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
