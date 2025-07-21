@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang hanya dapat diketahui setelah kau menghadapinya."</em><br>
-  — <strong>Yoshiyuki Nakajima</strong>, <em>Gin no Saji</em>
+  <em>"Manusia (baru) akan kalah ketika mereka berhenti melawan. Selama kita terus bertarung, kita belum kalah."</em><br>
+  — <strong>Mike Zacharias</strong>, <em>Shingeki no Kyojin Season 2</em>
 </div>
 <!-- QUOTE END -->
 
