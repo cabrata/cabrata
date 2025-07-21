@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selesaikan apa yang telah kau perbuat!"</em><br>
-  — <strong>Tsukinose Vignette April</strong>, <em>Gabriel DropOut</em>
+  <em>"Pertarungan antar musuh adalah kelemahan yang paling menghibur."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
