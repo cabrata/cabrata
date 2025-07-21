@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada cowok yang benci cewek nakal."</em><br>
-  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Jika kau punya waktu untuk terpuruk, lebih baik gunakan (waktumu itu) untuk melangkah maju."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man Season 2</em>
 </div>
 <!-- QUOTE END -->
 
