@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak punya cukup tenaga untuk bersikap baik terhadap semua orang."</em><br>
-  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Aku benci pria yang diam saja melihat seorang wanita tersakiti."</em><br>
+  — <strong>Sen Yarizui</strong>, <em>Ben-To</em>
 </div>
 <!-- QUOTE END -->
 
