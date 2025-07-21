@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi seorang Shakespeare sepertiku, karya seni adalah kehidupanku."</em><br>
-  — <strong>Aka no Caster</strong>, <em>Fate/Apocrypha</em>
+  <em>"Aku sudah memutuskannya, aku takkan kembali menjadi diriku yang naif dan tak berkutik."</em><br>
+  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
 </div>
 <!-- QUOTE END -->
 
