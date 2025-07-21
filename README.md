@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk sekali saja, aku ingin menolong orang lain dengan keinginanku sendiri."</em><br>
-  — <strong>Kuro no Saber</strong>, <em>Fate/Apocrypha</em>
+  <em>"Sering dikatakan, cara tercepat untuk menguasai bahasa asing adalah memiliki pacar di negara tersebut. (Karena saat) kau ingin tahu perasaan pacarmu, kau jadi berusaha keras untuk mengerti apa yang ia katakan."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
