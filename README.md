@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sering dikatakan, cara tercepat untuk menguasai bahasa asing adalah memiliki pacar di negara tersebut. (Karena saat) kau ingin tahu perasaan pacarmu, kau jadi berusaha keras untuk mengerti apa yang ia katakan."</em><br>
-  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Kadang-kadang pria harus melindungi sesuatu, walaupun dia harus membuang kehormatannya sendiri."</em><br>
+  — <strong>Kanichi Konishi</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
