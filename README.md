@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang paling penting adalah melakukan apa yang ingin kau lakukan."</em><br>
-  — <strong>Rito Yuuki</strong>, <em>To LOVE-Ru Darkness</em>
+  <em>"Aku selalu serius! Tapi kenapa kamu selalu lari?
+Setiap kali aku pikir mulai lebih dekat denganmu, kamu malah bergerak semakin jauh."</em><br>
+  — <strong>Megumi Noda</strong>, <em>Nodame Cantabile: Paris Hen</em>
 </div>
 <!-- QUOTE END -->
 
