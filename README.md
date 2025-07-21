@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kuharap ada rumus untuk memahami perasaan wanita."</em><br>
-  — <strong>Keiki Kiryuu</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
+  <em>"Ada yang salah dengan dunia ini, orang-orang tak bisa bermimpi dan memikirkan masa depan."</em><br>
+  — <strong>Boogiepop</strong>, <em>Boogiepop wa Warawanai</em>
 </div>
 <!-- QUOTE END -->
 
