@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku pria lemah yang lari dari masalah dengan minum sake."</em><br>
-  — <strong>Paul Greyrat</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu Part 2</em>
+  <em>"Aku tak perlu menjadi seorang tuan putri, asalkan bisa menjadi istrimu itu saja sudah cukup."</em><br>
+  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
