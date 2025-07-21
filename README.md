@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak ingin membiarkan temanku menghadapi bahaya sendirian!"</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya</em>
+  <em>"Aku sadar kehidupan nanti tidak akan selalu menyenangkan. Dan tidak semuanya akan berjalan sesuai dengan yang kubayangkan."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
