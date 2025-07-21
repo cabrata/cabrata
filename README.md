@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi menyelamatkan nyawamu, nyawa orang lain harus dikorbankan.
-Seperti itulah cara hidup "hewan"."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Tak peduli walapun (kita) berada di dalam kekacauan, kita (pasti) bisa menemukan jalan hidup yang indah bagi diri kita sendiri."</em><br>
+  — <strong>Shigeshige Tokugawa</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
