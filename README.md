@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau punya waktu untuk terpuruk, lebih baik gunakan (waktumu itu) untuk melangkah maju."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man Season 2</em>
+  <em>"Aku tidak ingin membiarkan temanku menghadapi bahaya sendirian!"</em><br>
+  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya</em>
 </div>
 <!-- QUOTE END -->
 
