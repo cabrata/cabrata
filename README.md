@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau menelusuri akar, ranting, dan daun yang membawamu mencapai kebenaran, maka kau akan mengerti segalanya, lalu kau mampu menguasainya!"</em><br>
-  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Sesuatu yang diinginkan dan sesuatu yang diharapkan terlihat sangat mirip, tapi kenapa keduanya sangat berbeda?
+Sebenarnya, kebohongan juga bagus."</em><br>
+  — <strong>Yui Yuigahama</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
