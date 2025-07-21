@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesuatu yang tidak bisa dihitung adalah perasaan seseorang."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Untuk menjadi laki-laki tampan tak boleh melewatkan latihan sehari pun. Jika sampai membiarkan lemak sekecil apapun masuk, nanti akan jadi tumpukan lemak besar! Setetes minyak adalah awal dari obesitas!"</em><br>
+  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
 </div>
 <!-- QUOTE END -->
 
