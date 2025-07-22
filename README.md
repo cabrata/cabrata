@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu adalah orang yang hebat. Sangat berkebalikan denganku. Tentunya aku ingin menjadi seperti dirimu. Bisa mengakui seseorang, menerima seseorang, mencintai seseorang, dicintai seseorang. Bagaimana caranya agar aku dapat seperti dirimu?"</em><br>
-  — <strong>Haruki Shiga</strong>, <em>Kimi no Suizou wo Tabetai</em>
+  <em>"Setelah manusia mati mereka tidak akan menghilang begitu saja jika orang-orang masih mengingat mereka. Seperti asap yang tidak langsung menghilang walau apinya sudah padam."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
