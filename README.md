@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suna, kali ini aku tak akan salah lagi. Tapi, jika aku kehilangan arah dan mulai mengambil jalan yang salah, tolong pukul aku."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Meski kau sedih, babak belur, ataupun jatuh ke titik terdalam, kau harus tetap bermain! Seperti itulah orang-orang seperti kita bertahan."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
