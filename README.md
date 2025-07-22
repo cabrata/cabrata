@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin keras kita mencoba untuk menjadi orang yang benar, kebohongan kita akan terus bertambah."</em><br>
-  — <strong>Alicia Crystella</strong>, <em>Isekai Maou to Shoukan Shoujo no Dorei Majutsu</em>
+  <em>"Suna, kali ini aku tak akan salah lagi. Tapi, jika aku kehilangan arah dan mulai mengambil jalan yang salah, tolong pukul aku."</em><br>
+  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
