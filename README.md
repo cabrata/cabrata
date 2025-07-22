@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus berteman dengan banyak orang, merasakan indahnya jatuh cinta, dan nikmati setiap momen yang ada sepenuh hati."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Saat manusia terjatuh dalam kegelapan mereka membutuhkan cahaya. Tak peduli seredup apa pun cahaya itu selama masih ada secercah cahaya akan ada harapan."</em><br>
+  — <strong>Suiryuu</strong>, <em>One Punch Man Season 2</em>
 </div>
 <!-- QUOTE END -->
 
