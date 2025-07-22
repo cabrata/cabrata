@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hubungan antara manusia tidak harus diukur berdasarkan lamanya waktu (yang mereka habiskan bersama)."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Menurutku pertemanan jauh lebih bermakna daripada kata-kata dan logika."</em><br>
+  — <strong>Tomohiro Nagatsu</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
