@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mulai sekarang, apapun yang terjadi... aku akan terus menjadi temanmu! Kita.... kita akan selalu menjadi teman, kan?"</em><br>
-  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Apa kau percaya dengan takdir?
+Apa kau mendengarnya? suara dari langkah takdir kita yang semakin mendekat."</em><br>
+  — <strong>Souichi Jounouchi</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
