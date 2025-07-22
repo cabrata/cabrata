@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cuma orang aneh yang bilang orang lain aneh."</em><br>
-  — <strong>Meiko Honma</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Hidup tak seperti adegan film yang bisa diulang."</em><br>
+  — <strong>Direktur</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
