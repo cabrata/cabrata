@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teruslah maju dan jangan berhenti sebelum bakat dan masa muda kalian menghilang."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Kalau kau tidak memperhatikan hal di sekitarmu, kau akan melewatkan hal-hal yang penting."</em><br>
+  — <strong>Haruta Kamijou</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
