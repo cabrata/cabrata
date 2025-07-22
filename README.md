@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau hanya duduk di kursi kehormatan, kau tidak akan bisa melihat apapun."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Kalau kau ingin melindungi seseorang yang berharga bagimu, maka aku akan berada di pihakmu."</em><br>
+  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
