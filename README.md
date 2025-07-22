@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu samar-samar dan tidak sempurna, tapi karena itulah mereka berharga."</em><br>
-  — <strong>Sorey</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Hubungan antara manusia tidak harus diukur berdasarkan lamanya waktu (yang mereka habiskan bersama)."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
