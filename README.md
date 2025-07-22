@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu harus berterima kasih kepada orang yang mengembalikan barangmu."</em><br>
-  — <strong>Yotsuba Nakano</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Kau bilang akan membuktikan bahwa ia tak salah membesarkanmu. Jadi buktikanlah!"</em><br>
+  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
