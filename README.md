@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin menyerap pengetahuan dan teknik memasak sebanyak mungkin, dan terus bertarung di Akademi. Aku ingin terus mengeluarkan seluruh kemampuanku."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Jika tak punya impian, kau tidak berguna."</em><br>
+  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
