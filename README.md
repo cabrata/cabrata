@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanya ingin melihatmu membuktikan bahwa kerja keras pasti membawa hasil yang memuaskan."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Mahkota seorang pemimpin bukanlah benda yang berada di atas kepala. Tapi sesuatu yang ada di dalam hati semua orang."</em><br>
+  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
