@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika tak punya impian, kau tidak berguna."</em><br>
-  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji</em>
+  <em>"Aku suka banget melihatmu tertawa."</em><br>
+  — <strong>Chika Fujiwara</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
