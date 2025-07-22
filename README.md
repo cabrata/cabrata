@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengetahui orang lain mau membaca tulisanku yang kusukai dan mereka memberikan kesan yang cukup bagus itu sangat menyenangkan."</em><br>
-  — <strong>Yoshiteru Zaimokuza</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Semakin keras kita mencoba untuk menjadi orang yang benar, kebohongan kita akan terus bertambah."</em><br>
+  — <strong>Alicia Crystella</strong>, <em>Isekai Maou to Shoukan Shoujo no Dorei Majutsu</em>
 </div>
 <!-- QUOTE END -->
 
