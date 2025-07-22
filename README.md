@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang punya cara berbeda untuk mencapai hal yang diinginkan. Makanya, kita tidak bisa begitu saja menjalani satu hal yang pasti. Hanya saja, kalau terus terperangkap dalam pikiran sempit seperti itu dan membohongi perasaan kita sendiri, maka kita tidak akan pernah bisa merasakan apa arti kebahagiaan sejati."</em><br>
-  — <strong>Hiroomi Nase</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
+  <em>"(Berbicara mengenai koro-sensei) Dia menulis pertanyaan individual, dengan mempertimbangkan soal yang murid kuasai.
+Dia memiliki kecerdasan dan kecepatan luar biasa, makhluk berbahaya inilah yang akan menghancurkan bumi.
+Dan kemampuan mengajarnya mendekati sempurna."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
