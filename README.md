@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Jantungku) ini terasa aneh. Dari tadi berdetak kencang... sejak kau bilang padaku untuk tidak pergi, sejak kau memelukku dengan erat. Suaramu masih terdengar di telingaku. Rasa tubuhmu masih tertinggal (di diriku).
-Apa yang terjadi denganku? Apakah ini (yang dinamakan) "cinta" ?"</em><br>
-  — <strong>Mashiro Shiina</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Melalui musik, orang-orang yang kau kenal, orang-orang yang tidak kau kenal, (dan) seluruh manusia di bumi saling terhubung."</em><br>
+  — <strong>Hiroko Seto</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
