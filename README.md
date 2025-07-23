@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Maaf, aku tidak bisa membohongi ataupun menipu orang lain. Jadi, aku akan menggunakan kekuatanku untuk tujuan yang lebih mulia!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Aku tidak pernah pandai berkata-kata, tapi karena Akademi dan pertemanan yang kubuat di sini aku tidak kesepian lagi. Jadi seperti inilah caraku membalas budi pada desa ini, dengan menjadi seorang guru."</em><br>
+  — <strong>Shino Aburame</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
