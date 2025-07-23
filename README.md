@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagaimanapun juga, kita harus menjalin ikatan yang kuat dengan orang-orang disekitar, (serta) membangun tubuh dan jiwa yang sehat. Sampai hari perpisahan, bersama-sama kita membuat kenangan dan menjadi manusia yang dapat dipercaya oleh orang lain."</em><br>
-  — <strong>Kodaka Hasegawa</strong>, <em>Boku wa Tomodachi ga Sukunai Episode 0</em>
+  <em>"Menurutmu kenapa orang bisa terjaga di malam hari?Karena orang itu merasa tidak puas pada hari (yang telah ia lalui)."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
