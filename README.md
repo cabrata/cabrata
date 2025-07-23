@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita tidak bisa memilih pekerjaan (yang diinginkan), setidaknya kita bisa memilih rekan kerja (yang kita inginkan)."</em><br>
-  — <strong>Lancer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Bagaimanapun juga, kita harus menjalin ikatan yang kuat dengan orang-orang disekitar, (serta) membangun tubuh dan jiwa yang sehat. Sampai hari perpisahan, bersama-sama kita membuat kenangan dan menjadi manusia yang dapat dipercaya oleh orang lain."</em><br>
+  — <strong>Kodaka Hasegawa</strong>, <em>Boku wa Tomodachi ga Sukunai Episode 0</em>
 </div>
 <!-- QUOTE END -->
 
