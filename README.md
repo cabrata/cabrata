@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kita hanya melihat ke atas terus, kita akan kehilangan pijakan."</em><br>
-  — <strong>Keishin Ukai</strong>, <em>Haikyuu!!</em>
+  <em>"Aku tidak mau lari! Kalau aku lari dari apa yang kuhadapi sekarang, aku akan menyesalinya seumur hidupku."</em><br>
+  — <strong>Moe Nishinosono</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
