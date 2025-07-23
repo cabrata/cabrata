@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau memang menginginkannya, terkadang kau harus melawan, tak peduli siapapun lawannya."</em><br>
-  — <strong>Kae Serinuma</strong>, <em>Watashi ga Motete Dousunda</em>
+  <em>"Aku mencari yang kuat dan cukup ambisius.
+Kau harus melakukan lebih baik dari sekedar "memainkan pertadingan pertamaku" atau "melakukan yang terbaik"."</em><br>
+  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
