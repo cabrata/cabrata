@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak mungkin aku bisa pulang duluan dan meninggalkan gadis yang sedang menangis sendirian. Meskipun aku tak bisa menggendongmu (layaknya seorang pangeran), tapi setidaknya aku bisa meminjamkan bahuku untukmu."</em><br>
-  — <strong>Kazuomi Ooga</strong>, <em>ReLIFE</em>
+  <em>"Tidak baik membiarkan seorang gadis terluka."</em><br>
+  — <strong>Seiji Aino</strong>, <em>Renai Boukun</em>
 </div>
 <!-- QUOTE END -->
 
