@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pertarungan antar musuh adalah kelemahan yang paling menghibur."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Siapapun lawannya, jika kita tidak bisa lagi membedakan siapa yang harus dihukum dan siapa yang harus dilindungi, maka kepolisian kita akan berakhir. Kalau terus begini negara akan hancur."</em><br>
+  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
