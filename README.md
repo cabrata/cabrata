@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sayang sekali hubungan kalian berdua harus berakhir seperti ini. Tapi kalian tidak boleh saling membenci.
-Karena cinta telah membuat kalian jadi orang yang lebih baik. Karena itu kalian harus saling berterima kasih.
-Dan mulai saat ini, kalian berdua bisa menjadi teman yang baik bukan?"</em><br>
-  — <strong>Kazuyoshi Usui</strong>, <em>SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi</em>
+  <em>"Kalau kau memang menginginkannya, terkadang kau harus melawan, tak peduli siapapun lawannya."</em><br>
+  — <strong>Kae Serinuma</strong>, <em>Watashi ga Motete Dousunda</em>
 </div>
 <!-- QUOTE END -->
 
