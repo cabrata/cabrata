@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Biarpun gagal..., bukankah lebih baik dari pada tidak melakukan apapun?"</em><br>
-  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Demi cinta, aku rela mengorbankan tubuh dan jiwaku."</em><br>
+  — <strong>Kaguya Shinomiya</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
