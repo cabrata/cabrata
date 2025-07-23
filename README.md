@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hari yang baik dimulai dengan kasur yang baik."</em><br>
-  — <strong>Ikta Solork</strong>, <em>Nejimaki Seirei Senki: Tenkyou no Alderamin</em>
+  <em>"Jangan terlalu memaksakan diri, istirahatlah dulu.
+Menjaga kesehatan itu juga bagian dari pekerjaan."</em><br>
+  — <strong>Ibu Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
