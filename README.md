@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada ibu di dunia ini yang benci sama anaknya sendiri. Waktu kamu mulai tumbuh mandiri, baik sebagai manusia maupun sebagai pianis. Saki pasti merasa bahagia waktu itu."</em><br>
-  — <strong>Hiroko Seto</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kalau ada orang yang berusaha membunuhmu, kau pasti akan marah.
+Itu sangat berbeda jika ada orang yang mencoba membunuhmu tapi berakhir dengan kegagalan, terlihat memalukan."</em><br>
+  — <strong>Karma Akabane</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
