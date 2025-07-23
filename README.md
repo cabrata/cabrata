@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik menyemangati seseorang yang berjuang dalam bayang-bayang daripada orang-orang yang memiliki keberuntungan."</em><br>
-  — <strong>Keita Amano</strong>, <em>Gamers!</em>
+  <em>"Kesempatan takkan menunggu seseorang. Jika kau biarkan kesempatan pergi dengan berkata "Aku belum siap". Maka takkan ada lagi kesempatan seperti itu untukmu."</em><br>
+  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
