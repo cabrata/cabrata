@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyedihkan sekali. Memikirkan hal lain disaat pertandingan, apa kau meremehkan lawanmu?
-Ini adalah pertarungan. Jika kau terjebak dalam drama yang (menurutmu) lebih penting, jangan buang waktumu dipertandingan ini."</em><br>
-  — <strong>Yuuri Himemiya</strong>, <em>Prince of Stride: Alternative</em>
+  <em>"Ada banyak hal yang menyenangkan dan menyedihkan. Begitu juga kesuksesan dan kegagalan. Kalian memang sudah lulus SD hari ini, tapi masih ada banyak hal lagi yang belum kalian rasakan. Begitu juga denganku. Tapi, merasakan semua hal yang masih belum kita rasakan itu pasti adalah tujuan utama kita hidup."</em><br>
+  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
