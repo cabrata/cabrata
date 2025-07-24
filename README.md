@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tidak hidup demi sebuah arti, tapi (kita diciptakan) untuk menemukan arti setelah hidup."</em><br>
-  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Waktu-waktu kosong tanpa kehadiranmu sangatlah menyakitkan dan (membuat hidupku jadi) tidak berarti."</em><br>
+  — <strong>Soushi Miketsukami</strong>, <em>Inu x Boku SS</em>
 </div>
 <!-- QUOTE END -->
 
