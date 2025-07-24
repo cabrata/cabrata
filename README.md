@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pembela kebenaran membutuhkan kejahatan untuk dikalahkan."</em><br>
-  — <strong>Kirei Kotomine</strong>, <em>Fate/stay night Movie: Heaven's Feel - I. Presage Flower</em>
+  <em>"Aku suka kamu yang berusaha menutupi air mata dengan senyuman dan tetap tegar."</em><br>
+  — <strong>Isla</strong>, <em>Plastic Memories</em>
 </div>
 <!-- QUOTE END -->
 
