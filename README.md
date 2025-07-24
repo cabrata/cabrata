@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hubungan antara manusia tidak harus diukur berdasarkan lamanya waktu (yang mereka habiskan bersama)."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Manusia adalah makhluk yang berakal. Meskipun kata "setara" seolah hanya candaan belaka, namun sebaliknya "ketidaksetaraan" dapat terlihat dengan jelas."</em><br>
+  — <strong>Kiyotaka Ayanokouji</strong>, <em>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</em>
 </div>
 <!-- QUOTE END -->
 
