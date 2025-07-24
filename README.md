@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak bisa terus-terusan terluka karena hal yang telah berlalu. Aku harus menghadapinya, menerimanya, memikirkannya, dan terus melangkah maju."</em><br>
-  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Jika dirimu tak pantas bahagia, maka aku yang akan menanggungnya. Jika harus menebus semua dosa itu, mari kita tebus bersama."</em><br>
+  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
