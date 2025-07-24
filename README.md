@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau membenci dirimu sendiri sebanyak seratus kali, aku akan mencintaimu sebanyak dua ribu kali. Dan itulah, perlakuan khusus yang ingin kuberikan padamu. "Mengapa dua ribu kali?" Karena angka ratusan takkan cukup untuk menggambarkan perasaanku terhadapmu."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Agar dapat membaur dengan orang-orang di sekitar, aku bertingkah layaknya seorang anak yang baik dimata orang lain."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
