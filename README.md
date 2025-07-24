@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan membiarkanmu dimiliki oleh siapapun. Terima kasih sudah mau menyukaiku."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Ketika ada yang berbohong, yang terpenting bukan isi dari kebohongannya, tetapi alasan kenapa berbohong."</em><br>
+  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
 </div>
 <!-- QUOTE END -->
 
