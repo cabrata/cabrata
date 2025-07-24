@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyanyikan lagu kesukaanmu akan menstimulasi otak, memicu perkembangan hormon secara keseluruhan. Sangat efektif dalam proses rehabilitasi, dan mampu meningkatkan banyak hal. Bernyanyi bersama-sama ketika bekerja akan membuat pekerjaan menjadi lebih efisien."</em><br>
-  — <strong>Haruhiko Ichijou</strong>, <em>Musaigen no Phantom World</em>
+  <em>"Aku tak ingin menyimpan dendam dengan masa lalu, lebih baik memaafkan dan melangkah maju."</em><br>
+  — <strong>Iori Nagase</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
