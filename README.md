@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seperti apa dirimu dulu, sosokmu yang sekarang adalah dirimu."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Seiring bertambahnya usia, kita akan semakin khawatir tentang masa depan."</em><br>
+  — <strong>Santouka Taneda</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
 </div>
 <!-- QUOTE END -->
 
