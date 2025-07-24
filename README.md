@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Malam sebelum fajar adalah yang paling gelap. Tapi, jangan menutup matamu. Kalau kau menutup matamu dari kegelapan, kau takkan bisa melihat cahaya dari hari esok yang baru."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama°</em>
+  <em>"Demi mencapainya, aku tidak peduli walau harus menjadi segala bentuk kejahatan di dunia ini. Jika hal itu mampu menyelamatkan dunia, maka dengan senang hati akan kulakukan."</em><br>
+  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
