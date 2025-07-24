@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa jauh kau terjatuh di dalam kegelapan, kau masih memiliki keberanian untuk mengulurkan tanganmu."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Spekulasi saja takkan mengubah fakta. Kita harus menerima kenyataan dan bergerak maju."</em><br>
+  — <strong>Kuro no Caster</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
