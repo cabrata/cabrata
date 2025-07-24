@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berdasarkan pamanku, ada syarat untuk menjadi seorang seniman manga. Dalam sekolah angan-angan Taro Kawaguchi, tiga syarat untuk menjadi seniman manga, jika kau bukanlah seorang jenius.
-1. kebanggaan, berpikirlah kau lebih baik daripada orang lain
-2. kerja keras
-3. keberuntungan"</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Manusia itu bergerak sesuai kata hati. Jadi hatimu akan semakin kuat."</em><br>
+  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba</em>
 </div>
 <!-- QUOTE END -->
 
