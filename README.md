@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama perasaan kita masih saling mencintai, kita bisa melakukan apapun."</em><br>
-  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Bermimpilah seakan kau hidup selamanya. Hiduplah seakan kau akan mati hari ini."</em><br>
+  — <strong>Hijiri Minowa</strong>, <em>Bakuon!!</em>
 </div>
 <!-- QUOTE END -->
 
