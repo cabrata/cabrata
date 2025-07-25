@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Musik itu sangat hangat dan benar-benar memancarkan kebaikan. Aku ingin selalu mendengarnya, aku ingin mendengar musik itu dimainkan olehmu!"</em><br>
-  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Pemenang dari game ditentukan sebelum game itu dimulai.Tak ada yang namanya kesempatan murni."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
