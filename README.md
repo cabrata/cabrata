@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta itu seperti bela diri! Menyerang adalah pertahanan terbaik"</em><br>
-  — <strong>Kozue Takanashi</strong>, <em>Working!!!</em>
+  <em>"Jika filosofi pendidikan di sekolah Anda menginjak-injak perasaan anak, tampaknya saya memilih sekolah yang salah."</em><br>
+  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
