@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sosoknya yang hanya diterangi oleh cahaya bulan itu lebih indah dari karya artistik mana pun."</em><br>
-  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Kau bisa berjuang, tapi kau takkan bisa mengalahkanku. Dunia yang sesungguhnya tak semudah itu."</em><br>
+  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
