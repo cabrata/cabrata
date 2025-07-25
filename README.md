@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cintailah dunia ini. Mungkin selama ini dunia tidak berpihak padamu, tapi dunia bukanlah musuhmu."</em><br>
-  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Jika kau mengatakannya dengan cinta, perasaanmu akan tersampaikan."</em><br>
+  — <strong>Tooru Minegishi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
