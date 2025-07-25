@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku berusaha menjadi orang dewasa yang ideal. (Tapi) yang kulakukan sebenarnya hanya berpura-pura menjadi orang dewasa. (Karena) anak-anak memerlukan sosok orang dewasa yang bisa menjadi sandaran hatinya."</em><br>
-  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
+  <em>"Bagi seorang pria, ada kalanya memukul seseorang itu rasanya lebih sakit daripada terkena pukulan."</em><br>
+  — <strong>Tooru Asagiri</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
