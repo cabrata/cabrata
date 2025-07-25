@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin kalian bertengkar dengan baik."</em><br>
-  — <strong>Ichika Nakano</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Aku takkan bilang padamu untuk tidak bersedih. Aku takkan bilang padamu untuk tidak menangis. Tapi kau tidak bisa membiarkan bawahanmu melihatmu seperti ini. Kalau kau yang pemimpin mereka saja keadaanmu seperti ini, mereka takkan sanggup untuk bertarung."</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
