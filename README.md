@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak bermain sesuai dengan arahan partiturnya hanyalah keegoisan manusia yang sudah menyerah."</em><br>
-  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Demi menyelamatkan nyawamu, nyawa orang lain harus dikorbankan.
+Seperti itulah cara hidup "hewan"."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
