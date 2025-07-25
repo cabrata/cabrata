@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bisa berjuang, tapi kau takkan bisa mengalahkanku. Dunia yang sesungguhnya tak semudah itu."</em><br>
-  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
+  <em>"Bukan waktunya murung. Kita sekarang akan segera dieksekusi. Tapi untuk keluar dari kegelapan ini, meskipun kecil, kita bisa melihat secercah harapan. Mungkin seperti benang laba-laba, tapi sekarang kita punya kaki untuk keluar dari sini."</em><br>
+  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
 </div>
 <!-- QUOTE END -->
 
