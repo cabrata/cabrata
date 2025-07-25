@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tugas seorang wanita yang sebenarnya adalah melindungi harga diri seorang pria."</em><br>
-  — <strong>Saeko Busujima</strong>, <em>Highschool of the Dead</em>
+  <em>"Semua manusia memiliki kenginan. Tanpa keinginan, manusia takkan bisa hidup."</em><br>
+  — <strong>Rider</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
