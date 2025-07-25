@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Shiro, yang kau besarkan bukanlah sebuah senjata. Kau membesarkan seorang putra."</em><br>
-  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist</em>
+  <em>"Cinta itu seperti bela diri! Menyerang adalah pertahanan terbaik"</em><br>
+  — <strong>Kozue Takanashi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
