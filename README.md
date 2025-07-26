@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau terkenal di internet saja dapat menghasilkan banyak uang, pasti kau akan merasa kalau pergi bekerja adalah tindakan yang bodoh."</em><br>
-  — <strong>Shuusei Kagari</strong>, <em>Psycho-Pass</em>
+  <em>"Setiap orang punya hal yang tak ingin diketahui siapapun, hal yang lebih baik tidak diketahui, dan ada pula hal pada diri sendiri yang tidak ingin diingat."</em><br>
+  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
