@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian akan dapat terus maju dengan berpegang pada penderitaan.
-Jaga teman kalian saat ini. (Karena) jika mereka mati, mereka takkan kembali."</em><br>
-  — <strong>Shinohara</strong>, <em>Hai to Gensou no Grimgar</em>
+  <em>"Beda orang, beda pandangan. Rasa sayang itu ada macam-macam bentuknya."</em><br>
+  — <strong>Kakek Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
