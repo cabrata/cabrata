@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Utarakan saja perasaanmu sesuai dengan alur dan caramu sendiri"</em><br>
-  — <strong>Popura Taneshima</strong>, <em>Working!!!</em>
+  <em>"Tidak apa-apa kamu tak mencintaiku. Tapi biarkan aku mencintaimu."</em><br>
+  — <strong>Touko Nanami</strong>, <em>Yagate Kimi ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
