@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menghajar orang yang lemah itu menyedihkan."</em><br>
-  — <strong>Kana Kimishima</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Aku memiliki kewajiban untuk mengawasi jalannya tindak lanjut laporanku."</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
