@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ingin bunuh diri karena merasa bersalah itu keliru!"</em><br>
-  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
+  <em>"Kau tak boleh mundur, saat kau sudah maju."</em><br>
+  — <strong>Shiro</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
