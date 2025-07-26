@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak bisa memaafkan kau yang telah membuat istriku menangis!"</em><br>
-  — <strong>Hideki Nishimura</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Aku ingin terus bersama orang yang paling membutuhkanku."</em><br>
+  — <strong>Saitou</strong>, <em>Benriya Saitou-san, Isekai ni Iku</em>
 </div>
 <!-- QUOTE END -->
 
