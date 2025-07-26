@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bergaul dengan pecundang, akan membuatmu menjadi pecundang juga."</em><br>
-  — <strong>Takaya Kurisu</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Utarakan saja perasaanmu sesuai dengan alur dan caramu sendiri"</em><br>
+  — <strong>Popura Taneshima</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
