@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang punya hal yang tak ingin diketahui siapapun, hal yang lebih baik tidak diketahui, dan ada pula hal pada diri sendiri yang tidak ingin diingat."</em><br>
-  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect</em>
+  <em>"Kau harus membuang tujuan demi tujuanmu.
+Ambisi, keinginan, dendam... Kau harus singkirkan semua tujuan itu demi tujuan sejatimu."</em><br>
+  — <strong>Rinne Higaki</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
