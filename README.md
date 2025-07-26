@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagiku, hal yang paling berharga di dunia ini adalah anakku."</em><br>
-  — <strong>Sachiko Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Jika aku terlalu mudah puas dan lengah meski hanya sekali saja, aku akan terjatuh (mulai) dari sini."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
