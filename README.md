@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia ini mengagumkan. Orang-orang hidup dengan saling mencintai dan menghormati satu sama lain."</em><br>
-  — <strong>Photo</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Orang genius itu harus selalu mengejutkan."</em><br>
+  — <strong>Leonardo da Vinci</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
