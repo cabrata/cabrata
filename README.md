@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh kalah di permainan ataupun di pertandaingan.
-Tapi kalau kau tidak kalah dengan dirimu sendiri, itu bukan kekalahan."</em><br>
-  — <strong>Karen Araragi</strong>, <em>Nisemonogatari</em>
+  <em>"Seluruh tubuhku telah berlumuran darah. Karena aku, puluhan ribu orang telah kehilangan nyawanya. Aku tak pantas hidup bahagia."</em><br>
+  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
