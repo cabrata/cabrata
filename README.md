@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang genius itu harus selalu mengejutkan."</em><br>
-  — <strong>Leonardo da Vinci</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Kau boleh mati dengan mempertahankan harga dirimu itu,  tapi jika kau makan dan hidup bukankah masa depanmu akan lebih baik?"</em><br>
+  — <strong>Sanji</strong>, <em>One Piece</em>
 </div>
 <!-- QUOTE END -->
 
