@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suna, kali ini aku tak akan salah lagi. Tapi, jika aku kehilangan arah dan mulai mengambil jalan yang salah, tolong pukul aku."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Hidup adalah rangkaian dari pilihan yang kita buat. Kau harus melihat sejauh mana pilihan naifmu itu akan membawamu."</em><br>
+  — <strong>Abuto</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
