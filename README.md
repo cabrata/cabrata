@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku percaya padamu, Rem. Jadi aku ingin melakukan sesuatu agar kau bisa mempercayaiku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Gaya hidupku adalah makan makanan favorit kapan pun yang aku mau."</em><br>
+  — <strong>Anna Yamada</strong>, <em>Boku no Kokoro no Yabai Yatsu</em>
 </div>
 <!-- QUOTE END -->
 
