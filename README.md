@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki yang tetap perjaka sampai umur 30 disebut dengan "Tangan Tuhan"."</em><br>
-  — <strong>Shinpachi Shimura</strong>, <em>Gintama</em>
+  <em>"Semua orang pasti pernah membuat kesalahan. Tapi perasaan manusia sering diungkapkan dalam cara yang tak menentu.Kalau kau seorang hakim, jangan mengabaikan hal itu."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
