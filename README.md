@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun seluruh dunia membenciku, aku masih bisa hidup selama ada seseorang yang membutuhkanku."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Bergaul dengan pecundang, akan membuatmu menjadi pecundang juga."</em><br>
+  — <strong>Takaya Kurisu</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
