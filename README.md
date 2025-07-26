@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada perdebatan kenapa alien tidak menginvasi Bumi padahal mereka maju dalam hal sains dan teknologi. Mereka tidak bisa (menyerang) karena ada siluman (di Bumi). Siluman dan setan melindungi Bumi dari invasi alien."</em><br>
-  — <strong>Ken Takakura</strong>, <em>Dandadan</em>
+  <em>"Aku yakin banyak pemusik yang mengalami hal sepertimu (gemetar ketika mau tampil dipanggung)! "mana mungkin aku bisa melakukannya" atau "kalau begitu, kau saja yang main". Meski begitu, mereka mengambil lagi partitur musiknya dan bermain lagi. Begitulah caranya menciptakan kebohongan yang paling indah."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
