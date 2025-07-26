@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebodohan yang ekstrem itu bisa dijual. Kalau ingin bodoh, lakukan sampai level yang tak bisa dijangkau orang lain."</em><br>
-  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
+  <em>"Jangan berpaling! Lihat ke depan! Tegakkan kepalamu! Saat ini, lakukan apa yang harus kau lakukan sebagai Master!"</em><br>
+  — <strong>Olga Marie Animusphere</strong>, <em>Fate/Grand Order: First Order</em>
 </div>
 <!-- QUOTE END -->
 
