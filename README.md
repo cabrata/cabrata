@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun aku mengetahui segalanya, tapi bukan berarti semuanya berjalan sesuai dengan yang kuinginkan."</em><br>
-  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
+  <em>"(Bukan berarti) aku tidak ingin menjadi kuat.
+Kalau bisa aku (hanya) ingin tetap menjadi seorang gadis selamanya..."</em><br>
+  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
