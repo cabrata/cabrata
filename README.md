@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka banget melihatmu tertawa."</em><br>
-  — <strong>Chika Fujiwara</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Game simulasi kencan itu sama sekali tidak akan berdampak pada hubungan asmara di kehidupan nyata."</em><br>
+  — <strong>Tasuku Uehara</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
