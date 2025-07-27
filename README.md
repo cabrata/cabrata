@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan terlalu memaksakan diri, istirahatlah dulu.
-Menjaga kesehatan itu juga bagian dari pekerjaan."</em><br>
-  — <strong>Ibu Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Ada sesuatu yang harus ku raih, bahkan jika aku harus mengotorinya (*melakukan dengan cara kotor atau curang)."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
