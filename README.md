@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Balas dendam adalah hal yang bodoh."</em><br>
-  — <strong>Kino</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Mengabaikan seseorang itu hal yang mudah, membenci seseorang lebih mudah lagi, namun mencintai seseorang adalah hal yang sulit."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
