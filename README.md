@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagiku, keberadaan dirinya seperti dunia itu sendiri. Aku lebih baik mati daripada kehilangan dirinya."</em><br>
-  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
+  <em>"Hanya mereka yang berkeinginan untuk melampaui batasannya dan berusaha untuk terus tumbuh dan berkembanglah yang bisa melewatinya. Merekalah generasi keajaiban!"</em><br>
+  — <strong>Senzaemon Nakiri</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
