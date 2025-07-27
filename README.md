@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benar-benar beruntung, punya orang-orang yang mendukungku dan menolongku.
-Hanya dapat hidup saja sudah (membuatku) beruntung."</em><br>
-  — <strong>Ryousuke Kirishima</strong>, <em>Sket Dance</em>
+  <em>"Perempuan itu suka kalau kita punya uang, laki-laki suka kalau kita punya daging."</em><br>
+  — <strong>Niwatori</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
