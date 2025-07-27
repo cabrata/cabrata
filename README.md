@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Game simulasi kencan itu sama sekali tidak akan berdampak pada hubungan asmara di kehidupan nyata."</em><br>
-  — <strong>Tasuku Uehara</strong>, <em>Gamers!</em>
+  <em>"Aku benar-benar beruntung, punya orang-orang yang mendukungku dan menolongku.
+Hanya dapat hidup saja sudah (membuatku) beruntung."</em><br>
+  — <strong>Ryousuke Kirishima</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
