@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau ingin bernegosiasi, kau harus menawarkan keuntungan yang bisa didapatkan. Jika tidak, maka tidak ada negosiasi"</em><br>
-  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku tak ingin memperihatkan sisi bodohku. Kalau mau memperlihatkan, tentu harus memperlihatkan sisi kerenku."</em><br>
+  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
