@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa sulitnya (menjalani hidup), aku ingin kau percaya bahwa dunia ini indah."</em><br>
-  — <strong>Fujino Asagami</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
+  <em>"Jika tak punya impian, kau tidak berguna."</em><br>
+  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
