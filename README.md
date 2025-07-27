@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan bilang semua (hal yang kau lakukan) itu sia-sia. Kau sudah berjuang keras untuk membuat dirimu menjadi lebih baik."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Ada jarak jutaan tahun cahaya yang memisahkan antara "suka" dan "tidak suka"."</em><br>
+  — <strong>Nao Kashiwagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
