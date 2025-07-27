@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau terjebak di suatu lubang yang begitu dalam dan tak bisa keluar, maka aku akan masuk ke lubang yang sama denganmu untuk menyelamatkanmu."</em><br>
-  — <strong>Masaomi Kida</strong>, <em>Durarara!!x2 Ten</em>
+  <em>"Sudah menjadi fenomena umum di dunia manusia, orang tidak kompeten yang tidak memiliki pengetahuan atau bakat mendapatkan posisi karena garis keturunan atau relasi."</em><br>
+  — <strong>Shaiapouf</strong>, <em>Hunter x Hunter (2011)</em>
 </div>
 <!-- QUOTE END -->
 
