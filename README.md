@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta adalah hasrat yang buruk."</em><br>
-  — <strong>Quinella</strong>, <em>Sword Art Online: Alicization</em>
+  <em>"Kalau kita tidak bisa memilih pekerjaan (yang diinginkan), setidaknya kita bisa memilih rekan kerja (yang kita inginkan)."</em><br>
+  — <strong>Lancer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
