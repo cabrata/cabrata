@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada yang bilang jika seorang pria sedang terpojok, mereka akan menunjukkan kemampuan mereka sepuluh kali lebih hebat dari biasanya."</em><br>
-  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Kau hanya harus menjadi tanduk bagi Ram yang tak memiliki tanduk. Kalian bisa menjadi iblis bersama-sama. Selain itu, kau menganggap dirimu sebagai pengganti, tapi tidak ada yang bisa menggantikanmu. Di tempatku berasal, ada yang bilang "Iblis akan tertawa saat kau membahas tentang masa depan.", Jadi Tertawalah, Rem."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
