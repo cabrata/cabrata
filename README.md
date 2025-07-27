@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjalanan dapat mempertemukan kita dengan sahabat dan cinta, perjalanan (juga) dapat membawa kesulitan dan kebahagiaan."</em><br>
-  — <strong>Rokurou Rangetsu</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Tak peduli seberapa sulitnya (menjalani hidup), aku ingin kau percaya bahwa dunia ini indah."</em><br>
+  — <strong>Fujino Asagami</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
 </div>
 <!-- QUOTE END -->
 
