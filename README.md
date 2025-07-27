@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bukan berarti) aku tidak ingin menjadi kuat.
-Kalau bisa aku (hanya) ingin tetap menjadi seorang gadis selamanya..."</em><br>
-  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
+  <em>"Bermain (musik) untuk seseorang, itu jauh lebih berharga."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
