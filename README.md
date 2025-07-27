@@ -5,7 +5,7 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau hanya sendirian, kamu takkan mengerti keberadaanmu. Aku merasa kalau hubungan antar manusia adalah bukti tentang hidup. Aku memiliki hati karena ada semua orang. Aku memiliki tubuh karena aku disentuh semua orang. Jadi, hidup seseorang itu memiliki arti. Memilih sendiri, seperti kau dan aku, seperti hidup kita yang sekarang."</em><br>
+  <em>"Hidup adalah dengan menggerakan hati seseorang. Dengan melakukan hal itu, bukankah itu yang dinamakan hidup? Menerima seseorang. Menyukai seseorang. Membenci seseorang. Merasa senang saat bersama seseorang. Menggenggam tangan seseorang. Itulah hidup."</em><br>
   — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
