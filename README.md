@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam percintaan tak ada yang namanya "Kerja keras akan selalu membuahkan hasil"."</em><br>
-  — <strong>Sakura Akino</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Aku tak akan menikah dengan orang lain (selain dirimu). Aku telah berdoa agar bisa bersamamu untuk selamanya."</em><br>
+  — <strong>Sae Nakata</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
