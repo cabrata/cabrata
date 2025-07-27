@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa sesuatu yang terlupakan itu, memang seharusnya dilupakan?"</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Meski kau sedih, babak belur, ataupun jatuh ke titik terdalam, kau harus tetap bermain! Seperti itulah orang-orang seperti kita bertahan."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
