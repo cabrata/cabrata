@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan lembut dan baik yang menyukai anak-anak tidak mungkin jadi polisi."</em><br>
-  — <strong>Seiko Fuji</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Kupikir kalau aku hidup dengan jujur pada diriku sendiri, aku tak akan punya penyesalan. Tapi ternyata itu salah..."</em><br>
+  — <strong>Hime Onizuka</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
