@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang ada hal yang tak bisa sampaikan pada seseorang meskipun orang itu dekat denganmu."</em><br>
-  — <strong>Nanami Aoyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Kalau begitu, jika kau tak lagi menganggapku sebagai ancaman, kau mau berteman denganku kan?"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
