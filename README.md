@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak itu memang yang terbaik saat dia bertingkah kekanak-kanakan."</em><br>
-  — <strong>Matsuyo Matsuno</strong>, <em>Osomatsu-san</em>
+  <em>"Terkadang ada hal yang tak bisa sampaikan pada seseorang meskipun orang itu dekat denganmu."</em><br>
+  — <strong>Nanami Aoyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
