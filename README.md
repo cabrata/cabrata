@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia memasak terlalu dalam dan luas jika dibandingkan dengan hidup kita yang singkat. Meski kau terus mempelajarinya seumur hidupmu, kau tetap tak akan mencapai batasnya"</em><br>
-  — <strong>Eishi Tsukasa</strong>, <em>Shokugeki no Souma: Ni no Sara OVA</em>
+  <em>"Aku bersyukur karena laut berwarna biru. Aku pun bersyukur karena langit pun biru. Warna yang telah kamu berikan, masa depanku penuh dengan warna."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
