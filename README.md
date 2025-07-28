@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau hari libur adalah hari untuk bersenang-senang, maka kita harus bersenang-senang bersama."</em><br>
-  — <strong>Anzu</strong>, <em>Hinamatsuri</em>
+  <em>"Kalau kau punya waktu untuk bicara omong kosong, (lebih baik) lakukan semua yang kau bisa untuk bertahan hidup."</em><br>
+  — <strong>Tanya Degurechaff</strong>, <em>Youjo Senki</em>
 </div>
 <!-- QUOTE END -->
 
