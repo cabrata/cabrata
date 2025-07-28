@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena kita makhluk yang memiliki ingatan yang kuat, kita jadi dikendalikan oleh informasi."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Cinta hanyalah sebuah bug dari sirkuit saraf manusia. Kau bisa buang emosi yang tidak perlu itu ke tempat sampah."</em><br>
+  — <strong>Ryuunosuke Akasaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
