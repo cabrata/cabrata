@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Baik 10 tahun yang lalu atau 10 tahun yang akan datang, waktu selalu memiliki batas."</em><br>
-  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
+  <em>"Aku adalah pedangmu. Kemanapun kamu pergi aku akan selalu mengikutimu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
