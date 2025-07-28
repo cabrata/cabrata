@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memanfaatkan kesempatan untuk mendapatkan jaringan orang atasan adalah bentuk dari pembelajaran politik yang baik di sekolah."</em><br>
-  — <strong>Kobachi Osaragi</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Jangan melihat ke atas terus.
+Bersabarlah, nanti juga akan ada yang jatuh ke tanah.
+Kalau tidak bisa mendapat yang di atas, kita ambil yg di bawah saja."</em><br>
+  — <strong>Yasu Nomura</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
