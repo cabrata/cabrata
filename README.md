@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa erat ikatanmu dengan orang lain, waktu akan memisahkanmu dengan mereka."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Nisemonogatari</em>
+  <em>"Mungkin kau akan gagal. Mungkin juga mereka akan menolakmu. Meskipun begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
