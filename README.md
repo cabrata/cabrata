@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena kamu adalah manusia artinya kamu bukanlah sosok yang sempurna."</em><br>
-  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online: Alicization</em>
+  <em>"Seperti apapun cita-citamu, kau memang tetap harus belajar."</em><br>
+  — <strong>Madoka Takatori</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
