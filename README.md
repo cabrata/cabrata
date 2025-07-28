@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melihat ke atas terus.
-Bersabarlah, nanti juga akan ada yang jatuh ke tanah.
-Kalau tidak bisa mendapat yang di atas, kita ambil yg di bawah saja."</em><br>
-  — <strong>Yasu Nomura</strong>, <em>Barakamon</em>
+  <em>"(Ketika kau menggendongku saat aku menangis) Meskipun sangat menyakitkan aku kalah, meskipun sangat sedih, meskipun angkle-ku sakit dan mataku dipenuhi air mata, meski dalam kondisi yang menyedihkan, kenapa bintang terlihat berkilauan seperti ini ya? Aku bisa mencium aroma ruang musik dari rambutnya, aku bisa mendengar desahan nafasnya, dan bahunya yang basah karena air mataku terasa hangat. Aku berada di sisinya dan (saat ini) aku berharap waktu dapat berhenti."</em><br>
+  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
