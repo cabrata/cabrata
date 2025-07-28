@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memikirkan masalah dengan wajah serius mungkin membuatmu tampak bijak, tapi kau salah. Tidak ada alasan untuk terus memikirkannya. Menerima segala yang terjadi di hidupmu adalah cara yang tepat dalam menjalani hidup.
-Mengkhawatirkan masalah hanya akan membuang waktumu. Jika kau punya waktu untuk merenung, lebih baik lakukan sesuatu.
-Lupakanlah masalahmu. Tak ada gunanya menyesali hal yang telah terjadi."</em><br>
-  — <strong>Tooe Kanbaru</strong>, <em>Hanamonogatari</em>
+  <em>"Aku tahu hal ini akan terjadi dan tetap memilih untuk datang ke sini. Jadi, aku takkan berpaling dari mereka yang telah rela mengorbankan nyawanya demi diriku."</em><br>
+  — <strong>Sherry Tueli</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</em>
 </div>
 <!-- QUOTE END -->
 
