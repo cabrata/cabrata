@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau aku tidak lagi menjadi tentara peri, aku ingin mengejar impian biasa sebagaimana orang biasa lainnya.
-Aku ingin hidup berdampingan dengannya, melihat hal yang sama, berjalan di jalan yang sama, makan makanan yang sama, dan melihat pemandangan yang sama dengannya."</em><br>
-  — <strong>Chtholly Nota Seniorious</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Karena kita makhluk yang memiliki ingatan yang kuat, kita jadi dikendalikan oleh informasi."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
