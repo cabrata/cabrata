@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan gadis namanya kalau dia berwujud 3D."</em><br>
-  — <strong>Koutarou Takebayashi</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Pahlawan Napoleon Bonaparte pernah berkata, "Pahlawan sejati adalah seseorang yang mampu melewati ujian hidup.""</em><br>
+  — <strong>Hizashi Yamada</strong>, <em>Boku no Hero Academia</em>
 </div>
 <!-- QUOTE END -->
 
