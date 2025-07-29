@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling menyenangkan dari sebuah perjalanan adalah saat sebelum berangkat. Yang paling menakutkan dari anjing adalah gonggongannya. Yang paling indah dari wanita adalah dengan melihat sosoknya dari belakang. Mengungkap sesuatu yang disembunyikan dapat menghancurkan mimpi seseorang."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"DIY (Do it yourself), "Lakukanlah (dengan caramu) sendiri". Kurasa itu adalah saran yang tepat untukku."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
