@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Deru ombak adalah lagu pengantar tidur terbaik."</em><br>
-  — <strong>Kaguya Shinomiya</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Bukankah menjadi sedikit tidak adil membuatku jadi lebih seperti gadis?"</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
