@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi Pegawai Negeri Sipil (PNS), dimarahi atau dimaki itu adalah pekerjaan utamanya."</em><br>
-  — <strong>Yutaka Hasebe</strong>, <em>Servant x Service</em>
+  <em>"Aku ingin mati dengan kepuasan terhadap kehidupanku."</em><br>
+  — <strong>Airi Yuunami</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
