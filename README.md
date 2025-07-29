@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menghormati setiap individu tanpa merusak keinginan mereka bentuk dari idealisme yang sesungguhnya."</em><br>
-  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Bakat memang penting, tapi aku (lebih) cemburu dengan orang yang punya tujuan hidup."</em><br>
+  — <strong>Atomu Kai</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
