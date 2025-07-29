@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Junichi... tempat mana yang ingin kau kunjungi di wisata kali ini?)
-Aku tak keberatan pergi ke mana pun selama itu tempat yang kamu inginkan."</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Cinta datang dalam berbagai bentuk. Mungkin memang tidak semuanya menyenangkan, tapi tetap saja (cinta) itu indah."</em><br>
+  — <strong>Mitsuki Shijou</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
