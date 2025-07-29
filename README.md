@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami (berdua) yang telah terluka saling mengharapkan hal yang sama.
-Jika besok kau mati, maka aku tidak keberatan jika besok hidupku juga berakhir.
-Jika hari ini kau tetap hidup, aku pun juga akan hidup."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
+  <em>"Tidur itu sangat penting. Kurang tidur bisa berdampak buruk pada pekerjaan, dan kesehatanmu. Tidur di kursi bisa menghilangkan rasa penatmu untuk sementara, tapi tidak baik untuk punggungmu."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!!</em>
 </div>
 <!-- QUOTE END -->
 
