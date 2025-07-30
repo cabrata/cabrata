@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kita tidak bisa bahagia, (tapi) kita beruntung karena masih memiliki banyak waktu. Waktu untuk menyendiri, waktu untuk berpikir, dan waktu untuk hidup."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Selesaikan apa yang telah kau perbuat!"</em><br>
+  — <strong>Tsukinose Vignette April</strong>, <em>Gabriel DropOut</em>
 </div>
 <!-- QUOTE END -->
 
