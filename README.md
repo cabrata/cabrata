@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang bagus kalau bisa menemukan pekerjaan yang sesuai dengan diri kita.
-Tapi kurasa tak masalah kalau kita yang harus menyesuaikan diri dengan pekerjaan."</em><br>
-  — <strong>Shinei Ookawa</strong>, <em>Gin no Saji</em>
+  <em>"Memanjakan anak adalah bagian dari pekerjaan seorang ibu."</em><br>
+  — <strong>Shizu Tanbabashi</strong>, <em>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</em>
 </div>
 <!-- QUOTE END -->
 
