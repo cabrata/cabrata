@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menggunakan internet itu seperti menggunakan pisau untuk memasak atau menggunakan kertas untuk menulis. Pada dasarnya itu bukan tentang baik atau buruk. Karena keberadaan internet, maka kita (tinggal) menerimanya dan menggunakannya."</em><br>
-  — <strong>Akane Tsunemori</strong>, <em>Psycho-Pass</em>
+  <em>"Meskipun kita tidak bisa bahagia, (tapi) kita beruntung karena masih memiliki banyak waktu. Waktu untuk menyendiri, waktu untuk berpikir, dan waktu untuk hidup."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
