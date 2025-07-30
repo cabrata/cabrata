@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Barang jadul tak akan berguna saat dibutuhkan dengan segera."</em><br>
-  — <strong>Minosuke</strong>, <em>Ojiisan no Lamp</em>
+  <em>"Kecantikan seorang makhluk itu akan terlihat indah saat mereka masih alami."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
