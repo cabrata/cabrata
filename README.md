@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah jadi kewajiban seorang samurai untuk membalas budi (setiap kebaikan)."</em><br>
-  — <strong>Amidamaru</strong>, <em>Shaman King</em>
+  <em>""Segala sesuatu yang terjadi padamu itu bisa saja terjadi pada orang lain". Itu adalah pemikiran yang sangat sederhana untuk menolak adanya keajaiban."</em><br>
+  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
