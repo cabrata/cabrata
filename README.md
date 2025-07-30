@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Mereka) benar-benar hebat. Mereka tahu apa yang ingin mereka lakukan. Dibandingkan dengan Misaki-senpai dan yang lainnya, aku tidak ada apa-apanya. Meskipun begitu, suatu hari kuharap aku menemukan apa yang ingin kulakukan."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Jika aku mati, maafkan semua yang tak termaafkan. Kebencian tidak boleh diwariskan pada anak-anak."</em><br>
+  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
