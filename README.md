@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anjing dan kucing punya kemampuan untuk menganalisa kekuatan musuhnya. (Maka dari itu) Hewan menghindari pertarungan yang tak bisa mereka menangkan."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>""Hitam" memang sering dianggap sebagai warna kematian. Tapi dari sudut pandang psikologi, itu adalah warna akan perjuangan melawan kematian... Warna harapan."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
