@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau ada orang yang berusaha membunuhmu, kau pasti akan marah.
-Itu sangat berbeda jika ada orang yang mencoba membunuhmu tapi berakhir dengan kegagalan, terlihat memalukan."</em><br>
-  — <strong>Karma Akabane</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Apa kau adalah tipe orang yang tak mau menyelamatkan orang yang kau benci? Aku sih tak punya waktu untuk memikirkan hal bodoh seperti itu! Sebelum kusadari, tubuhku bergerak dengan sendirinya, aku saja terkejut. Mungkin aku tahu alasannya, kita memang berpura-pura, tapi kita sepasang kekasih. Pasti ada semacam naluri."</em><br>
+  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
