@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kecantikan seorang makhluk itu akan terlihat indah saat mereka masih alami."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Sudah kuputuskan. Akan kubuat Hiyori menjadi wanita paling bahagia di dunia ini."</em><br>
+  — <strong>Yato</strong>, <em>Noragami Aragoto</em>
 </div>
 <!-- QUOTE END -->
 
