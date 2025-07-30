@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku takkan pernah menjadi seorang Yakuza! Aku ingin lulus dari universitas yang terkenal, dan mendapatkan pekerjaan, dan berjalan santai sambil menengok keatas melihat matahari bersinar."</em><br>
-  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
+  <em>"Pertarungan takkan adil jika kau melanggar janjimu sendiri."</em><br>
+  — <strong>Inojin Yamanaka</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
