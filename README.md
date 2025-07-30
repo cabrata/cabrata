@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihatnya bekerja keras untuk membenciku, entah mengapa agak menyenangkan."</em><br>
-  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Perempuan itu suka kalau kita punya uang, laki-laki suka kalau kita punya daging."</em><br>
+  — <strong>Niwatori</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
