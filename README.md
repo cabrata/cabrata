@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memanjakan anak adalah bagian dari pekerjaan seorang ibu."</em><br>
-  — <strong>Shizu Tanbabashi</strong>, <em>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</em>
+  <em>"Demi diriku sendiri, aku akan melakukan apapun yang ingin kulakukan. Itulah alasanku bertarung."</em><br>
+  — <strong>Julis-Alexia von Riessfeld</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
