@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagaimanapun masa lalu atau masa depanmu, itu tidak mengubah fakta bahwa kau sekarang ada di sini."</em><br>
-  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Memang bagus kalau bisa menemukan pekerjaan yang sesuai dengan diri kita.
+Tapi kurasa tak masalah kalau kita yang harus menyesuaikan diri dengan pekerjaan."</em><br>
+  — <strong>Shinei Ookawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
