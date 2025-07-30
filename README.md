@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semoga saja suatu saat jalan yang kuambil ini akan mempertemukanku denganmu lagi."</em><br>
-  — <strong>Miki Naoki</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Untuk mendapatkan masakan yang enak, membutuhkan bahan-bahan yang bagus. Begitulah motto asrama kita!"</em><br>
+  — <strong>Yuuki Yoshino</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
