@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selesaikan apa yang telah kau perbuat!"</em><br>
-  — <strong>Tsukinose Vignette April</strong>, <em>Gabriel DropOut</em>
+  <em>"Masa depan lahir dari pengalaman masa lalu."</em><br>
+  — <strong>Sanae Kouzuki</strong>, <em>Sakura Quest</em>
 </div>
 <!-- QUOTE END -->
 
