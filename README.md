@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli kau dilahirkan dimana, Aku senang kau ada disini!"</em><br>
-  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist</em>
+  <em>"Jika kau seorang ninja, mau berapa kalipun gagal, kau akan terus berusaha."</em><br>
+  — <strong>Boruto Uzumaki</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
