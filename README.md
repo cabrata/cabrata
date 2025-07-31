@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin hidup tanpa meninggalkan sesuatu yang belum terselesaikan."</em><br>
-  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Kutipan dari Guru Kebenaran.
+"Bila kau tidak mau dibunuh orang, kau pun juga tidak boleh membunuh orang"."</em><br>
+  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
