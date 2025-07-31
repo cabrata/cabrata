@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keberuntungan adalah sebuah bakat juga!"</em><br>
-  — <strong>Mio Honda</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Mati bukanlah pilihan yang tepat. Aku ingin meminta maaf kepada yang lain. Aku ingin membantumu untuk hidup."</em><br>
+  — <strong>Shouya Ishida</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
