@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kutipan dari Guru Kebenaran.
-"Bila kau tidak mau dibunuh orang, kau pun juga tidak boleh membunuh orang"."</em><br>
-  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Di balik pintu, kehidupanmu telah menantimu. Karena itu, kau bisa bersikap jujur saat berada di sini.
+Mungkin itu lah kenapa suasana bar dibuat seperti ini."</em><br>
+  — <strong>Hitomi Mishima</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
