@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang marah demi orang lain itu di saat yang bersamaan dia juga menyalahkan orang lain. Aku benci orang yang seperti itu."</em><br>
-  — <strong>Maki Himena</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Takkan kubiarkan anggota partyku mati. Tidak selama aku masih hidup. Aku takkan membiarkan itu terjadi!"</em><br>
+  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
