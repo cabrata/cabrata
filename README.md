@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang tak mungkin bisa mendapatkan segalanya. Pasti akan datang hari ketika kita kehilangan. Karena itu majulah terus agar tak ada penyesalan."</em><br>
-  — <strong>Endorsi Jahad</strong>, <em>Kami no Tou</em>
+  <em>"Bunga-bunga yang indah pun pada akhirnya akan layu dan berguguran. Itulah takdir dari semua bentuk kehidupan."</em><br>
+  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
