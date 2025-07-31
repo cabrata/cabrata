@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin mengetahui apa itu arti "Aku Mencintaimu"."</em><br>
-  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
+  <em>"Perpisahan itu memang menyedihkan, tapi itu tidak berarti bahwa kita takkan bertemu lagi."</em><br>
+  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
 </div>
 <!-- QUOTE END -->
 
