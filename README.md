@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di balik pintu, kehidupanmu telah menantimu. Karena itu, kau bisa bersikap jujur saat berada di sini.
-Mungkin itu lah kenapa suasana bar dibuat seperti ini."</em><br>
-  — <strong>Hitomi Mishima</strong>, <em>Hinamatsuri</em>
+  <em>"Setiap orang punya hal yang tak ingin diketahui siapapun, hal yang lebih baik tidak diketahui, dan ada pula hal pada diri sendiri yang tidak ingin diingat."</em><br>
+  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
