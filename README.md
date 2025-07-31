@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lak-laki itu sejak dulu ditakdirkan tidak pekaan."</em><br>
-  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Menerima tantangan dan menciptakan sesuatu itu menyakitkan. Tapi itu memuaskan, jadi terima kasih (karena telah memaksaku menerima tantangan)."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
