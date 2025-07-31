@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebuah pelajaran tanpa rasa sakit tidak akan ada artinya. Karena manusia tidak akan bisa mendapatkan apapun tanpa mengorbankan sesuatu. Tapi ketika mereka mampu mengatasi hal itu, manusia akan mendapatkan hati baja yang tak akan kalah dari apapun."</em><br>
-  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Kalau tahu hasil kerja kerasku dibenci orang-orang, aku takkan jadi polisi."</em><br>
+  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
