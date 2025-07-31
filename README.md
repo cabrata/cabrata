@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjalanan dapat mempertemukan kita dengan sahabat dan cinta, perjalanan (juga) dapat membawa kesulitan dan kebahagiaan."</em><br>
-  — <strong>Rokurou Rangetsu</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Orang yang marah demi orang lain itu di saat yang bersamaan dia juga menyalahkan orang lain. Aku benci orang yang seperti itu."</em><br>
+  — <strong>Maki Himena</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
