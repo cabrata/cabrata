@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Makanan-minuman manis itu musuh terbesar diet."</em><br>
-  — <strong>Anna Yanami</strong>, <em>Make Heroine ga Oosugiru!</em>
+  <em>"Kaulah tokoh utama dalam hidupmu sendiri."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100</em>
 </div>
 <!-- QUOTE END -->
 
