@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jalan hidup masih panjang. Walau ada kalanya keraguan dan kekhawatiran menghampiri, tapi kami tetap melangkah dengan yakin di jalan yang kami pilih."</em><br>
-  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Sains adalah satu-satunya bahasa yang bisa membuat kita mengerti alam semesta yang diciptakan Tuhan."</em><br>
+  — <strong>Motojirou Kajii</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
