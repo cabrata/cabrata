@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalaupun kau punya impian dan tahu cara menggapainya, itu saja tidaklah cukup."</em><br>
-  — <strong>Shinnosuke Aikawa</strong>, <em>Gin no Saji</em>
+  <em>"Apa pun misinya, yang ku lakukan hanya satu, yaitu melindungimu."</em><br>
+  — <strong>Sakuya Tachibana</strong>, <em>God Eater</em>
 </div>
 <!-- QUOTE END -->
 
