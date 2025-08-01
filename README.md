@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anggap kau punya ikan di akuarium. Lalu kau naikkan temperatur airnya sedikit demi sedikit sampai akhirnya airnya mendidih. Tapi ikan itu tidak menyadarinya dan terus berenang di air yang mendidih. Ini terdengar cerita bohongan, tapi sebenarnya tidak. Nah, apa yang kau tangkap dari cerita ini?"</em><br>
-  — <strong>Tomo Kunagisa</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Mengambil resiko itu hal yang membosankan. Tapi memiliki keuntungan besar juga membosankan."</em><br>
+  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
 </div>
 <!-- QUOTE END -->
 
