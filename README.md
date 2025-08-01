@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap pertahanan pasti memiliki celah."</em><br>
-  — <strong>Wakatoshi Ushijima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"(Apa yang membuatmu mempercayaiku?)
+Aku tak punya dasar, tapi aku mungkin akan tetap mempercayaimu. Aku ingin terus mempercayaimu, karena aku suka padamu."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 2: Satsujin Kousatsu (Zen)</em>
 </div>
 <!-- QUOTE END -->
 
