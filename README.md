@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bukannya tak bisa bermain, kau hanya tak ingin bermain.
- "Aku tidak bisa mendengar suara piano..." Kau mengatakan itu hanya untuk melarikan diri."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kalaupun kau punya impian dan tahu cara menggapainya, itu saja tidaklah cukup."</em><br>
+  — <strong>Shinnosuke Aikawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
