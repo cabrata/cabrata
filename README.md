@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Film bagus akan tetap bagus dilihat di layar apa pun."</em><br>
-  — <strong>Tsukasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Kau adalah satu-satunya orang yang dapat menyelamatkan dirimu sendiri."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
