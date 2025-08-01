@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"The Zone adalah keahlian yang hanya dimiliki dan disempurnakan oleh mereka yang benar-benar normal.
-Karakter utamanya adalah mereka dapat menahan situasi. Karena mereka senang dengan kehidupannya, mereka dapat membahagiakan yang sedang murung. Ini adalah aura unik dari karismatik "orang baik"."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Game simulasi kencan itu sama sekali tidak akan berdampak pada hubungan asmara di kehidupan nyata."</em><br>
+  — <strong>Tasuku Uehara</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
