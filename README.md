@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya mereka yang lahir dengan bakat yang dapat menjadi seniman manga.
-Dan diantara mereka, hanya yang jeniuslah yang bisa melakukannya, sisanya hanyalah berjudi."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Waktu terus berjalan, bagi Watari maupun Kausei. Meski mereka takut, terluka, meski mereka tak bisa melihat ke depan, mereka masih mencari sesuatu (jalan menuju cita - citanya). Mereka mengambil langkah demi langkah untuk mengumpulkan keberanian, mereka saling menginspirasi, saling mendukung, lalu mereka mencoba untuk maju. Hanya aku yang tak mengambil langkah (untuk mencapai keinginanku). Hanya aku yang waktunya berhenti."</em><br>
+  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
