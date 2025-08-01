@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bolehkah aku menyatakan cintaku?)
-Tidak... (biarkan) aku yang akan melakukannya.
-Aku jatuh cinta padamu. Selama ini aku jatuh cinta padamu. Aku cinta padamu sejak pertama kali bertemu."</em><br>
-  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Terkadang kesalahan kecil dapat menyebabkan kesalahan yang lebih besar."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
