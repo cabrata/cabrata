@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Justru impian yang sederhanalah yang paling sulit diwujudkan."</em><br>
-  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
+  <em>"The Zone adalah keahlian yang hanya dimiliki dan disempurnakan oleh mereka yang benar-benar normal.
+Karakter utamanya adalah mereka dapat menahan situasi. Karena mereka senang dengan kehidupannya, mereka dapat membahagiakan yang sedang murung. Ini adalah aura unik dari karismatik "orang baik"."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
