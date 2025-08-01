@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bodoh yang kehilangan ketenangan dan membuat pilihan yang salah, (dia pasti) akan gagal."</em><br>
-  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma</em>
+  <em>"Di balik pintu, kehidupanmu telah menantimu. Karena itu, kau bisa bersikap jujur saat berada di sini.
+Mungkin itu lah kenapa suasana bar dibuat seperti ini."</em><br>
+  — <strong>Hitomi Mishima</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
