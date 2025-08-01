@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Api dapat membakar manusia, tetapi api juga dapat menerangi jalan dan menghangatkan tubuh manusia."</em><br>
-  — <strong>Iris</strong>, <em>Enen no Shouboutai</em>
+  <em>"Manusia itu menyedihkan. Mereka selalu menginginkan apa yang tidak bisa dimiliki, (dan) selalu ingin meraih apa yang tak bisa diraih."</em><br>
+  — <strong>Kamui</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
