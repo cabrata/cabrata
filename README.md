@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pahlawan tidak pernah mengabaikan perbuatan baik yang tak dihargai."</em><br>
-  — <strong>Hiiro</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
+  <em>"Aku suka dengan orang yang punya tujuan hidup. Aku suka dengan orang yang pekerja keras."</em><br>
+  — <strong>Nanami Aoyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
