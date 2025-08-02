@@ -5,10 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan yang belakangan ini kurasakan...
-Perasaan yang sejak itu terus tumbuh...
-(Aku ingin tahu) suatu saat, apakah aku bisa menggapaimu..."</em><br>
-  — <strong>Shouta Kazehaya</strong>, <em>Kimi ni Todoke</em>
+  <em>"Karena aku masih anak-anak, sejujurnya aku tak begitu mengerti apa itu cinta. Tapi aku tahu kalau yang dirasakan Onee-san itu sungguhan.
+Aku pun juga, suatu saat nanti ingin seperti itu. Ketika ada seseorang yang kucintai, aku ingin punya perasaan yang kuat seperti itu."</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
