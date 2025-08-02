@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dengan hal-hal yang spesial. Atau lebih tepatnya, aku tertarik dengan hal-hal yang terlihat tabu. Jadi kupikir aku beruntung sekali (ternyata) orang yang kucintai adalah kerabat dekatku."</em><br>
-  — <strong>Azaka Kokutou</strong>, <em>Kara no Kyoukai 6: Boukyaku Rokuon</em>
+  <em>"Kita tak bisa menilai sesuatu yang tak bisa dilihat."</em><br>
+  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
 </div>
 <!-- QUOTE END -->
 
