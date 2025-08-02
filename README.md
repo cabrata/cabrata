@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ikatan dapat menjadi lebih kuat kalau sedikit dipukul."</em><br>
-  — <strong>Kurumi Kawai</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Semoga saja suatu saat jalan yang kuambil ini akan mempertemukanku denganmu lagi."</em><br>
+  — <strong>Miki Naoki</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
