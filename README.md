@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam pembunuhan, menipu orang dengan perkataan juga sangatlah penting."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Mawar terlahir sebagai mawar.Itu tidak akan berubah menjadi bunga lain hanya karena ditanam menggunakan tanah dan air yang berbeda."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 4: Garan no Dou</em>
 </div>
 <!-- QUOTE END -->
 
