@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam hati manusia, selalu ada kelemahan yang tersembunyi."</em><br>
-  — <strong>Saburouta Toudou</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Kata-kata dapat menyakiti seseorang. Meskipun kau menyesalinya, kau takkan pernah bisa menarik kembali (kata-kata yang telah kau ucapkan)."</em><br>
+  — <strong>Jun Naruse</strong>, <em>Kokoro ga Sakebitagatterunda.</em>
 </div>
 <!-- QUOTE END -->
 
