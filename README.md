@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin menyerap pengetahuan dan teknik memasak sebanyak mungkin, dan terus bertarung di Akademi. Aku ingin terus mengeluarkan seluruh kemampuanku."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Voli adalah olahraga yang tidak memperbolehkan pemain untuk memegang bola. Kau hanya boleh menyentuh bolanya selama beberapa detik saja. Karena itu, kau harus menguasai momen singkat itu, dan anggap bola itu sebagai bagian dari tubuhmu."</em><br>
+  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
