@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau memilih (kegiatan) hanya berdasarkan kemampuanmu, kau takkan pernah memulai apapun. Yang terpenting adalah ketertarikanmu."</em><br>
-  — <strong>Ryuujirou Kotobuki</strong>, <em>Grand Blue</em>
+  <em>"Orang yang paling tidak berguna adalah orang yang paling bodoh."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
