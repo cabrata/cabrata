@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perpisahan itu seperti halnya salah satu sisi koin. Kau tidak bisa berpisah sebelum memulai sapaan."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Sket Dance</em>
+  <em>"Cinta memainkan peran penting dalam masyarakat, seperti halnya dengan nutrisi."</em><br>
+  — <strong>Junichi Tachibana</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
