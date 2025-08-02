@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau merasa berat berjalan sendirian, aku akan membantumu. Mari berjalan dengan saling mendukung dan berbagi beban bersama. Bukankah itu yang kau katakan padaku pagi itu? Tunjukkan padaku seberapa keren dirimu, Subaru-kun."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Membenci sesuatu yang kamu cintai adalah perasaan yang menyakitkan."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
