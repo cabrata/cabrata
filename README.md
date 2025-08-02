@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Ketika kau menggendongku saat aku menangis) Meskipun sangat menyakitkan aku kalah, meskipun sangat sedih, meskipun angkle-ku sakit dan mataku dipenuhi air mata, meski dalam kondisi yang menyedihkan, kenapa bintang terlihat berkilauan seperti ini ya? Aku bisa mencium aroma ruang musik dari rambutnya, aku bisa mendengar desahan nafasnya, dan bahunya yang basah karena air mataku terasa hangat. Aku berada di sisinya dan (saat ini) aku berharap waktu dapat berhenti."</em><br>
-  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Cermin adalah alat pertama ciptakan manusia yang dapat digunakan untuk mengintip alam semesta alternatif. Objek yang tampak di dalam cermin tidaklah nyata, tapi orang-orang berpikir bahwa itu nyata."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
