@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Universitas adalah tempat dimana kamu bertemu dengan hal-hal yang ingin kamu lakukan."</em><br>
-  — <strong>Tomoko Kawada</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Hidup adalah bertahan dari kesulitan dan penderitaan."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
