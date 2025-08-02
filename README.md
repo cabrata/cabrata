@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Membenci sesuatu yang kamu cintai adalah perasaan yang menyakitkan."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Jangan pernah mati hanya karena hal-hal yang konyol."</em><br>
+  — <strong>Eris</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!</em>
 </div>
 <!-- QUOTE END -->
 
