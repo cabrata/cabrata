@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kita hanya melihat ke atas terus, kita akan kehilangan pijakan."</em><br>
-  — <strong>Keishin Ukai</strong>, <em>Haikyuu!!</em>
+  <em>"Ada jarak jutaan tahun cahaya yang memisahkan antara "suka" dan "tidak suka"."</em><br>
+  — <strong>Nao Kashiwagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
