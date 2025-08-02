@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kata-kata dapat menyakiti seseorang. Meskipun kau menyesalinya, kau takkan pernah bisa menarik kembali (kata-kata yang telah kau ucapkan)."</em><br>
-  — <strong>Jun Naruse</strong>, <em>Kokoro ga Sakebitagatterunda.</em>
+  <em>"Kalau menjadi idola profesional mungkin kami takkan bisa. Tapi, kalau menjadi idola sekolah, selama kami punya motivasi dan tujuan untuk diraih, kami akan terus mencoba dan kami pasti bisa!"</em><br>
+  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
