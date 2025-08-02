@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau boleh aku ingin bersamamu selamanya. Hanya dengan disampingmu saja itu sudah cukup. Tapi aku tak bisa memaksamu. Karena itu, kuserahkan diriku padamu. Sebagai gantinya, aku ingin kau menyerahkan hari-harimu bersama denganku."</em><br>
-  — <strong>Tsukasa Ayatsuji</strong>, <em>Amagami SS</em>
+  <em>"Kau pikir berapa banyak kekalahan yang sudah aku dapatkan sampai detik ini?
+Walau bukan sesuatu yang bisa dibanggakan, tapi aku sudah kalah ratusan, bahkan ribuan kali. Meskipun begitu, aku tidak pernah depresi, tidak pernah sepertimu sekarang!. (Karena) aku selalu yakin pada akhirnya aku akan menang."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
