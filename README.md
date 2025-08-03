@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku bisa mengubah keadaan dengan pergi kesana (ke lapangan), kumohon biarkan aku masuk (bermain)."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Kalau kita teman, seharusnya tidak boleh ada rahasia, perasaan yang disembunyikan, ataupun keputusan yang dibuat sendiri kan?"</em><br>
+  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
