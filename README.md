@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin keras kita mencoba untuk menjadi orang yang benar, kebohongan kita akan terus bertambah."</em><br>
-  — <strong>Alicia Crystella</strong>, <em>Isekai Maou to Shoukan Shoujo no Dorei Majutsu</em>
+  <em>"Seorang pria lebih sering mengungkapkan suatu hal dengan tindakan daripada kata-kata. Jika ada hal yang menyakitkan, mereka tidak ingin merepotkan orang lain. Mereka tidak ingin membuat orang lain khawatir. Karena itu mereka tidak mengatakannya."</em><br>
+  — <strong>Maes Hughes</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
