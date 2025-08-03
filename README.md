@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jiwa dan ragaku tidak akan bergerak untuk siapapun kecuali untuk Togame."</em><br>
-  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
+  <em>"Tak ada perjalanan yang tanpa akhir. Ketika tiba saatnya kita harus berpisah, aku ingin kita berpisah dengan senyuman."</em><br>
+  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
 </div>
 <!-- QUOTE END -->
 
