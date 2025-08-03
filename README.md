@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak muda seharusnya mencoba mendapatkan berbagai macam pengalaman."</em><br>
-  — <strong>Tachibana</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Kalau kau tak keberatan dengan Makhluk Bumi seperti diriku yang dulu, sekarang dan yang akan datang..., mari (hidup) bersama selamanya."</em><br>
+  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge</em>
 </div>
 <!-- QUOTE END -->
 
