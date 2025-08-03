@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memanjakan anak adalah bagian dari pekerjaan seorang ibu."</em><br>
-  — <strong>Shizu Tanbabashi</strong>, <em>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</em>
+  <em>"Saat pertama kali aku melihat gambarmu, ada banyak warna yang terlihat di depanku. Itu seperti membuatku kembali mengingat warna. Aku tak tahu kenapa, tapi bagiku, aku merasa bahwa gambarmu sangat berharga."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
