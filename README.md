@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakekku selalu mengajariku agar dapat memaafkan kesalahan orang lain."</em><br>
-  — <strong>Touya Mochizuki</strong>, <em>Isekai wa Smartphone to Tomo ni.</em>
+  <em>"Bangun dan melangkahlah. Teruslah berjalan maju. Bukankah kau memiliki dua kaki yang (dapat berjalan dengan) baik kan?. Kau tak membutuhkan pegangan apapun."</em><br>
+  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
