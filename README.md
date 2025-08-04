@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kita sepupu?
-Masalahku adalah masalahmu. Bajumu adalah bajuku (juga).
-Bukankah kita harusnya saling membantu?"</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Kami bicara basa-basi seperti biasanya sambil terkadang menengok kebelakang, terkadang membuat kesalahan, dan terkadang kehilangan arah. Tetapi, kami terus melangkah maju dengan teguh."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
