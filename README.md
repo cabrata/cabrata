@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sedikit takut. Bukan karena kematian, tapi aku takut berpisah denganmu.
-Aku tak pernah merasa seperti ini sebelumnya, tapi menurutku inilah yang terbaik untukku.
-Semua ini demi masa depan umat manusia, dan juga demi masa depanmu.
-Untuk itu aku bisa mempertaruhkan nyawaku berapa kali pun."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Tak peduli berapa banyak kau mengulanginya, perasaan seseorang takkan berubah. Kebohongan takkan menjadi kenyataan, dan kenyataan takkan menjadi kebohongan."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
