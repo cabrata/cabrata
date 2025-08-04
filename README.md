@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah seseorang mengajarimu untuk "lakukan yang paling mungkin, dan tuhan akan melakukan yang terbaik?" (tidak begitu bukan?) Usaha yang optimal membuatmu berhak menerima kebaikan nasib."</em><br>
-  — <strong>Shintarou Midorima</strong>, <em>Kuroko no Basket</em>
+  <em>"Aku tak perlu menjadi seorang tuan putri, asalkan bisa menjadi istrimu itu saja sudah cukup."</em><br>
+  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
