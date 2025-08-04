@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau akan bertarung dan aku akan melindungimu, dengan begitu tidak akan ada yang mati."</em><br>
-  — <strong>Naofumi Iwatani</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Semua orang terlalu banyak pikiran, justru karena situasi yang sulit, kita harus melangkah maju."</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
