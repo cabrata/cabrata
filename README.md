@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak tahan dengan wanita yang mengistimewakan gendernya sendiri, dan mengatai laki-laki "bencong" karena ia tak sesuai dengan yang diharapkannya!"</em><br>
-  — <strong>Kazuma Satou</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
+  <em>"Dunia ini mengagumkan. Orang-orang hidup dengan saling mencintai dan menghormati satu sama lain."</em><br>
+  — <strong>Photo</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
 </div>
 <!-- QUOTE END -->
 
