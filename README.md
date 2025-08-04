@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin melihat senyuman semua orang."</em><br>
-  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Kita para penguasa itu seperti hewan ternak yang hanya memakan jabatan."</em><br>
+  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
