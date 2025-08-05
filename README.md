@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senang, sakit, bahagia, sedih... kuharap berbagai macam perasaan itu bisa menjadi cinta."</em><br>
-  — <strong>Kou Yamori</strong>, <em>Yofukashi no Uta</em>
+  <em>"Tak ada alasan bagiku untuk bicara dengan seseorang yang bermain sangat menyedihkan. Jika kau ingin mengatakan sesuatu,
+kau bisa memberitahukannya padaku, dengan permainanmu."</em><br>
+  — <strong>Shintarou Midorima</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
