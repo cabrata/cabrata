@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan rencana pamungkas namanya kalau tidak dirahasiakan."</em><br>
-  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
+  <em>"Bukan masalah bisa atau tidak bisa. Yang terpenting adalah apakah kau mau atau tidak."</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
