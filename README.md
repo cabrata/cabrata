@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalaupun kau punya impian dan tahu cara menggapainya, itu saja tidaklah cukup."</em><br>
-  — <strong>Shinnosuke Aikawa</strong>, <em>Gin no Saji</em>
+  <em>"Jangan melakukan hal yang tidak perlu. Bergantung pada keberuntungan itu tak akan membuat kemajuan (dalam hidup). Yang perlu dilakukan hanyalah membuat keputusan yang tepat. Kehidupan dunia nyata tidaklah berbeda dengan dunia game. Yang (perlu) aku pikirkan hanyalah ending terbaik."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
