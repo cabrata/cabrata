@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kupikir kalau aku hidup dengan jujur pada diriku sendiri, aku tak akan punya penyesalan. Tapi ternyata itu salah..."</em><br>
-  — <strong>Hime Onizuka</strong>, <em>Sket Dance</em>
+  <em>"Manusia adalah budak dari apa yang dilihatnya."</em><br>
+  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
