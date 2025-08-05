@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bertemu denganmu dan melukis bersamamu benar-benar menyenangkan.
-Kata-kata dan senyum terakhir yang kamu berikan tak akan kulupakan seumur hidupku. Karena itu, tetaplah tersenyum seperti itu selamanya."</em><br>
-  — <strong>Yukito Renjou</strong>, <em>Hatsukoi Limited</em>
+  <em>"Kehidupan kalian baru saja dimulai. Mungkin kedepan ada hal yang tidak berjalan dengan baik. Namun, meskipun gagal, kalian masih bisa memulainya kembali karena jalan kalian masih panjang. Justru ketidak sempurnaan lah yang membuat manusia jadi lebih baik. Jangan terburu-buru, jangan takut, yakinlah pada diri sendiri.Temukan jalan kalian untuk melangkah maju."</em><br>
+  — <strong>Kokoro Amatsu</strong>, <em>ReLIFE: Kanketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
