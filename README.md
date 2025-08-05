@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah melakukan hal baik ataupun hal buruk, jadilah boss!!"</em><br>
-  — <strong>Kagura</strong>, <em>Gintama</em>
+  <em>"Dulu kamu bilang padaku kalau pemandangan di Tokyo itu membosankan, kan?
+Aku sendiri tak pernah berpikir seperti itu. Tapi, begitu kau pergi, pemandangan kota (Tokyo) ini mulai membosankan. Mungkin aku menyukai pemandangan di Tokyo karena keberadaanmu."</em><br>
+  — <strong>Kouichi Tanemura</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
