@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah sejak lama aku selalu melihatmu. Ini bukan lelucon, aku serius. Tak ada hal lain yang kupikirkan selain dirimu."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Kematian adalah puncak dari kehidupan, untuk mendapatkan kematian terbaik, kau harus menghargai kehidupan."</em><br>
+  — <strong>Rory Mercury</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
 </div>
 <!-- QUOTE END -->
 
