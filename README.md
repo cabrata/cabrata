@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Agen papan atas adalah agen yang bisa menghabisi anak muda genius sebelum tumbuh dewasa."</em><br>
-  — <strong>Koumori</strong>, <em>Tantei wa Mou, Shindeiru.</em>
+  <em>"Aku pria lemah yang lari dari masalah dengan minum sake."</em><br>
+  — <strong>Paul Greyrat</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu Part 2</em>
 </div>
 <!-- QUOTE END -->
 
