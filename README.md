@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau tak bisa memilih salah satu, maka kau hanya perlu mencari pilihan lain untuk membuat dua pilihan itu tetap terjadi."</em><br>
-  — <strong>Kazuki Fujisawa</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Aku tahu hal ini akan terjadi dan tetap memilih untuk datang ke sini. Jadi, aku takkan berpaling dari mereka yang telah rela mengorbankan nyawanya demi diriku."</em><br>
+  — <strong>Sherry Tueli</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</em>
 </div>
 <!-- QUOTE END -->
 
