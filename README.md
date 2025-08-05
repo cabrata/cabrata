@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dulu kamu bilang padaku kalau pemandangan di Tokyo itu membosankan, kan?
-Aku sendiri tak pernah berpikir seperti itu. Tapi, begitu kau pergi, pemandangan kota (Tokyo) ini mulai membosankan. Mungkin aku menyukai pemandangan di Tokyo karena keberadaanmu."</em><br>
-  — <strong>Kouichi Tanemura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Menyimpan harta hanya untuk diri sendiri mungkin akan membuatmu kaya raya, tapi itu tidak akan membuatmu makmur."</em><br>
+  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
