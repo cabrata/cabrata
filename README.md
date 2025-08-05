@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu tidak terlalu sulit, jadi jangan terlalu dipikirkan."</em><br>
-  — <strong>Chiyo Komiya</strong>, <em>Shounen Maid</em>
+  <em>"Balas dendam adalah motivasiku."</em><br>
+  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
