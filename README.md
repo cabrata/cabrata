@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena aku masih anak-anak, sejujurnya aku tak begitu mengerti apa itu cinta. Tapi aku tahu kalau yang dirasakan Onee-san itu sungguhan.
-Aku pun juga, suatu saat nanti ingin seperti itu. Ketika ada seseorang yang kucintai, aku ingin punya perasaan yang kuat seperti itu."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>""Partisipasi adalah hal yang terpenting". Kalimat yang dikatakan oleh "Ayah Olimpiade" Pierre de Fredy saat pidatonya yang didengar semua orang. Tapi kutipan ini sering disalahgunakan dan dianggap seperti ancaman untuk pemaksaan. Di luar sana, banyak usaha yang berakhir sia-sia.
+Jika partisipasi itu penting, maka partisipasi untuk tidak ikut berpartisipasi juga penting. Dan jika pengalaman adalah segalanya, maka pengalaman untuk tidak berpengalaman juga segalanya. Bahkan, tidak pengalaman dengan yang orang lain lakukan bisa dibilang pengalaman berharga."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
