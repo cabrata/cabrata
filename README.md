@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau akan bertarung dan aku akan melindungimu, dengan begitu tidak akan ada yang mati."</em><br>
-  — <strong>Naofumi Iwatani</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Karena kamu adalah manusia artinya kamu bukanlah sosok yang sempurna."</em><br>
+  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online: Alicization</em>
 </div>
 <!-- QUOTE END -->
 
