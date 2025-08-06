@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika bersama denganmu, aku tak pernah merasa bosan."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Tak ada yang perlu dicemaskan.
+Semuanya, fokuslah menghadapi musuh di depan. (Sebagai gantinya) aku akan melindungi kalian dari belakang."</em><br>
+  — <strong>Yuu Nishinoya</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
