@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita terlihat paling cantik ketika mereka membicarakan orang yang mereka sukai."</em><br>
-  — <strong>Hiroomi Souma</strong>, <em>Working!!</em>
+  <em>"Saat tak ada orang di dunia ini yang percaya padamu, bahkan saat kau tak percaya pada dirimu sendiri, aku akan tetap percaya padamu!"</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
