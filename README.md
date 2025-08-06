@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang perlu dicemaskan.
-Semuanya, fokuslah menghadapi musuh di depan. (Sebagai gantinya) aku akan melindungi kalian dari belakang."</em><br>
-  — <strong>Yuu Nishinoya</strong>, <em>Haikyuu!!</em>
+  <em>"Memang benar, aku bisa mendapatkan boneka itu dengan bersujud. Tapi, ini adalah duel antara aku dengan Reinhard. Jadi, kalau aku dapat kemenangan yang diberikan oleh orang lain, entah bagaimana bilangnya, pokoknya hal itu jelas salah. Ini semua demi harga diri kecilku!"</em><br>
+  — <strong>Felt</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
