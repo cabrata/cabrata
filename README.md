@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang hanya dapat diketahui setelah kau menghadapinya."</em><br>
-  — <strong>Yoshiyuki Nakajima</strong>, <em>Gin no Saji</em>
+  <em>"Tak ada kutukan yang lebih kuat dari cinta."</em><br>
+  — <strong>Satoru Gojou</strong>, <em>Jujutsu Kaisen 0 Movie</em>
 </div>
 <!-- QUOTE END -->
 
