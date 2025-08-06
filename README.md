@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua hanyalah manusia. Kadang, kita berbuat salah.
-Hanya saja, jangan berbuat kesalahan saat nyawa taruhannya."</em><br>
-  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Manusia yang benar-benar jenius memang ada. Dan meski aku tak meyakini keberadaannya, tapi dia malah muncul dengan sendirinya. Di dunia kami, manusia bisa terbang melewati langit dan berpergian antar planet. Semuanya, bahkan manusia itu sendiri berpikir begitu (hal itu tak mungkin bisa terjadi). Tapi seseorang berhasil melakukannya. Seseorang benar-benar melakukannya."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
