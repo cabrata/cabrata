@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada manusia yang lahir karena keinginannya sendiri."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Wanita terlihat paling cantik ketika mereka membicarakan orang yang mereka sukai."</em><br>
+  — <strong>Hiroomi Souma</strong>, <em>Working!!</em>
 </div>
 <!-- QUOTE END -->
 
