@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seiring bertambahnya usia, kita akan semakin khawatir tentang masa depan."</em><br>
-  — <strong>Santouka Taneda</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
+  <em>"Kemungkinan menang hanyalah 0% saat semua pemain menyerah.
+Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
+Itulah sebabnya aku tidak akan menyerah!"</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
