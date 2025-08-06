@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pemenang hanya mendapatkan kepuasan dan kesombongan, tapi kau (yang kalah) mendapatkan sesuatu yang lebih bermakna."</em><br>
-  — <strong>Shouyou Yoshida</strong>, <em>Gintama°</em>
+  <em>"Lelucon itu menarik, tapi ada batasnya. Jika mengarah menuju kesalahpahaman, maka akan menjadi kebohongan."</em><br>
+  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
