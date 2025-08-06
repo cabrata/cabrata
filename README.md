@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mempelajari (tentang) seseorang dan berinteraksi dengan mereka itu adalah sesuatu yang berbeda."</em><br>
-  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Tidak ada manusia yang lahir karena keinginannya sendiri."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
