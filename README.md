@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang dapat kulakukan, akan kukerjakan!"</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Aku akan baik-baik saja kalau kau tidak lari.
+Aku akan baik-baik saja kalau kau menunjukkan jalan untukku.
+Aku akan baik-baik saja kalau kau terus menggenggam tanganku."</em><br>
+  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
