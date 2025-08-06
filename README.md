@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling menyebalkan adalah ketika orang lain berisik saat kita menginginkan ketenangan."</em><br>
-  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Sebenci apapun kau terhadap perang, jika terlalu terpaku memikirkan cara untuk menghindarinya, pada akhirnya kau akan kehilangan segalanya."</em><br>
+  — <strong>Piña Co Lada</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
 </div>
 <!-- QUOTE END -->
 
