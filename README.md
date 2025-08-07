@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku selalu siap menerima (kematian). Bila ajal menjemput, maka memang lebih baik mati. Aku, Akane Sonoyama tak akan mengeluh dibunuh, tak peduli kapan, di mana, oleh siapa, dan dengan alasan apapun."</em><br>
-  — <strong>Akane Sonoyama</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Kau telah menuntunku. Kau telah memberikan kehidupan bagi boneka sepertiku."</em><br>
+  — <strong>Irisviel von Einzbern</strong>, <em>Fate/Zero</em>
 </div>
 <!-- QUOTE END -->
 
