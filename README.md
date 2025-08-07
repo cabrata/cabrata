@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak muda kadang terobsesi pada kesempurnaan.
-Aku juga pernah begitu.
-Tapi suatu saat nanti, kau pasti akan percaya pada jalanmu sendiri.
-Seperti yang kulakukan.
-Karena itu, tenang saja, tak apa kalau kau cemas."</em><br>
-  — <strong>Shirosaki</strong>, <em>Bokura wa Minna Kawaisou</em>
+  <em>"Aku adalah Sang Ahli Pedang. Aku memang tak mengerti alasannya, tapi sekarang aku tahu. Penggenggam pedang untuk melindungi seseorang. Sepertinya alasan itu cocok untukku."</em><br>
+  — <strong>Theresia van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
