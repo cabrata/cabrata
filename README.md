@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kecantikan adalah kekuatan."</em><br>
-  — <strong>Ai Hayasaka</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Diriku yakin takdir seperti apa pun bisa diubah dengan kerja keras."</em><br>
+  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
