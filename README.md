@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengharapkan hal yang tinggi tanpa memikirkan untuk mewujudkannya itu membuatku tampak bodoh. Tapi, harapan takkan menjadi kenyataan jika tak mengatakannya dengan lantang."</em><br>
-  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
+  <em>"Aku tak bisa memikul beban yang menjadi tanggung jawabmu, jadi aku tak bisa begitu saja menerima permintaanmu. Tapi aku akan mencari sesuatu yang kau katakan itu. Dan jika aku menemukan suatu petunjuk, aku akan memberitahumu. Dan jika kau tak dapat mencari penjelasan akan hal itu sebelum waktunya, saat itulah aku akan membantumu."</em><br>
+  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
