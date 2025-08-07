@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencoba mengalahkan seseorang dengan cara licik sama saja dengan merendahkan dirimu sendiri. Jangan menginjak-nginjak semua kerja keras dan kepercayaan yang selama ini telah kau bangun."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Maaf, aku tidak bisa membohongi ataupun menipu orang lain. Jadi, aku akan menggunakan kekuatanku untuk tujuan yang lebih mulia!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
