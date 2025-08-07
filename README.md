@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjalanan kalian masih sangat jauh, tapi jika kalian tetap bersama-sama, kalian pasti akan berkembang."</em><br>
-  — <strong>Yuusuke Takinoue</strong>, <em>Haikyuu!!</em>
+  <em>"Terkadang kesalahan kecil dapat menyebabkan kesalahan yang lebih besar."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
