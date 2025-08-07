@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita terlihat paling cantik ketika mereka membicarakan orang yang mereka sukai."</em><br>
-  — <strong>Hiroomi Souma</strong>, <em>Working!!</em>
+  <em>"Perpisahan itu seperti halnya salah satu sisi koin. Kau tidak bisa berpisah sebelum memulai sapaan."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
