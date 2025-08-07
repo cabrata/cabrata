@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kupikir kau (memang) benar. (Selama ini) aku berpura-pura. Aku ingin orang-orang menyukaiku. Aku ingin punya teman. Namun ketika aku memikirkan "Apa yang bisa dilakukan oleh orang sepertiku ini?", aku putuskan untuk menyukai semua orang. Lalu, setelah itu jadi jauh lebih mudah untuk berpura-pura."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Tidak apa kalau hanya aku yang merugi. Asalkan tidak menyusahkan orang lain."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
