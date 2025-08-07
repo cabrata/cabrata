@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin aku tidak bisa menjadi seorang samurai atau ayah yang hebat, tapi (setidaknya) aku ingin memberikan nama yang bagus untuk anakku."</em><br>
-  — <strong>Isaburou Sasaki</strong>, <em>Gintama°</em>
+  <em>"Aku takkan memaafkan Satan, atau iblis-iblis yang lain! Khususnya putra dari Satan! Aku akan membunuhmu meskipun harus mengorbankan nyawaku!"</em><br>
+  — <strong>Igor Neuhaus</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
