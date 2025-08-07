@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah bersumpah untuk melindungi Kakak! Tak ada lagi tujuanku selain melindungi Kakak dan dunia ini!"</em><br>
-  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Ada yang memberitahuku kalau menemui hambatan yang berat dan kehilangan harapan, maka ubahlah caramu melihat cahaya (kehidupan)."</em><br>
+  — <strong>Aso Misato</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
