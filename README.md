@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika saja aku masih lemah, akan ada hari ketika aku tidak bisa berteriak sekuat-kuatnya. Jika hal seperti itu terjadi, maka kau akan dimakan (oleh yang kuat)."</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Kalian mudah sekali menyerah. Jika kalian ingin menangis, lakukanlah setelah (kalian) bekerja keras!"</em><br>
+  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
