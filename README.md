@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama ada orang yang bahagia, pasti ada orang yang akan meneteskan air mata."</em><br>
-  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Mungkin aku harus belajar dari orang bodoh yang terlampau optimis."</em><br>
+  — <strong>Kazuma Satou</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
