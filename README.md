@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang takut untuk berdiri diatas panggung. Mungkin kau akan gagal, mungkin juga mereka (para penonton) akan menolakmu. Meski begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Bagaimanapun juga, kita harus menjalin ikatan yang kuat dengan orang-orang disekitar, (serta) membangun tubuh dan jiwa yang sehat. Sampai hari perpisahan, bersama-sama kita membuat kenangan dan menjadi manusia yang dapat dipercaya oleh orang lain."</em><br>
+  — <strong>Kodaka Hasegawa</strong>, <em>Boku wa Tomodachi ga Sukunai Episode 0</em>
 </div>
 <!-- QUOTE END -->
 
