@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meraih kebenaran yang ada di depan mata lebih baik daripada meraih ideologi yang tak dapat diraih."</em><br>
-  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Di dunia ini tak ada satu pun hal yang sia-sia."</em><br>
+  — <strong>Eiko Kawasegawa</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
