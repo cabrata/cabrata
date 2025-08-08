@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Takkan ada orang yang senang jika kau hanya mementingkan tujuanmu saja. Inti dari sebuah negosiasi adalah mendengarkan persyaratan dari kedua belah pihak."</em><br>
-  — <strong>Anastasia Hoshin</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Masa depan lahir dari pengalaman masa lalu."</em><br>
+  — <strong>Sanae Kouzuki</strong>, <em>Sakura Quest</em>
 </div>
 <!-- QUOTE END -->
 
