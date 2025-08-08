@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak marah itu adalah hal yang baik, (karena) kemarahan adalah dosa yang besar."</em><br>
-  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
+  <em>"Terkadang orang jahat berbuat baik dan orang baik berbuat jahat. Itulah manusia, itulah kita."</em><br>
+  — <strong>Rider</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
