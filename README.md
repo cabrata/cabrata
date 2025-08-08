@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Informasinya tidak kredibel jika sumbernya tidak jelas."</em><br>
-  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
+  <em>"Aku telah menjadi monster yang bahkan mengontrol emosi saja tidak bisa."</em><br>
+  — <strong>Acrobatic Sarasara</strong>, <em>Dandadan</em>
 </div>
 <!-- QUOTE END -->
 
