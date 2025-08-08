@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak peduli apapun itu, kau tak boleh memperlakukan orang lain dengan buruk."</em><br>
-  — <strong>Keita Amano</strong>, <em>Gamers!</em>
+  <em>"Aku hanyalah sampah anak tentara bayaran. Aku bodoh dan tak memiliki fisik yang baik. Kekuatan sihirku pun hanya selevel bayi. Namun, tak peduli apa kata orang-orang, aku tak membenci diriku sendiri. Karena akulah yang tahu nilai dari diriku sendiri."</em><br>
+  — <strong>Touka Scott</strong>, <em>Yuusha ga Shinda!</em>
 </div>
 <!-- QUOTE END -->
 
