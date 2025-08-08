@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah menang atau kalah itu bukan masalah. Karena bekerja keras menuju tujuan itu sangat menyenangkan.
-Tapi jangan salah, meskipun aku bilang begitu. Aku tidak berniat untuk kalah."</em><br>
-  — <strong>Teppei Kiyoshi</strong>, <em>Kuroko no Basket 2nd Season</em>
+  <em>"Bukan gadis namanya kalau dia berwujud 3D."</em><br>
+  — <strong>Koutarou Takebayashi</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
