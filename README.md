@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan bilang semua (hal yang kau lakukan) itu sia-sia. Kau sudah berjuang keras untuk membuat dirimu menjadi lebih baik."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Tugas seorang wanita yang sebenarnya adalah melindungi harga diri seorang pria."</em><br>
+  — <strong>Saeko Busujima</strong>, <em>Highschool of the Dead</em>
 </div>
 <!-- QUOTE END -->
 
