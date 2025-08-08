@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami bicara basa-basi seperti biasanya sambil terkadang menengok kebelakang, terkadang membuat kesalahan, dan terkadang kehilangan arah. Tetapi, kami terus melangkah maju dengan teguh."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Jika kau ingin menegakkan ideologimu, maka kendalikan lawanmu dengan kemampuanmu. Itu adalah satu-satunya hukum yang ada di dunia ini."</em><br>
+  — <strong>Iltutmish</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
