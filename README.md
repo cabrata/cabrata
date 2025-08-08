@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika dirimu tak pantas bahagia, maka aku yang akan menanggungnya. Jika harus menebus semua dosa itu, mari kita tebus bersama."</em><br>
-  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
+  <em>"Melakukan kejahatan, setelah ditangkap mengatakan bahwa iblis telah menghasutnya. Itu adalah alasan yang biasa dikatakan oleh politikus sekarang ini."</em><br>
+  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
