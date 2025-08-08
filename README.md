@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kota itu bagaikan raga manusia. Berbagai sistem bekerja secara organis, yang akhirnya tumbuh dan berkembang. Ada kalanya tubuh mengidap penyakit tumor. Penyakit yang tak bisa disembuhkan dengan obat. Saat itu kita harus membasminya. Tugas kita sebagai ahli bedah adalah mencabut penyakit itu dari kota"</em><br>
-  — <strong>Masamune Mochizuki</strong>, <em>Triage X</em>
+  <em>"Takut dengan kematian itu wajar. Tapi bertahan hidup tanpa melakukan apa pun itu sama sekali tidak indah."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
