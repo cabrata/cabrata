@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejarah adalah bukti bahwa manusia hidup. Bukti bahwa manusia hidup dengan batas kemampuan mereka."</em><br>
-  — <strong>Takahito Hida</strong>, <em>Katanagatari</em>
+  <em>"Takkan ada orang yang senang jika kau hanya mementingkan tujuanmu saja. Inti dari sebuah negosiasi adalah mendengarkan persyaratan dari kedua belah pihak."</em><br>
+  — <strong>Anastasia Hoshin</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
