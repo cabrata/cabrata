@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau bisa mengetahui posisi dan momentum setiap atom di dunia ini, kau bisa memprediksi masa depan."</em><br>
-  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Aku takkan memaafkan Satan, atau iblis-iblis yang lain! Khususnya putra dari Satan! Aku akan membunuhmu meskipun harus mengorbankan nyawaku!"</em><br>
+  — <strong>Igor Neuhaus</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
