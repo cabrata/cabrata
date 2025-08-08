@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa bahagia ketika melihatmu tersenyum."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
+  <em>"Bakat tak selalu mendatangkan kebahagiaan bagi pemiliknya."</em><br>
+  — <strong>Atsushi Nakajima</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
