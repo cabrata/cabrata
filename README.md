@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua cewek dada besar itu musuh dari cewek dada rata."</em><br>
-  — <strong>Yuika Koga</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
+  <em>"Aku adalah kesatria. Melindungi mata pencaharian wargaku merupakan tugas dan kehormatanku."</em><br>
+  — <strong>Dustiness Ford Lalatina</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!</em>
 </div>
 <!-- QUOTE END -->
 
