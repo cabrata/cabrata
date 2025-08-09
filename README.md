@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan jika kata-kata itu bohong, perasaanku tidaklah bohong."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Aku benci jadi orang yang lemah. Tapi setelah mengetahui kalau masih ada banyak pemain yang lebih hebat dari aku, itu membuatku jadi lebih bersemangat!"</em><br>
+  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
