@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapa pun (orang) itu, aku tak bisa mengabaikan orang yang berada dalam masalah."</em><br>
-  — <strong>Sorey</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Rahasia menjadi koki yang hebat adalah bertemu dengan seorang wanita yang membuatmu ingin memberikan semua masakanmu padanya."</em><br>
+  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
