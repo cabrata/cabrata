@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka (para manusia) makhluk yang tak belajar apapun sejak berevolusi dari kera."</em><br>
-  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Bagi orang yang gak bisa, belajar itu memang sangat sulit. Mereka yang tak bisa takkan bisa merasakan senangnya belajar. Namun, ketika orang yang tak bisa itu mulai belajar sedikit demi sedikit hingga bisa, kurasa belajar jadi mulai terasa menyenangkan."</em><br>
+  — <strong>Nariyuki Yuiga</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
 </div>
 <!-- QUOTE END -->
 
