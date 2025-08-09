@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teruslah maju dan jangan berhenti sebelum bakat dan masa muda kalian menghilang."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Jujur saja, (saat ini) aku tidak bisa bilang "aku mencintaimu", tapi aku tidak ingin orang lain memilikimu."</em><br>
+  — <strong>Daisuke Higashida</strong>, <em>WWW.Working!!</em>
 </div>
 <!-- QUOTE END -->
 
