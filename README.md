@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah membuat masalah dan saling menyakiti adalah bagian dari pertemanan?"</em><br>
-  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect</em>
+  <em>"Jika aku tak mengerti apa yang dirasakan temanku, apakah (itu artinya) aku tak boleh mengkhawatirkannya? Jika aku tak merasakan hal yang sama, apakah aku tidak boleh mengkhawatirkannya?"</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
