@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta dapat membuat seseorang menjadi kuat dan lemah."</em><br>
-  — <strong>Hibiki Tsukahara</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Jika minta maaf dapat menyelesaikan masalah, maka tidak akan ada tindakan bunuh diri yang dilakukan oleh samurai jika gagal melaksanakan tugas."</em><br>
+  — <strong>Tae Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
