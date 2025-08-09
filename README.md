@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang sangat penting dalam hidup seperti perasaan, hati, dan jiwa semuanya adalah hal yang tak bisa dilihat.
-Semakin kau berusaha menganggap semua itu nyata, kau akan berpikir kalau semua itu tidak nyata.
-Tapi, sekarang aku berpikir kalau semua itu memang ada. Semua itu sangat dekat, sampai aku bisa menyentuhnya."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Jika ada hal yang membuatku bahagia, aku ingin kamu jadi orang pertama yang mengetahuinya. Jika ada hal yang membuatmu sedih, aku akan menanggungnya bersamamu. Aku ingin kita jadi suami-istri yang saling berbagi dan mendukung satu sama lain. Aku takkan membiarkanmu menyesal telah memilihku."</em><br>
+  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
