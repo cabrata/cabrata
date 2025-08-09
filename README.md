@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melihat ke bawah! Voli adalah olahraga dimana kau harus melihat ke atas!"</em><br>
-  — <strong>Keishin Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Meski kita hidup dalam peraturan, kita tak bisa menyalamatkan siapapun. Meski aku harus melanggar peraturan, aku takkan membiarkan siapapun menghalangi mimpiku."</em><br>
+  — <strong>Shirou Kotomine</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
