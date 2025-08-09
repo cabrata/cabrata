@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin punya cinta yang begitu panas hingga bisa melelehkan lereng salju."</em><br>
-  — <strong>Roman Saotome</strong>, <em>Sket Dance</em>
+  <em>"Seseorang tidak akan berjuang sekeras itu jika dia tidak menyukainya."</em><br>
+  — <strong>Keiko Ayano</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
