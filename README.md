@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang jadi berpikir sempit kalau sedang tidak punya uang."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 3: Tsuukaku Zanryuu</em>
+  <em>""Berbuatlah demi orang lain. Korbankan diri sendiri demi itu". Aku dibesarkan dengan (memegang) prinsip seperti itu."</em><br>
+  — <strong>Tsukasa Jinguuji</strong>, <em>Fantasy Bishoujo Juniku Ojisan to</em>
 </div>
 <!-- QUOTE END -->
 
