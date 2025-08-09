@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu adalah orang yang hebat. Sangat berkebalikan denganku. Tentunya aku ingin menjadi seperti dirimu. Bisa mengakui seseorang, menerima seseorang, mencintai seseorang, dicintai seseorang. Bagaimana caranya agar aku dapat seperti dirimu?"</em><br>
-  — <strong>Haruki Shiga</strong>, <em>Kimi no Suizou wo Tabetai</em>
+  <em>"Aku suka dengan orang yang punya tujuan hidup. Aku suka dengan orang yang pekerja keras."</em><br>
+  — <strong>Nanami Aoyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
