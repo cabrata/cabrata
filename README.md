@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama dua tahun ini kau melakukan semuanya sendirian. Kau memikirkan dan memutuskan semuanya sendiri. Kau salah besar, jika kau pikir (melakukan semua hal sendirian) itu bisa membuatmu menjadi dewasa. (Yang kau lakukan) itu semua hanya akan membuatmu jadi anak yang tak mau mendengarkan nasehat orang lain."</em><br>
-  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Berhentilah berkecil hati gara-gara kesalahpahaman."</em><br>
+  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
