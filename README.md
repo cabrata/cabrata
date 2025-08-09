@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk membuat sesuatu yang dapat menarik perasaan user, pertama kau harus membuat sesuatu yang dapat menarik hatimu sendiri. Kau tidak bisa menggerakkan hati sesorang jika kau tak bisa menggerakkan hatimu sendiri."</em><br>
-  — <strong>Kazuki Fujisawa</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Jika kalian selalu menunda pekerjaan, kalian akan jadi terbiasa untuk menunda semuanya!"</em><br>
+  — <strong>Hajime Suzamoto</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
