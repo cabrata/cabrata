@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah kuputuskan. Aku adalah "bayangan".
-Semakin kuat cahayanya, semakin kuat bayangannya.
-Aku akan menjadi bayangan dari cahayamu, dan menjadikanmu pemain terbaik di jepang."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Mati bukanlah pilihan yang tepat. Aku ingin meminta maaf kepada yang lain. Aku ingin membantumu untuk hidup."</em><br>
+  — <strong>Shouya Ishida</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
