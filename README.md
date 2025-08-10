@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan menangis Yamato. Jangan menangis demi aku. Kau tak perlu mengkhawatirkanku. Tertawalah...
-Yang paling tidak kuinginkan adalah saat melihatmu menangis."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Tidak peduli di garis dunia mana pun, di waktu kapanpun atau dimanapun, aku selalu menyukaimu."</em><br>
+  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate: Oukoubakko no Poriomania</em>
 </div>
 <!-- QUOTE END -->
 
