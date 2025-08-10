@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"("Cinta" itu seperti apa?)
-Perasaan di saat kamu selalu memikirkan dan memimpikan tentang dia. Saat tidak berhasil menarik perhatiannya kamu pun merasa murung. Kamu juga tidak bisa menatapnya langsung karena malu. Lalu, disaat kamu mengetahui kekurangan dalam dirinya, tapi entah kenapa kamu tetap ingin mengetahui lebih banyak tentang dia."</em><br>
-  — <strong>Inari Fushimi</strong>, <em>Inari, Konkon, Koi Iroha.</em>
+  <em>"Aku rasa semua orang pada awalnya juga mencoba dulu sebelum menyukainya. Kurasa kamu tidak perlu semangat tinggi atau alasan yang kuat untuk memulainya. Terkadang sesuatu yang kamu mulai perlahan-lahan akan menjadi hal yang penting bagimu. Untuk memulainya yang kamu perlukan hanya rasa keingintahuan."</em><br>
+  — <strong>Kiyoko Shimizu</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
