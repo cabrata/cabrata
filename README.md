@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika sihirku bisa membuat seseorang bahagia, kurasa tidak salah untuk mencobanya."</em><br>
-  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"("Cinta" itu seperti apa?)
+Perasaan di saat kamu selalu memikirkan dan memimpikan tentang dia. Saat tidak berhasil menarik perhatiannya kamu pun merasa murung. Kamu juga tidak bisa menatapnya langsung karena malu. Lalu, disaat kamu mengetahui kekurangan dalam dirinya, tapi entah kenapa kamu tetap ingin mengetahui lebih banyak tentang dia."</em><br>
+  — <strong>Inari Fushimi</strong>, <em>Inari, Konkon, Koi Iroha.</em>
 </div>
 <!-- QUOTE END -->
 
