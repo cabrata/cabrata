@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Musuh dari musuhku tak harus menjadi sekutuku."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: First Order</em>
+  <em>"Aku tidak mau kamu minta maaf padaku. Membuat Araragi-senpai menunduk meminta maaf adalah aib bagi Kanbaru Suruga."</em><br>
+  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
