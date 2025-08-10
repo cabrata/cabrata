@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin terus bersama orang yang paling membutuhkanku."</em><br>
-  — <strong>Saitou</strong>, <em>Benriya Saitou-san, Isekai ni Iku</em>
+  <em>"Musuh dari musuhku tak harus menjadi sekutuku."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: First Order</em>
 </div>
 <!-- QUOTE END -->
 
