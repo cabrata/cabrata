@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita para penguasa itu seperti hewan ternak yang hanya memakan jabatan."</em><br>
-  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
+  <em>"Bergaul dengan pecundang, akan membuatmu menjadi pecundang juga."</em><br>
+  — <strong>Takaya Kurisu</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
