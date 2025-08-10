@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan memberikan sepenuhnya dari diriku untuk manga dan Azuki Miho. Aku akan mempertaruhkan nyawaku untuk mereka."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Jika kau memiliki kehormatan, (berarti) kau memiliki keberanian."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Kizumonogatari I: Tekketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
