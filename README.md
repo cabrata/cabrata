@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang terlalu mengistimewakan sesuatu yang tak bisa dilihat."</em><br>
-  — <strong>Mahito</strong>, <em>Jujutsu Kaisen</em>
+  <em>"Sudah kuputuskan. Aku adalah "bayangan".
+Semakin kuat cahayanya, semakin kuat bayangannya.
+Aku akan menjadi bayangan dari cahayamu, dan menjadikanmu pemain terbaik di jepang."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
