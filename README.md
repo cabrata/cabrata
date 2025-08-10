@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau cuma aku saja, aku yakin akan mengacaukan (semua) nya. Tapi "tanpa nama" lain lagi ceritanya. Kalau aku membuat kesalahan, ada Shiro disana (yang akan membantuku). Itulah cara "tanpa nama" agar selalu menang."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Nenekku bilang, tubuh sehat membuat seorang gadis menjadi cantik."</em><br>
+  — <strong>Makoto Kowata</strong>, <em>Flying Witch</em>
 </div>
 <!-- QUOTE END -->
 
