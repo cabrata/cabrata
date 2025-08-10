@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di balik pintu, kehidupanmu telah menantimu. Karena itu, kau bisa bersikap jujur saat berada di sini.
-Mungkin itu lah kenapa suasana bar dibuat seperti ini."</em><br>
-  — <strong>Hitomi Mishima</strong>, <em>Hinamatsuri</em>
+  <em>"Jika sihirku bisa membuat seseorang bahagia, kurasa tidak salah untuk mencobanya."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
