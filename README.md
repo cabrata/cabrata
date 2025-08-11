@@ -5,7 +5,7 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melarikan diri tidak akan ada artinya. Kau hanya bisa bergerak maju."</em><br>
+  <em>"Aku menjadi school idol karena kalian berdua, dan bisa sampai disini karena kalian terus menungguku."</em><br>
   — <strong>Mari Ohara</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
