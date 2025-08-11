@@ -5,8 +5,15 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Penyesalan itu datang terlambat. Kau tidak akan pernah tahu sampai kau kehilangannya. Karena itu, berjuanglah untuk merasakan masa mudamu."</em><br>
-  — <strong>Saku Akechi</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
+  <em>"Manusia itu selalu berpikir kalau dirinya sama dengan orang lain.
+Alasan mereka sangatlah mengagumkan, sangat memuaskan, dan sangat menghangatkan.
+Karena semua orang ingin saling mengerti, ingin saling berbagi hal yang berharga, dan ingin saling bekerja sama.
+Itu adalah mimpi yang luar biasa.
+Tapi kenyataannya tak seperti itu.
+Setiap orang memiliki peran dan kelemahan masing-masing.
+Mempercayai orang lain itu memang bagus.
+Tapi sebelum itu, kita harus mengerti perbedaan dengan orang lain."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
