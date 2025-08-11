@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta pertama? Aku tak pernah merasakan hal seperti itu. Tidak untuk sekarang, dan untuk selamanya. Melayani Tuan Putri adalah misiku, dan itulah yang membuatku bahagia. Asal Tuan Putri bahagia, itu sudah cukup bagiku."</em><br>
-  — <strong>Seishirou Tsugumi</strong>, <em>Nisekoi</em>
+  <em>"Menyedihkan sekali. Memikirkan hal lain disaat pertandingan, apa kau meremehkan lawanmu?
+Ini adalah pertarungan. Jika kau terjebak dalam drama yang (menurutmu) lebih penting, jangan buang waktumu dipertandingan ini."</em><br>
+  — <strong>Yuuri Himemiya</strong>, <em>Prince of Stride: Alternative</em>
 </div>
 <!-- QUOTE END -->
 
