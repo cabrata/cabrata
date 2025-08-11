@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia tidaklah sempurna. Umat manusia itu lemah, jelek, iri, dan membenci hal yang tak dimilikinya. Anehnya, itu semua adalah bakat buruk yang dimiliki manusia. Bukankah itu aneh? Karena itulah aku ingin mengubah semua itu."</em><br>
-  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Penyesalan itu datang terlambat. Kau tidak akan pernah tahu sampai kau kehilangannya. Karena itu, berjuanglah untuk merasakan masa mudamu."</em><br>
+  — <strong>Saku Akechi</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
 </div>
 <!-- QUOTE END -->
 
