@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tadi aku banyak pikiran. Tapi setelah melihatmu, sekarang aku jadi lebih tenang. Kurasa kau adalah obat yang dibutuhkan untuk hatiku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Mencintai orang lain selain diri sendiri adalah hal yang penting."</em><br>
+  — <strong>Ruth</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
