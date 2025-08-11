@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang pasti pernah membuat kesalahan. Tapi perasaan manusia sering diungkapkan dalam cara yang tak menentu.Kalau kau seorang hakim, jangan mengabaikan hal itu."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Dia lebih mencemaskan temannya daripada dirinya sendiri. Dia lebih mementingkan temannya. Aku menghormati perasaannya. Jika kau ingin mencapai sesuatu, kau harus berusaha keras untuk mencapai semuanya."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
