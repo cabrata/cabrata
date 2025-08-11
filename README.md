@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengarkan kalian (para murid). Saat malam hari orang harus tidur. Karena nanti kalau sudah dewasa meskipun kalian benci begadang, tapi (keadaan membuat) kalian harus melakukannya. Selagi masih muda, kalian harus terbiasa hidup sehat."</em><br>
-  — <strong>Sensei</strong>, <em>Yofukashi no Uta</em>
+  <em>"Aku akan berbohong apabila mengatakan tidak mengorbankan diriku disini (pengorbanan merawat anak).
+Jadi aku harap dapat melewati tahun-tahun kedepan (menjadi lebih baik)."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
