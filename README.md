@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyedihkan sekali. Memikirkan hal lain disaat pertandingan, apa kau meremehkan lawanmu?
-Ini adalah pertarungan. Jika kau terjebak dalam drama yang (menurutmu) lebih penting, jangan buang waktumu dipertandingan ini."</em><br>
-  — <strong>Yuuri Himemiya</strong>, <em>Prince of Stride: Alternative</em>
+  <em>"Terkadang kau harus menentang pendapat orang lain untuk menciptakan revolusi."</em><br>
+  — <strong>Sawako Tennouji</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
