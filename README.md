@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pandangan yang sempit adalah musuh idealisme dan kecerdasan."</em><br>
-  — <strong>Eiha Kudou</strong>, <em>Gimai Seikatsu</em>
+  <em>"Manusia tidaklah sempurna. Umat manusia itu lemah, jelek, iri, dan membenci hal yang tak dimilikinya. Anehnya, itu semua adalah bakat buruk yang dimiliki manusia. Bukankah itu aneh? Karena itulah aku ingin mengubah semua itu."</em><br>
+  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
