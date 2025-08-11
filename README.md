@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Permintaan maaf adalah pengakuan atas kesalahan yang telah diperbuat untuk meminta pengampunan."</em><br>
-  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
+  <em>"Benar-benar tidak masuk akal. Aku bertindak berdasarkan emosi layaknya manusia bodoh. Bahkan anjing pun punya pengendalian diri yang lebih bagus (dariku)"</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
