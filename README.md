@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saling menerima cinta satu sama lain adalah hal yang wajar. Jika dunia melarangnya, aku akan mengubah dunia ini meskipun harus menghancurkannya."</em><br>
-  — <strong>Theo Cornaro</strong>, <em>Grancrest Senki</em>
+  <em>"Manusia itu makhluk yang bodoh. Mereka tak bisa menjaga harga diri. Karena itu mereka mudah dibutakan keserakahan."</em><br>
+  — <strong>Minami Yamamoto</strong>, <em>Joshikousei no Mudazukai</em>
 </div>
 <!-- QUOTE END -->
 
