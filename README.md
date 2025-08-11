@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau ada orang yang berusaha membunuhmu, kau pasti akan marah.
-Itu sangat berbeda jika ada orang yang mencoba membunuhmu tapi berakhir dengan kegagalan, terlihat memalukan."</em><br>
-  — <strong>Karma Akabane</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Jika gadis yang kau sukai menyukai orang lain, hatimu pasti hancur."</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
