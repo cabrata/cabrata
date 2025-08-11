@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua hal saling terhubung. Tubuh kita merupakan bagian kecil dari alam semesta. Bagian itu saling terhubung dengan alam semesta yang lebih besar."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
+  <em>"Siapapun lawannya, jika kita tidak bisa lagi membedakan siapa yang harus dihukum dan siapa yang harus dilindungi, maka kepolisian kita akan berakhir. Kalau terus begini negara akan hancur."</em><br>
+  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
