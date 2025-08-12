@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama ini aku telah menghabiskan waktu hidupku untuk berbohong. Setidaknya mulai dari sekarang, aku akan berusaha untuk jujur pada diriku sendiri."</em><br>
-  — <strong>Cagliostro</strong>, <em>Senki Zesshou Symphogear AXZ</em>
+  <em>"Setiap makhluk itu berusaha untuk hidup. Kita semua adalah teman."</em><br>
+  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
