@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pahlawan Napoleon Bonaparte pernah berkata, "Pahlawan sejati adalah seseorang yang mampu melewati ujian hidup.""</em><br>
-  — <strong>Hizashi Yamada</strong>, <em>Boku no Hero Academia</em>
+  <em>"Orang realistis sejati itu orang yang berkepribadian baik."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
