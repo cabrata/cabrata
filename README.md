@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pada dasarnya semua manusia itu penyakitan. Jadi kita hanya perlu menyesuaikan diri."</em><br>
-  — <strong>Midori Kohakobe</strong>, <em>Yofukashi no Uta</em>
+  <em>"Pahlawan Napoleon Bonaparte pernah berkata, "Pahlawan sejati adalah seseorang yang mampu melewati ujian hidup.""</em><br>
+  — <strong>Hizashi Yamada</strong>, <em>Boku no Hero Academia</em>
 </div>
 <!-- QUOTE END -->
 
