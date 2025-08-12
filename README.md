@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia ini adalah realita. Realita adalah keadilan! Aku akan memuaskan hidupku didalam realita!"</em><br>
-  — <strong>Yoshiko Tsushima</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Jika kau membuka hatimu untuknya, sejauh apapun kalian terpisah, kau pasti bisa mendengar suaranya."</em><br>
+  — <strong>Lailah</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
