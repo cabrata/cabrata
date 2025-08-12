@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau memilih (kegiatan) hanya berdasarkan kemampuanmu, kau takkan pernah memulai apapun. Yang terpenting adalah ketertarikanmu."</em><br>
-  — <strong>Ryuujirou Kotobuki</strong>, <em>Grand Blue</em>
+  <em>"Terkadang orang yang hidupnya mengenaskan itu bisa jauh lebih dipercaya."</em><br>
+  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Break Time</em>
 </div>
 <!-- QUOTE END -->
 
