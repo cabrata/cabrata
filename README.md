@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun lawannya, jika kita tidak bisa lagi membedakan siapa yang harus dihukum dan siapa yang harus dilindungi, maka kepolisian kita akan berakhir. Kalau terus begini negara akan hancur."</em><br>
-  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
+  <em>"Pasti sangat sulit berusaha melakukan apa yang diinginkan. (Sebenarnya) aku tidak terlalu mengerti, tapi pasti butuh kerja keras untuk mendapatkan hasilnya. Meskipun (kadang) memiliki impian itu membuatmu sulit (menjalani hidup)."</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
