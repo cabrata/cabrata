@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama jantungmu masih berdetak, kau berhak untuk tetap hidup dan mewujudkan keinginanmu."</em><br>
-  — <strong>Kuro no Rider</strong>, <em>Fate/Apocrypha</em>
+  <em>"Kita semua hanyalah manusia. Kadang, kita berbuat salah.
+Hanya saja, jangan berbuat kesalahan saat nyawa taruhannya."</em><br>
+  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
