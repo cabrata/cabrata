@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu berharga, nyawamu hanya ada satu!"</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Selama jantungmu masih berdetak, kau berhak untuk tetap hidup dan mewujudkan keinginanmu."</em><br>
+  — <strong>Kuro no Rider</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
