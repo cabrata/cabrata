@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Musuh dari musuhku tak harus menjadi sekutuku."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: First Order</em>
+  <em>"Katanya, jika seorang anak mati sebelum orang tuanya, dia akan jatuh ke neraka yang terdalam."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
