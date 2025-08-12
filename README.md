@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin melihat senyuman semua orang."</em><br>
-  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Dunia ini adalah realita. Realita adalah keadilan! Aku akan memuaskan hidupku didalam realita!"</em><br>
+  — <strong>Yoshiko Tsushima</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
