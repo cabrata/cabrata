@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang orang yang hidupnya mengenaskan itu bisa jauh lebih dipercaya."</em><br>
-  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Break Time</em>
+  <em>"Aku ingin melihat senyuman semua orang."</em><br>
+  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
