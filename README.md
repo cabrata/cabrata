@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang realistis sejati itu orang yang berkepribadian baik."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Aku suka dirimu yang tak bisa berterus terang seperti itu."</em><br>
+  — <strong>Rita Ainsworth</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
