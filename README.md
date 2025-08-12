@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Shio-chan, aku harap kau masih mencintaiku ketika kita dilahirkan kembali. Aku minta maaf,... dan terima kasih."</em><br>
-  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
+  <em>"Untuk terus maju, terkadang kita harus membuang sesuatu yang berharga."</em><br>
+  — <strong>Luviagelita Edelfelt</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
