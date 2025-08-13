@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau takkan tahu perasaan orang lain bila kau tak bertanya.
-Perasaanmu juga takkan pernah diketahui orang lain bila kau tak mengatakannya."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Semua orang berbakat yang kau irikan sebenarnya memiliki nereka mereka masing-masing. Tak peduli apa yang dilakukan, mereka tak akan lepas dari neraka itu."</em><br>
+  — <strong>Marisa Hyoudou</strong>, <em>Ballroom e Youkoso</em>
 </div>
 <!-- QUOTE END -->
 
