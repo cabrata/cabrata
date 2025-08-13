@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kita terpisah, aku selalu saja memikirkan tentangmu. Kalau bisa, selama 24 jam (dalam sehari) aku ingin selalu bersama denganmu. Aku ingin memperhatikan setiap apa yang kamu lihat, apa yang kamu dengar, apa yang kamu makan, (dan) apa yang kamu rasakan. Aku ingin tahu segalanya (tentangmu)."</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Suatu hari waktu akan memisahkan kita kan?
+Tapi.., walaupun begitu, hingga saat itu, mari tetap bersama."</em><br>
+  — <strong>Hotaru Takegawa</strong>, <em>Hotarubi no Mori e</em>
 </div>
 <!-- QUOTE END -->
 
