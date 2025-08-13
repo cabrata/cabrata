@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin membuat lebih banyak kenangan bersamamu. Aku tidak ingin kamu pergi ke Inggris.
-Haruka, aku mencintaimu! Aku sangat mencintaimu! Tolong menikahlah denganku!
-Mari (kita hidup) bahagia bersama!"</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Lupakan orang yang meninggalkanmu, dan persiapkan dirimu untuk cinta yang baru. Itulah yang harus dilakukan dalam menjalani cinta."</em><br>
+  — <strong>Kagura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
