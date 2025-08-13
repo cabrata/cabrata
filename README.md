@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lupakan orang yang meninggalkanmu, dan persiapkan dirimu untuk cinta yang baru. Itulah yang harus dilakukan dalam menjalani cinta."</em><br>
-  — <strong>Kagura</strong>, <em>Gintama</em>
+  <em>"Anak muda seharusnya mencoba mendapatkan berbagai macam pengalaman."</em><br>
+  — <strong>Tachibana</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
