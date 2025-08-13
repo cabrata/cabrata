@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau terus berusaha tanpa menyerah, aku yakin hal yang baik akan terjadi"</em><br>
-  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Aku tidak suka hubungan yang tidak jelas."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
