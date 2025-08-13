@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat manusia terjatuh dalam kegelapan mereka membutuhkan cahaya. Tak peduli seredup apa pun cahaya itu selama masih ada secercah cahaya akan ada harapan."</em><br>
-  — <strong>Suiryuu</strong>, <em>One Punch Man Season 2</em>
+  <em>"Aku ingin membuat lebih banyak kenangan bersamamu. Aku tidak ingin kamu pergi ke Inggris.
+Haruka, aku mencintaimu! Aku sangat mencintaimu! Tolong menikahlah denganku!
+Mari (kita hidup) bahagia bersama!"</em><br>
+  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
