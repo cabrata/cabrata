@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang berbakat yang kau irikan sebenarnya memiliki nereka mereka masing-masing. Tak peduli apa yang dilakukan, mereka tak akan lepas dari neraka itu."</em><br>
-  — <strong>Marisa Hyoudou</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Tidur itu sangat penting. Kurang tidur bisa berdampak buruk pada pekerjaan, dan kesehatanmu. Tidur di kursi bisa menghilangkan rasa penatmu untuk sementara, tapi tidak baik untuk punggungmu."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!!</em>
 </div>
 <!-- QUOTE END -->
 
