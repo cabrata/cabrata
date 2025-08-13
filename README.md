@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perpisahan itu memang menyedihkan, tapi itu tidak berarti bahwa kita takkan bertemu lagi."</em><br>
-  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
+  <em>"Akan aku berikan segalanya. Jadi izinkan aku terlibat dengan hidupmu."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
