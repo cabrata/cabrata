@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada baiknya kalau bisa terbuka dengan orang lain."</em><br>
-  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Karena sudah tidak ada waktu, maka menyerah? Sebalinya kan?
+Karena tidak ada waktu, kita tak boleh buang-buang waktu lagi."</em><br>
+  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
 </div>
 <!-- QUOTE END -->
 
