@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang laki-laki yang tidak pernah terluka karena selalu melarikan diri (dari masalah) mereka sama sekali tidak keren."</em><br>
-  — <strong>Tooru Miyamae</strong>, <em>Seiren</em>
+  <em>"Postur tubuh menentukan bagaimana orang lain melihatmu."</em><br>
+  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
 </div>
 <!-- QUOTE END -->
 
