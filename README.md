@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehilangan hasrat untuk hidup dan berharap untuk mati adalah hal yang berbeda."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Bagaimanapun juga, mereka berhasil memberi kita sedikit "sambutan". Ini tidak baik jika kita tidak "membalas budi"."</em><br>
+  — <strong>Yukio Kasamatsu</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
