@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesenangan takkan pernah berlangsung lama. Begitulah kehidupan."</em><br>
-  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
+  <em>"Melihat wajah bahagia para pelanggan lebih berharga daripada uang yang ada di dunia."</em><br>
+  — <strong>Shinobu Senke</strong>, <em>Isekai Izakaya: Koto Aitheria no Izakaya Nobu</em>
 </div>
 <!-- QUOTE END -->
 
