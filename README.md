@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebuah perasaan dapat mengubah dunia."</em><br>
-  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Selama perasaan kita masih saling mencintai, kita bisa melakukan apapun."</em><br>
+  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
