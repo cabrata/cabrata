@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk meredakan ketakutan dan kekhawatiran masyarakat, para pahlawan harus kuat dan tangguh agar dapat mengalahkan kejahatan dengan cepat, terampil dan tampan."</em><br>
-  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
+  <em>"Kalian semua yang hidup di masa depan adalah harta karun bagi roh pahlawan."</em><br>
+  — <strong>Aka no Lancer</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
