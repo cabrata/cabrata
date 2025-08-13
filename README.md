@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak muda seharusnya mencoba mendapatkan berbagai macam pengalaman."</em><br>
-  — <strong>Tachibana</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Terus mengungkit-ungkit masa lalu bukankah itu ke kanak-kanakan?"</em><br>
+  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
