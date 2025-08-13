@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan aku berikan segalanya. Jadi izinkan aku terlibat dengan hidupmu."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Bagi kami, selama di situ ada guru, entah itu di sawah atau pun di lapangan, itu adalah sekolah (tempat untuk belajar)."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
