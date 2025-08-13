@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak bisa tahu seseorang jika hanya melihat. (Meski penampilannya seperti itu) tapi dia sebenarnya seorang pekerja keras."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Tahukah kamu?Jarak cakrawala yang bisa dilihat dengan mata telanjang adalah empat kilometer."</em><br>
+  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
