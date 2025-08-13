@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan berusaha agar kalian menyukaiku, sampai aku mendapat pengakuan dari kalian."</em><br>
-  — <strong>Ritsu</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Kehilangan hasrat untuk hidup dan berharap untuk mati adalah hal yang berbeda."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
