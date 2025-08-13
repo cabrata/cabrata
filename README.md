@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian semua yang hidup di masa depan adalah harta karun bagi roh pahlawan."</em><br>
-  — <strong>Aka no Lancer</strong>, <em>Fate/Apocrypha</em>
+  <em>"Debar hatiku ini... menggelitik dan terasa menyenangkan.
+Kuharap besok segera tiba. Aku ingin segera melihat wajahnya."</em><br>
+  — <strong>Ai Nanasaki</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
