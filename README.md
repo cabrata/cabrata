@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang memiliki langkah mereka sendiri."</em><br>
-  — <strong>Miwako Tomobe</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Dimanapun kau berada, kau selalu menjadi keluargaku yang berharga."</em><br>
+  — <strong>Yuri Takanashi</strong>, <em>Papa no Iukoto wo Kikinasai!</em>
 </div>
 <!-- QUOTE END -->
 
