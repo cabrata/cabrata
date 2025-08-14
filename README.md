@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau benar-benar mencintai pekerjaanmu, apapun takkan ada masalah."</em><br>
-  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Kami mengadakan konser pertama kami di auditorium ini. Saat itu, aku berkata bahwa suatu hari nanti kami pasti akan membuat seluruh kursi di auditorium ini terisi penuh. Kami telah berjuang keras, dan sekarang kami berada disini. Aku ingin suatu saat perasaanku ini tersampaikan pada semua orang. Dan hari ini, mimpi kami menjadi kenyataan! Karena itulah, kami akan mulai berlari lagi. Menuju impian yang baru!"</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
