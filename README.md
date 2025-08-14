@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa menjadi pahlawan itu adalah bagian dari hobi.
-Dengan kata lain, selama aku bisa menghajar musuh, kurasa itu sudah cukup."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Origami (memang) tidak bisa terbang, tapi kelopak bunga sakura bisa menari di atas angin kan?
+Jika aku menguburnya di dekat pohon sakura, aku pikir suatu hari nanti (origami ini) akan seperti kelopak bunga sakura."</em><br>
+  — <strong>Tetsu</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
