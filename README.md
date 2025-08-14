@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan sia-siakan kehidupanmu tanpa cinta."</em><br>
-  — <strong>Mao Mizusawa</strong>, <em>KimiKiss Pure Rouge: Love Fighter</em>
+  <em>"Meskipun keputusan yang aku pilih salah, aku takkan menyesalinya. Menurutku kebaikan dan kejahatan adalah sesuatu yang sama, justru karena hal itulah bukti bahwa diriku adalah manusia."</em><br>
+  — <strong>Souichirou Kuzuki</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
