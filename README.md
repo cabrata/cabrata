@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau ada orang yang berusaha membunuhmu, kau pasti akan marah.
-Itu sangat berbeda jika ada orang yang mencoba membunuhmu tapi berakhir dengan kegagalan, terlihat memalukan."</em><br>
-  — <strong>Karma Akabane</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Manusia cenderung belajar pada kekalahan daripada kemenangan."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Zoku Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
