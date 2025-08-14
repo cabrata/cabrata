@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Justru perselisihan (bisa) terjadi karena mereka semakin akrab."</em><br>
-  — <strong>Quetzalcoatl</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Ketika kita membantu orang lain pada akhirnya akan berujung pada kebaikan pada diri kita sendiri."</em><br>
+  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba: Katanakaji no Sato-hen</em>
 </div>
 <!-- QUOTE END -->
 
