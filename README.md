@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam permainan (judi) aku benci situasi ketika mengetahui aku pasti menang atau pasti kalah."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Aku sedikit takut. Bukan karena kematian, tapi aku takut berpisah denganmu.
+Aku tak pernah merasa seperti ini sebelumnya, tapi menurutku inilah yang terbaik untukku.
+Semua ini demi masa depan umat manusia, dan juga demi masa depanmu.
+Untuk itu aku bisa mempertaruhkan nyawaku berapa kali pun."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
