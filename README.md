@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau adalah tipe orang yang mengabdikan sendiri pada seseorang, aku yakin ada seseorang diluar sana yang akan jatuh cinta padamu. Dengan kata lain, cinta pertamamu pasti akan datang. Aku tak bisa membayangkan seperti apa wajahmu shal itu terjadi, tapi aku yakin kau tak akan pernah menyangkanya."</em><br>
-  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
+  <em>"Aku akan terus mengatakannya!
+Jangan pernah berhenti membuat game, jangan berhenti berkarya.
+Kau tidak boleh menyerah mengejar impianmu."</em><br>
+  — <strong>Iori Hashima</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
