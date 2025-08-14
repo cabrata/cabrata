@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat tidak ada lagi kebohongan, kenyataan akan serasa sangat membosankan."</em><br>
-  — <strong>Rei Matsumoto</strong>, <em>Konohana Kitan</em>
+  <em>"Aku adalah seorang koki. Seorang koki tidak boleh lari dari dapur!"</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
