@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang lebih mudah daripada membodohi orang bodoh."</em><br>
-  — <strong>Yozora Mikazuki</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
+  <em>"Kurasa semua orang ingin tahu apa yang tak mereka mengerti. (Mekipun) terkadang kebenaran itu dapat menyakiti seseorang."</em><br>
+  — <strong>Shinjirou Kusakabe</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
