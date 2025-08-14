@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kota itu bagaikan raga manusia. Berbagai sistem bekerja secara organis, yang akhirnya tumbuh dan berkembang. Ada kalanya tubuh mengidap penyakit tumor. Penyakit yang tak bisa disembuhkan dengan obat. Saat itu kita harus membasminya. Tugas kita sebagai ahli bedah adalah mencabut penyakit itu dari kota"</em><br>
-  — <strong>Masamune Mochizuki</strong>, <em>Triage X</em>
+  <em>"Aku tahu hal ini akan terjadi dan tetap memilih untuk datang ke sini. Jadi, aku takkan berpaling dari mereka yang telah rela mengorbankan nyawanya demi diriku."</em><br>
+  — <strong>Sherry Tueli</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</em>
 </div>
 <!-- QUOTE END -->
 
