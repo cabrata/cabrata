@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin kalian bertengkar dengan baik."</em><br>
-  — <strong>Ichika Nakano</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Jangan jadi orang membosankan yang mudah menyerah hanya karena diperlakukan tidak adil."</em><br>
+  — <strong>Ryouma Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
