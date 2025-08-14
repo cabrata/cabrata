@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan menghapus kegelapan di masa lalu, dan membangun masa depan yang cerah dari awal."</em><br>
-  — <strong>Sasuke Uchiha</strong>, <em>Naruto Shippuden</em>
+  <em>"Mata-mata tidak percaya siapa pun, selain dirinya sendiri."</em><br>
+  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
