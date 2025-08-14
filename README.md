@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hiduplah seperti biasanya. Memang tidak mudah. Tapi kau punya banyak waktu yang terbentang luas di depanmu."</em><br>
-  — <strong>Ginko</strong>, <em>Mushishi</em>
+  <em>"Justru perselisihan (bisa) terjadi karena mereka semakin akrab."</em><br>
+  — <strong>Quetzalcoatl</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
