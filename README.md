@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hujan dan badai takkan menghentikanku. Dan tentu saja, keinginan untuk bisa terus berada di tempat tidur takkan menghentikanku. Aku harus terus berusaha sebaik mungkin sebagai orang yang telah dewasa."</em><br>
-  — <strong>Aoba Suzukaze</strong>, <em>New Game!</em>
+  <em>"Seorang pemimpin itu. Yang pertama, dia harus lebih bersemangat dari yang lain dan juga mampu memotivasi yang lain! Selain itu, dia haruslah orang yang penuh kasih dan mampu meningkatkan semangat anggota lain! Dan yang paling penting, dia haruslah orang yang paling dihormati anggota lainnya!"</em><br>
+  — <strong>Niko Yazawa</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
