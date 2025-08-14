@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun keputusan yang aku pilih salah, aku takkan menyesalinya. Menurutku kebaikan dan kejahatan adalah sesuatu yang sama, justru karena hal itulah bukti bahwa diriku adalah manusia."</em><br>
-  — <strong>Souichirou Kuzuki</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Tak ada gunanya menyesali hal yang telah terjadi. Karena itu aku berpikir untuk menatap masa depan."</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
