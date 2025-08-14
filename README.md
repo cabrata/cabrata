@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli sejujur apa dirimu, orang-orang hanya akan menilai dari perilakumu."</em><br>
-  — <strong>Umiko Ahagon</strong>, <em>New Game!</em>
+  <em>"Dalam permainan (judi) aku benci situasi ketika mengetahui aku pasti menang atau pasti kalah."</em><br>
+  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
 </div>
 <!-- QUOTE END -->
 
