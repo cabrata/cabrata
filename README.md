@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta pertama? Aku tak pernah merasakan hal seperti itu. Tidak untuk sekarang, dan untuk selamanya. Melayani Tuan Putri adalah misiku, dan itulah yang membuatku bahagia. Asal Tuan Putri bahagia, itu sudah cukup bagiku."</em><br>
-  — <strong>Seishirou Tsugumi</strong>, <em>Nisekoi</em>
+  <em>"Manusia itu tidak bisa hidup seorang diri, karena kehidupannya penuh dengan beban."</em><br>
+  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
 </div>
 <!-- QUOTE END -->
 
