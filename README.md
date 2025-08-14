@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu hari mungkin kita harus berpisah dan mungkin (juga) aku akan dilupakan. Tapi aku tidak akan pernah melupakanmu."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Meskipun keputusan yang aku pilih salah, aku takkan menyesalinya. Menurutku kebaikan dan kejahatan adalah sesuatu yang sama, justru karena hal itulah bukti bahwa diriku adalah manusia."</em><br>
+  — <strong>Souichirou Kuzuki</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
