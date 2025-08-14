@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamus adalah kapal yang berlayar di lautan kata. Tanpa kata, kau tidak bisa mengekspresikan pemikiranmu dan tidak bisa mengerti orang lain secara mendalam. Orang berlayar dengan kapal yang kita sebut kamus dan mencari kata yang sempurna untuk menemukan cahaya kecil yang mengambang di atas air yang gelap."</em><br>
-  — <strong>Tomosuke Matsumoto</strong>, <em>Fune wo Amu</em>
+  <em>"Aku tahu dia bisa berdiri sendiri. Meskipun begitu, aku akan tetap mengulurkan tanganku."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
