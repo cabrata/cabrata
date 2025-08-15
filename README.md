@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah pedangmu, tidak peduli sekeras apapun rintangannya aku akan selalu mengikutimu."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Aku sudah bukan anak kecil yang selalu ingin menang kalau bersaing."</em><br>
+  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
