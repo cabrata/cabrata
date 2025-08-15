@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan jika kata-kata itu bohong, perasaanku tidaklah bohong."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Tidak ada seorang pun yang dapat meninggalkan masa lalunya."</em><br>
+  — <strong>Atsumu Matsuyuki</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
