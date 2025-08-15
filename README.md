@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci orang jenius. Mereka tidak punya keindahan dari hasil usaha dan jerih payah."</em><br>
-  — <strong>Lügner</strong>, <em>Sousou no Frieren</em>
+  <em>"Pemenang dari game ditentukan sebelum game itu dimulai.Tak ada yang namanya kesempatan murni."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
