@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencoba mendapatkan semua hal yang terbaik adalah prinsip keadilanku."</em><br>
-  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Saat menyukai seseorang kadang akan berakhir dengan air mata.
+Tapi menyukai seseorang bukanlah sesuatu yang salah."</em><br>
+  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
