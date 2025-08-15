@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seseorang sudah bertekad, mereka pasti bisa melakukan apapun."</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Jika kau merasa berat berjalan sendirian, aku akan membantumu. Mari berjalan dengan saling mendukung dan berbagi beban bersama. Bukankah itu yang kau katakan padaku pagi itu? Tunjukkan padaku seberapa keren dirimu, Subaru-kun."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
