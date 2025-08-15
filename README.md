@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun hobinya, tidak masalah selama bisa ditekuni dengan baik."</em><br>
-  — <strong>Saori Makishima</strong>, <em>Ore no Imouto ga Konnani Kawaii Wake ga Nai</em>
+  <em>"Yang memberikanku keberanian hingga saat terakhir adalah kau yang telah menyelamatkanku saat novelku ada yang salah. Aku bersyukur dapat bertemu denganmu."</em><br>
+  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei OVA</em>
 </div>
 <!-- QUOTE END -->
 
