@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Permintaan maaf adalah pengakuan atas kesalahan yang telah diperbuat untuk meminta pengampunan."</em><br>
-  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
+  <em>"Aku benci orang jenius. Mereka tidak punya keindahan dari hasil usaha dan jerih payah."</em><br>
+  — <strong>Lügner</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
