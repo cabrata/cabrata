@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seorang pria bersungguh-sungguh, apapun mungkin bisa diselesaikan dalam sehari."</em><br>
-  — <strong>Kurihara</strong>, <em>Prison School</em>
+  <em>"Kata-kata itu memiliki dua sisi. Tidak semua hal yang diucapkan itu sama dengan yang ingin disampaikan."</em><br>
+  — <strong>Cattleya Baudelaire</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
