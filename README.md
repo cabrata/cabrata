@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Justru perselisihan (bisa) terjadi karena mereka semakin akrab."</em><br>
-  — <strong>Quetzalcoatl</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Kami tidak peduli tentang mimpimu! kami hanya ingin melindungi teman-teman kamu, dan dunia kami apapun yang terjadi!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
