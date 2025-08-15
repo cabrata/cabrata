@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memang menemui jalan buntu, tapi aku takkan berhenti. Demi mereka yang telah tiada, aku harus tetap maju. Sebagai Putri Hyland, sebagai seseorang yang membimbing negeri ini menuju keadilan, tolong pinjamkanlah kekuatan kalian."</em><br>
-  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Menyebut dewa negara lawan sebagai iblis atau mengolok-olok politikus yang dibenci dengan sebutan yang konyol merupakan kutukan paling norak."</em><br>
+  — <strong>Flatt Escardos</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
