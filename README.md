@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk mencapai potensi mereka sepenuhnya.
-Dengan semua mata yang melihat mereka, mereka harus menunjukkan banyak keberanian."</em><br>
-  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
+  <em>"Tak peduli apapun yang terjadi, aku akan selalu denganmu."</em><br>
+  — <strong>Yuno Gasai</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
