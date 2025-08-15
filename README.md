@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerja yang hebat adalah pekerja yang mengerjakan pekerjaan sebaik mungkin dalam batas waktu yang diberikan."</em><br>
-  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Gadis perpustakaan (baca: kutu buku) mungkin terlihat sangat tenang, tapi di dalam kepalanya mereka sangat berpikir keras. Sama sekali berbeda dengan orang yang berisik tapi isi kepalanya kosong. Inilah perbedaan pesona dari gadis perpustakaan."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
