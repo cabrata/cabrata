@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apapun yang terjadi, aku akan selalu denganmu."</em><br>
-  — <strong>Yuno Gasai</strong>, <em>Mirai Nikki</em>
+  <em>"Masa depan itu sulit ditebak karena gelap gulita seperti jalanan di malam hari."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
