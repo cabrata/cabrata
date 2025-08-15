@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat menyukai seseorang kadang akan berakhir dengan air mata.
-Tapi menyukai seseorang bukanlah sesuatu yang salah."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Ketika ada yang menyatakan suka padamu, kamu akan merasa senang, geli, malu, tapi terasa nyaman di hati."</em><br>
+  — <strong>Rika Dobashi</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
