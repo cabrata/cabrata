@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Salah satu hal yang tidak aku mengerti dari hati manusia adalah sifat kepedulian.
-Seperti mau mengorbankan diri untuk menyelamatkan orang lain."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Jika seorang pria bersungguh-sungguh, apapun mungkin bisa diselesaikan dalam sehari."</em><br>
+  — <strong>Kurihara</strong>, <em>Prison School</em>
 </div>
 <!-- QUOTE END -->
 
