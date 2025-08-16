@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya manusia saja yang membutuhkan waktu untuk menjadi dewasa."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Bolehkah aku berjuang untuk membuatmu mencintaiku?"</em><br>
+  — <strong>Nozomi Matsunaga</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
