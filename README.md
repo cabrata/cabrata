@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam sebuah pertandingan, kau harus kuat agar dapat menikmati pertandingan itu."</em><br>
-  — <strong>Tadashi Yamaguchi</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Kehidupan itu seperti langit yang selalu bergerak dan berubah."</em><br>
+  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba</em>
 </div>
 <!-- QUOTE END -->
 
