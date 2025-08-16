@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengatakan hal bodoh bisa membuatmu bodoh."</em><br>
-  — <strong>Mai Sakurajima</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Kehidupan adalah gim busuk."</em><br>
+  — <strong>Fumiya Tomozaki</strong>, <em>Jaku-Chara Tomozaki-kun</em>
 </div>
 <!-- QUOTE END -->
 
