@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah bunga yang mekar dihatiku."</em><br>
-  — <strong>Santana</strong>, <em>Canaan</em>
+  <em>"Petualangan seribu mil harus dimulai dengan satu langkah!"</em><br>
+  — <strong>Kongou</strong>, <em>Kantai Collection: KanColle</em>
 </div>
 <!-- QUOTE END -->
 
