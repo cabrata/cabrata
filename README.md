@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada banyak hal yang takkan berubah meski kita memikirkannya."</em><br>
-  — <strong>Ichiko Rokujou</strong>, <em>Kakushigoto</em>
+  <em>"Masalahnya, bagaimana aku bisa mengatasi ini? Bagaimana (caranya agar) aku dapat mengembalikan keadaan ini? Apa aku harus meminta bantuan? Kenapa aku jadi bergantung pada orang lain?
+Hubungan antara manusia hanya akan menimbulkan ketergantungan."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
