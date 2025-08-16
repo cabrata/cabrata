@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bolehkah aku berjuang untuk membuatmu mencintaiku?"</em><br>
-  — <strong>Nozomi Matsunaga</strong>, <em>Nijiiro Days</em>
+  <em>"Pertama, kau harus memutuskan dimana seharusnya kau berada. Dengan begitu, kau bisa memutuskan apa yang ingin kau lakukan."</em><br>
+  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
