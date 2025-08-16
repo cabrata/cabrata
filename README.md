@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, pemain di seusiamu masih bisa memaksakan diri untuk berjuang. Tapi, jikalau ingin jadi juara dunia, kau juga harus berani mengibarkan bendera putih."</em><br>
-  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
+  <em>"Tak peduli sebanyak apapun kau mencoba. Percuma menutupinya dengan kata-kata, bakat yang belum terlatih adalah fakta kehidupan."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
