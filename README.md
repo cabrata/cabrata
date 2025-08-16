@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan itu seperti langit yang selalu bergerak dan berubah."</em><br>
-  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Senyumlah saat sedang dalam masalah."</em><br>
+  — <strong>Canaria Utara</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
