@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang terjadi, aku akan mewujudkan mimpi ini! Jika aku tak bisa melakukannya, aku bukanlah laki-laki !"</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Di dunia ini ada banyak hal yang tidak bisa dijelaskan hanya dengan kata-kata saja."</em><br>
+  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge</em>
 </div>
 <!-- QUOTE END -->
 
