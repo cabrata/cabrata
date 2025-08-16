@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh menertawakan tindakan seseorang, kau pun bebas mengatakan apapun tentang mereka. Tapi jangan pernah kau menertawakan perasaan mereka."</em><br>
-  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Aku berlari lebih cepat dari siapa pun karena kamu melihat dan mendukungku.
+Alasan kenapa aku berlari dengan cepat, alasan aku ingin menjadi cantik, dan alasan aku ingin jatuh cinta adalah karenamu!"</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
