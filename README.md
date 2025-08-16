@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Membereskan orang jahat seperti mereka itu perlu dilakukan demi kebaikan mereka sendiri dan masyarakat."</em><br>
-  — <strong>Ekubo</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Di dunia ini ada bermacam-macam cerita. Tapi aku tidak peduli dengan semua itu. (Karena) yang ingin ku ketahui adalah cerita tentangmu."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
