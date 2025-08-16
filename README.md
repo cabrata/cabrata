@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Otaku yang bersikap normal benar-benar membuat kesal."</em><br>
-  — <strong>Hanako Koyanagi</strong>, <em>Wotaku ni Koi wa Muzukashii</em>
+  <em>"Kesenangan takkan pernah berlangsung lama. Begitulah kehidupan."</em><br>
+  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
 </div>
 <!-- QUOTE END -->
 
