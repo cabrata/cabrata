@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengabdikan diri untuk pendidikan adalah suatu bentuk kerja keras."</em><br>
-  — <strong>Mayoi Hachikuji</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Ditegur bukanlah hal yang buruk. Itu bukti kalau seseorang sedang memperhatikan kita."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
