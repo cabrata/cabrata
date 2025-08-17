@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua punya hati. Jadi wajar kalau memiliki hasrat terpendam."</em><br>
-  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke 2nd Season</em>
+  <em>"Kau pria yang berhati dingin, ya.... Tapi aku jadi menyukaimu."</em><br>
+  — <strong>Zero</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
 </div>
 <!-- QUOTE END -->
 
