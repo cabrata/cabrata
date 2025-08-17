@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam permainan (judi) aku benci situasi ketika mengetahui aku pasti menang atau pasti kalah."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Tentu saja, (saat menyerang) serangan pertama itu paling penting. Tapi serangan berikutnya juga sama pentingnya.
+(karena) saat melawan musuh yang kuat, ada kemungkinan kalau serangan pertamamu akan dihindari. Jadi akurasi serangan kedua dan ketigamu bisa membuat perbedaan antara menang dan kalah."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
