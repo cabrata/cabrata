@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak tahu bagaimana masa depanku nanti, tapi aku ingin belajar dengan giat agar dapat membantu (banyak orang)."</em><br>
-  — <strong>Kaito</strong>, <em>Konohana Kitan</em>
+  <em>"Jika cintamu tidak terbalas, kau harus segera move on darinya."</em><br>
+  — <strong>Izumi Takanashi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
