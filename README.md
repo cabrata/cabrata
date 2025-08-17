@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memikirkan kegagalan adalah hal yang bodoh."</em><br>
-  — <strong>Lupusregina Beta</strong>, <em>Overlord III</em>
+  <em>"Dalam permainan (judi) aku benci situasi ketika mengetahui aku pasti menang atau pasti kalah."</em><br>
+  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
 </div>
 <!-- QUOTE END -->
 
