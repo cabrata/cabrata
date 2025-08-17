@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Umat manusia adalah nama binatang yang tidak bisa menikmati hidup tanpa berkorban. Kebohongan indah bernama "kesetaraan" hanya diucapkan oleh orang lemah yang tidak bisa melihat dalam kegelapan. Itu hanya sekedar alasan untuk menutupi hidupnya yang buruk."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Memang benar, pemain di seusiamu masih bisa memaksakan diri untuk berjuang. Tapi, jikalau ingin jadi juara dunia, kau juga harus berani mengibarkan bendera putih."</em><br>
+  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
