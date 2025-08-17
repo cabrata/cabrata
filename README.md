@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau berada satu langkah di depanku, maka aku akan mengambil dua langkah, sepuluh, bahkan seratus langkah di depanmu! Aku takkan membiarkan semua ini berakhir begitu saja."</em><br>
-  — <strong>Takumi Aldini</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Kesetiaanmu sangatlah luar biasa! Jangan pernah kau nodai impian dan sumpah setiamu!"</em><br>
+  — <strong>Archer</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
