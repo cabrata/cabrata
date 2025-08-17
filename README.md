@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan biarkan orang lain menentukan nilai dirimu."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Aku tidak tahu bagaimana masa depanku nanti, tapi aku ingin belajar dengan giat agar dapat membantu (banyak orang)."</em><br>
+  — <strong>Kaito</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
