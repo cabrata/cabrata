@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Awalnya peluang selalu terlihat mustahil."</em><br>
-  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
+  <em>"Dengarkan kalian (para murid). Saat malam hari orang harus tidur. Karena nanti kalau sudah dewasa meskipun kalian benci begadang, tapi (keadaan membuat) kalian harus melakukannya. Selagi masih muda, kalian harus terbiasa hidup sehat."</em><br>
+  — <strong>Sensei</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
