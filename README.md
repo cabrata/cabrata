@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mudah berkata "pilihlah agar kau tidak menyesalinya", tapi hal itu mustahil. Tak peduli betapa kau memikirkan jalan yang akan kau pilih, pada akhirnya kau pasti akan menyesalkan suatu hal. Begitulah kita para manusia. Karena itulah, menurutku yang terpenting adalah perasaan kita yang sesungguhnya."</em><br>
-  — <strong>Glenn Radars</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
+  <em>"Bagiku setiap hari adalah perayaan. Perayaan untuk dunia ini dan dirimu."</em><br>
+  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
