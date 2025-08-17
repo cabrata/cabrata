@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling menyebalkan adalah ketika orang lain berisik saat kita menginginkan ketenangan."</em><br>
-  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Tautologi. "Dengan kesetiaan yang mumpuni, kau bahkan bisa menuhankan kepala sarden."
+Ini adalah pemahaman mendalam, tapi tidak berbeda dari kepercayaan baru.
+Pendapat mereka hanya tertinggal, sementara mereka meninggalkan kelompok mereka (yang berpikiran berbeda)."</em><br>
+  — <strong>Miyoshi</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
