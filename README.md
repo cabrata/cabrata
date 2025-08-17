@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci bocah yang hanya jago bicara saja !"</em><br>
-  — <strong>Fumio Daimidou</strong>, <em>Shokugeki no Souma</em>
+  <em>"Awalnya peluang selalu terlihat mustahil."</em><br>
+  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
