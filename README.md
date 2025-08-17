@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya orang bodoh yang ingin membantu orang lain tapi malah lupa dengan bantuannya."</em><br>
-  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Jika dirimu tak pantas bahagia, maka aku yang akan menanggungnya. Jika harus menebus semua dosa itu, mari kita tebus bersama."</em><br>
+  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
