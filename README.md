@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengarkan kalian (para murid). Saat malam hari orang harus tidur. Karena nanti kalau sudah dewasa meskipun kalian benci begadang, tapi (keadaan membuat) kalian harus melakukannya. Selagi masih muda, kalian harus terbiasa hidup sehat."</em><br>
-  — <strong>Sensei</strong>, <em>Yofukashi no Uta</em>
+  <em>"Berbeda denganku, kalian semua lahir dari negara yang tak begitu berbahaya. Bersyukurlah dan gunakan semua yang kalian punya, untuk membuat kalian bersinar sebagai perempuan."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
