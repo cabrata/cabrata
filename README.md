@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sangat menyukai kerendahan hatimu yang bahkan tak kausadari telah menjadi daya tarikmu."</em><br>
-  — <strong>Neko Fujinomiya</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Tidak ada seorang pun yang akan menertawakan orang yang berusaha keras."</em><br>
+  — <strong>Naruzou Machio</strong>, <em>Dumbbell Nan Kilo Moteru?</em>
 </div>
 <!-- QUOTE END -->
 
