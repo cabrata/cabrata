@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat ada seseorang yang ingin menegakkan keadilannya, maka (di lain sisi) pasti ada orang lain yang akan kehilangan keadilan mereka. Karena itu pahlawan memanglah egois. Pahlawan yang tak memiliki kemampuan tapi ingin bertarung dan menyelamatkan banyak orang tanpa mengandalkan kekuatan itu (hanyalah) orang arogan. Tapi jika orang bodoh seperti itu memang ada, mereka hanya akan jadi pengganggu saja. Apa yang diperlukan oleh pahlawan sebenarnya adalah kekuatan untuk mewujudkan ideologinya menjadi nyata dan keteguhan hati untuk memaksakan keadilan yang diyakininya pada orang lain."</em><br>
-  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
+  <em>"Jika kau punya hak untuk hidup, kami juga punya. Meskipun aku yakin, setiap manusia memiliki pemikirannya sendiri mengenai "hak". Pokoknya, kami akan melakukan apapun untuk hidup."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
