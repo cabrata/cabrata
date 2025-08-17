@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika terus melarikan diri, kau takkan pernah bisa bangkit dan maju."</em><br>
-  — <strong>Elena Fujisawa</strong>, <em>Hanebado!</em>
+  <em>"Mencoba mengalahkan seseorang dengan cara licik sama saja dengan merendahkan dirimu sendiri. Jangan menginjak-nginjak semua kerja keras dan kepercayaan yang selama ini telah kau bangun."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
