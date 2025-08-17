@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Beda orang, beda pandangan. Rasa sayang itu ada macam-macam bentuknya."</em><br>
-  — <strong>Kakek Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Kau takkan bisa merasa puas jika tidak membebaskan dirimu sendiri."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
