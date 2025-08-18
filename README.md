@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat memang penting, tapi aku (lebih) cemburu dengan orang yang punya tujuan hidup."</em><br>
-  — <strong>Atomu Kai</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Mozart bilang, "Mulailah perjalananmu". Tak ada yang tahu kedepannya nanti akan seperti apa. Tapi, aku sudah mengambil satu langkah maju. (Meski begitu) kita baru memulai perjalanan kita. Aku sama sepertimu, seorang pemusik. Karena itulah aku melangkah maju."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
