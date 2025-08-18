@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dari 490 kekalahan yang dia alami, tidak ada satu pun yang ia sia-siakan."</em><br>
-  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
+  <em>"Bolehkah aku berjuang untuk membuatmu mencintaiku?"</em><br>
+  — <strong>Nozomi Matsunaga</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
