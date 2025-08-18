@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senapan tidak akan mengkhianatimu."</em><br>
-  — <strong>Pitohui</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
+  <em>"Kita harus saling membantu satu sama lain."</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
