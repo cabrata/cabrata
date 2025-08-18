@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di lingkungan orang-orang dewasa, setiap kerja keras akan selalu mendapat imbalan."</em><br>
-  — <strong>Yoshifumi Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Tak peduli walapun (kita) berada di dalam kekacauan, kita (pasti) bisa menemukan jalan hidup yang indah bagi diri kita sendiri."</em><br>
+  — <strong>Shigeshige Tokugawa</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
