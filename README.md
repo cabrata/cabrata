@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan kalian baru saja dimulai. Mungkin kedepan ada hal yang tidak berjalan dengan baik. Namun, meskipun gagal, kalian masih bisa memulainya kembali karena jalan kalian masih panjang. Justru ketidak sempurnaan lah yang membuat manusia jadi lebih baik. Jangan terburu-buru, jangan takut, yakinlah pada diri sendiri.Temukan jalan kalian untuk melangkah maju."</em><br>
-  — <strong>Kokoro Amatsu</strong>, <em>ReLIFE: Kanketsu-hen</em>
+  <em>"Saat tak ada orang di dunia ini yang percaya padamu, bahkan saat kau tak percaya pada dirimu sendiri, aku akan tetap percaya padamu!"</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
