@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Apa yang membuatmu mempercayaiku?)
-Aku tak punya dasar, tapi aku mungkin akan tetap mempercayaimu. Aku ingin terus mempercayaimu, karena aku suka padamu."</em><br>
-  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 2: Satsujin Kousatsu (Zen)</em>
+  <em>"Waktu terus berjalan, bagi Watari maupun Kausei. Meski mereka takut, terluka, meski mereka tak bisa melihat ke depan, mereka masih mencari sesuatu (jalan menuju cita - citanya). Mereka mengambil langkah demi langkah untuk mengumpulkan keberanian, mereka saling menginspirasi, saling mendukung, lalu mereka mencoba untuk maju. Hanya aku yang tak mengambil langkah (untuk mencapai keinginanku). Hanya aku yang waktunya berhenti."</em><br>
+  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
