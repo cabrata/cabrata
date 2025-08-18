@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mozart bilang, "Mulailah perjalananmu". Tak ada yang tahu kedepannya nanti akan seperti apa. Tapi, aku sudah mengambil satu langkah maju. (Meski begitu) kita baru memulai perjalanan kita. Aku sama sepertimu, seorang pemusik. Karena itulah aku melangkah maju."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Aku ingin bergandengan tangan denganmu. Lalu... terkadang aku juga ingin berpelukan denganmu. Maafkan aku karena tak sepolos seperti yang kau pikirkan."</em><br>
+  — <strong>Rinko Yamato</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
