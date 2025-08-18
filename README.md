@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat tak ada orang di dunia ini yang percaya padamu, bahkan saat kau tak percaya pada dirimu sendiri, aku akan tetap percaya padamu!"</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Apakah kekalahan membuktikan bahwa kalian itu lemah?
+Bukankah bagi kalian "kalah" itu lebih terlihat seperti ujian?
+Apa kalian bisa berdiri dan berjalan lagi setelah kalian terjatuh.
+Jika kalian tetap duduk di situ, justru itulah yang membuktikan bahwa kalian lemah."</em><br>
+  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
