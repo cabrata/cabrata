@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kita membantu orang lain pada akhirnya akan berujung pada kebaikan pada diri kita sendiri."</em><br>
-  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba: Katanakaji no Sato-hen</em>
+  <em>"Kalau terkenal di internet saja dapat menghasilkan banyak uang, pasti kau akan merasa kalau pergi bekerja adalah tindakan yang bodoh."</em><br>
+  — <strong>Shuusei Kagari</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
