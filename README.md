@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau melihat ke bawah dari tempat setinggi ini, kota (jadi) terlihat kecil ya?
-Tapi, aku lahir disini, besar disini... dan jatuh cinta disini."</em><br>
-  — <strong>Kaoru Tanamachi</strong>, <em>Amagami SS</em>
+  <em>"Tak peduli bagaimana caramu memandang, kebenaran takkan ditemukan jika tertutup awan."</em><br>
+  — <strong>Igor Neuhaus</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
