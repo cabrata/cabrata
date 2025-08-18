@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Apakah mungkin seseorang bisa menang melawan orang yang lebih besar darinya?)
-Manusia bukanlah monyet. Jadi selama kau bisa memakai otakmu kau bisa menang."</em><br>
-  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Selama dua tahun ini kita sudah berusaha kan?
+Kita berjuang bersama. Kita akan raih mimpi bersama! Aku takkan memaafkanmu jika kau menyerah semudah itu!"</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
