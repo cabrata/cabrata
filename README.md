@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bergabung dengan orang yang bersungguh-sungguh sedangkan kamu hanya setengah hati (menjalaninya), itu tindakan yang paling tidak sopan."</em><br>
-  — <strong>Madoka Yachi</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Selama ini aku hanya bisa tersakiti, selama ini aku hanya bisa menangis, selama ini aku hanya bisa merasa sakit, selama ini aku hanya bisa mempertaruhkan nyawaku dalam pertarungan... Dan hadiah yang kudapatkan (dari itu semua) adalah nama dan senyumnya yang sederhana."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
