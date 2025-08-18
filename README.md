@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah di planet (Bumi) ini orang mau membantu sesamanya itu hanya karena menginginkan balasan?"</em><br>
-  — <strong>Nino</strong>, <em>Arakawa Under the Bridge</em>
+  <em>"Tak ada orang yang suka padamu, karena sifatmu yang tak mau menerima apa yang dikatakan orang."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
