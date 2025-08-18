@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama dua tahun ini kita sudah berusaha kan?
-Kita berjuang bersama. Kita akan raih mimpi bersama! Aku takkan memaafkanmu jika kau menyerah semudah itu!"</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Lak-laki itu sejak dulu ditakdirkan tidak pekaan."</em><br>
+  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
