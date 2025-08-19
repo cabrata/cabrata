@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memakai alasan untuk lari akan membuatmu terlihat menyedihkan."</em><br>
-  — <strong>Hikari Takanashi</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Rasa sakit di kakiku suatu saat (pasti) akan hilang. Tapi, penyesalan takkan (pernah) hilang."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
