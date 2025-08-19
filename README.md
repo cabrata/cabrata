@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walau dunia ini memusuhimu, aku akan tetap di sampingmu."</em><br>
-  — <strong>Miyabi Azumaya</strong>, <em>Dimension W</em>
+  <em>"Rasa sakit di kakiku suatu saat (pasti) akan hilang. Tapi, penyesalan takkan (pernah) hilang."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
