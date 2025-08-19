@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kamu seorang otaku, tapi jangan anggap dirimu tidak penting."</em><br>
-  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Catur adalah permainan informasi dua pemain yang berbasis hitungan matematis.
+Dalam permainan ini tak ada yang namanya "keberuntungan"."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
