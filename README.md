@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di lingkungan orang-orang dewasa, setiap kerja keras akan selalu mendapat imbalan."</em><br>
-  — <strong>Yoshifumi Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Ternyata aku yang tidak merasa adanya dinding antara diriku dengan Kazehaya...
+Dinding yang ingin ku hancurkan. Kazehaya dengan mudah menghancurkannya dengan satu senyuman."</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
