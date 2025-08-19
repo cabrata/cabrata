@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau aku merasa kesakitan hanya karena hal seperti ini, aku tak pantas menjadi pengawal Tuan Putri!"</em><br>
-  — <strong>Seishirou Tsugumi</strong>, <em>Nisekoi</em>
+  <em>"Aku suka dengan orang yang punya tujuan hidup. Aku suka dengan orang yang pekerja keras."</em><br>
+  — <strong>Nanami Aoyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
