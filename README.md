@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski tidak diperbolehkan, harusnya aku tetap memberitahukan keinginanku!"</em><br>
-  — <strong>Mamiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Membenci sesuatu yang kamu cintai adalah perasaan yang menyakitkan."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
