@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita para manusia adalah makhluk yang menyedihkan. Kita menolak setiap hal yang kita takuti. Kita menyerah karena kita tidak mengerti. Sifat pengecut manusia telah melahirkan peperangan."</em><br>
-  — <strong>Biba Amatori</strong>, <em>Koutetsujou no Kabaneri</em>
+  <em>"Bukan rencana pamungkas namanya kalau tidak dirahasiakan."</em><br>
+  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
