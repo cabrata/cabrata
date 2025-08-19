@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""skakmat" bukan berarti kau menyudutkan raja lawan. Itu adalah pernyataan bahwa raja lawan menjadi milikmu."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Langkah demi langkah nadiku berdenyut. Kanan kah? Kiri kah? Pergi kah? Kembali kah?
+Benar, salah, mengejutkan, kebahagiaan, kesepian. Walaupun tersesat di labirin (dunia) ini, aku kan tetap melangkah. (Karena) aku ingin tahu apa yang menantiku di belokan berikutnya."</em><br>
+  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge x Bridge</em>
 </div>
 <!-- QUOTE END -->
 
