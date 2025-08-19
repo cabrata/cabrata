@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau Jepang kalah perang, orang - orang akan bersumpah setia secara serentak terhadap apa yang sama sekali berbeda sebelumnya (sumpah setia pada negara yang mengalahkannya)."</em><br>
-  — <strong>Kaminaga</strong>, <em>Joker Game</em>
+  <em>"Jangan ketakutan! Jika kita jatuh, jatuhlah ke depan!"</em><br>
+  — <strong>Yuu Nishinoya</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
