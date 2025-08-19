@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ternyata aku yang tidak merasa adanya dinding antara diriku dengan Kazehaya...
-Dinding yang ingin ku hancurkan. Kazehaya dengan mudah menghancurkannya dengan satu senyuman."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Dewa itu bisa ada di mana pun, bisa juga tidak ada di mana pun."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
