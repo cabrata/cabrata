@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rasa sakit di kakiku suatu saat (pasti) akan hilang. Tapi, penyesalan takkan (pernah) hilang."</em><br>
-  — <strong>Naho Takamiya</strong>, <em>Orange</em>
+  <em>"Semua orang hidup dengan melihat ke masa depan. Semua impian masa depan didasarkan dari diri kita saat ini."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
 </div>
 <!-- QUOTE END -->
 
