@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan adalah gim busuk."</em><br>
-  — <strong>Fumiya Tomozaki</strong>, <em>Jaku-Chara Tomozaki-kun</em>
+  <em>"Aku akan menyelamatkannya karena dia adalah temanku. Kalau ada orang yang membuatnya menderita, aku tidak akan memaafkannya!"</em><br>
+  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya 3rei!!</em>
 </div>
 <!-- QUOTE END -->
 
