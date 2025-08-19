@@ -5,10 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak masalah jika kau cemas, tapi jangan memaksakan dirimu.
-Jika ingin menangis, menangislah.
-(Karena) menangis bukan berarti lemah."</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS</em>
+  <em>"24 jam dalam satu hari itu tidak cukup. Apakah kamu pernah merasakan seperti itu?
+Aku ingin melakukan semua hal yang ingin kulakukan. Tapi, tidak bisa (karena waktunya tak cukup)."</em><br>
+  — <strong>Yuuka Kobayakawa</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
