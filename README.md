@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Hanya) semua inilah yang kumiliki.., Mengajarimu dalam belajar, adik kelas yang manis, seorang ayah yang pekerja keras, kemudian langit berbintang ini. Yang aku miliki hanya sebatas ini. Hanya sebatas inilah yang bisa kuberikan padamu."</em><br>
-  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
+  <em>"Semua musik dimulai dengan cinta.
+Cinta dan kematian adalah tema abadi musik."</em><br>
+  — <strong>Sapphire Kawashima</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
