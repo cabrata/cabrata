@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau akan membenci dirimu sendiri jika kau melakukan apa yang kau benci."</em><br>
-  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Kalau kita bekerja sebagai politikus, kita akan dikelilingi oleh kebohongan."</em><br>
+  — <strong>Shizuka Takanashi</strong>, <em>Working!!! Lord of the Takanashi</em>
 </div>
 <!-- QUOTE END -->
 
