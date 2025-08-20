@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bilang kau akan menjadi yang nomor satu di Tootsuki. Mulai saat ini, kata-kata yang kau ucapkan itu akan menjadi beban buatmu."</em><br>
-  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
+  <em>"Dalam undian, kau takkan bisa menang kalau kau tak membeli tiket.
+Sama seperti manga, kau takkan bisa menjadi "seniman" jika kau tak menggambarnya."</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
