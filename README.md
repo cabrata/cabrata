@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tujuan hidupku adalah untuk menjadikanmu sebagai laki-laki baru yang akan hidup bahagia."</em><br>
-  — <strong>Rin Tohsaka</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Tubuh manusia itu tak lebih dari sekedar wadah yang sederhana. Karena itulah, sebesar apapun luka yang didapat, perasaanku padamu takkan pernah berubah."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
