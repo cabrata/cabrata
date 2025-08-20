@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bagaimana rasanya mencintai seseorang? Pada saat apa kamu mulai berpikir bahwa itu cinta?)Saat (melihat) orang yang kau cintai senang, kau juga ikut senang."</em><br>
-  — <strong>Kouichi Sanada</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Menurutku fotografi itu seperti meminjam mata orang lain. Jadi, meskipun matamu tertutup, kau masih bisa (melihat dengan) meminjam (mata) milik orang lain."</em><br>
+  — <strong>Maria Oosawa</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
