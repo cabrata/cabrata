@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Biasanya, sebuah idol group haruslah serasi, tapi kita berbeda-beda. Kita telah menghabisakan banyak waktu bersama, saling menerima kekurangan dan kelebihan masing-masing. Sehingga kita bisa sampai seterkenal ini. Bukankah itu adalah hal yang sangat hebat dari kita? Itulah yang kusuka dari μ's."</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Meskipun di depan hanya akan ada jalan buntu ataupun keputusasaan, tapi setidaknya kami ingin berjalan di jalan yang kami pilih."</em><br>
+  — <strong>Sieg</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
