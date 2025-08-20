@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memiliki sesuatu untuk dilindungi menjadikanmu seorang pejuang."</em><br>
-  — <strong>Ruijerd Superdia</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu</em>
+  <em>"Aku suka dengan orang yang bahagia. Melihat mereka saja membuatku merasa bahagia.
+(Tapi) yang kubenci adalah mereka yang tidak tahu alasan kebahagiaan mereka.
+Mereka yang tak peduli kenapa mereka bahagia."</em><br>
+  — <strong>Sodachi Oikura</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
