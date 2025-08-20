@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku mempercayai kekuatanmu, kata-katamu dan senyummu."</em><br>
-  — <strong>Minato Sahashi</strong>, <em>Sekirei</em>
+  <em>"(Pacaran itu) bukan untuk mencintai, tapi untuk "jatuh" cinta."</em><br>
+  — <strong>Aguri</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
