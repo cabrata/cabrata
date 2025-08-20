@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku yakin banyak pemusik yang mengalami hal sepertimu (gemetar ketika mau tampil dipanggung)! "mana mungkin aku bisa melakukannya" atau "kalau begitu, kau saja yang main". Meski begitu, mereka mengambil lagi partitur musiknya dan bermain lagi. Begitulah caranya menciptakan kebohongan yang paling indah."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Nenek bilang "kalau kamu menangisi orang yang sudah meninggal, maka orang itu juga akan ikut sedih"."</em><br>
+  — <strong>Winry Rockbell</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
