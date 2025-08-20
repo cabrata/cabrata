@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau seperti kucing. Saat aku mendekatimu, kau berbalik arah dan pergi menjauh. Saat aku terluka, kau mendekat dan ingin berbagi rasa sakitnya."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Jika harapanku bisa terkabulkan. Jika apa yang kuinginkan bisa kudapatkan.
+Sepertinya, aku tidak ingin mengharapkan atau menginginkan sesuatu.
+Sesuatu yang diberikan padaku, pasti itu adalah kepalsuan dan akan hilang suatu saat nanti.
+Karena itu, aku akan terus mencarinya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
