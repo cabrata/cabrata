@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang aneh memang menarik."</em><br>
-  — <strong>Shunma Suruga</strong>, <em>Re:CREATORS</em>
+  <em>"Mereka bilang dunia akan berubah jika kau berubah, tapi itu bohong.
+Mereka hanya memaksamu untuk berkompromi dengan berbohong."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
