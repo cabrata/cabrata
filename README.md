@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pengorbanan diri bukanlah sesuatu yang layak dicontoh."</em><br>
-  — <strong>Arash</strong>, <em>Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram</em>
+  <em>"Kerja keras yang didasari dengan alasan itu takkan membuahkan hasil."</em><br>
+  — <strong>Sumireko Sanshokuin</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
 </div>
 <!-- QUOTE END -->
 
