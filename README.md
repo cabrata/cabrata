@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Membuat kerjaan besar menjadi kecil dan mudah diselesaikan adalah pekerjaan seorang programmer."</em><br>
-  — <strong>Ryuunosuke Akasaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Hanya duduk membicarakan mimpi kita, takkan membuatnya nyata."</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
