@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada banyak hal yang lebih penting daripada sekedar absen sekolah."</em><br>
-  — <strong>Iroha Igarashi</strong>, <em>3D Kanojo: Real Girl</em>
+  <em>"Apapun yang terjadi, aku akan selalu berada dipihakmu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
