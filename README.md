@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dengan orang yang bahagia. Melihat mereka saja membuatku merasa bahagia.
-(Tapi) yang kubenci adalah mereka yang tidak tahu alasan kebahagiaan mereka.
-Mereka yang tak peduli kenapa mereka bahagia."</em><br>
-  — <strong>Sodachi Oikura</strong>, <em>Owarimonogatari</em>
+  <em>"Voli adalah olahraga yang tidak memperbolehkan pemain untuk memegang bola. Kau hanya boleh menyentuh bolanya selama beberapa detik saja. Karena itu, kau harus menguasai momen singkat itu, dan anggap bola itu sebagai bagian dari tubuhmu."</em><br>
+  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
