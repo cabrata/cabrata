@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin menyalahkan seseorang karena tak ada yang berubah (dalam hidupku). Tapi aku salah. (Ternyata) jika aku ingin, bahkan dunia pun bisa berubah warna dalam sekejap."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Aku yakin banyak pemusik yang mengalami hal sepertimu (gemetar ketika mau tampil dipanggung)! "mana mungkin aku bisa melakukannya" atau "kalau begitu, kau saja yang main". Meski begitu, mereka mengambil lagi partitur musiknya dan bermain lagi. Begitulah caranya menciptakan kebohongan yang paling indah."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
