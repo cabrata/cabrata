@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menghancurkan dan menciptakan itu seperti dua sisi koin. Dengan kata lain, itu adalah hukum alam semesta."</em><br>
-  — <strong>Alex Louis Armstrong</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Aku pria lemah yang lari dari masalah dengan minum sake."</em><br>
+  — <strong>Paul Greyrat</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu Part 2</em>
 </div>
 <!-- QUOTE END -->
 
