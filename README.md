@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku fotografi itu seperti meminjam mata orang lain. Jadi, meskipun matamu tertutup, kau masih bisa (melihat dengan) meminjam (mata) milik orang lain."</em><br>
-  — <strong>Maria Oosawa</strong>, <em>Canaan</em>
+  <em>"Setiap pertahanan pasti memiliki celah."</em><br>
+  — <strong>Wakatoshi Ushijima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
