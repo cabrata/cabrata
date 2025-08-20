@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang terlalu memusingkan peringkat seseorang itu sama sekali tidak spesial."</em><br>
-  — <strong>Kasumi Chigusa</strong>, <em>Qualidea Code</em>
+  <em>"Memiliki sesuatu untuk dilindungi menjadikanmu seorang pejuang."</em><br>
+  — <strong>Ruijerd Superdia</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu</em>
 </div>
 <!-- QUOTE END -->
 
