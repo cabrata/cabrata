@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Profesi polisi) hanya menjamin penghasilan saja. Sebaliknya, fisik dan mental tidak terjamin."</em><br>
-  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Aku mempercayai kekuatanmu, kata-katamu dan senyummu."</em><br>
+  — <strong>Minato Sahashi</strong>, <em>Sekirei</em>
 </div>
 <!-- QUOTE END -->
 
