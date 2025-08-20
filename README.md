@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku pria lemah yang lari dari masalah dengan minum sake."</em><br>
-  — <strong>Paul Greyrat</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu Part 2</em>
+  <em>"(Bagaimana rasanya mencintai seseorang? Pada saat apa kamu mulai berpikir bahwa itu cinta?)Saat (melihat) orang yang kau cintai senang, kau juga ikut senang."</em><br>
+  — <strong>Kouichi Sanada</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
