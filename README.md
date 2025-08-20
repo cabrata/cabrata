@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mudah berkata "pilihlah agar kau tidak menyesalinya", tapi hal itu mustahil. Tak peduli betapa kau memikirkan jalan yang akan kau pilih, pada akhirnya kau pasti akan menyesalkan suatu hal. Begitulah kita para manusia. Karena itulah, menurutku yang terpenting adalah perasaan kita yang sesungguhnya."</em><br>
-  — <strong>Glenn Radars</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
+  <em>"Aku tidak pernah pandai berkata-kata, tapi karena Akademi dan pertemanan yang kubuat di sini aku tidak kesepian lagi. Jadi seperti inilah caraku membalas budi pada desa ini, dengan menjadi seorang guru."</em><br>
+  — <strong>Shino Aburame</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
