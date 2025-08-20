@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, akulah yang gila. Aku dibutakan delusi chuunibyou dan terpengaruh rasa keadilan murahan."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Kekuatan yang terlalu besar akan menghancurkan sekelilingnya."</em><br>
+  — <strong>Koushi Usa</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
