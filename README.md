@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang ada hal yang tak bisa sampaikan pada seseorang meskipun orang itu dekat denganmu."</em><br>
-  — <strong>Nanami Aoyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Ada banyak hal yang lebih penting daripada sekedar absen sekolah."</em><br>
+  — <strong>Iroha Igarashi</strong>, <em>3D Kanojo: Real Girl</em>
 </div>
 <!-- QUOTE END -->
 
