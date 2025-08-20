@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa jauh kau terjatuh di dalam kegelapan, kau masih memiliki keberanian untuk mengulurkan tanganmu."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Hidup adalah dengan menggerakan hati seseorang. Dengan melakukan hal itu, bukankah itu yang dinamakan hidup? Menerima seseorang. Menyukai seseorang. Membenci seseorang. Merasa senang saat bersama seseorang. Menggenggam tangan seseorang. Itulah hidup."</em><br>
+  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
 
