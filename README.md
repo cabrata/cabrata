@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walaupun kamu tidak punya uang, kamu masih bisa cukup bersenang-senang, asalkan ada cinta."</em><br>
-  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Imajinasi adalah senjata. Orang yang tak memilikinya akan mati."</em><br>
+  — <strong>Goblin Slayer</strong>, <em>Goblin Slayer</em>
 </div>
 <!-- QUOTE END -->
 
