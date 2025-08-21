@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita sadar bahwa kita tidak bisa bebas. Karena bebas itu hanyalah perasaan yang kosong dan sunyi. Dan demi alasan itu, kita menginginkan kebebasan. Layaknya harta karun di dalam (cerita) novel petualangan yang tak bisa didapatkan oleh siapa pun. Hidup berarti selalu terpenjara oleh sesuatu."</em><br>
-  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
+  <em>"Kunjunganmu merupakan obat terbaik yang dia miliki."</em><br>
+  — <strong>Ume Sawa</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
