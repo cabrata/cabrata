@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya mereka yang berkeinginan untuk melampaui batasannya dan berusaha untuk terus tumbuh dan berkembanglah yang bisa melewatinya. Merekalah generasi keajaiban!"</em><br>
-  — <strong>Senzaemon Nakiri</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Maafkan aku... Maafkan aku (karena) tak bisa menjadi gadis yang mengangis di pelukanmu. Maafkan aku yang memilih mengejar impianku daripada cintaku. Maafkan aku karena aku akan selalu mencintaimu."</em><br>
+  — <strong>Sayuka</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
