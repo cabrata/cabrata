@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Maafkan aku... Maafkan aku (karena) tak bisa menjadi gadis yang mengangis di pelukanmu. Maafkan aku yang memilih mengejar impianku daripada cintaku. Maafkan aku karena aku akan selalu mencintaimu."</em><br>
-  — <strong>Sayuka</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Kau adalah satu-satunya orang yang dapat menyelamatkan dirimu sendiri."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
