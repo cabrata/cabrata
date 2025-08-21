@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus membuang tujuan demi tujuanmu.
-Ambisi, keinginan, dendam... Kau harus singkirkan semua tujuan itu demi tujuan sejatimu."</em><br>
-  — <strong>Rinne Higaki</strong>, <em>Katanagatari</em>
+  <em>"Seiring bertambahnya usia, kita akan semakin khawatir tentang masa depan."</em><br>
+  — <strong>Santouka Taneda</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
 </div>
 <!-- QUOTE END -->
 
