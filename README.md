@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginan sejati dari kakak laki-laki adalah melihat setiap detail tubuh adik perempuannya. Barang kotor dan tak berguna seperti pakaian dalam hanya akan menghalangi kesucian tubuh adik perempuan yang indah."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Kita sadar bahwa kita tidak bisa bebas. Karena bebas itu hanyalah perasaan yang kosong dan sunyi. Dan demi alasan itu, kita menginginkan kebebasan. Layaknya harta karun di dalam (cerita) novel petualangan yang tak bisa didapatkan oleh siapa pun. Hidup berarti selalu terpenjara oleh sesuatu."</em><br>
+  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
