@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua manusia memiliki sifat bodoh yang sama. Makhluk yang lupa kalau suatu saat mereka akan mati. Saat mereka berhadapan dengan kematian, mereka bergantung pada kehidupan."</em><br>
-  — <strong>Ginti</strong>, <em>Death Parade</em>
+  <em>"Kalau ada gadis cantik yang sedang kesulitan, pria baik (pasti) akan menyelamatkannya."</em><br>
+  — <strong>Rita Ainsworth</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
