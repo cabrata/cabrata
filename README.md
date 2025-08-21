@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang terpenting adalah jangan menyerah. Suatu hari nanti, pasti pantang menyerah akan menjadi senjata terkuatmu."</em><br>
-  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
+  <em>"Kau masih saja membicarakan tentang tujuan hidup dan alasan kenapa kau dilahirkan?
+Tak pernah kubayangkan ada orang yang bingung karena hal seperti itu."</em><br>
+  — <strong>Shuusei Kagari</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
