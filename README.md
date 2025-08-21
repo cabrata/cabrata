@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau merasa malu, tunjukkan padaku sudah sedewasa apakah dirimu!"</em><br>
-  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist</em>
+  <em>"Kita (sedang) jatuh cinta. Memang tidak selalu berjalan dengan baik. Mungkin ada juga kesalahan di sana-sini. Tapi perasaan cinta pertama kita pasti menjadi hal yang berharga. Perasaan itu satu-persatu membawa kita ke masa mendatang."</em><br>
+  — <strong>Ayumi Arihara</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
