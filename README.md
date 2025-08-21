@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah satu-satunya orang yang dapat menyelamatkan dirimu sendiri."</em><br>
-  — <strong>Meme Oshino</strong>, <em>Bakemonogatari</em>
+  <em>"Semua yang terlibat dalam pembuatan film adalah kreator. Tak ada perbedaan di sana."</em><br>
+  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
