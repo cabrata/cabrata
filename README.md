@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang itu ada bukan untuk dipercaya, meskipun mereka keluarga. Kau tak boleh bergantung pada orang lain. Percayalah pada dirimu sendiri."</em><br>
-  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Keinginan semua manusia adalah (ingin) dicintai dan dipuji."</em><br>
+  — <strong>Hosokawa</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
