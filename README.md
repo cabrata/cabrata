@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bagaimana rasanya mencintai seseorang? Pada saat apa kamu mulai berpikir bahwa itu cinta?)Saat (melihat) orang yang kau cintai senang, kau juga ikut senang."</em><br>
-  — <strong>Kouichi Sanada</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Siapapun diri kita, selama kita bisa jujur memikirkan orang yang paling berharga dan bisa terus berada di sampingnya, maka semua orang yang melihatnya pun akan ikut bahagia."</em><br>
+  — <strong>Yayoi Kanbara</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
 </div>
 <!-- QUOTE END -->
 
