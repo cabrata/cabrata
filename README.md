@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhati-hatilah atas perkataan dan perbuatanmu. Kalau kata bertarung telah keluar dari bibirmu, maka takkan bisa kau tarik kembali."</em><br>
-  — <strong>Lancer</strong>, <em>Fate/Grand Order: First Order</em>
+  <em>"Teman adalah seseorang yang selalu bersama tak peduli apapun yang terjadi. Teman adalah seseorang yang dapat menanggung dosa bersama. Bukankah itu yang dinamakan teman?"</em><br>
+  — <strong>Yoshitake Tanaka</strong>, <em>Danshi Koukousei no Nichijou</em>
 </div>
 <!-- QUOTE END -->
 
