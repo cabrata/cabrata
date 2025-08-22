@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami tidak seperti manusia yang takut akan kematian. Karena kami sudah hidup cukup lama dan tidak meninggalkan penyesalan."</em><br>
-  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Air mata palsu dapat menyakiti orang lain. (Sedangkan) senyum palsu akan menyakiti dirimu sendiri."</em><br>
+  — <strong>C.C.</strong>, <em>Code Geass: Hangyaku no Lelouch</em>
 </div>
 <!-- QUOTE END -->
 
