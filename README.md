@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu tidak bisa hidup seorang diri, karena kehidupannya penuh dengan beban."</em><br>
-  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
+  <em>"Pertama, kau harus memutuskan dimana seharusnya kau berada. Dengan begitu, kau bisa memutuskan apa yang ingin kau lakukan."</em><br>
+  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
