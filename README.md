@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau boleh aku ingin bersamamu selamanya. Hanya dengan disampingmu saja itu sudah cukup. Tapi aku tak bisa memaksamu. Karena itu, kuserahkan diriku padamu. Sebagai gantinya, aku ingin kau menyerahkan hari-harimu bersama denganku."</em><br>
-  — <strong>Tsukasa Ayatsuji</strong>, <em>Amagami SS</em>
+  <em>"Semua hal yang terjadi di depanku adalah masalah yang hanya bisa diselesaikan oleh diriku sendiri."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
