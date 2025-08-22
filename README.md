@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah orang yang mengatakan aku tak bisa melakukannya sendiri. Jika kau benar, tidak ada yang perlu dikhawatirkan. (Karena aku akan selalu ada sisimu)."</em><br>
-  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
+  <em>"Ada kalanya, seorang pria memfokuskan diri mereka pada pekerjaan untuk melupakan suatu hal (yang ingin mereka lupakan)."</em><br>
+  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
