@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika bersama dengan Satou-kun, aku jadi bisa berjuang dalam berbagai hal. Duniaku jadi serasa lebih luas."</em><br>
-  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
+  <em>"Aku rasa semua orang pada awalnya juga mencoba dulu sebelum menyukainya. Kurasa kamu tidak perlu semangat tinggi atau alasan yang kuat untuk memulainya. Terkadang sesuatu yang kamu mulai perlahan-lahan akan menjadi hal yang penting bagimu. Untuk memulainya yang kamu perlukan hanya rasa keingintahuan."</em><br>
+  — <strong>Kiyoko Shimizu</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
