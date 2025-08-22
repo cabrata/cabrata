@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang selalu ingin mengetahui kebenaran, atau lebih tepatnya mereka ingin mempercayai apa yang diketahuinya itu benar. Jadi, kebenaran sebenarnya bukanlah hal yang utama."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Aku suka dengan hal-hal yang spesial. Atau lebih tepatnya, aku tertarik dengan hal-hal yang terlihat tabu. Jadi kupikir aku beruntung sekali (ternyata) orang yang kucintai adalah kerabat dekatku."</em><br>
+  — <strong>Azaka Kokutou</strong>, <em>Kara no Kyoukai 6: Boukyaku Rokuon</em>
 </div>
 <!-- QUOTE END -->
 
