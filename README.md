@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memiliki sifat tempramen boleh saja, tapi kalau kau tak bisa mengendalikannya kau bisa terbakar."</em><br>
-  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
+  <em>"Jika harapanku bisa terkabulkan. Jika apa yang kuinginkan bisa kudapatkan.
+Sepertinya, aku tidak ingin mengharapkan atau menginginkan sesuatu.
+Sesuatu yang diberikan padaku, pasti itu adalah kepalsuan dan akan hilang suatu saat nanti.
+Karena itu, aku akan terus mencarinya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
