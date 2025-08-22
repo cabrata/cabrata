@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Postur tubuh menentukan bagaimana orang lain melihatmu."</em><br>
-  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Dunia tidak akan menunggumu untuk mendapat keyakinan."</em><br>
+  — <strong>Hansung Yu</strong>, <em>Kami no Tou</em>
 </div>
 <!-- QUOTE END -->
 
