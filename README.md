@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesuatu yang lahir dari hal buruk itu adalah suatu hal yang imut. Melihat seseorang yang selalu terlihat sempurna itu tidak menarik."</em><br>
-  — <strong>Haruno Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Jika kau tidak punya keinginan yang besar, kau tak akan bisa menjadi mangaka terkenal."</em><br>
+  — <strong>Yoshihisa Heishi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
