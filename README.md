@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku memiliki kehidupan yang kosong, tak ada apapun kecuali perasaanku padamu.
-(Meskipun) aku juga tidak punya pedang, tapi hatiku ingin menjadi seorang kesatria."</em><br>
-  — <strong>Akitoshi Daimon</strong>, <em>Sket Dance</em>
+  <em>"Kau tidak bisa membawa uang atau benda berharga milikmu setelah meninggal dunia. Bukankah hanya kenangan berharga terhadap seseorang, dan dikenang oleh seseoranglah yang paling berharga kan?"</em><br>
+  — <strong>Ume Sawa</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
