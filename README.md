@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dari pada membiarkan seseorang mati, lebih baik aku mati bersamanya. Khususnya, jika itu menimpa gadis sepertimu."</em><br>
-  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
+  <em>"Jangan seenaknya mengejek sesuatu yang disukai seseorang."</em><br>
+  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
 </div>
 <!-- QUOTE END -->
 
