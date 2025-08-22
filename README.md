@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tahu tidak Kak, saat aku melihat konser µ's, aku merasakan emosi yang menggebu-gebu di dadaku. Mereka berlatih dengan keras dan mereka terlihat sangat menikmatinya!"</em><br>
-  — <strong>Arisa Ayase</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Kau adalah orang yang mengatakan aku tak bisa melakukannya sendiri. Jika kau benar, tidak ada yang perlu dikhawatirkan. (Karena aku akan selalu ada sisimu)."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
