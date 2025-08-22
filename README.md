@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ide tanpa idealisme itu tidak ada artinya."</em><br>
-  — <strong>Miko Iino</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Genos, sejak awal karena keinginan besarku yang ingin menjadi pahlawanlah yang mendorongku untuk berlatih sangat keras.
+karena itulah aku menjadi sekuat ini."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
