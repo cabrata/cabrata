@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua hal yang terjadi di depanku adalah masalah yang hanya bisa diselesaikan oleh diriku sendiri."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Hanya dengan menatapmu saja, aku merasa sangat bahagia."</em><br>
+  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
