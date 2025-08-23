@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus membuang tujuan demi tujuanmu.
-Ambisi, keinginan, dendam... Kau harus singkirkan semua tujuan itu demi tujuan sejatimu."</em><br>
-  — <strong>Rinne Higaki</strong>, <em>Katanagatari</em>
+  <em>"Akan aku ajari kamu tentang romansa burung yang tak bisa terbang sampai membekas di hatimu."</em><br>
+  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
