@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan itu suka kalau kita punya uang, laki-laki suka kalau kita punya daging."</em><br>
-  — <strong>Niwatori</strong>, <em>Gin no Saji</em>
+  <em>"Menjadi "orang dewasa" itu tidak selalu mengesankan. Terkadang "dewasa" itu hanya penampilan luarnya saja. Mereka (hanya) ingin terlihat mengagumkan di depan masyarakat, (dan) ingin dihormati oleh anak-anak."</em><br>
+  — <strong>Sakie Satou</strong>, <em>Demi-chan wa Kataritai</em>
 </div>
 <!-- QUOTE END -->
 
