@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pemimpin tidak perlu menunjukkan kekuatannya untuk membuat temannya patuh. Kekuatan hanya perlu digunakan untuk melindungi temannya."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Cinta bisa membuat hati seseorang berkilauan."</em><br>
+  — <strong>Shuu Igarashi</strong>, <em>Koi to Uso</em>
 </div>
 <!-- QUOTE END -->
 
