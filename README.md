@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang terlalu memusingkan peringkat seseorang itu sama sekali tidak spesial."</em><br>
-  — <strong>Kasumi Chigusa</strong>, <em>Qualidea Code</em>
+  <em>"Kau harus membuang tujuan demi tujuanmu.
+Ambisi, keinginan, dendam... Kau harus singkirkan semua tujuan itu demi tujuan sejatimu."</em><br>
+  — <strong>Rinne Higaki</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
