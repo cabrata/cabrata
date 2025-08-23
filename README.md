@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kita tidak bisa memperbaiki kesalahan di masa lalu, tapi setidaknya kita bisa mencegah agar kesalahan tidak terulang kembali."</em><br>
-  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Aku adalah Sang Ahli Pedang. Aku memang tak mengerti alasannya, tapi sekarang aku tahu. Penggenggam pedang untuk melindungi seseorang. Sepertinya alasan itu cocok untukku."</em><br>
+  — <strong>Theresia van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
