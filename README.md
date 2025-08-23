@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan."</em><br>
-  — <strong>Kurumi Ebisuzawa</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Manusia itu kuat karena memiliki kemampuan untuk mengubah dirinya sendiri."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
