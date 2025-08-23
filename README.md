@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bodoh itu masih wajar, tapi mengabaikan kebodohan diri sendiri itu adalah kejahatan besar."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>""</em><br>
+  — <strong>Masafumi Akagi</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
