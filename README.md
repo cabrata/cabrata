@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku memang tidak bisa diandalkan dan tidak bisa melakukan apapun. Tapi aku ada di sini. Aku akan selalu berada di sisimu."</em><br>
-  — <strong>Banri Tada</strong>, <em>Golden Time</em>
+  <em>"Peperangan itu benar-benar kejam. Entah kau menang atau kalah, kau selalu kehilangan lebih banyak dari pada apa yang kau peroleh."</em><br>
+  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
