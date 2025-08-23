@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang kau lakukan ataupun kau berubah, itu tidaklah penting. Lagipula, kau tetaplah kau."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Saat ini, aku hanya memikirkan bagaimana caranya mewujudkan pemikiranku. Aku akan menghidangkan tekadku dan semuanya di atas piring."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
