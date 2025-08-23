@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik jika hanya salah satu dari kita berkorban! Mungkin ini sulit, tapi tahanlah untuk sekarang."</em><br>
-  — <strong>Aqua</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
+  <em>"Jangan mengatakan pada orang lain mengenai apa yang sedang kau pikirkan."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
