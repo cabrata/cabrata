@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau Jepang kalah perang, orang - orang akan bersumpah setia secara serentak terhadap apa yang sama sekali berbeda sebelumnya (sumpah setia pada negara yang mengalahkannya)."</em><br>
-  — <strong>Kaminaga</strong>, <em>Joker Game</em>
+  <em>"Aku menulis novel sebagai hobi. Dan hobi yang tidak dilakukan dengan serius akan membosankan, 'kan? Karena ini hobiku, maka aku melakukannya sepenuh hati."</em><br>
+  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei</em>
 </div>
 <!-- QUOTE END -->
 
