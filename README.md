@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak ingin melewatkan tiap detik ataupun tiap meter denganmu. Setiap hari, dari mulai berangkat sampai pulang (sekolah) aku ingin bersama denganmu."</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Apa sesuatu yang terlupakan itu, memang seharusnya dilupakan?"</em><br>
+  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
