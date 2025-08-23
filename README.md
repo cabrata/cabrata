@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau terjebak di suatu lubang yang begitu dalam dan tak bisa keluar, maka aku akan masuk ke lubang yang sama denganmu untuk menyelamatkanmu."</em><br>
-  — <strong>Masaomi Kida</strong>, <em>Durarara!!x2 Ten</em>
+  <em>"Menuduh seseorang dengan pemikiran selektif dan proses eliminasi adalah cara yang keji."</em><br>
+  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
