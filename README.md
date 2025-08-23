@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu kuat karena memiliki kemampuan untuk mengubah dirinya sendiri."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Ini adalah aturan yang ku buat sendiri. Kalau tidak bisa mengikuti aturanku sendiri, tidak ada artinya aku menjadi diriku."</em><br>
+  — <strong>Nanana Ryuugajou</strong>, <em>Ryuugajou Nanana no Maizoukin</em>
 </div>
 <!-- QUOTE END -->
 
