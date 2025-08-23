@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika ada yang menyatakan suka padamu, kamu akan merasa senang, geli, malu, tapi terasa nyaman di hati."</em><br>
-  — <strong>Rika Dobashi</strong>, <em>Hatsukoi Limited</em>
+  <em>"Di Tootsuki, semua orang menunjukkan apakah dia layak atau tidak dengan kemampuannya sendiri. Apakah kau layak untuk tetap bertahan atau tidak, itu bergantung pada dirimu sendiri!"</em><br>
+  — <strong>Gin Doujima</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
