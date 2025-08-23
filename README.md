@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap pertahanan pasti memiliki celah."</em><br>
-  — <strong>Wakatoshi Ushijima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Aku ingin memiliki lebih banyak waktu menggambar manga. (Sebelum aku punya keinginan menjadi seniman manga pada usia muda) Aku tidak pernah menyadari waktu adalah hal yang berharga."</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
