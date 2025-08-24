@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"[Bagaimana caranya agar mati?]Mudah saja, "Teruslah Hidup". (Karena) semua makhluk hidup suatu saat pasti akan mati."</em><br>
-  — <strong>Sou</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Meskipun aku baru pertama kali melihatmu di konser, aku tetap akan menjadi penggemarmu. Aku selalu melihatmu, aku juga sudah banyak mengirimimu surat penggemar. Meski dalam keadaan sulit sekalipun, atau dalam keadaan sedih sekalipun, aku menyemangati diriku dengan mendengarkan lagu-lagumu. Terimakasih selalu menjadi teman bagiku."</em><br>
+  — <strong>Mayu Arita</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
