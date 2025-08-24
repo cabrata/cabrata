@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bagaimana rasanya mencintai seseorang? Pada saat apa kamu mulai berpikir bahwa itu cinta?)Bagiku, ketika aku menyadari itu aku selalu memikirkan tentangnya. Rasanya (dia) seperti tidak bisa pergi dalam pikiranku."</em><br>
-  — <strong>Yuumi Hoshino</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Orang genius adalah orang yang mendedikasikan dirinya pada satu hal dan satu arah dalam kehidupannya. Setiap orang dapat melakukan berbagai hal. Namun, orang yang fokus pada satu hal mendapatkan keuntungan lebih daripada melakukan banyak hal."</em><br>
+  — <strong>Jun Aikawa</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
