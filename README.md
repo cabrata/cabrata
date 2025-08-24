@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena aku masih anak-anak, sejujurnya aku tak begitu mengerti apa itu cinta. Tapi aku tahu kalau yang dirasakan Onee-san itu sungguhan.
-Aku pun juga, suatu saat nanti ingin seperti itu. Ketika ada seseorang yang kucintai, aku ingin punya perasaan yang kuat seperti itu."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Perjalanan dapat mempertemukan kita dengan sahabat dan cinta, perjalanan (juga) dapat membawa kesulitan dan kebahagiaan."</em><br>
+  — <strong>Rokurou Rangetsu</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
