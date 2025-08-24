@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita adalah anak muda yang masih berkembang. Ikatan pertemanan adalah harta karun paling berharga."</em><br>
-  — <strong>Tomomichi Motoyama</strong>, <em>Tsurezure Children</em>
+  <em>"Rasa sakit ini adalah bukti kalau aku hidup.Karena ada rasa sakit, maka ada rasa senang.Itulah arti menjadi manusia."</em><br>
+  — <strong>Bruford</strong>, <em>JoJo no Kimyou na Bouken</em>
 </div>
 <!-- QUOTE END -->
 
