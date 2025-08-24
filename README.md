@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup bersandiwara (untuk menjadi sosok ideal) sering kali sangat melelahkan. Karena itu, aku ingin kamu tetap menjadi dirimu sendiri."</em><br>
-  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
+  <em>"Menyerah karena menghadapi kesulitan adalah hal yang bodoh."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
