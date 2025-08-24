@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk bertahan hidup, terkadang kau harus menghadapi hal-hal yang sulit. Tapi setelah kau merasakan hal itu, kau akan memperolah keberanian untuk melangkah maju."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Keyakinan seseorang tidak bisa dikekang oleh waktu."</em><br>
+  — <strong>Petelgeuse Romanée-Conti</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
