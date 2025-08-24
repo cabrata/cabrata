@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"jika kau terbiasa, kau (akan) memiliki kebiasaan."</em><br>
-  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
+  <em>"Menguasai bahasa asing akan membantumu untuk berkomunikasi dengan orang asing."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
