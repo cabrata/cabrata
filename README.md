@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita itu seperti sake, semakin berumur semakin nikmat."</em><br>
-  — <strong>Sumiko Kawai</strong>, <em>Bokura wa Minna Kawaisou</em>
+  <em>"Lebih baik kau periksa motormu sebelum mengendarainya, tapi yang lebih penting lagi, periksalah pria sebelum menaikinya."</em><br>
+  — <strong>Baita</strong>, <em>Bakuon!!</em>
 </div>
 <!-- QUOTE END -->
 
