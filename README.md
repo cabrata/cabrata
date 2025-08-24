@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah membuatmu melihat air mataku. Meskipun begitu, kau tidak boleh menitihkan air mata. Setidaknya sampai kau bertemu dengan ibumu. Karena saat itu akan menjadi air mata bahagia."</em><br>
-  — <strong>Yoshifumi Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Kalau aku tidak lagi menjadi tentara peri, aku ingin mengejar impian biasa sebagaimana orang biasa lainnya.
+Aku ingin hidup berdampingan dengannya, melihat hal yang sama, berjalan di jalan yang sama, makan makanan yang sama, dan melihat pemandangan yang sama dengannya."</em><br>
+  — <strong>Chtholly Nota Seniorious</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
