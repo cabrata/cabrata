@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di era informasi seperti saat ini, masalah kecil bisa mencoreng nama baik kita."</em><br>
-  — <strong>Miko Iino</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Tak ada kutukan yang lebih kuat dari cinta."</em><br>
+  — <strong>Satoru Gojou</strong>, <em>Jujutsu Kaisen 0 Movie</em>
 </div>
 <!-- QUOTE END -->
 
