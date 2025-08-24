@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau punya waktu untuk bicara omong kosong, (lebih baik) lakukan semua yang kau bisa untuk bertahan hidup."</em><br>
-  — <strong>Tanya Degurechaff</strong>, <em>Youjo Senki</em>
+  <em>"Saya sudah lama tinggal (bekerja) di depan pemanas hingga uzur. Saya harus segera menyiapkan pemakamanku. Saya ingin membawa seluruh kenangan berharga yang telah saya buat di sini. Saya ucapkan terima kasih pada kalian semua."</em><br>
+  — <strong>Denroku Sukegawa</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
