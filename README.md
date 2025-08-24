@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau jatuh cinta, dia akan terlihat berkilauan di matamu. Karena itulah saat orang jatuh cinta dia menjadi buta"</em><br>
-  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Aku merasa kalau aku terus mengatakan (tentang impianku), itu benar-benar akan terwujud."</em><br>
+  — <strong>Airi Katagiri</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
