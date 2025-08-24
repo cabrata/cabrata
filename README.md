@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia tumbuh lebih kuat demi dirinya sendiri."</em><br>
-  — <strong>Hibana</strong>, <em>Enen no Shouboutai</em>
+  <em>"Jangan terlalu banyak menahan kesedihan, karena itu akan membuatmu melupakan suatu hal yang terpenting."</em><br>
+  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
