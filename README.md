@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat seorang murid yang menatap masa depannya itu begitu indah."</em><br>
-  — <strong>Souma</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Kita harus meraih surga dan tetap menjaga langkah kaki kita tetap selalu berada di atas tanah."</em><br>
+  — <strong>Tatsuya Shiba</strong>, <em>Mahouka Koukou no Rettousei</em>
 </div>
 <!-- QUOTE END -->
 
