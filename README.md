@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada sesuatu di dunia ini yang lebih berharga dari sesuatu yang tak diketahui."</em><br>
-  — <strong>Jibril</strong>, <em>No Game No Life</em>
+  <em>"Kami melakukannya karena kami menginginkannya! Memang benar latihannya sangatlah berat, badanku sampai terasa sakit semua. Tapi, semangatku untuk membatalkan penutupan sekolah ini takkan kelah besar dari semangat milikmu!"</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
