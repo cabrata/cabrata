@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tak bisa menilai sesuatu yang tak bisa dilihat."</em><br>
-  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
+  <em>"Untuk bertahan hidup, terkadang kau harus menghadapi hal-hal yang sulit. Tapi setelah kau merasakan hal itu, kau akan memperolah keberanian untuk melangkah maju."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
