@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu tidak terlalu sulit, jadi jangan terlalu dipikirkan."</em><br>
-  — <strong>Chiyo Komiya</strong>, <em>Shounen Maid</em>
+  <em>"Aku tidak bisa belajar saat aku mengkhawatirkanmu."</em><br>
+  — <strong>Souichi Kamita</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
