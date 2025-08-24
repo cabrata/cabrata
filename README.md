@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan anak pintar sepertimu bisa jadi bodoh kalau sering lihat (majalah P*o) begituan."</em><br>
-  — <strong>Tokunomori</strong>, <em>Getsuyoubi no Tawawa</em>
+  <em>"Kalau kau punya waktu untuk bicara omong kosong, (lebih baik) lakukan semua yang kau bisa untuk bertahan hidup."</em><br>
+  — <strong>Tanya Degurechaff</strong>, <em>Youjo Senki</em>
 </div>
 <!-- QUOTE END -->
 
