@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada kutukan yang lebih kuat dari cinta."</em><br>
-  — <strong>Satoru Gojou</strong>, <em>Jujutsu Kaisen 0 Movie</em>
+  <em>"Semua cewek dada besar itu musuh dari cewek dada rata."</em><br>
+  — <strong>Yuika Koga</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
 </div>
 <!-- QUOTE END -->
 
