@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bayak teman-temanku yang mati karena sesuatu yang mereka sukai."</em><br>
-  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Skala dari angka yang tinggi dapat membuatmu tak terkalahkan."</em><br>
+  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
