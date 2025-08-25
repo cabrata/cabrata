@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada banyak hal yang takkan berubah meski kita memikirkannya."</em><br>
-  — <strong>Ichiko Rokujou</strong>, <em>Kakushigoto</em>
+  <em>"Untuk meredakan ketakutan dan kekhawatiran masyarakat, para pahlawan harus kuat dan tangguh agar dapat mengalahkan kejahatan dengan cepat, terampil dan tampan."</em><br>
+  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
