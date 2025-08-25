@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ninja yang menampung seluruh kebencian dan melindungi desa dari balik bayangan. Kurasa, dialah Hokage (Pemimpin) yang sebenarnya."</em><br>
-  — <strong>Sasuke Uchiha</strong>, <em>Naruto Shippuden</em>
+  <em>"Kamu harus berterima kasih kepada orang yang mengembalikan barangmu."</em><br>
+  — <strong>Yotsuba Nakano</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
