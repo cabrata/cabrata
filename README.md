@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku terlahir untuk menjadi sampel eksperimennya."</em><br>
-  — <strong>Takahashi</strong>, <em>Joshikousei no Mudazukai</em>
+  <em>"Setiap jomblo yang punya hewan peliharaan pasti merasakan kebahagiaan palsu"</em><br>
+  — <strong>Mayumi Nishikino</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
