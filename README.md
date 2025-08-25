@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada saat dimana kita harus tetap bertarung meskipun kita tahu pasti akan kalah."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Akan ku ukir sosokmu ke dalam ingatan semua orang."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
