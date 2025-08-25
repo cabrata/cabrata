@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian tak perlu selalu harus berdiri dan menghadapi masalah. Kalian boleh lari atau pun bersembunyi."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Melihat ke bawah terus tidak akan mengubah apapun. Saat frustasi lihatlah ke depan. Lalu jika ada yang ingin kau raih, rentangkan tanganmu (untuk meraihnya). Jika tetap tidak bisa meraihnya, rentangkan tanganmu lebih jauh lagi."</em><br>
+  — <strong>Ayah Seigi</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
