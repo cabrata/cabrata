@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat bukanlah sesuatu yang bisa didapat dengan bekerja keras."</em><br>
-  — <strong>Eiko Tsukimi</strong>, <em>Paripi Koumei</em>
+  <em>"Yang paling penting adalah jujur pada dirimu sendiri dan tak menekan emosimu."</em><br>
+  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
