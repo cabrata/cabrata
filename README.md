@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengan seluruh tubuh dan hati kita! Kita tak boleh mundur! Kita harus jujur pada perasaan masing-masing. Aku ingin mengubah nol menjadi satu."</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Mungkin di hadapanmu cuma ada jalan yang kelam. Tapi kamu harus tetap yakin dan melangkah maju. Percayalah kalau bintang-bintang akan menerangi jalanmu, walupun cuma sekilas."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
