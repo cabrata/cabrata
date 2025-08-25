@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melihat ke atas terus.
-Bersabarlah, nanti juga akan ada yang jatuh ke tanah.
-Kalau tidak bisa mendapat yang di atas, kita ambil yg di bawah saja."</em><br>
-  — <strong>Yasu Nomura</strong>, <em>Barakamon</em>
+  <em>"Aku tidak tahu apa yang kau cari, tapi kau tidak akan bisa menerangi hatimu seorang diri."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
