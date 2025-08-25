@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"[Bagaimana caranya agar mati?]Mudah saja, "Teruslah Hidup". (Karena) semua makhluk hidup suatu saat pasti akan mati."</em><br>
-  — <strong>Sou</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Demi cinta, aku rela mengorbankan tubuh dan jiwaku."</em><br>
+  — <strong>Kaguya Shinomiya</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
