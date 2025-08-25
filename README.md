@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kita hanya melihat ke atas terus, kita akan kehilangan pijakan."</em><br>
-  — <strong>Keishin Ukai</strong>, <em>Haikyuu!!</em>
+  <em>"Tak ada yang tahu keputusan yang mana yang tepat bagi hidup mereka, dan itu kenapa aku membuat keputusan(ku) ini.
+Juga aku tidak setuju denganmu akan satu hal, seirin tidak lemah."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
