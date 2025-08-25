@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau menatap jurang terlalu lama, maka jurang tersebut juga akan menatapmu.
-Saat kau mencoba mengungkap rahasia seseorang, maka rahasiamu juga akan terungkap."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Kalian tak perlu selalu harus berdiri dan menghadapi masalah. Kalian boleh lari atau pun bersembunyi."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
