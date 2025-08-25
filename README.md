@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keadilan tanpa kekuatan hanyalah omong kosong."</em><br>
-  — <strong>Kakek Seigi</strong>, <em>Taboo Tattoo</em>
+  <em>"Kita tak bisa menilai sesuatu yang tak bisa dilihat."</em><br>
+  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
 </div>
 <!-- QUOTE END -->
 
