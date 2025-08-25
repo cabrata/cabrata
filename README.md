@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan."</em><br>
-  — <strong>Kurumi Ebisuzawa</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Hanya dengan keberadaanmu dan senyummu aku merasa bahagia.
+Hanya dengan keberadaanmu dan berjalan bersamamu aku merasa senang."</em><br>
+  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
