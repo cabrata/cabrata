@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dasar laut yang gelap pun cahaya masih bisa masuk."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kita lahir di situasi yang berbeda. Apakah itu rumahmu, keluargamu atau penampilanmu. Itulah mengapa banyak orang bodoh yang tetap menjadi pemimpi. Tetapi aku pintar, aku tak akan bermimpi saja."</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
