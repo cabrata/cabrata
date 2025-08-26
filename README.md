@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat aku mencari tahu tentang iblis, makhluk yang mirip dengan itu adalah manusia.
-Karena manusia membunuh dan memakan segala jenis spesies."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Aku takkan memaksamu untuk melakukan sesuatu yang besar. Cukup lakukan apa yang bisa kau lakukan. Aku pun akan melakukan apa yang bisa kulakukan. Begitulah peran yang bisa kita lakukan di dunia ini."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
