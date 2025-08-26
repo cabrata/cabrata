@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah pahlawan karena menyelamatkan seorang wanita tua."</em><br>
-  — <strong>Alan Lernier</strong>, <em>Joker Game</em>
+  <em>"Seorang pahlawan profesional harus selalu menjadi simbol keadilan yang indah."</em><br>
+  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
