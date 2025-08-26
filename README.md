@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menulis cerita itu bagaikan menulis seseorang. Penulis dapat menulis bagaimana orang itu hidup dan bagaimana orang itu mati."</em><br>
-  — <strong>Souseki Natsume</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Aku akan menjadi pahlawan untukmu seorang."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
