@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tulip hitam dalam bahasa bunga artinya bahwa kamu sedang gelisah."</em><br>
-  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
+  <em>"Pejudi itu orang terburuk."</em><br>
+  — <strong>Fern</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
