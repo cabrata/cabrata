@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap kali kamu khawatir atau saat menemui jalan buntu, bisa ceritakan (masalahmu itu) padaku?
-Aku mungkin tak bisa membantu banyak, tapi aku ingin lebih dari sekedar berada di sisimu. Aku ingin jadi sumber kekuatanmu."</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Aku orang yang tidak terlalu peduli dengan masa lalu. Karena jika terus memikirkannya hanya akan membuat hidupku suram."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
