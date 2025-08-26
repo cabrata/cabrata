@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak peduli apa yang akan kalian katakan atau pikirkan. Aku bukanlah anak iblis. Ayahku hanya satu, tidak lain dan tidak bukan adalah pria itu!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Kau adalah pahlawan karena menyelamatkan seorang wanita tua."</em><br>
+  — <strong>Alan Lernier</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
