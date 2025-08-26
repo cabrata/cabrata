@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau terlalu bersinar, aku takkan bisa mendekatimu karena kau menyilaukan mataku."</em><br>
-  — <strong>Tanaka</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
+  <em>"Satu nyawa dapat menyelamatkan nyawa lain."</em><br>
+  — <strong>Kuro no Saber</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
