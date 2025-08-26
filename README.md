@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang terjadi, aku akan mewujudkan mimpi ini! Jika aku tak bisa melakukannya, aku bukanlah laki-laki !"</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Tak peduli seberapa erat ikatanmu dengan orang lain, waktu akan memisahkanmu dengan mereka."</em><br>
+  — <strong>Shinobu Oshino</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
