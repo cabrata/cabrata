@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun seluruh dunia membenciku, aku masih bisa hidup selama ada seseorang yang membutuhkanku."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Cinta adalah rumah cermin, itu hanya lah ilusi."</em><br>
+  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
