@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak apa-apa kamu tak mencintaiku. Tapi biarkan aku mencintaimu."</em><br>
-  — <strong>Touko Nanami</strong>, <em>Yagate Kimi ni Naru</em>
+  <em>"Hanya orang bodoh yang memainkan game yang tak bisa dia menangkan."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
