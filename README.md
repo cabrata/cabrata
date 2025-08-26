@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika (hanya dengan kata) "maaf" sudah cukup (untuk menyelesaikan masalah), maka kita tak membutuhkan polisi."</em><br>
-  — <strong>Shouko Sugawara</strong>, <em>Psycho-Pass</em>
+  <em>"Ada yang bilang jika seorang pria sedang terpojok, mereka akan menunjukkan kemampuan mereka sepuluh kali lebih hebat dari biasanya."</em><br>
+  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
