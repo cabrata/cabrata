@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua manusia memiliki kenginan. Tanpa keinginan, manusia takkan bisa hidup."</em><br>
-  — <strong>Rider</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>""Manusia itu bodoh". Mungkin ada sedikit kebenaran soal itu.
+Tapi aku suka manusia.
+Kalian bertengkar, kalian marah, kalian menangis.
+Tapi pada akhirnya, kalian selalu tertawa.
+Itulah yang kusuka dari kalian, para manusia."</em><br>
+  — <strong>Housuke</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
