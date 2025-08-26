@@ -5,10 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin membuat lebih banyak kenangan bersamamu. Aku tidak ingin kamu pergi ke Inggris.
-Haruka, aku mencintaimu! Aku sangat mencintaimu! Tolong menikahlah denganku!
-Mari (kita hidup) bahagia bersama!"</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
+  <em>"24 jam dalam satu hari itu tidak cukup. Apakah kamu pernah merasakan seperti itu?
+Aku ingin melakukan semua hal yang ingin kulakukan. Tapi, tidak bisa (karena waktunya tak cukup)."</em><br>
+  — <strong>Yuuka Kobayakawa</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
