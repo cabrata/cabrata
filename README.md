@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dari 490 kekalahan yang dia alami, tidak ada satu pun yang ia sia-siakan."</em><br>
-  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
+  <em>"Informasinya tidak kredibel jika sumbernya tidak jelas."</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
