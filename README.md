@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hewan bukanlah "sebuah mainan". Mereka hidup, sama seperti manusia."</em><br>
-  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Pemenang dari game ditentukan sebelum game itu dimulai.Tak ada yang namanya kesempatan murni."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
