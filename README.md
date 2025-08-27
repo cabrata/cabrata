@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Biasanya, sebuah idol group haruslah serasi, tapi kita berbeda-beda. Kita telah menghabisakan banyak waktu bersama, saling menerima kekurangan dan kelebihan masing-masing. Sehingga kita bisa sampai seterkenal ini. Bukankah itu adalah hal yang sangat hebat dari kita? Itulah yang kusuka dari μ's."</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Kalian merasa tertekan dan akhirnya menyerah. Karena itulah kuanggap kalian itu lemah. Ini adalah pertarungan kalian, jadi terserah kalian mau berbuat apa. Tapi kukatakan satu hal... Bersungguh-sungguh, berusaha, dan mengerahkan seluruh kemampuan, tak ada yang salah dengan itu semua!."</em><br>
+  — <strong>Noboru Akimiya</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
