@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan berusaha agar kalian menyukaiku, sampai aku mendapat pengakuan dari kalian."</em><br>
-  — <strong>Ritsu</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Baik 10 tahun yang lalu atau 10 tahun yang akan datang, waktu selalu memiliki batas."</em><br>
+  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
