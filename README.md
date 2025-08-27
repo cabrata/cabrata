@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peran orang dewasa adalah memastikan anak-anak dapat melakukan semua hal yang ingin mereka lakukan."</em><br>
-  — <strong>Willem Kmetsch</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>""Manusia itu bodoh". Mungkin ada sedikit kebenaran soal itu.
+Tapi aku suka manusia.
+Kalian bertengkar, kalian marah, kalian menangis.
+Tapi pada akhirnya, kalian selalu tertawa.
+Itulah yang kusuka dari kalian, para manusia."</em><br>
+  — <strong>Housuke</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
