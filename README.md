@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian merasa tertekan dan akhirnya menyerah. Karena itulah kuanggap kalian itu lemah. Ini adalah pertarungan kalian, jadi terserah kalian mau berbuat apa. Tapi kukatakan satu hal... Bersungguh-sungguh, berusaha, dan mengerahkan seluruh kemampuan, tak ada yang salah dengan itu semua!."</em><br>
-  — <strong>Noboru Akimiya</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Bagi orang yang gak bisa, belajar itu memang sangat sulit. Mereka yang tak bisa takkan bisa merasakan senangnya belajar. Namun, ketika orang yang tak bisa itu mulai belajar sedikit demi sedikit hingga bisa, kurasa belajar jadi mulai terasa menyenangkan."</em><br>
+  — <strong>Nariyuki Yuiga</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
 </div>
 <!-- QUOTE END -->
 
