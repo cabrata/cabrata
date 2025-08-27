@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang perlu dicemaskan.
-Semuanya, fokuslah menghadapi musuh di depan. (Sebagai gantinya) aku akan melindungi kalian dari belakang."</em><br>
-  — <strong>Yuu Nishinoya</strong>, <em>Haikyuu!!</em>
+  <em>"Dimanjakan dan memanjakan kakak adalah hak khusus seorang adik."</em><br>
+  — <strong>Mizuha Kiryuu</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
 </div>
 <!-- QUOTE END -->
 
