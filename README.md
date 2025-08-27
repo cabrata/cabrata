@@ -5,15 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kaulah orang pertama yang memperlihatkan banyak hal padaku.
-Kaulah orang pertama yang menyelamatkanku.
-Kaulah orang pertama yang mengajakku ke tempat yang indah.
-Kaulah orang pertama yang menarik perasaanku.
-Kaulah orang pertama yang menjadi sandaranku.
-Kaulah orang pertama yang tak bisa kukalahkan.
-Dan masih banyak lagi (alasan) hingga tak bisa kuhitung.
-Karena itu wajar kalau kaulah orang pertama yang membuatku jatuh cinta."</em><br>
-  — <strong>Chtholly Nota Seniorious</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Aku ingin menyalahkan seseorang karena tak ada yang berubah (dalam hidupku). Tapi aku salah. (Ternyata) jika aku ingin, bahkan dunia pun bisa berubah warna dalam sekejap."</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
