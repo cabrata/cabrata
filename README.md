@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Manusia itu bodoh". Mungkin ada sedikit kebenaran soal itu.
-Tapi aku suka manusia.
-Kalian bertengkar, kalian marah, kalian menangis.
-Tapi pada akhirnya, kalian selalu tertawa.
-Itulah yang kusuka dari kalian, para manusia."</em><br>
-  — <strong>Housuke</strong>, <em>Sket Dance</em>
+  <em>"Aku telah bersumpah untuk melindungi Kakak! Tak ada lagi tujuanku selain melindungi Kakak dan dunia ini!"</em><br>
+  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
