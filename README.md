@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu-waktu tanpa dirimu sungguh membuatku sangat kesepian. Hanya sosokmulah yang dapat meniupkan hawa kehidupan dalam tubuhku."</em><br>
-  — <strong>Soushi Miketsukami</strong>, <em>Inu x Boku SS</em>
+  <em>"Aku tak peduli dengan dojo. Aku ingin dojo dimana kakakku selalu tersenyum. Jika itu membuat kakakku menangis, maka aku tidak membutuhkan dojo seperti itu."</em><br>
+  — <strong>Shinpachi Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
