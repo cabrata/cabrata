@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Izinkan aku berada di sisimu."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Hidup itu tidak terlalu sulit, jadi jangan terlalu dipikirkan."</em><br>
+  — <strong>Chiyo Komiya</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
