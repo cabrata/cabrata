@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanya ingin melihatmu membuktikan bahwa kerja keras pasti membawa hasil yang memuaskan."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Terkadang kita bisa mendapatkan sesuatu saat kita kehilangan."</em><br>
+  — <strong>Chisato Nishikigi</strong>, <em>Lycoris Recoil</em>
 </div>
 <!-- QUOTE END -->
 
