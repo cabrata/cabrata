@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selalu memandang hidup ke depan hanya akan membuat kita lelah."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Di Tootsuki, semua orang menunjukkan apakah dia layak atau tidak dengan kemampuannya sendiri. Apakah kau layak untuk tetap bertahan atau tidak, itu bergantung pada dirimu sendiri!"</em><br>
+  — <strong>Gin Doujima</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
