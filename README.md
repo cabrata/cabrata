@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengapa kau tidak bisa mempercayainya? Kalau orang tuanya saja tidak mempercayainya, lalu dia akan bergantung kepada siapa?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Manusia tidaklah sempurna. Umat manusia itu lemah, jelek, iri, dan membenci hal yang tak dimilikinya. Anehnya, itu semua adalah bakat buruk yang dimiliki manusia. Bukankah itu aneh? Karena itulah aku ingin mengubah semua itu."</em><br>
+  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
