@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun di depan hanya akan ada jalan buntu ataupun keputusasaan, tapi setidaknya kami ingin berjalan di jalan yang kami pilih."</em><br>
-  — <strong>Sieg</strong>, <em>Fate/Apocrypha</em>
+  <em>"Tak peduli seberapa tinggi kedudukanmu, tak peduli seberapa sunyi tempat ini, jangan pernah menunjukkan kesombonganmu."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
