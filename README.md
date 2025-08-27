@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Otak manusia takkan melihat sesuatu yang tak ingin dilihatnya."</em><br>
-  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Nama adalah sesuatu yang berharga untuk memulai sesuatu."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
