@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memang menempa besi (untuk membuat pedang), tapi (kita menempa besi) dengan seluruh jiwa kita.
-Tempalah hatimu supaya tajam seperti menempa besi itu. Jadilah orang yang ramah. Itulah keindahan hidup. Jika kau jadi orang baik, orang-orang akan menggunakan pedangmu dengan baik."</em><br>
-  — <strong>Jintetsu Murata</strong>, <em>Gintama</em>
+  <em>"Aku hanya ingin melihatmu membuktikan bahwa kerja keras pasti membawa hasil yang memuaskan."</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
