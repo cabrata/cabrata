@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kejujuran yang kau perlihatkan saat kau mengungkapkan perasaanmu benar-benar murni dan manis."</em><br>
-  — <strong>Suzuno Kamazuki</strong>, <em>Hataraku Maou-sama!</em>
+  <em>"Kami berjuang untuk menciptakan masa depan kalian."</em><br>
+  — <strong>Aka no Lancer</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
