@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kamu memanggil gurumu dengan sapaan aneh misalnya "Tan", itu namanya keterlaluan!"</em><br>
-  — <strong>Emilia</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
+  <em>"Peran orang dewasa adalah memastikan anak-anak dapat melakukan semua hal yang ingin mereka lakukan."</em><br>
+  — <strong>Willem Kmetsch</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
