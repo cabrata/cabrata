@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sedikit takut. Bukan karena kematian, tapi aku takut berpisah denganmu.
-Aku tak pernah merasa seperti ini sebelumnya, tapi menurutku inilah yang terbaik untukku.
-Semua ini demi masa depan umat manusia, dan juga demi masa depanmu.
-Untuk itu aku bisa mempertaruhkan nyawaku berapa kali pun."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Sepertinya suasana hatimu masih belum sembuh... tapi perasaanmu itu terlihat bagaikan berlian yang berkilau di antara berlian-berlian yang lain."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
