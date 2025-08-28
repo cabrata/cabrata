@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita (sedang) jatuh cinta. Memang tidak selalu berjalan dengan baik. Mungkin ada juga kesalahan di sana-sini. Tapi perasaan cinta pertama kita pasti menjadi hal yang berharga. Perasaan itu satu-persatu membawa kita ke masa mendatang."</em><br>
-  — <strong>Ayumi Arihara</strong>, <em>Hatsukoi Limited</em>
+  <em>"Aku senang karenamu. Aku bahagia karenamu. Aku tertawa, tersenyum, dan ceria karenamu. Aku seperti bukan diriku sendiri. Karenamu aku percaya bahwa seorang sepertiku bisa berubah. Tapi... pada akhirnya aku tidak berubah."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
