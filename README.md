@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pada dasarnya semua manusia itu penyakitan. Jadi kita hanya perlu menyesuaikan diri."</em><br>
-  — <strong>Midori Kohakobe</strong>, <em>Yofukashi no Uta</em>
+  <em>"Walau dunia ini memusuhimu, aku akan tetap di sampingmu."</em><br>
+  — <strong>Miyabi Azumaya</strong>, <em>Dimension W</em>
 </div>
 <!-- QUOTE END -->
 
