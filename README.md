@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku senang karenamu. Aku bahagia karenamu. Aku tertawa, tersenyum, dan ceria karenamu. Aku seperti bukan diriku sendiri. Karenamu aku percaya bahwa seorang sepertiku bisa berubah. Tapi... pada akhirnya aku tidak berubah."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>""Manusia itu bodoh". Mungkin ada sedikit kebenaran soal itu.
+Tapi aku suka manusia.
+Kalian bertengkar, kalian marah, kalian menangis.
+Tapi pada akhirnya, kalian selalu tertawa.
+Itulah yang kusuka dari kalian, para manusia."</em><br>
+  — <strong>Housuke</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
