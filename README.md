@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku rela bekerja apa pun asal pendapatannya terjamin."</em><br>
-  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Pada dasarnya semua manusia itu penyakitan. Jadi kita hanya perlu menyesuaikan diri."</em><br>
+  — <strong>Midori Kohakobe</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
