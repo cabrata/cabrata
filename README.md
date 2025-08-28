@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau yang selalu menyalahkan orang lain itulah yang membuatmu tidak bisa berkembang."</em><br>
-  — <strong>Gojou Karasuma</strong>, <em>Gi(a)rlish Number</em>
+  <em>"Hidup adalah sesuatu yang sangat akrab dengan ketidakadilan. Ada yang hidup dengan makmur, dan ada juga yang hidupnya sangat menderita."</em><br>
+  — <strong>Decim</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
