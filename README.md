@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi menemukan kebenaran di balik kematian seseorang, tentu wajar jika kita juga harus mempertaruhkan nyawa kita."</em><br>
-  — <strong>Shinya Kougami</strong>, <em>Psycho-Pass</em>
+  <em>"Tindakanku tak mengenal logika. Aku bertindak semauku. Saat aku merasa harus bertindak, aku akan melakukannya dengan penuh keyakinan dan rasa bangga."</em><br>
+  — <strong>Xuanzang Sanzang</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
