@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menjadi Superstar memang banyak rintangannya. Rintangan itu akan membuatmu tahu apakah kaulayak atau tidak."</em><br>
-  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Jika aku bisa menyelamatkan orang-orang yang ada disini, aku yakin mimpiku pasti ada di jalan Sang Pelindung. Aku akan menjadi Sang Pelindung!"</em><br>
+  — <strong>Sorey</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
