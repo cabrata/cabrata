@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bilang aku memanipulasi pembaca dengan teknikku, 'kan? Itu adalah kata-kata pujian yang hebat untuk seorang penulis."</em><br>
-  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Kita (sedang) jatuh cinta. Memang tidak selalu berjalan dengan baik. Mungkin ada juga kesalahan di sana-sini. Tapi perasaan cinta pertama kita pasti menjadi hal yang berharga. Perasaan itu satu-persatu membawa kita ke masa mendatang."</em><br>
+  — <strong>Ayumi Arihara</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
