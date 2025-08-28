@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau tidak punya keinginan yang besar, kau tak akan bisa menjadi mangaka terkenal."</em><br>
-  — <strong>Yoshihisa Heishi</strong>, <em>Bakuman.</em>
+  <em>"Akan kugunakan semua yang bisa kugunakan. Jika itu bisa memperbesar kemungkinan kemenangan, maka resikonya sepadan. Untuk seseorang yang serba kekurangan sepertiku, aku hanya bisa menggunakan cara ini."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
