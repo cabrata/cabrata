@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Manusia itu bodoh". Mungkin ada sedikit kebenaran soal itu.
-Tapi aku suka manusia.
-Kalian bertengkar, kalian marah, kalian menangis.
-Tapi pada akhirnya, kalian selalu tertawa.
-Itulah yang kusuka dari kalian, para manusia."</em><br>
-  — <strong>Housuke</strong>, <em>Sket Dance</em>
+  <em>"Jika satu kata tak cukup mengungkapkan perasaanmu, ungkapkanlah dengan semua kata-kata. Kalau kamu tidak bisa mempercayai kata-kata, ungkapkan dengan tindakan."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
