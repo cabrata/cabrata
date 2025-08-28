@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk sekali saja, aku ingin menolong orang lain dengan keinginanku sendiri."</em><br>
-  — <strong>Kuro no Saber</strong>, <em>Fate/Apocrypha</em>
+  <em>"Apapun yang kau lakukan ataupun kau berubah, itu tidaklah penting. Lagipula, kau tetaplah kau."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
