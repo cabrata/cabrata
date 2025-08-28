@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau memilih (kegiatan) hanya berdasarkan kemampuanmu, kau takkan pernah memulai apapun. Yang terpenting adalah ketertarikanmu."</em><br>
-  — <strong>Ryuujirou Kotobuki</strong>, <em>Grand Blue</em>
+  <em>"Jangan mengendurkan perasaanmu. Perasaan senang, sakit, bahagia, sedih... rasakan semuanya demi diriku."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
