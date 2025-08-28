@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Langit itu adil. Mereka tak pernah membeda-bedakan orang. Mereka menyinari semua orang dengan sinar yang sama. Tapi terkadang langit menguji kita. Mereka menyembunyikan matahari saat malam hari ataupun saat mendung dan hujan. Meski begitu, kita tak kehilangan arah. Tak ada malam yang tak berakhir. Tak ada hujan yang tak berhenti. Selama matahari itu bersinar di hati kita, kita takkan kehilangan arah. Tapi saat itu kita tak sadar bahwa semakin terang matahari bersinar, semakin gelap bayangan yang tercipta."</em><br>
-  — <strong>Hinowa</strong>, <em>Gintama</em>
+  <em>"Bisa atau tidaknya suatu impian tercapai bukanlah suatu masalah. Karena (hanya) diri sendirilah yg bisa mewujudkannya, jadi mungkin saja impian itu tidak terwujud. Tapi aku percaya bahwa memimpikan sesuatu itu adalah suatu anugerah dalam hidup. Terlepas dari bisa tidaknya impian itu dicapai, menurutku memiliki impian itu hal yg baik, karena itu berarti kau tahu apa yg kau inginkan. Jika kau tidak tahu apa yang kau inginkan, dan tidak tahu ingin menjadi apa, hidupmu akan dipenuhi oleh keraguan."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Hanamonogatari</em>
 </div>
 <!-- QUOTE END -->
 
