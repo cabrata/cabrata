@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tidak memilih jalan kita berdasarkan dosa yang kita bawa, tetapi membawa dosa kita pada jalan yang kita pilih."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Jika kau memilih (kegiatan) hanya berdasarkan kemampuanmu, kau takkan pernah memulai apapun. Yang terpenting adalah ketertarikanmu."</em><br>
+  — <strong>Ryuujirou Kotobuki</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
