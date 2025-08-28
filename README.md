@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anjing dan kucing punya kemampuan untuk menganalisa kekuatan musuhnya. (Maka dari itu) Hewan menghindari pertarungan yang tak bisa mereka menangkan."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Kalau tidak mampu, dari awal bilang saja tidak mampu. Ada saatnya kita bergantung pada orang lain. Ketika kau bisa meminta bantuan pada orang sekitarmu dengan terbuka, semua permasalahan bisa diatasi. Itulah sesuatu yang aku pelajari di game online."</em><br>
+  — <strong>Hideki Nishimura</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
