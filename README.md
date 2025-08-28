@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rekan-rekanku dan aku bersumpah kalau kami akan rela berkorban, jika itu memang diharuskan. Aku akan rela berkorban demi menyelamatkan orang lain."</em><br>
-  — <strong>Sakuma</strong>, <em>Joker Game</em>
+  <em>"Aku sedikit takut. Bukan karena kematian, tapi aku takut berpisah denganmu.
+Aku tak pernah merasa seperti ini sebelumnya, tapi menurutku inilah yang terbaik untukku.
+Semua ini demi masa depan umat manusia, dan juga demi masa depanmu.
+Untuk itu aku bisa mempertaruhkan nyawaku berapa kali pun."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
