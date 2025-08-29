@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu tidak usah mencemaskannya. Apapun yang kamu rasakan tinggal lepaskan saja. Aku tidak berpikir kita akan bisa mulai dari nol ke seratus dengan cepat. Tapi mungkin kita bisa mendapat satu. Aku ingin melihat jika kita bisa melakukannya juga."</em><br>
-  — <strong>Riko Sakurauchi</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Kau selalu berpikir semuanya akan baik-baik saja jika kau melakukan apa yang menurutmu baik. Padahal kami telah menunggumu, tolong jangan menyerah ... Jangan sampai membuat keputusan yang nantinya akan kau sesali. Tolong jangan menyerah sebelum berjuang sekeras mungkin!"</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
