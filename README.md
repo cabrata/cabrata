@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus membuang tujuan demi tujuanmu.
-Ambisi, keinginan, dendam... Kau harus singkirkan semua tujuan itu demi tujuan sejatimu."</em><br>
-  — <strong>Rinne Higaki</strong>, <em>Katanagatari</em>
+  <em>"Demi diriku sendiri, aku akan melakukan apapun yang ingin kulakukan. Itulah alasanku bertarung."</em><br>
+  — <strong>Julis-Alexia von Riessfeld</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
