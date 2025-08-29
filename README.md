@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa yang kamu suka?Apa yang kamu benci?Apa yang kamu hormati?Apa yang kamu anggap buruk?Itu semua kamu yang memutuskan.Kita mempelajari dan melihat banyak hal. Begitulah hidup.Kamu bukanlah yang membuat dunia, tapi dunialah yang membuatmu."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Aku ingin pergi ke berbagai tempat dan melihat, mendengar, serta merasakan berbagai macam hal yang tidak pernah kurasakan sebelumnya. Aku ingin melakukan semua yang bisa kulakukan sekarang agar saat tua nanti aku tidak punya penyesalan."</em><br>
+  — <strong>Kuon</strong>, <em>Utawarerumono: Itsuwari no Kamen</em>
 </div>
 <!-- QUOTE END -->
 
