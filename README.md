@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memakai alasan untuk lari akan membuatmu terlihat menyedihkan."</em><br>
-  — <strong>Hikari Takanashi</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Selama kau tak menyerah, impianmu akan terwujud. Begitulah dunia ini."</em><br>
+  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
