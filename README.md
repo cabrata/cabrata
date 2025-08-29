@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau pria yang berhati dingin, ya.... Tapi aku jadi menyukaimu."</em><br>
-  — <strong>Zero</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
+  <em>"Tidak ada ibu di dunia ini yang benci sama anaknya sendiri. Waktu kamu mulai tumbuh mandiri, baik sebagai manusia maupun sebagai pianis. Saki pasti merasa bahagia waktu itu."</em><br>
+  — <strong>Hiroko Seto</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
