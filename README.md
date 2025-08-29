@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Naskah bukanlah produk jadi. Kalau tujuannya hanya untuk dibaca, lebih baik buat novel saja."</em><br>
-  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
+  <em>"Kau bilang kau akan menjadi yang nomor satu di Tootsuki. Mulai saat ini, kata-kata yang kau ucapkan itu akan menjadi beban buatmu."</em><br>
+  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
