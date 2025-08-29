@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seseorang sudah bertekad, mereka pasti bisa melakukan apapun."</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Penampilan seseorang tergantung pada dua hal, ekspresi dan postur tubuh."</em><br>
+  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
 </div>
 <!-- QUOTE END -->
 
