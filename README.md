@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka (para petani) bekerja bukan berdasarkan waktu, tetapi berdasarkan suasana.Mereka bangun saat suasana pagi dan mencabut rumput saat suasana sore. Mereka menyambut tunas tanaman saat suasana musim semi dan berharap tumbuh kembang saat suasana musim panas. Mereka merayakan hasil panen saat suasana musim gugur dan menantikan suasana musim semi saat musim dingin."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"Yang paling menakutkan dan sama sekali tak bisa diajak damai itu bukanlah makhluk gaib ataupun manusia, tapi "alam". (Alam itu) mengerikan seperti iblis, dan menakutkan seperti seseorang."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
