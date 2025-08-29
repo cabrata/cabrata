@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Agar kejadian tragis di masa lalu tidak terulang kembali, akupun bercita-cita untuk menjadi seorang pahlawan."</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Otaku yang bersikap normal benar-benar membuat kesal."</em><br>
+  — <strong>Hanako Koyanagi</strong>, <em>Wotaku ni Koi wa Muzukashii</em>
 </div>
 <!-- QUOTE END -->
 
