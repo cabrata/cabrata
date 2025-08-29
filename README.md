@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyusun waktu untuk para creator adalah pekerjaan seorang produser."</em><br>
-  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Dazai pernah berkata, "Manusia lahir untuk cinta dan revolusi"."</em><br>
+  — <strong>Kotarou Azumi</strong>, <em>Tsuki ga Kirei</em>
 </div>
 <!-- QUOTE END -->
 
