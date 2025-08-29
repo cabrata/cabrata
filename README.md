@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mata adalah organ yang langsung terhubung ke otak dan setengah dari kerja otak digunakan untuk mengolah citra. Melalui pergerakan mata, semua aktivitas otak dapat terungkap."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Jika kau mengatakannya dengan cinta, perasaanmu akan tersampaikan."</em><br>
+  — <strong>Tooru Minegishi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
