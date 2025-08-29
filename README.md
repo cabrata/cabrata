@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak bisa tahu seseorang jika hanya melihat. (Meski penampilannya seperti itu) tapi dia sebenarnya seorang pekerja keras."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Aku selalu berpikir kalau manusia memang dilahirkan untuk saling menyakiti."</em><br>
+  — <strong>Maiko Fujishima</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
