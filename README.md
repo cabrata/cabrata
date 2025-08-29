@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak ingin menyimpan dendam dengan masa lalu, lebih baik memaafkan dan melangkah maju."</em><br>
-  — <strong>Iori Nagase</strong>, <em>Kokoro Connect</em>
+  <em>"Justru membosankan kalau kamu sedih saat (gagal) mencoba menjawab ekspektasi orang lain."</em><br>
+  — <strong>Chisato Nishikigi</strong>, <em>Lycoris Recoil</em>
 </div>
 <!-- QUOTE END -->
 
