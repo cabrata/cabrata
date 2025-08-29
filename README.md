@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak peduli tentang menjadi generasi keajaiban, tapi aku tak bisa mengabaikan sebuah tantangan.
-Aku belum cukup dewasa untuk membiarkannya."</em><br>
-  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
+  <em>"Aku tidak mau lari! Kalau aku lari dari apa yang kuhadapi sekarang, aku akan menyesalinya seumur hidupku."</em><br>
+  — <strong>Moe Nishinosono</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
