@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi menyelamatkan dirimu, aku memutuskan untuk memulai pertempuran ini."</em><br>
-  — <strong>Kouji Sugawara</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</em>
+  <em>"Sekolah itu hanya seperti satu akuarium kecil. Di luar sana masih ada lautan dan akuarium lain. Kau bebas memilih (tempatmu)."</em><br>
+  — <strong>Nagi Yoshino</strong>, <em>Jujutsu Kaisen</em>
 </div>
 <!-- QUOTE END -->
 
