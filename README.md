@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia (baru) akan kalah ketika mereka berhenti melawan. Selama kita terus bertarung, kita belum kalah."</em><br>
-  — <strong>Mike Zacharias</strong>, <em>Shingeki no Kyojin Season 2</em>
+  <em>"Seorang pria kesepian yang tidak mengenal cinta harus diselimuti dengan cinta tanpa syarat."</em><br>
+  — <strong>Mizuho Asano</strong>, <em>Bleach</em>
 </div>
 <!-- QUOTE END -->
 
