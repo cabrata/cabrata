@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka melihatmu ketika melakukan hal-hal yang kamu sukai."</em><br>
-  — <strong>Hirotaka Nifuji</strong>, <em>Wotaku ni Koi wa Muzukashii</em>
+  <em>"Hal yang paling penting adalah melakukan apa yang ingin kau lakukan."</em><br>
+  — <strong>Rito Yuuki</strong>, <em>To LOVE-Ru Darkness</em>
 </div>
 <!-- QUOTE END -->
 
