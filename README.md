@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama dua tahun ini kau melakukan semuanya sendirian. Kau memikirkan dan memutuskan semuanya sendiri. Kau salah besar, jika kau pikir (melakukan semua hal sendirian) itu bisa membuatmu menjadi dewasa. (Yang kau lakukan) itu semua hanya akan membuatmu jadi anak yang tak mau mendengarkan nasehat orang lain."</em><br>
-  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Aku memutuskan untuk selalu menjalani hidup dengan sepenuh hati. Dengan begitu, hidupku akan penuh dengan kebahagiaan hingga ajal datang menjemputku. Aku tak tahu apakah itu jalan yang benar atau salah. Tapi aku akan tetap menjalani dan menikmatinya hingga akhir."</em><br>
+  — <strong>Yoshifumi Aoki</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
