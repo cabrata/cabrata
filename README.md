@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling menakutkan dan sama sekali tak bisa diajak damai itu bukanlah makhluk gaib ataupun manusia, tapi "alam". (Alam itu) mengerikan seperti iblis, dan menakutkan seperti seseorang."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
+  <em>"Bagi seorang pria, ada kalanya memukul seseorang itu rasanya lebih sakit daripada terkena pukulan."</em><br>
+  — <strong>Tooru Asagiri</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
