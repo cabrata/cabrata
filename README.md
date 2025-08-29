@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak mau lari! Kalau aku lari dari apa yang kuhadapi sekarang, aku akan menyesalinya seumur hidupku."</em><br>
-  — <strong>Moe Nishinosono</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Utarakan saja perasaanmu sesuai dengan alur dan caramu sendiri"</em><br>
+  — <strong>Popura Taneshima</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
