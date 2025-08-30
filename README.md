@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena aku tak memiliki harta sama sekali, yang bisa aku berikan hanyalah waktu, perasaan, masa depan, kehidupan dan hal-hal samar lainnya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Hanya seseorang yang bisa memahami dirinya sendirilah yang dapat terus menerus membuat kemajuan."</em><br>
+  — <strong>Masachika Kouda</strong>, <em>3-gatsu no Lion</em>
 </div>
 <!-- QUOTE END -->
 
