@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saya sangat senang bahwa (hidup di) dunia ini tidak mudah."</em><br>
-  — <strong>Nadeko Sengoku</strong>, <em>Monogatari Series: Off & Monster Season</em>
+  <em>"Kau akan membenci dirimu sendiri jika kau melakukan apa yang kau benci."</em><br>
+  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
