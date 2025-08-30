@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pagi hari, angin yang menyegarkan dan cahaya matahari yang lembut mengisyaratkan suatu yang indah akan terjadi."</em><br>
-  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
+  <em>"Tidak ada yang tahu masa depan seperti apa. Selama kamu tidak menyerah, selalu akan ada kesempatan."</em><br>
+  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
