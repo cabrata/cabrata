@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Asalkan kebenciannya padaku bisa membuatnya mencintai dirinya sendiri, kurasa itu lebih baik."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Tanaman sangatlah jujur. Jika kau menutupinya dengan cinta, mereka akan mencintaimu juga."</em><br>
+  — <strong>Orphelia Landlufen</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
