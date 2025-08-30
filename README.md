@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau menginginkan sebuah balasan, hal buruk dan pahit seperti itu... aku pikir bukanlah cinta."</em><br>
-  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
+  <em>"Teman itu tidak bisa didapat dalam waktu yang singkat."</em><br>
+  — <strong>Shi</strong>, <em>Nyanko Days</em>
 </div>
 <!-- QUOTE END -->
 
