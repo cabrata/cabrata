@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya sekedar "menyukainya" saja tidak akan membuat impianmu terwujud."</em><br>
-  — <strong>Maki Midorikawa</strong>, <em>Sakura Quest</em>
+  <em>"Kemakmuran yang sesungguhnya adalah bebas dari kekayaan dan barang-barang."</em><br>
+  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
