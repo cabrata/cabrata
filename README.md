@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu tidak dapat dihentikan. Waktu bergerak maju tanpa akhir, seperti jasad yang terkubur dalam tanah (hingga) suatu hari menjadi tulang putih."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Jangan biarkan orang lain menentukan nilai dirimu."</em><br>
+  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
 </div>
 <!-- QUOTE END -->
 
