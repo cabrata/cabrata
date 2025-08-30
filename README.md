@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekuatan yang terlalu besar akan menghancurkan sekelilingnya."</em><br>
-  — <strong>Koushi Usa</strong>, <em>ReLIFE</em>
+  <em>"Sejak awal tak ada manusia yang bisa memahami satu sama lain."</em><br>
+  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
 </div>
 <!-- QUOTE END -->
 
