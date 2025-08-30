@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""skakmat" bukan berarti kau menyudutkan raja lawan. Itu adalah pernyataan bahwa raja lawan menjadi milikmu."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Mengingat masa lalu hanya akan membuatmu menyesal sampai ingin mati.
+Memikirkan masa depan hanya akan membuatmu ragu.
+Jadi, memikirkan tentang sekarang adalah hal yang terbaik."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
