@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan sia-siakan kehidupanmu tanpa cinta."</em><br>
-  — <strong>Mao Mizusawa</strong>, <em>KimiKiss Pure Rouge: Love Fighter</em>
+  <em>"Untuk menjadi dewasa, kau butuh rival."</em><br>
+  — <strong>Takao Kawafuji</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
