@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melalui musik, orang-orang yang kau kenal, orang-orang yang tidak kau kenal, (dan) seluruh manusia di bumi saling terhubung."</em><br>
-  — <strong>Hiroko Seto</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Meskipun dibenci, tapi masih ada hal yang ingin kamu sampaikan padanya kan? Apakah kau lebih suka pasrah saja dan tidak menyampaikan perasaanmu itu? Meskipun sudah tahu hasilnya, tapi tetap menyampaikannya jelas lebih baik."</em><br>
+  — <strong>Misao Zaitsu</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
