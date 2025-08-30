@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku dengar kau mengatakan sesuatu yang menarik di upacara pembukaan.
-Menjadi yang terbaik di Akademi Tootsuki mungkin tak semudah yang kau bayangkan."</em><br>
-  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
+  <em>"(Jantungku) ini terasa aneh. Dari tadi berdetak kencang... sejak kau bilang padaku untuk tidak pergi, sejak kau memelukku dengan erat. Suaramu masih terdengar di telingaku. Rasa tubuhmu masih tertinggal (di diriku).
+Apa yang terjadi denganku? Apakah ini (yang dinamakan) "cinta" ?"</em><br>
+  — <strong>Mashiro Shiina</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
