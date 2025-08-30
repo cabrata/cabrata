@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau punya waktu untuk bicara omong kosong, (lebih baik) lakukan semua yang kau bisa untuk bertahan hidup."</em><br>
-  — <strong>Tanya Degurechaff</strong>, <em>Youjo Senki</em>
+  <em>"Manusia itu dari awal sudah jenius, kemudian sedikit demi sedikit mulai menjadi bodoh. Karena mereka menjadi bodoh, mereka mulai bekerja dan mulai saling berkomunikasi."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
