@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau aku merasa kesakitan hanya karena hal seperti ini, aku tak pantas menjadi pengawal Tuan Putri!"</em><br>
-  — <strong>Seishirou Tsugumi</strong>, <em>Nisekoi</em>
+  <em>"Hidup adalah tantangan. Tak ada gunanya hidup jika tak ada lawan yang kuat untuk bermain. Lebih baik jika aku tidak menang."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
