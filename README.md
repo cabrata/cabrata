@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika bersama dengan Satou-kun, aku jadi bisa berjuang dalam berbagai hal. Duniaku jadi serasa lebih luas."</em><br>
-  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
+  <em>"Untuk menipu orang, kau harus tahu musuhmu (orang yang akan kau tipu). Kau (juga) harus merencanakan perkataanmu."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
