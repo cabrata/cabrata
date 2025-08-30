@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak laki-laki selalu membawa belati di hati mereka."</em><br>
-  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Melalui lagu, aku bisa menyampaikan perasaanku pada kalian. Melalui lagu, perasaan kita saling terhubung. Itulah alasan mengapa aku menyuikai yang namanya bernyanyi! Aku sangat menyukainya!"</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
