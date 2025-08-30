@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah makhluk yang berakal. Meskipun kata "setara" seolah hanya candaan belaka, namun sebaliknya "ketidaksetaraan" dapat terlihat dengan jelas."</em><br>
-  — <strong>Kiyotaka Ayanokouji</strong>, <em>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</em>
+  <em>"Punya bakat atau tidak, itu bukan sesuatu yang bisa disadari oleh diri sendiri."</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
