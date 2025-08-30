@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rasa sakit ini adalah bukti kalau aku hidup.Karena ada rasa sakit, maka ada rasa senang.Itulah arti menjadi manusia."</em><br>
-  — <strong>Bruford</strong>, <em>JoJo no Kimyou na Bouken</em>
+  <em>"Sejujurnya, aku masih bingung...
+Tapi hatiku akhirnya sudah tenang."</em><br>
+  — <strong>Homura</strong>, <em>Sekirei: Pure Engagement</em>
 </div>
 <!-- QUOTE END -->
 
