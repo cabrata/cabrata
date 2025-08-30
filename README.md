@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau akan membenci dirimu sendiri jika kau melakukan apa yang kau benci."</em><br>
-  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Tidak layak mempertaruhkan hidup seseorang, tak peduli berapapun keuntungan yang akan didapat."</em><br>
+  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou</em>
 </div>
 <!-- QUOTE END -->
 
