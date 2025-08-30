@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Punya bakat atau tidak, itu bukan sesuatu yang bisa disadari oleh diri sendiri."</em><br>
-  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Tidak ada yang lebih menjijikkan dari kasih sayang orang yang tidak disukai."</em><br>
+  — <strong>Hanabi Yasuraoka</strong>, <em>Kuzu no Honkai</em>
 </div>
 <!-- QUOTE END -->
 
