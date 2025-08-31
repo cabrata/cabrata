@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin ada kalanya (kau) merasa bingung dan merasa kesal karena kenyataan tidak berjalan sesuai dengan harapan. Tapi, hal yang kau pelajari tidak akan pernah mengkhianatimu."</em><br>
-  — <strong>Tooru Miyagishi</strong>, <em>Hanasaku Iroha</em>
+  <em>"Menurutmu kenapa orang bisa terjaga di malam hari?Karena orang itu merasa tidak puas pada hari (yang telah ia lalui)."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
