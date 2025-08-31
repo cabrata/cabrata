@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau memang benar bahwa ada Sang Pencipta, pasti Dia yang membuat dunia yang besar ini. Karena (besarnya dunia yang diciptakanNya) itu, membuat manusia kecil yang penakut menjadi kesulitan (untuk hidup). Di dunia yang luas ini, kita bahkan tidak bisa mengukur jarak antara manusia. Meskipun ada enam milyar orang, tapi semuanya (hidup) sendirian. Semua orang terus mencari, seorang (pendamping) yang tak butuh jarak (untuk hidup bersama)."</em><br>
-  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge</em>
+  <em>"Seorang yang mencintaiku tidak mungkin akan menyelingkuhiku...
+Dia sangat jujur, serius dan juga sangat setia. Jadi aku pikir tidak ada hal yang harus dikhawatirkan."</em><br>
+  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru OVA</em>
 </div>
 <!-- QUOTE END -->
 
