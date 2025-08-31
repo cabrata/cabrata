@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin hidup tanpa meninggalkan sesuatu yang belum terselesaikan."</em><br>
-  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Kalahkan musuh dan selamatkan kotanya, kita hanya perlu mengulangi apa yang sudah kita lakukan berulang kali. Saatnya untuk menunjukkan harga diri kita sebagai pejuang!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
