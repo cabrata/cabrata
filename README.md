@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu makhluk yang bodoh. Mereka tak bisa menjaga harga diri. Karena itu mereka mudah dibutakan keserakahan."</em><br>
-  — <strong>Minami Yamamoto</strong>, <em>Joshikousei no Mudazukai</em>
+  <em>"Berjuang sebisa mungkin adalah kunci keberhasilan."</em><br>
+  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
