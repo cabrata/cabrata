@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada baiknya kalau bisa terbuka dengan orang lain."</em><br>
-  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Semua orang diciptakan berbeda!"</em><br>
+  — <strong>Izuku Midoriya</strong>, <em>Boku no Hero Academia</em>
 </div>
 <!-- QUOTE END -->
 
