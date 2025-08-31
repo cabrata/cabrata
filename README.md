@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa sesuatu yang terlupakan itu, memang seharusnya dilupakan?"</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Pastikan kamu percaya dengan apa yang kamu lakukan. Semua ini adalah jalan yang kamu pilih. Hanya saja, jangan lupakan semua orang yang sudah mendukungmu."</em><br>
+  — <strong>Fumi Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
