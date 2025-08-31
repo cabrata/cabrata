@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mulanya kupikir, aku akan pergi ke universitas yang bagus, jika gagal menjadi seniman manga. Tapi aku menyadari itu merupakan rencana bodoh. (karena ketika aku memutuskan untuk memiliki impian, aku tak boleh berpikiran akan gagal)."</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Yaah... ini bukan cara yang buruk untuk mati. Jika aku bisa mati bersama Araragi-senpai, aku tidak bisa berharap lebih dari ini."</em><br>
+  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
