@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tubuh manusia itu tak lebih dari sekedar wadah yang sederhana. Karena itulah, sebesar apapun luka yang didapat, perasaanku padamu takkan pernah berubah."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Keyakinan saja tidak cukup untuk mewujudkan idealismemu."</em><br>
+  — <strong>Doppo Kunikida</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
 </div>
 <!-- QUOTE END -->
 
