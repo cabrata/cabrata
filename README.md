@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dari pada membiarkan seseorang mati, lebih baik aku mati bersamanya. Khususnya, jika itu menimpa gadis sepertimu."</em><br>
-  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
+  <em>"Kedamaian adalah hal yang paling indah dan paling sulit (wujudkan)."</em><br>
+  — <strong>Chio Miyamo</strong>, <em>Chio-chan no Tsuugakuro</em>
 </div>
 <!-- QUOTE END -->
 
