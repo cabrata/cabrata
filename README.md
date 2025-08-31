@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kupikir kau (memang) benar. (Selama ini) aku berpura-pura. Aku ingin orang-orang menyukaiku. Aku ingin punya teman. Namun ketika aku memikirkan "Apa yang bisa dilakukan oleh orang sepertiku ini?", aku putuskan untuk menyukai semua orang. Lalu, setelah itu jadi jauh lebih mudah untuk berpura-pura."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Dengan menyelamatkan seseorang, berarti ada orang lain yang tak terselamatkan. Manusia hanya bisa menyelamatkan seseorang yang memang pantas diselamatkan sejak awal. Ini adalah hal yang wajar, sebagai bentuk pengorbanan seorang pahlawan."</em><br>
+  — <strong>Kiritsugu Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works</em>
 </div>
 <!-- QUOTE END -->
 
