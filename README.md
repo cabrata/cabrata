@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada hukum yang mengatakan kau tidak boleh menyukai seorang pria hanya karena ia telah memiliki pacar."</em><br>
-  — <strong>Ruri Miyamoto</strong>, <em>Nisekoi</em>
+  <em>"Apa mereka tidak tahu, harga diri seorang pria itu lebih berharga dari nyawanya."</em><br>
+  — <strong>Motoharu</strong>, <em>Danshi Koukousei no Nichijou</em>
 </div>
 <!-- QUOTE END -->
 
