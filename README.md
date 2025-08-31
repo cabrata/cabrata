@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling penting bagiku adalah kehangatan genggaman tanganmu, senyumanmu yang imut dan masa depan yang akan kita bangun bersama."</em><br>
-  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Semoga saja suatu saat jalan yang kuambil ini akan mempertemukanku denganmu lagi."</em><br>
+  — <strong>Miki Naoki</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
