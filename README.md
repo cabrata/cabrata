@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""</em><br>
-  — <strong>Chise Hatori</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Perempuan itu tetaplah cantik meski usianya telah berlalu."</em><br>
+  — <strong>Setsuna Ena</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
