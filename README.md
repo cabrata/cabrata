@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semoga saja suatu saat jalan yang kuambil ini akan mempertemukanku denganmu lagi."</em><br>
-  — <strong>Miki Naoki</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Aku ingin hidup tanpa meninggalkan sesuatu yang belum terselesaikan."</em><br>
+  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
