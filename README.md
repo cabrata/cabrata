@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lelucon itu menarik, tapi ada batasnya. Jika mengarah menuju kesalahpahaman, maka akan menjadi kebohongan."</em><br>
-  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
+  <em>"Pasti kau sudah lama tidak menangis. Syukurlah! Sekarang kau punya tempat untuk menangis."</em><br>
+  — <strong>Chiaki Takahashi</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
