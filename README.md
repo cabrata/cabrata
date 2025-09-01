@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kita bukan orang yang istimewa, tapi kita bisa menjadi orang yang istimewa bagi seseorang."</em><br>
-  — <strong>Hitagi Senjougahara</strong>, <em>Owarimonogatari</em>
+  <em>"Kepercayaan rakyatlah yang membuatku terus hidup."</em><br>
+  — <strong>Ortfiné Fredericka von Eylstadt</strong>, <em>Shuumatsu no Izetta</em>
 </div>
 <!-- QUOTE END -->
 
