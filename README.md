@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat ke bawah terus tidak akan mengubah apapun. Saat frustasi lihatlah ke depan. Lalu jika ada yang ingin kau raih, rentangkan tanganmu (untuk meraihnya). Jika tetap tidak bisa meraihnya, rentangkan tanganmu lebih jauh lagi."</em><br>
-  — <strong>Ayah Seigi</strong>, <em>Taboo Tattoo</em>
+  <em>"Aku melakukan ini bukan untuk bermain-main. Aku akan bahagia jika aku bisa memainkannya."</em><br>
+  — <strong>Asuka Tanaka</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
