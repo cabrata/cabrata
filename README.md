@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama ini aku mencari hal yang nyata di dunia ini. Bagiku, hal yang nyata itu adalah kehangatan dari genggaman tanganmu."</em><br>
-  — <strong>Rika Shinozaki</strong>, <em>Sword Art Online</em>
+  <em>"Meskipun bergantung pada teman bukanlah hal yang buruk. Tapi jujur saja, sebaiknya kita mencari jalan keluar dengan kemampuan kita sendiri."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
