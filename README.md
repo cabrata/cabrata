@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam mencintai seseorang tidak boleh mengharapkan balasan. Cinta sejati adalah ketika dapat mengorbankan diri sendiri demi orang lain."</em><br>
-  — <strong>Miyoko Kinjou</strong>, <em>Handa-kun</em>
+  <em>"Mati bukanlah pilihan yang tepat. Aku ingin meminta maaf kepada yang lain. Aku ingin membantumu untuk hidup."</em><br>
+  — <strong>Shouya Ishida</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
