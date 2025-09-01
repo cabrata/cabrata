@@ -5,8 +5,13 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan asal ambil keputusan penting yang bisa mengubah arah hidupmu hanya karena dirimu mengantuk atau bosan."</em><br>
-  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Yang kau lihat sekarang mungkin gelap gulita.
+Tapi, kau harus berusaha untuk terus mencari di dalam kegelapan itu.
+Nantinya kau pasti akan menemukan setitik cahaya seperti anak bintang.
+Saat kau menemukannya, bintang itu pasti juga akan menemukanmu.
+Lalu, kalian pun akan saling bersinar satu sama lain.
+Dengan begitu dunia tidak akan gelap gulita lagi."</em><br>
+  — <strong>Riichi Miura</strong>, <em>Mahoutsukai no Yome: Hoshi Matsu Hito</em>
 </div>
 <!-- QUOTE END -->
 
