@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saling menerima cinta satu sama lain adalah hal yang wajar. Jika dunia melarangnya, aku akan mengubah dunia ini meskipun harus menghancurkannya."</em><br>
-  — <strong>Theo Cornaro</strong>, <em>Grancrest Senki</em>
+  <em>"Izinkan aku berada di sisimu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
