@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan adalah gim dewa yang tiada tandingannya."</em><br>
-  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
+  <em>"Aku tidak bisa belajar saat aku mengkhawatirkanmu."</em><br>
+  — <strong>Souichi Kamita</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
