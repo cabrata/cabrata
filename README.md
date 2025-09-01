@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang dewasa takkan marah pada setiap keteledoran anak-anak."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Hari (pernikahan) ini adalah hari di mana seorang wanita terlihat paling cantik selama hidupnya."</em><br>
+  — <strong>Tomoe Wajima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
