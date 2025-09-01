@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mustahil kita disukai oleh semua orang. Kita cukup menyayangi orang yang memahami kita."</em><br>
-  — <strong>Shiori Saginomiya</strong>, <em>Joshikousei no Mudazukai</em>
+  <em>"Batas antara kebenaran dan kejahatan itu sebenarnya samar. Namun, banyak orang dengan gampangnya memisahkannya dan percaya bahwa dirinya lah yang benar."</em><br>
+  — <strong>Osamu Dazai</strong>, <em>Isekai Shikkaku</em>
 </div>
 <!-- QUOTE END -->
 
