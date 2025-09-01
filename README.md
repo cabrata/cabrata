@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah budak dari apa yang dilihatnya."</em><br>
-  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Sejak dia datang, semuanya menjadi lebih baik. Duniaku mulai berubah.
+Mungkin kau tidak tahu, tapi Rinko ditakdirkan untuk menjadi inspirasiku."</em><br>
+  — <strong>Kouki Ichinose</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
