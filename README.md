@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sudah memutuskannya, aku takkan kembali menjadi diriku yang naif dan tak berkutik."</em><br>
-  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Meskipun kita bukan orang yang istimewa, tapi kita bisa menjadi orang yang istimewa bagi seseorang."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
