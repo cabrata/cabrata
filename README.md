@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejak dia datang, semuanya menjadi lebih baik. Duniaku mulai berubah.
-Mungkin kau tidak tahu, tapi Rinko ditakdirkan untuk menjadi inspirasiku."</em><br>
-  — <strong>Kouki Ichinose</strong>, <em>Ore Monogatari!!</em>
+  <em>"Jika kau ingin melihat kelanjutan dari impianmu, maka teruslah berjalan maju. Walau pun itu berarti kau harus menghancurkan impian orang lain."</em><br>
+  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
