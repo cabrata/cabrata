@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada gunanya menyemangati orang yang bahkan tak berniat dengan apa yang dilakukannya."</em><br>
-  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Memiliki sesuatu untuk dilindungi menjadikanmu seorang pejuang."</em><br>
+  — <strong>Ruijerd Superdia</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu</em>
 </div>
 <!-- QUOTE END -->
 
