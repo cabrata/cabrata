@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak boleh mengatakan hal yang vulgar kepada perempuan."</em><br>
-  — <strong>Sagiri Izumi</strong>, <em>Eromanga-sensei</em>
+  <em>"Meskipun cahaya kembang api akan menghilang, tapi kenangannya akan terus terjaga."</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
