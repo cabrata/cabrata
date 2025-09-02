@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di balik pintu, kehidupanmu telah menantimu. Karena itu, kau bisa bersikap jujur saat berada di sini.
-Mungkin itu lah kenapa suasana bar dibuat seperti ini."</em><br>
-  — <strong>Hitomi Mishima</strong>, <em>Hinamatsuri</em>
+  <em>"Kalaupun kau punya impian dan tahu cara menggapainya, itu saja tidaklah cukup."</em><br>
+  — <strong>Shinnosuke Aikawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
