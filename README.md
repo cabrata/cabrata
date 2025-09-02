@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski tidak diperbolehkan, harusnya aku tetap memberitahukan keinginanku!"</em><br>
-  — <strong>Mamiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Bukan gadis namanya kalau dia berwujud 3D."</em><br>
+  — <strong>Koutarou Takebayashi</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
