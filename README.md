@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat pertama kali aku melihat gambarmu, ada banyak warna yang terlihat di depanku. Itu seperti membuatku kembali mengingat warna. Aku tak tahu kenapa, tapi bagiku, aku merasa bahwa gambarmu sangat berharga."</em><br>
-  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Di balik pintu, kehidupanmu telah menantimu. Karena itu, kau bisa bersikap jujur saat berada di sini.
+Mungkin itu lah kenapa suasana bar dibuat seperti ini."</em><br>
+  — <strong>Hitomi Mishima</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
