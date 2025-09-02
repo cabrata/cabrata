@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nenek bilang "kalau kamu menangisi orang yang sudah meninggal, maka orang itu juga akan ikut sedih"."</em><br>
-  — <strong>Winry Rockbell</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Kebebasan adalah sesuatu yang tidak terikat oleh harapan orang lain, dan hanya mengikuti kata hati sendiri."</em><br>
+  — <strong>Serge</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
