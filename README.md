@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Musim semi awal dari semua musim, (awal) lahirnya cinta, (awal) lahirnya impian, (dan awal) lahirnya kebahagiaan. Semuanya dimulai pada musim semi yang menuntun kita menuju masa depan."</em><br>
-  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
+  <em>"Aku tahu kalau aku ini (hanya) tiruan. Meskipun aku tidak memiliki masa lalu, tapi aku mempunyai keyakinan yang kuat!
+Aku mencintai Ryougi! Bahkan jika aku adalah tiruan, tapi hati ini nyata."</em><br>
+  — <strong>Tomoe Enjou</strong>, <em>Kara no Kyoukai 5: Mujun Rasen</em>
 </div>
 <!-- QUOTE END -->
 
