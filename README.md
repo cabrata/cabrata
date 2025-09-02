@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau punya waktu untuk memikirkan kematianmu, kenapa tak kau jalani kehidupan indahmu sampai akhir?"</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Percayalah dan berjalanlah di atas jalanmu sendiri."</em><br>
+  — <strong>Guy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
