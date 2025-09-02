@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pahlawan bisa mati kapan pun karena perintah bodoh (atasan)."</em><br>
-  — <strong>Lancer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Saat kau dalam masalah, aku ingin jadi yang pertama membantumu. Hanya itu yang kuinginkan."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
