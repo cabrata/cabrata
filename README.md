@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun cahaya kembang api akan menghilang, tapi kenangannya akan terus terjaga."</em><br>
-  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
+  <em>"Tidak apa-apa kamu tak mencintaiku. Tapi biarkan aku mencintaimu."</em><br>
+  — <strong>Touko Nanami</strong>, <em>Yagate Kimi ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
