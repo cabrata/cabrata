@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bola voli adalah olahraga yang mengutamakan tinggi badan. Semakin tinggi tubuh seseorang, maka dia akan semakin kuat. Mengasah kekuatan para pemain untuk semakin berkembang, dan juga menemukan cara baru untuk bertarung. Karena itulah hari ini banyak sekali variasi serangan dan pertahanan. Ada banyak makna dari sebuah "kekuatan"."</em><br>
-  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Apakah setiap orang itu sama?
+Masyarakat tidak mengganggap seperti itu. "Di atas langit, masih ada langit. Di bawah tanah, masih ada tanah." begitulah kata orang-orang. Tapi, hal ini masih ada kelanjutannya. Ketika lahir, setiap manusia pada dasarnya sama. Tapi, setelah itu tergantung usaha dari masing-masing individu. Dari situlah terlihat kesenjangan di antara mereka."</em><br>
+  — <strong>Kiyotaka Ayanokouji</strong>, <em>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</em>
 </div>
 <!-- QUOTE END -->
 
