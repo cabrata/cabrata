@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang pasti pernah membuat kesalahan. Tapi perasaan manusia sering diungkapkan dalam cara yang tak menentu.Kalau kau seorang hakim, jangan mengabaikan hal itu."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Nenek bilang "kalau kamu menangisi orang yang sudah meninggal, maka orang itu juga akan ikut sedih"."</em><br>
+  — <strong>Winry Rockbell</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
