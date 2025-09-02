@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah setiap orang itu sama?
-Masyarakat tidak mengganggap seperti itu. "Di atas langit, masih ada langit. Di bawah tanah, masih ada tanah." begitulah kata orang-orang. Tapi, hal ini masih ada kelanjutannya. Ketika lahir, setiap manusia pada dasarnya sama. Tapi, setelah itu tergantung usaha dari masing-masing individu. Dari situlah terlihat kesenjangan di antara mereka."</em><br>
-  — <strong>Kiyotaka Ayanokouji</strong>, <em>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</em>
+  <em>"Semua orang pasti pernah membuat kesalahan. Tapi perasaan manusia sering diungkapkan dalam cara yang tak menentu.Kalau kau seorang hakim, jangan mengabaikan hal itu."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
