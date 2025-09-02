@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berjanji jika tidak bisa menepatinya!"</em><br>
-  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Kaulah yang telah mengajarkanku tentang hal yang terpenting, keberanian untuk maju, tak takut akan perubahan. Saat itu, tanganmu telah menyelamatkanku."</em><br>
+  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
