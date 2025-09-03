@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sifat manusiawi seseorang mulai muncul ketika mereka mulai memakai pakaian dalam. Sesuatu yang indah seharusnya memakai pakaian dalam yang indah. Bukankah itu yang menjadi daya tarik manusia?"</em><br>
-  — <strong>Kaiko Mikuniyama</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Bagaimanapun masa lalu atau masa depanmu, itu tidak mengubah fakta bahwa kau sekarang ada di sini."</em><br>
+  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
