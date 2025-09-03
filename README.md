@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama perasaan kita masih saling mencintai, kita bisa melakukan apapun."</em><br>
-  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Manusia adalah makhluk yang berakal. Meskipun kata "setara" seolah hanya candaan belaka, namun sebaliknya "ketidaksetaraan" dapat terlihat dengan jelas."</em><br>
+  — <strong>Kiyotaka Ayanokouji</strong>, <em>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</em>
 </div>
 <!-- QUOTE END -->
 
