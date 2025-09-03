@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Balas dendam adalah motivasiku."</em><br>
-  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Aku tidak pernah pandai berkata-kata, tapi karena Akademi dan pertemanan yang kubuat di sini aku tidak kesepian lagi. Jadi seperti inilah caraku membalas budi pada desa ini, dengan menjadi seorang guru."</em><br>
+  — <strong>Shino Aburame</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
