@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau sangat hebat saat membaca pikiran seseorang. Tapi kau tidak memahami perasaan mereka.
-Pikiran dan perasaan seseorang itu tidaklah sama. Karena itulah, kadang-kadang kau bisa menarik kesimpulan yang tidak rasional."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Jalan hidup masih panjang. Walau ada kalanya keraguan dan kekhawatiran menghampiri, tapi kami tetap melangkah dengan yakin di jalan yang kami pilih."</em><br>
+  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
 </div>
 <!-- QUOTE END -->
 
