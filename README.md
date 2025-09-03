@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang terbaik adalah melakukan hal yang kau inginkan."</em><br>
-  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
+  <em>"Aku tidak bisa belajar saat aku mengkhawatirkanmu."</em><br>
+  — <strong>Souichi Kamita</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
