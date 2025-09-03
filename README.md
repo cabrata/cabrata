@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk menjadi laki-laki tampan tak boleh melewatkan latihan sehari pun. Jika sampai membiarkan lemak sekecil apapun masuk, nanti akan jadi tumpukan lemak besar! Setetes minyak adalah awal dari obesitas!"</em><br>
-  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Berapa banyak pun uang yang bisa kamu dapatkan, kamu tidak akan bisa terus melakukan hal yang tidak ingin kamu lakukan. Kamu tidak akan bisa berusaha keras kalau kamu tidak menyukai hal itu."</em><br>
+  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
