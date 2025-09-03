@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Satu-satunya cara untuk menyingkirkan rasa (kecewa) ini adalah dengan melakukannya. Tak peduli seberapa banyak kegagalan, aku harus melakukannya. Setelah aku pikir-pikir, kurasa aku mulai menikmati ini."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Memiliki sifat tempramen boleh saja, tapi kalau kau tak bisa mengendalikannya kau bisa terbakar."</em><br>
+  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
