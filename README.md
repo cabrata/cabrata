@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kampanye itu hanyalah tindakan mengemis suara."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Kita harus meraih surga dan tetap menjaga langkah kaki kita tetap selalu berada di atas tanah."</em><br>
+  — <strong>Tatsuya Shiba</strong>, <em>Mahouka Koukou no Rettousei</em>
 </div>
 <!-- QUOTE END -->
 
