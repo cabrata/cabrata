@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami tidak seperti manusia yang takut akan kematian. Karena kami sudah hidup cukup lama dan tidak meninggalkan penyesalan."</em><br>
-  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Ingin memahami semua orang adalah keinginan yang munafik, bodoh dan angkuh. Benar-benar sangat menyedihkan dan memuakkan. Aku merasa jijik pada diriku sendiri yang menginginkan hal semacam itu. Namun, jika kita memikirkan hal yang sama... Kita bisa membiarkan keinginan yang angkuh itu. Jika hubungan seperti itu memang ada... Meskipun aku tahu kalau semua itu memang tidak mungkin... (Meskipun) aku tahu kalau semua itu tidak bisa kuraih... Meskipun begitu... aku menginginkan hal yang nyata."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
