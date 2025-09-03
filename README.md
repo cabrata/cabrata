@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta itu sama halnya dengan "soal ujian".
-Pertama kau harus mengenalnya dengan baik, lalu mulailah ketika kau sudah memahaminya."</em><br>
-  — <strong>Soujirou Agata</strong>, <em>Sket Dance</em>
+  <em>"Apapun logika yang diterapkan, (atau) apapun teori yang dibentuk, Keyakinan (tentang agama) dan makhluk gaib akan terus ada."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
