@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak bisa belajar saat aku mengkhawatirkanmu."</em><br>
-  — <strong>Souichi Kamita</strong>, <em>Seiren</em>
+  <em>"Aku suka banget melihatmu tertawa."</em><br>
+  — <strong>Chika Fujiwara</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
