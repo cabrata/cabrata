@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berapa banyak pun uang yang bisa kamu dapatkan, kamu tidak akan bisa terus melakukan hal yang tidak ingin kamu lakukan. Kamu tidak akan bisa berusaha keras kalau kamu tidak menyukai hal itu."</em><br>
-  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Kehidupan kalian baru saja dimulai. Mungkin kedepan ada hal yang tidak berjalan dengan baik. Namun, meskipun gagal, kalian masih bisa memulainya kembali karena jalan kalian masih panjang. Justru ketidak sempurnaan lah yang membuat manusia jadi lebih baik. Jangan terburu-buru, jangan takut, yakinlah pada diri sendiri.Temukan jalan kalian untuk melangkah maju."</em><br>
+  — <strong>Kokoro Amatsu</strong>, <em>ReLIFE: Kanketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
