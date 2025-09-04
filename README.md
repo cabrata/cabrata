@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya dengan keberadaanmu dan senyummu aku merasa bahagia.
-Hanya dengan keberadaanmu dan berjalan bersamamu aku merasa senang."</em><br>
-  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
+  <em>"Mamaku bilang "Bagi laki-laki, jabatan adalah segalanya"."</em><br>
+  — <strong>Hina Toumi</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
