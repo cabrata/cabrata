@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia yang mengetahui kelemahan dirinya adalah orang yang tangguh."</em><br>
-  — <strong>Asuka Ootorii</strong>, <em>Mahou Shoujo Tokushusen Asuka</em>
+  <em>"Punya bakat atau tidak, itu bukan sesuatu yang bisa disadari oleh diri sendiri."</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
