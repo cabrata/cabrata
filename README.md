@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengapa kau tidak bisa mempercayainya? Kalau orang tuanya saja tidak mempercayainya, lalu dia akan bergantung kepada siapa?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Suatu hari waktu akan memisahkan kita kan?
+Tapi.., walaupun begitu, hingga saat itu, mari tetap bersama."</em><br>
+  — <strong>Hotaru Takegawa</strong>, <em>Hotarubi no Mori e</em>
 </div>
 <!-- QUOTE END -->
 
