@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang yang ingin menjadi Koki profesional pasti pernah mengalami kekalahan. Meski kepercayaan diri dan kebanggaanmu yang telah kau bangun selama bertahun-tahun hancur berkeping-keping dalam sebuah kesalahan besar. Meski kau memiliki pengalaman yang sangat buruk kau masih harus membuka tokomu esok hari. Seperti itulah yang dinamakan Koki."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Kuperingatkan kau! Jangan pernah ragu-ragu! Ayah tidak pernah membesarkanmu supaya jadi seorang pengecut!
+Tapi, ini adalah kehidupanmu. (Jadi) hiduplah dengan jalan yang kau pilih."</em><br>
+  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
