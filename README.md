@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bersyukur bisa bertemu denganmu. Kamu telah menyembuhkan lukaku, kamu memberi makanan hangat untukku, kamu telah memberi tujuan hidup untukku."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Mencari majalah P*o di kamar anak laki-laki adalah bagian dari jati diri orang Jepang."</em><br>
+  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
