@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Warna yang gelap dan warna yang cerah. Semua itu membentuk dirimu. Tidak perlu dihapus. Di masa depan, tetaplah tersenyum."</em><br>
-  — <strong>Yuito Aoi</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Impianku sederhana. Aku hanya ingin terus mencintai orang yang kucintai dan terus bersamanya."</em><br>
+  — <strong>Shinra Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
