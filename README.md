@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku punya banyak hal yang ingin kulakukan, dan diantara itu kupilih (satu) hal yang paling kusukai sebagai pekerjaanku."</em><br>
-  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Yusa-san mencoba membuatku berhenti menyukaimu dan berkata kalau aku akan menyesal nantinya. Tapi, aku menyukaimu dengan kemauanku sendiri. Maka dari itu, suka ataupun tidak suka, aku sendiri yang memutuskannya."</em><br>
+  — <strong>Chiho Sasaki</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
