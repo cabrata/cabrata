@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginan dari anak buahku yang manis adalah keinginanku juga."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Manusia yang mengetahui kelemahan dirinya adalah orang yang tangguh."</em><br>
+  — <strong>Asuka Ootorii</strong>, <em>Mahou Shoujo Tokushusen Asuka</em>
 </div>
 <!-- QUOTE END -->
 
