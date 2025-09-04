@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku harus melindungi kehidupanku bersama Shio-chan karena aku ingin lebih mengetahui tentang cinta."</em><br>
-  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
+  <em>"Kata-kata dapat menyakiti seseorang. Meskipun kau menyesalinya, kau takkan pernah bisa menarik kembali (kata-kata yang telah kau ucapkan)."</em><br>
+  — <strong>Jun Naruse</strong>, <em>Kokoro ga Sakebitagatterunda.</em>
 </div>
 <!-- QUOTE END -->
 
