@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa yang akan terjadi jika kita hanya mendapatkan hal-hal yang baik?
-Kita akan berharap besok lebih baik dari hari ini dan lusa lebih baik dari besok.
-Kita akan terus berharap untuk menjadi lebih baik.
-Tapi, pada akhirnya apa yang akan terjadi?
-Pada akhirnya kita tidak akan pernah bisa merasa puas."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou II</em>
+  <em>"Menurutmu kenapa orang bisa terjaga di malam hari?Karena orang itu merasa tidak puas pada hari (yang telah ia lalui)."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
