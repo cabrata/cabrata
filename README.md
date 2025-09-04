@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang kita harus menggunakan kemampuan terbaik agar kemampuan kita tidak menumpul."</em><br>
-  — <strong>Kino</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Di dunia ini tak ada yang namanya pengalaman itu sia-sia."</em><br>
+  — <strong>Ryuujirou Kotobuki</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
