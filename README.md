@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau sangat menyukai ayahku bukan? Itulah mengapa kau sedih saat dia mati. Aku pun demikian, ayo kita berteman."</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Terkadang orang yang hidupnya mengenaskan itu bisa jauh lebih dipercaya."</em><br>
+  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Break Time</em>
 </div>
 <!-- QUOTE END -->
 
