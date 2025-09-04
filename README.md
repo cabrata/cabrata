@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada cowok yang benci cewek agresif."</em><br>
-  — <strong>Nagi Arisuin</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Hidup adalah bertahan dari kesulitan dan penderitaan."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
