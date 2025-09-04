@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pejuang harus selalu berpegang teguh pada keyakinannya."</em><br>
-  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
+  <em>"Jangan pikir semua orang melihat dunia yang sama seperti yang kau lihat!"</em><br>
+  — <strong>Ichiya Suzaku</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
