@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencari majalah P*o di kamar anak laki-laki adalah bagian dari jati diri orang Jepang."</em><br>
-  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
+  <em>"Keadilan adalah senjata... Senjata yang dapat digunakan untuk melukai, tapi tidak bisa digunakan untuk melindungi ataupun menyelamatkan orang lain."</em><br>
+  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
