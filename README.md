@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyerah karena menghadapi kesulitan adalah hal yang bodoh."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku takkan punya kehidupan yang cukup jika hanya mengandalkan keberuntungan saja."</em><br>
+  — <strong>Shikamaru Nara</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
