@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seluruh tubuhku telah berlumuran darah. Karena aku, puluhan ribu orang telah kehilangan nyawanya. Aku tak pantas hidup bahagia."</em><br>
-  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
+  <em>"Shiro, yang kau besarkan bukanlah sebuah senjata. Kau membesarkan seorang putra."</em><br>
+  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
