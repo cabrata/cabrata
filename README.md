@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang orang yang hidupnya mengenaskan itu bisa jauh lebih dipercaya."</em><br>
-  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Break Time</em>
+  <em>"Jangan terlalu banyak menahan kesedihan, karena itu akan membuatmu melupakan suatu hal yang terpenting."</em><br>
+  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
