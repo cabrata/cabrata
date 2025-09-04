@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang berkata kalau orang yang meninggal akan pergi ke surga. Tapi menurutku tidak begitu. Aku pikir jika kita mati kita akan pergi ke hati seseorang. Kita akan tinggal dalam kenangan mereka dan terus hidup. Seperti ayah dan ibu yang tinggal di hati kami. Tapi karena waktu, kenangan pun memudar. Jadi itulah mengapa orang-orang berharap untuk meninggalkan sesuatu agar tidak dilupakan dan tidak pernah dilupakan."</em><br>
-  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Ketika aku bergantung pada orang lain, pada akhirnya aku hanya akan tersakiti.
+Dari awal seharusnya aku tak bergantung pada siapapun."</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
