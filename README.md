@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keadilan adalah senjata... Senjata yang dapat digunakan untuk melukai, tapi tidak bisa digunakan untuk melindungi ataupun menyelamatkan orang lain."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
+  <em>"Keanggunan menciptakan tradisi. Keanggunanlah yang membuat dunia ini menjadi surga firdaus."</em><br>
+  — <strong>Henry Henderson</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
