@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bisa berjuang, tapi kau takkan bisa mengalahkanku. Dunia yang sesungguhnya tak semudah itu."</em><br>
-  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
+  <em>"Memang bagus kalau bisa menemukan pekerjaan yang sesuai dengan diri kita.
+Tapi kurasa tak masalah kalau kita yang harus menyesuaikan diri dengan pekerjaan."</em><br>
+  — <strong>Shinei Ookawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
