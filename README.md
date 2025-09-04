@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tak ingin menarik perhatian orang-orang, jangan melakukan hal yang bodoh."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Aku bersyukur bisa bertemu denganmu. Kamu telah menyembuhkan lukaku, kamu memberi makanan hangat untukku, kamu telah memberi tujuan hidup untukku."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
