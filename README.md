@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengetahui (kemampuan) diri sendiri dan (kemampuan) musuh adalah dasar dari bertarung."</em><br>
-  — <strong>Kamui</strong>, <em>Gintama°</em>
+  <em>"Hidup adalah perjalanan tanpa akhir. Untuk melihat sesuatu yang baru, kau harus membuka jalanmu sendiri."</em><br>
+  — <strong>King</strong>, <em>One Punch Man Season 2</em>
 </div>
 <!-- QUOTE END -->
 
