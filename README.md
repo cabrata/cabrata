@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"[Bagaimana caranya agar mati?]Mudah saja, "Teruslah Hidup". (Karena) semua makhluk hidup suatu saat pasti akan mati."</em><br>
-  — <strong>Sou</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Genius lahir dari ketidakcocokan. Akan tetapi, tidak semua ketidakcocokan adalah genius."</em><br>
+  — <strong>Akane Sonoyama</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
