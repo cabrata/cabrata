@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nyawa jauh lebih penting daripada misi."</em><br>
-  — <strong>Tengen Uzui</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
+  <em>"Aku ingin punya cinta yang begitu panas hingga bisa melelehkan lereng salju."</em><br>
+  — <strong>Roman Saotome</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
