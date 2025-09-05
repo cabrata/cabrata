@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berpikir untuk tidak terluka saat kau memutuskan untuk melangkahkan kakimu.
-Jangan terpaku pada kesempurnaan. Karena itu akan melukai orang lain dan orang lain juga akan melukaimu.
-Meski kau berlumuran lumpur sekalipun, kau harus tetap maju."</em><br>
-  — <strong>Evangeline Athanasia Katherine McDowell</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Ayahku sangat keras terhadapku. Dia ingin agar aku hanya memiliki latar belakang pendidikan yang bagus dan prestasi yang bagus. Aku ingin lepas dari itu semua. Jadi aku melepaskan seragam sekolahku dan merubah penampilanku, dimana banyak orang yang tak mengenalku. Aku bodoh, kan? Karena hanya bermain-main, kelas yang kudapatkan adalah kelas E. (Sekarang) aku tak tahu lagi kemana aku harus melangkah."</em><br>
+  — <strong>Yukiko Kanzaki</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
