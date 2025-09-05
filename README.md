@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan ditunda lagi, lakukan sekarang.
-Seorang pria tidak akan pernah mencari-cari alasan."</em><br>
-  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Cinta itu sama halnya dengan "soal ujian".
+Pertama kau harus mengenalnya dengan baik, lalu mulailah ketika kau sudah memahaminya."</em><br>
+  — <strong>Soujirou Agata</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
