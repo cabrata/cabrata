@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik menyemangati seseorang yang berjuang dalam bayang-bayang daripada orang-orang yang memiliki keberuntungan."</em><br>
-  — <strong>Keita Amano</strong>, <em>Gamers!</em>
+  <em>"Kau boleh menghinaku sesukamu, tapi jangan pernah menghina Adikku!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
