@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua yang terlibat dalam pembuatan film adalah kreator. Tak ada perbedaan di sana."</em><br>
-  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
+  <em>"Manusia mudah memuja sesuatu yang mistis dan hal-hal yang di luar nalar."</em><br>
+  — <strong>Ekubo</strong>, <em>Mob Psycho 100 III</em>
 </div>
 <!-- QUOTE END -->
 
