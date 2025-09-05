@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau begitu, jika kau tak lagi menganggapku sebagai ancaman, kau mau berteman denganku kan?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Kau selalu berpikir semuanya akan baik-baik saja jika kau melakukan apa yang menurutmu baik. Padahal kami telah menunggumu, tolong jangan menyerah ... Jangan sampai membuat keputusan yang nantinya akan kau sesali. Tolong jangan menyerah sebelum berjuang sekeras mungkin!"</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
