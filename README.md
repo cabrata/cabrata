@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa erat ikatanmu dengan orang lain, waktu akan memisahkanmu dengan mereka."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Nisemonogatari</em>
+  <em>"Semua orang hidup dengan melihat ke masa depan. Semua impian masa depan didasarkan dari diri kita saat ini."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
 </div>
 <!-- QUOTE END -->
 
