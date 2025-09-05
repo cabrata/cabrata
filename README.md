@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu-waktu tanpa dirimu sungguh membuatku sangat kesepian. Hanya sosokmulah yang dapat meniupkan hawa kehidupan dalam tubuhku."</em><br>
-  — <strong>Soushi Miketsukami</strong>, <em>Inu x Boku SS</em>
+  <em>"Tidak ada kata terlalu cepat untuk sebuah persiapan."</em><br>
+  — <strong>Fumi Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
