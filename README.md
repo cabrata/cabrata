@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang tidak akan berjuang sekeras itu jika dia tidak menyukainya."</em><br>
-  — <strong>Keiko Ayano</strong>, <em>Sword Art Online</em>
+  <em>"Cinta adalah kekonyolan dan tak ada gunanya jika dibandingkan dengan belajar."</em><br>
+  — <strong>Fuutarou Uesugi</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
