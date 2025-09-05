@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rasanya mendebarkan saat kau berpikir bahwa setiap orang memiliki rahasia masing-masing."</em><br>
-  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
+  <em>"Tujuan perbuatan baik dan perbuatan buruk itu sebenarnya sama. Kedua-duanya adalah tindakan seseorang untuk menutupi kekurangannya."</em><br>
+  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
