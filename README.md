@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada kata terlalu cepat untuk sebuah persiapan."</em><br>
-  — <strong>Fumi Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Semua yang terlibat dalam pembuatan film adalah kreator. Tak ada perbedaan di sana."</em><br>
+  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
