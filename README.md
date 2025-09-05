@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak bisa menilai naskah game itu bagus atau jelek jika belum membacanya di dalam game."</em><br>
-  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Musik itu sangat hangat dan benar-benar memancarkan kebaikan. Aku ingin selalu mendengarnya, aku ingin mendengar musik itu dimainkan olehmu!"</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
