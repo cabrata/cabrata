@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hasil pertarungan tidaklah penting, menang ataupun kalah yang terpenting kau bisa mencapai tujuanmu."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Tak ada yang lebih mahal dari sesuatu yang gratis."</em><br>
+  — <strong>Honoka Maki</strong>, <em>Kiznaiver</em>
 </div>
 <!-- QUOTE END -->
 
