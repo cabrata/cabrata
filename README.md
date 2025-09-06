@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan lengah. Kalau segalanya berjalan mulus, kamu akan mudah tersandung."</em><br>
-  — <strong>Muzan Kibutsuji</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
+  <em>"Kamu gak akan bisa jadi seorang pelukis tanpa mencintai gambarmu sendiri."</em><br>
+  — <strong>Subaru Uchimaki</strong>, <em>Kono Bijutsubu ni wa Mondai ga Aru!</em>
 </div>
 <!-- QUOTE END -->
 
