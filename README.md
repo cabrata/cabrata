@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berpikir bodoh seperti itu. Tinggalkan rasa cemburumu yang menggemaskan itu. Jangan bingung. Saat ini hanya kaulah satu-satunya yang ku punya."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Hanya pertemuan yang dapat membuat seorang Koki berkembang. Kalau hanya menghadapi masakanmu sendiri, kau hanya akan melihat dirimu yang tak pernah berubah!"</em><br>
+  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
