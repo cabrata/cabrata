@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau keturunan keluarga yang terpandang di masyarakat sekitarmu, bagaimanapun kau harus menghindari semua aktivitas yang dianggap tabu oleh mata masyarakat."</em><br>
-  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
+  <em>""skakmat" bukan berarti kau menyudutkan raja lawan. Itu adalah pernyataan bahwa raja lawan menjadi milikmu."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
