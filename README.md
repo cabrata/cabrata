@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan jika itu berarti mati, tidak ada satu pun dari kami yang akan mengkhianati teman sendiri."</em><br>
-  — <strong>Kakashi Hatake</strong>, <em>Naruto Shippuden</em>
+  <em>"Sejak dia datang, semuanya menjadi lebih baik. Duniaku mulai berubah.
+Mungkin kau tidak tahu, tapi Rinko ditakdirkan untuk menjadi inspirasiku."</em><br>
+  — <strong>Kouki Ichinose</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
