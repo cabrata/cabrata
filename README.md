@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rival itu bukan berarti menjadi musuh."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Pemandangan yang kurasa membosankan...
+Pemandangan di mana Kou-chan berada (ternyata) sangat indah."</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
