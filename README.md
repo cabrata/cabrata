@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teruslah maju dan jangan berhenti sebelum bakat dan masa muda kalian menghilang."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Cinta itu seperti bela diri! Menyerang adalah pertahanan terbaik"</em><br>
+  — <strong>Kozue Takanashi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
