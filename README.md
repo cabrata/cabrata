@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tanaman sangatlah jujur. Jika kau menutupinya dengan cinta, mereka akan mencintaimu juga."</em><br>
-  — <strong>Orphelia Landlufen</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Suatu kehormatan bagi setiap pria bisa menjadi sandaran wanita."</em><br>
+  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
 </div>
 <!-- QUOTE END -->
 
