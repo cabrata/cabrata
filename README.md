@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senang, sakit, bahagia, sedih... kuharap berbagai macam perasaan itu bisa menjadi cinta."</em><br>
-  — <strong>Kou Yamori</strong>, <em>Yofukashi no Uta</em>
+  <em>"Aku sendiri tahu apa yang ku lakukan ini bodoh (membantu orang yang sedang dikeroyok).Tapi itulah yang membedakan manusia dengan hewan."</em><br>
+  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
