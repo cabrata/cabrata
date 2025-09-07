@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar mereka adalah murid - murid dari sekolah terkenal. Tapi mereka dianggap sebagai murid buangan. Kelas mereka merupakan target diskriminasi.Tapi mereka menghadapi berbagai macam hal dengan pandangan positif. Mereka tak akan merusak yang lain seperti kalian.Sekolah dan reputasi tak ada hubungannya dengan itu."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Ada sesuatu yang harus ku raih, bahkan jika aku harus mengotorinya (*melakukan dengan cara kotor atau curang)."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
