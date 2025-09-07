@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Penglihatan bukanlah apa yang kau lihat, tapi (objek) gambar yang otakmu pahami. Pandangan kita tergantung oleh akal sehat kita. Dalam keadaan normal, manusia tidak bisa melihat diluar kotak mereka."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Aku takkan punya kehidupan yang cukup jika hanya mengandalkan keberuntungan saja."</em><br>
+  — <strong>Shikamaru Nara</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
