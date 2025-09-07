@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun semua orang menyalahkannya, atau bahkan jika dirinya juga menyalahkan dirinya sendiri, aku akan menggenggam tangannya dan membawanya ke tempat yang terang."</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
+  <em>"Di dunia ini ada banyak hal yang takkan berubah meski kita memikirkannya."</em><br>
+  — <strong>Ichiko Rokujou</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
