@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dari 490 kekalahan yang dia alami, tidak ada satu pun yang ia sia-siakan."</em><br>
-  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
+  <em>"Bukankah pemikiran mengenai kita yang tak bisa hidup tanpa perlindungan elves (makhluk lain), itu malah mencela dirimu sendiri?"</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
