@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saputangan yang tak dipakai sangatlah menyedihkan. Terutama saputangan yang tak bisa mengusap air mata."</em><br>
-  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
+  <em>"Besok kami akan datang lagi (mengunjungimu). Meskipun terlihat merepotkanmu, tapi demi orang yang kami sayangi, itu adalah bentuk kepedulian kami."</em><br>
+  — <strong>Tsubasa Hanekawa</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
