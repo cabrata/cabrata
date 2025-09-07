@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka (para petani) bekerja bukan berdasarkan waktu, tetapi berdasarkan suasana.Mereka bangun saat suasana pagi dan mencabut rumput saat suasana sore. Mereka menyambut tunas tanaman saat suasana musim semi dan berharap tumbuh kembang saat suasana musim panas. Mereka merayakan hasil panen saat suasana musim gugur dan menantikan suasana musim semi saat musim dingin."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"Bagaimanapun juga, kita harus menjalin ikatan yang kuat dengan orang-orang disekitar, (serta) membangun tubuh dan jiwa yang sehat. Sampai hari perpisahan, bersama-sama kita membuat kenangan dan menjadi manusia yang dapat dipercaya oleh orang lain."</em><br>
+  — <strong>Kodaka Hasegawa</strong>, <em>Boku wa Tomodachi ga Sukunai Episode 0</em>
 </div>
 <!-- QUOTE END -->
 
