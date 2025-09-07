@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kesunyian ini mulai membuatku nyaman, rasanya detak jantungku ini ingin meninggalkan jarum jam ke dalam debu dan bergegas ke masa depan."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Bagiku, keberadaan dirinya seperti dunia itu sendiri. Aku lebih baik mati daripada kehilangan dirinya."</em><br>
+  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
