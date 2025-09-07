@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hidup berkat bantuan dari banyak orang. Aku disini karena Ibu ada disini. Aku senang kau menjadi orang tuaku. Aku benar-benar beruntung."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Aku ingin punya cinta yang begitu panas hingga bisa melelehkan lereng salju."</em><br>
+  — <strong>Roman Saotome</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
