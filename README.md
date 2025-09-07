@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan."</em><br>
-  — <strong>Kurumi Ebisuzawa</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Kalau berpikir pesimis, maka hal yang seharusnya berjalan lancar, nantinya akan jadi tidak lancar. Kita harus berpikir secara optimis."</em><br>
+  — <strong>Yuuki Hase</strong>, <em>Isshuukan Friends.</em>
 </div>
 <!-- QUOTE END -->
 
