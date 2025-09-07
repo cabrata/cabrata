@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan aku beri tahu sesuatu hal yang bagus...
-Cara agar tidak kalah adalah dengan tidak bertanding."</em><br>
-  — <strong>Manabu Sakuma</strong>, <em>Ping Pong The Animation</em>
+  <em>"Kesenangan takkan pernah berlangsung lama. Begitulah kehidupan."</em><br>
+  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
 </div>
 <!-- QUOTE END -->
 
