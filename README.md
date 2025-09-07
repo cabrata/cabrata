@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu hari waktu akan memisahkan kita kan?
-Tapi.., walaupun begitu, hingga saat itu, mari tetap bersama."</em><br>
-  — <strong>Hotaru Takegawa</strong>, <em>Hotarubi no Mori e</em>
+  <em>"Wanita adalah penemuan alam yang berada di tingkatan paling atas. Pria harus mengikuti wanita untuk memenuhi perintah alam dengan cara yang paling ekonomis."</em><br>
+  — <strong>Ernesta Kühne</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
