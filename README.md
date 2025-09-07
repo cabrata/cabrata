@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Besok kami akan datang lagi (mengunjungimu). Meskipun terlihat merepotkanmu, tapi demi orang yang kami sayangi, itu adalah bentuk kepedulian kami."</em><br>
-  — <strong>Tsubasa Hanekawa</strong>, <em>Owarimonogatari</em>
+  <em>"Dari 490 kekalahan yang dia alami, tidak ada satu pun yang ia sia-siakan."</em><br>
+  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
