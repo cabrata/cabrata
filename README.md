@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Diatas langit memang masih ada langit."</em><br>
-  — <strong>You Watanabe</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Kerajaan Lugnica bukanlah milik sang Naga! Tapi milik kita semua!"</em><br>
+  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
