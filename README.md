@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian akan dapat terus maju dengan berpegang pada penderitaan.
-Jaga teman kalian saat ini. (Karena) jika mereka mati, mereka takkan kembali."</em><br>
-  — <strong>Shinohara</strong>, <em>Hai to Gensou no Grimgar</em>
+  <em>"Akan ku ukir sosokmu ke dalam ingatan semua orang."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
