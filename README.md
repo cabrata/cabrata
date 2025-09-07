@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di jamanku dulu, tidak ada hal yang sia-sia. Meskipun ada perbudakan, tapi budak itu memiliki tujuan (hidup). Apapun perannya, mereka tetap punya arti dalam hidupnya. Tapi bagaimana dengan era di dunia yang sekarang? (Era dimana) manusia lebih banyak daripada tujuan hidup itu sendiri."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Saat ada seseorang yang ingin menegakkan keadilannya, maka (di lain sisi) pasti ada orang lain yang akan kehilangan keadilan mereka. Karena itu pahlawan memanglah egois. Pahlawan yang tak memiliki kemampuan tapi ingin bertarung dan menyelamatkan banyak orang tanpa mengandalkan kekuatan itu (hanyalah) orang arogan. Tapi jika orang bodoh seperti itu memang ada, mereka hanya akan jadi pengganggu saja. Apa yang diperlukan oleh pahlawan sebenarnya adalah kekuatan untuk mewujudkan ideologinya menjadi nyata dan keteguhan hati untuk memaksakan keadilan yang diyakininya pada orang lain."</em><br>
+  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
