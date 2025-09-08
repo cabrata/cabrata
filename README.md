@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Di dunia ini) tak ada orang yang baik ataupun orang buruk, karena itu kau tak bisa membandingkan keduanya."</em><br>
-  — <strong>Maiko Fujishima</strong>, <em>Kokoro Connect</em>
+  <em>"Aku tak butuh alasan untuk berdiri di puncak. Aku hanya ingin memandang jauh ke depan."</em><br>
+  — <strong>Medaka Kurokami</strong>, <em>Medaka Box</em>
 </div>
 <!-- QUOTE END -->
 
