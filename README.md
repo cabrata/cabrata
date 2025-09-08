@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Profesi polisi) hanya menjamin penghasilan saja. Sebaliknya, fisik dan mental tidak terjamin."</em><br>
-  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Jika manusia memiliki keinginan, mereka bisa saja menjadi malaikat atau pun iblis."</em><br>
+  — <strong>Rika Suzuki</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
