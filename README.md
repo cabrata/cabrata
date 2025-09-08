@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun peringkat kami yang paling bawah,
-Meskipun kami tak bisa menggunakan sihir,
-Kakek percaya kami bisa mengalahkan ras lain.
-Aku ingin membuktikan kalau yang dipercayai kakekku itu benar."</em><br>
-  — <strong>Stephanie Dola</strong>, <em>No Game No Life</em>
+  <em>"Seorang seniman harus selalu mengungkapkan apa yang dipikirkannya dan bergelut dengan akal sehatnya."</em><br>
+  — <strong>Hiromichi Kudou</strong>, <em>Photokano</em>
 </div>
 <!-- QUOTE END -->
 
