@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita terlihat paling cantik ketika mereka membicarakan orang yang mereka sukai."</em><br>
-  — <strong>Hiroomi Souma</strong>, <em>Working!!</em>
+  <em>"Yang menang selalu benar! Dan yang salah adalah setan!"</em><br>
+  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
