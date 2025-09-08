@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada tempat di masyarakat untuk orang yang tak menghargai diri sendiri."</em><br>
-  — <strong>Ai Hayasaka</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Diatas langit memang masih ada langit."</em><br>
+  — <strong>You Watanabe</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
