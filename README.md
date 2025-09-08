@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua mungkin melihat ke arah yang berbeda-beda, tapi kita semua punya tujuan kembali yang sama."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama°</em>
+  <em>"Aku percaya bahwa mencitai orang lain adalah bentuk dari menghargai diri sendiri."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
