@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau seperti kucing. Saat aku mendekatimu, kau berbalik arah dan pergi menjauh. Saat aku terluka, kau mendekat dan ingin berbagi rasa sakitnya."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Di dunia ini ada banyak hal yang lebih menakutkan daripada iblis, tapi jangan pernah kalah."</em><br>
+  — <strong>Jukai</strong>, <em>Dororo</em>
 </div>
 <!-- QUOTE END -->
 
