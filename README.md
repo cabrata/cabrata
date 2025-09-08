@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk mencapai potensi mereka sepenuhnya.
-Dengan semua mata yang melihat mereka, mereka harus menunjukkan banyak keberanian."</em><br>
-  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
+  <em>"Kutukan dan berkah itu pada dasarnya sama, tergantung bagaimana kita menerimanya."</em><br>
+  — <strong>Rahab</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
