@@ -5,9 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti yang diharapkan, Pemain sang juara dunia memang (terlihat) garang. (Tapi) takkan kubiarkan... Jika aku tertekan, habislah aku. Kalau gentar, aku bisa kalah. Kalau takut, aku bisa mati.
-Baiklah. Siap!!"</em><br>
-  — <strong>Yutaka Hoshino</strong>, <em>Ping Pong The Animation</em>
+  <em>"Aku ingin membuat lebih banyak kenangan bersamamu. Aku tidak ingin kamu pergi ke Inggris.
+Haruka, aku mencintaimu! Aku sangat mencintaimu! Tolong menikahlah denganku!
+Mari (kita hidup) bahagia bersama!"</em><br>
+  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
