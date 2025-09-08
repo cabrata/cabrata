@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau ingin bernegosiasi, kau harus menawarkan keuntungan yang bisa didapatkan. Jika tidak, maka tidak ada negosiasi"</em><br>
-  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Dirimu yang telah mengerti penderitaan pasti akan jadi orang baik melebihi siapa pun."</em><br>
+  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
