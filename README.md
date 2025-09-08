@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, pemain di seusiamu masih bisa memaksakan diri untuk berjuang. Tapi, jikalau ingin jadi juara dunia, kau juga harus berani mengibarkan bendera putih."</em><br>
-  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
+  <em>"Meskipun peringkat kami yang paling bawah,
+Meskipun kami tak bisa menggunakan sihir,
+Kakek percaya kami bisa mengalahkan ras lain.
+Aku ingin membuktikan kalau yang dipercayai kakekku itu benar."</em><br>
+  — <strong>Stephanie Dola</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
