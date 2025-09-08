@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia suka sekali membuat kesalahan yang sama. Mereka tak bisa diharapkan."</em><br>
-  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Dalam hati manusia, selalu ada kelemahan yang tersembunyi."</em><br>
+  — <strong>Saburouta Toudou</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
