@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kemenangan sejati bukanlah saat kau menang melawan yang kuat.
-Melainkan saat kau berhasil melindungi sesuatu yang berharga bagimu."</em><br>
-  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Jatuh cinta itu tidak bisa diatur-atur."</em><br>
+  — <strong>Kazehana</strong>, <em>Sekirei: Pure Engagement</em>
 </div>
 <!-- QUOTE END -->
 
