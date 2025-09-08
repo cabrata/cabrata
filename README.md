@@ -5,9 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku berlari lebih cepat dari siapa pun karena kamu melihat dan mendukungku.
-Alasan kenapa aku berlari dengan cepat, alasan aku ingin menjadi cantik, dan alasan aku ingin jatuh cinta adalah karenamu!"</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Dengan dalih menjalani "Masa muda", orang-orang memutar balikkan akal sehat. Mereka menganggap, kebohongan, rahasia, dosa, dan kegagalan hanyalah bumbu masa muda. Jika mereka menganggap kegagalan adalah bagian dari menjalani masa muda, bukankah seharusnya seorang yang gagal mendapatkan teman juga bagian dari menjalani masa muda?
+Tapi aku yakin mereka tidak akan menganggapnya seperti itu. Karena semua itu hanyalah standar ganda yang mereka mainkan.
+Jadi kesimpulannya, orang bodoh yang menikmati masa mudanya lebih baik mati saja!"</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
