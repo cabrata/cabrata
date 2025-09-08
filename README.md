@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak muda kadang terobsesi pada kesempurnaan.
-Aku juga pernah begitu.
-Tapi suatu saat nanti, kau pasti akan percaya pada jalanmu sendiri.
-Seperti yang kulakukan.
-Karena itu, tenang saja, tak apa kalau kau cemas."</em><br>
-  — <strong>Shirosaki</strong>, <em>Bokura wa Minna Kawaisou</em>
+  <em>"Jika kau terjebak di suatu lubang yang begitu dalam dan tak bisa keluar, maka aku akan masuk ke lubang yang sama denganmu untuk menyelamatkanmu."</em><br>
+  — <strong>Masaomi Kida</strong>, <em>Durarara!!x2 Ten</em>
 </div>
 <!-- QUOTE END -->
 
