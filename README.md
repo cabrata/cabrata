@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang seniman harus selalu mengungkapkan apa yang dipikirkannya dan bergelut dengan akal sehatnya."</em><br>
-  — <strong>Hiromichi Kudou</strong>, <em>Photokano</em>
+  <em>"Keinginan dari anak buahku yang manis adalah keinginanku juga."</em><br>
+  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
 </div>
 <!-- QUOTE END -->
 
