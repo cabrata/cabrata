@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pagi hari, angin yang menyegarkan dan cahaya matahari yang lembut mengisyaratkan suatu yang indah akan terjadi."</em><br>
-  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
+  <em>"Manusia suka sekali membuat kesalahan yang sama. Mereka tak bisa diharapkan."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
