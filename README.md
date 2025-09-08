@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kemungkinan menang hanyalah 0% saat semua pemain menyerah.
-Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
-Itulah sebabnya aku tidak akan menyerah!"</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Pelayan yang tidak mampu menggunakan alat register sama dengan ibu rumah tangga yang tidak bisa memasak nasi goreng."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
