@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kalian menatap ke dalam pintu neraka, maka pintu neraka juga sedang menatap kalian."</em><br>
-  — <strong>Mephisto Pheles</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Ketika kematian masih jauh, orang-orang mengoceh tentang impian, keyakinan, (dan) bermacam-macam teori. Tapi saat mereka sudah hampir mati, mereka baru sadar kalau manusia hanya ingin hidup dan mati di sisi orang yang mereka percayai."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
