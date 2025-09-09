@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah pemikiran mengenai kita yang tak bisa hidup tanpa perlindungan elves (makhluk lain), itu malah mencela dirimu sendiri?"</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Cowok SMA biasanya kalau ada cewek yang menembaknya pasti seharian dia akan terus memikirkan cewek itu, bahkan meskipun dia tidak menyukainya."</em><br>
+  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
