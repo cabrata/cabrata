@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencintai orang lain selain diri sendiri adalah hal yang penting."</em><br>
-  — <strong>Ruth</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Berhentilah untuk mencoba memperbaiki semuanya sendiri. Jangan lupa, kau tidaklah sendirian!"</em><br>
+  — <strong>Ryuuji Suguro</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
