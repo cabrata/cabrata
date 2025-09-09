@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Jika bertengkar) setidaknya pilih orang yang pantas untuk diajak bertengkar. Bertengkar dengan orang yang tak pantas diajak bertengkar hanya akan membuat dirimu (rendah) seperti orang yang kamu lawan."</em><br>
-  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
+  <em>"Ada jarak jutaan tahun cahaya yang memisahkan antara "suka" dan "tidak suka"."</em><br>
+  — <strong>Nao Kashiwagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
