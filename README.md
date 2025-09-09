@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada cewek yang suka diperlakukan seperti adik."</em><br>
-  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Dazai pernah berkata, "Satu-satunya hal yang hanya dimiliki manusia dan tidak dimiliki oleh makhluk lainnya adalah kita memiliki rahasia""</em><br>
+  — <strong>Kotarou Azumi</strong>, <em>Tsuki ga Kirei</em>
 </div>
 <!-- QUOTE END -->
 
