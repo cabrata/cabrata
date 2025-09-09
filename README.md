@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan lari, hadapilah!. Kalau punya hal yang ingin kamu kejar dengan serius, kenapa kau tidak memakainya sebagai senjata untuk bertarung."</em><br>
-  — <strong>Eiko Kawasegawa</strong>, <em>Bokutachi no Remake</em>
+  <em>"Saat aku dimintai tolong, sudah pasti aku harus menolongnya, bukan? Karena aku sudah berjanji, aku sudah berjanji kepada kakakku. Meski jari kami sudah berpisah. Tapi janji kami masih tetap ada."</em><br>
+  — <strong>Madoka Takatori</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
