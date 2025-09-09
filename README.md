@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak mau kamu minta maaf padaku. Membuat Araragi-senpai menunduk meminta maaf adalah aib bagi Kanbaru Suruga."</em><br>
-  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
+  <em>"Hanya dengan memiliki orang yang dicintai saja dapat membuat pagi yang hampa menjadi indah."</em><br>
+  — <strong>Akira Hiiragi</strong>, <em>KimiKiss Pure Rouge: Love Fighter</em>
 </div>
 <!-- QUOTE END -->
 
