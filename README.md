@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mulai sekarang, tujuanku adalah mengembalikan senyumanmu."</em><br>
-  — <strong>Hana Miyakoshi</strong>, <em>WWW.Working!!</em>
+  <em>"Ketika ada sesuatu yang populer, itu artinya yang lainnya tidak populer."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
