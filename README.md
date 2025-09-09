@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau menelusuri akar, ranting, dan daun yang membawamu mencapai kebenaran, maka kau akan mengerti segalanya, lalu kau mampu menguasainya!"</em><br>
-  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Intinya, ada 2 pilihan yang bisa diambil saat bermain game. Buat strategimu sendiri, atau memanfaatkan strategi pemain lain. Pertanyaannya adalah siapa yang memiliki inisiatif. Dalam pertandingan ini, kamilah yang membuat inisiatif selama game berlangsung."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
