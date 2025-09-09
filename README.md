@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam perjalanan nanti aku tidak tahu seberapa besar kemungkinanku bisa bertemu lagi dengannya.
-Mungkin hal itu semustahil melihat komet (yang hanya muncul 200 tahun sekali).
-Meskipun begitu, aku tidak akan ragu lagi. Karena dia telah memberiku keberanian untuk melangkah maju melewati pintu yang telah lama mengurungku."</em><br>
-  — <strong>Leon Stephanotis</strong>, <em>Violet Evergarden</em>
+  <em>"(Hanya) semua inilah yang kumiliki.., Mengajarimu dalam belajar, adik kelas yang manis, seorang ayah yang pekerja keras, kemudian langit berbintang ini. Yang aku miliki hanya sebatas ini. Hanya sebatas inilah yang bisa kuberikan padamu."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
