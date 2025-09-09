@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia yang mengetahui kelemahan dirinya adalah orang yang tangguh."</em><br>
-  — <strong>Asuka Ootorii</strong>, <em>Mahou Shoujo Tokushusen Asuka</em>
+  <em>"Terus mengungkit-ungkit masa lalu bukankah itu ke kanak-kanakan?"</em><br>
+  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
