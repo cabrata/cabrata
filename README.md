@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kaulah yang telah mengajarkanku tentang hal yang terpenting, keberanian untuk maju, tak takut akan perubahan. Saat itu, tanganmu telah menyelamatkanku."</em><br>
-  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan."</em><br>
+  — <strong>Kurumi Ebisuzawa</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
