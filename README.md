@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan."</em><br>
-  — <strong>Kurumi Ebisuzawa</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Api dapat membakar manusia, tetapi api juga dapat menerangi jalan dan menghangatkan tubuh manusia."</em><br>
+  — <strong>Iris</strong>, <em>Enen no Shouboutai</em>
 </div>
 <!-- QUOTE END -->
 
