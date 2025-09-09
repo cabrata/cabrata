@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi Pegawai Negeri Sipil (PNS), dimarahi atau dimaki itu adalah pekerjaan utamanya."</em><br>
-  — <strong>Yutaka Hasebe</strong>, <em>Servant x Service</em>
+  <em>"Katanya, jika seorang anak mati sebelum orang tuanya, dia akan jatuh ke neraka yang terdalam."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
