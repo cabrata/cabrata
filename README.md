@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu makhluk yang bodoh. Mereka tak bisa menjaga harga diri. Karena itu mereka mudah dibutakan keserakahan."</em><br>
-  — <strong>Minami Yamamoto</strong>, <em>Joshikousei no Mudazukai</em>
+  <em>"Jangan lari, hadapilah!. Kalau punya hal yang ingin kamu kejar dengan serius, kenapa kau tidak memakainya sebagai senjata untuk bertarung."</em><br>
+  — <strong>Eiko Kawasegawa</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
