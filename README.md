@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan gadis namanya kalau dia berwujud 3D."</em><br>
-  — <strong>Koutarou Takebayashi</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Tulip hitam dalam bahasa bunga artinya bahwa kamu sedang gelisah."</em><br>
+  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
 </div>
 <!-- QUOTE END -->
 
