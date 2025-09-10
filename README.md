@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menikah itu berarti kau tidak akan pernah sendirian lagi. Tidak akan pernah membiarkan pasanganmu sendirian lagi. Itulah makna janji pernikahan."</em><br>
-  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Wanita itu seperti sake, semakin berumur semakin nikmat."</em><br>
+  — <strong>Sumiko Kawai</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
