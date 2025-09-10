@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akhirnya aku menemukan sesuatu yang ingin kulindungi, tempat dimana aku bisa kembali, dan alasan diriku untuk tetap hidup.
-Kau membuatku sadar bahwa aku layak untuk terus hidup. Jadi, aku berjanji akan membahagiakanmu."</em><br>
-  — <strong>Willem Kmetsch</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Waktu-waktu kosong tanpa kehadiranmu sangatlah menyakitkan dan (membuat hidupku jadi) tidak berarti."</em><br>
+  — <strong>Soushi Miketsukami</strong>, <em>Inu x Boku SS</em>
 </div>
 <!-- QUOTE END -->
 
