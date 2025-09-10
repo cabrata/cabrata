@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak itu memang yang terbaik saat dia bertingkah kekanak-kanakan."</em><br>
-  — <strong>Matsuyo Matsuno</strong>, <em>Osomatsu-san</em>
+  <em>"Telanjang adalah fashion terbaik."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
