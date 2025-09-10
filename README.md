@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat memang penting, tapi aku (lebih) cemburu dengan orang yang punya tujuan hidup."</em><br>
-  — <strong>Atomu Kai</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Tak ada perjalanan yang tanpa akhir. Ketika tiba saatnya kita harus berpisah, aku ingin kita berpisah dengan senyuman."</em><br>
+  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
 </div>
 <!-- QUOTE END -->
 
