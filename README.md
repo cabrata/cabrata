@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia memang lebih kuat dariku, tapi itu bukan alasan untuk tidak mencemaskannya. Apapun yang kami lakukan, dia selalu lebih baik dariku. Tapi, aku adalah kakaknya. Aku takkan pernah goyah dari posisi itu."</em><br>
-  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Ketika kalian menatap ke dalam pintu neraka, maka pintu neraka juga sedang menatap kalian."</em><br>
+  — <strong>Mephisto Pheles</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
