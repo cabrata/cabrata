@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidur itu sangat penting. Kurang tidur bisa berdampak buruk pada pekerjaan, dan kesehatanmu. Tidur di kursi bisa menghilangkan rasa penatmu untuk sementara, tapi tidak baik untuk punggungmu."</em><br>
-  — <strong>Umiko Ahagon</strong>, <em>New Game!!</em>
+  <em>"Orang yang paling tidak berguna adalah orang yang paling bodoh."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
