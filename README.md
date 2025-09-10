@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekuatan berasal dari tanggung jawab, dan power berasal dari tanggung jawab. Yang artinya kekuatan berarti tanggung jawab, dan tanggung jawab berarti power! Kekuatan bisa juga berarti power!"</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Pemandangan yang kau lihat dari tempat tinggi akan terlihat sangat menakjubkan, tak peduli walau pemandangannya biasa saja."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
