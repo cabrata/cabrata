@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang tak ada yang menyadari kalau dirinya berbakat. Karena itulah, kita semua terus berjuang meningkatkan kemampuan kita. Saat kita berjuang meningkatkan kemampuan kita, kita sadar bahwa orang disekitar kita juga semakin meningkat dan kita jadi semakin termotivasi. Kurasa teman dapat dijadikan sebagai rival."</em><br>
-  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Keadilan adalah senjata... Senjata yang dapat digunakan untuk melukai, tapi tidak bisa digunakan untuk melindungi ataupun menyelamatkan orang lain."</em><br>
+  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
