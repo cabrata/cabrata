@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak terlalu mengerti dengan perasaanku sendiri. Tapi waktu itu, saat kau memelukku dan bilang mencintaiku, waktu terasa seperti berhenti. Aku mencintaimu Satou-kun."</em><br>
-  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
+  <em>"Tidur itu sangat penting. Kurang tidur bisa berdampak buruk pada pekerjaan, dan kesehatanmu. Tidur di kursi bisa menghilangkan rasa penatmu untuk sementara, tapi tidak baik untuk punggungmu."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!!</em>
 </div>
 <!-- QUOTE END -->
 
