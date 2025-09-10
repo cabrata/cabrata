@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Latihan itu penting. Dan jika semakin mahir, maka akan semaki seru juga. Makanya kita harus berjuang!"</em><br>
-  — <strong>Uzuki Shimamura</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Kita hanya bisa menduga apa yang mereka pikirkan saat ini. Kau boleh menyebutnya prasangka, tapi membutuhkan pengalaman serta pengamatan untuk melakukan sebuah penghakiman."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
