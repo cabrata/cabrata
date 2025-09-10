@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap langkah itu berharga. Harus ada kemajuan dibanding kemarin. Besoknya lagi harus lebih ada kemajuan dibanding hari ini. Sebelumnya besok adalah hari ini. Begitu pula sebaliknya! Dengan kata lain, sekarang adalah segala-galanya! Hidup itu berharga!"</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Ada banyak hal yang lebih penting daripada sekedar absen sekolah."</em><br>
+  — <strong>Iroha Igarashi</strong>, <em>3D Kanojo: Real Girl</em>
 </div>
 <!-- QUOTE END -->
 
