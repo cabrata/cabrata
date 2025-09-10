@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akhir-akhir ini, kelompok kalian tidak menghasilkan apa - apa. Badan penelitian yang hanya berbicara tentang kejayaan masa lalu tidak dibutuhkan di Tootsuki."</em><br>
-  — <strong>Erina Nakiri</strong>, <em>Shokugeki no Souma</em>
+  <em>"Menyumbunyikan semua usaha dari orang lain bukan sesuatu yang bisa dilakukan semua orang."</em><br>
+  — <strong>Oota</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
 </div>
 <!-- QUOTE END -->
 
