@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pedansa adalah makhluk yang suka menjadi pusat perhatian."</em><br>
-  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Aku tak terlalu mengerti dengan perasaanku sendiri. Tapi waktu itu, saat kau memelukku dan bilang mencintaiku, waktu terasa seperti berhenti. Aku mencintaimu Satou-kun."</em><br>
+  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
