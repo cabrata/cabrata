@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada banyak hal yang lebih penting daripada sekedar absen sekolah."</em><br>
-  — <strong>Iroha Igarashi</strong>, <em>3D Kanojo: Real Girl</em>
+  <em>"Kita memasak karena ingin membuat senang siapapun yang memakannya. Kita senang kalau ada yang bilang enak. Itulah kenapa aku senang memasak, dan merasa ingin terus memasak. Sekarang siapa yang mau bilang, apa yang kau buat itu enak?!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
