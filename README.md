@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan itu seperti langit yang selalu bergerak dan berubah."</em><br>
-  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Aku benci pria yang diam saja melihat seorang wanita tersakiti."</em><br>
+  — <strong>Sen Yarizui</strong>, <em>Ben-To</em>
 </div>
 <!-- QUOTE END -->
 
