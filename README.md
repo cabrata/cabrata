@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia yang berlebihan dalam kehidupannya adalah manusia yang berlebihan dalam hatinya."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
+  <em>"Aku tidak punya cukup tenaga untuk bersikap baik terhadap semua orang."</em><br>
+  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
 </div>
 <!-- QUOTE END -->
 
