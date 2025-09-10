@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa menjadi pahlawan itu adalah bagian dari hobi.
-Dengan kata lain, selama aku bisa menghajar musuh, kurasa itu sudah cukup."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Mengabdikan diri untuk pendidikan adalah suatu bentuk kerja keras."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
