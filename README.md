@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mamaku bilang "Bagi laki-laki, jabatan adalah segalanya"."</em><br>
-  — <strong>Hina Toumi</strong>, <em>Kakushigoto</em>
+  <em>"Seorang pejuang harus selalu berpegang teguh pada keyakinannya."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
