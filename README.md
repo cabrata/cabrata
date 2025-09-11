@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika cintamu tidak terbalas, kau harus segera move on darinya."</em><br>
-  — <strong>Izumi Takanashi</strong>, <em>Working!!!</em>
+  <em>"Orang bilang "Kebalikan dari dicintai itu bukanlah dibenci, tapi diabaikan"."</em><br>
+  — <strong>Retto Enjou</strong>, <em>Dokyuu H* HxEros</em>
 </div>
 <!-- QUOTE END -->
 
