@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keberuntungan adalah sebuah bakat juga!"</em><br>
-  — <strong>Mio Honda</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Pekerjaan sekecil apapun membutuhkan keseriusan."</em><br>
+  — <strong>Produser Inugane</strong>, <em>Back Street Girls: Gokudolls</em>
 </div>
 <!-- QUOTE END -->
 
