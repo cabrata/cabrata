@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta dapat membuat seseorang menjadi kuat dan lemah."</em><br>
-  — <strong>Hibiki Tsukahara</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Seorang pria kesepian yang tidak mengenal cinta harus diselimuti dengan cinta tanpa syarat."</em><br>
+  — <strong>Mizuho Asano</strong>, <em>Bleach</em>
 </div>
 <!-- QUOTE END -->
 
