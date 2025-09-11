@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi menyelamatkan nyawamu, nyawa orang lain harus dikorbankan.
-Seperti itulah cara hidup "hewan"."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan."</em><br>
+  — <strong>Kurumi Ebisuzawa</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
