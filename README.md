@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia tumbuh lebih kuat demi dirinya sendiri."</em><br>
-  — <strong>Hibana</strong>, <em>Enen no Shouboutai</em>
+  <em>"Kunci kesuksesan dalam berbisnis adalah senyuman."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
 </div>
 <!-- QUOTE END -->
 
