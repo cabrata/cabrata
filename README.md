@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa yang berharga menurut klienku, itu juga berharga untukku. Akan ku lakukan apapun untuk melindungi mereka."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Ketika kebetulan terjadi berulang kali, orang-orang mulai mengasumsikannya pada hal-hal tahayul seperti nasib atau sebagainya...
+Tapi, selama kemungkinannya tidak nol, apapun bisa saja terjadi. Pada dasarnya, tahayul merupakan sebuah lambang dari kebodohan."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
