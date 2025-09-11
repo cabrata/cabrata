@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lelucon itu menarik, tapi ada batasnya. Jika mengarah menuju kesalahpahaman, maka akan menjadi kebohongan."</em><br>
-  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
+  <em>"Kehidupan sempurna di rumah itu memang sulit untuk didapatkan."</em><br>
+  — <strong>Shinji Tokita</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
