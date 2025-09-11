@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau punya waktu untuk terpuruk, lebih baik gunakan (waktumu itu) untuk melangkah maju."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man Season 2</em>
+  <em>"Kamu sudah tidak perlu berjuang lagi. Menangis juga tidak apa-apa. Karena Mayushii ada di sampingmu."</em><br>
+  — <strong>Mayuri Shiina</strong>, <em>Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero</em>
 </div>
 <!-- QUOTE END -->
 
