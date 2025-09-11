@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengubah diri sendiri sama dengan melarikan diri.
-Kenapa kau tidak (coba) menerima dirimu sendiri?"</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Ada hal yang tak bisa dilakukan itu memang sesuatu yang wajar. Namun, bukan berarti itu tak bisa dilakukan selamanya kan?"</em><br>
+  — <strong>Nariyuki Yuiga</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
 </div>
 <!-- QUOTE END -->
 
