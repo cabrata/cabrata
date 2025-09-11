@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Skala dari angka yang tinggi dapat membuatmu tak terkalahkan."</em><br>
-  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
+  <em>"Saat aku mencari tahu tentang iblis, makhluk yang mirip dengan itu adalah manusia.
+Karena manusia membunuh dan memakan segala jenis spesies."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
