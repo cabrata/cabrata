@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan sekecil apapun membutuhkan keseriusan."</em><br>
-  — <strong>Produser Inugane</strong>, <em>Back Street Girls: Gokudolls</em>
+  <em>"Siapapun yang ingin turun sebelum sampai di puncak, sebaiknya jatuh saja."</em><br>
+  — <strong>Sougo Okita</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
