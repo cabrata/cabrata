@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bilang "Kebalikan dari dicintai itu bukanlah dibenci, tapi diabaikan"."</em><br>
-  — <strong>Retto Enjou</strong>, <em>Dokyuu H* HxEros</em>
+  <em>"Keberuntungan adalah sebuah bakat juga!"</em><br>
+  — <strong>Mio Honda</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
