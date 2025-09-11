@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang tak bisa dilakukan itu memang sesuatu yang wajar. Namun, bukan berarti itu tak bisa dilakukan selamanya kan?"</em><br>
-  — <strong>Nariyuki Yuiga</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
+  <em>"Kehilangan hasrat untuk hidup dan berharap untuk mati adalah hal yang berbeda."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
