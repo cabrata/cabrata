@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian mudah sekali menyerah. Jika kalian ingin menangis, lakukanlah setelah (kalian) bekerja keras!"</em><br>
-  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Jika cintamu tidak terbalas, kau harus segera move on darinya."</em><br>
+  — <strong>Izumi Takanashi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
