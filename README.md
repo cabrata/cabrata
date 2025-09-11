@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenyataan itu memang kejam, tapi kenyataan bukanlah kebohongan."</em><br>
-  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
+  <em>"Kau adalah bunga yang mekar dihatiku."</em><br>
+  — <strong>Santana</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
