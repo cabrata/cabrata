@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu sudah tidak perlu berjuang lagi. Menangis juga tidak apa-apa. Karena Mayushii ada di sampingmu."</em><br>
-  — <strong>Mayuri Shiina</strong>, <em>Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero</em>
+  <em>"Mamaku bilang "Bagi laki-laki, jabatan adalah segalanya"."</em><br>
+  — <strong>Hina Toumi</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
