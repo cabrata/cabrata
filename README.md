@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakak adalah kelinci percobaan terbaik."</em><br>
-  — <strong>Tanaka</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
+  <em>"Manusia bisa menjadi baik karena ada hal yang tidak mereka ketahui. Karena kalau manusia tahu segalanya, mereka tak akan berusaha. Jika mereka tak berusaha, maka tidak ada hal baru yang akan terjadi."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
