@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saudara akan selalu memberikan bantuan kapanpun kan?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Selama ini aku telah menghabiskan waktu hidupku untuk berbohong. Setidaknya mulai dari sekarang, aku akan berusaha untuk jujur pada diriku sendiri."</em><br>
+  — <strong>Cagliostro</strong>, <em>Senki Zesshou Symphogear AXZ</em>
 </div>
 <!-- QUOTE END -->
 
