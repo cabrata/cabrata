@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keanggunan menciptakan tradisi. Keanggunanlah yang membuat dunia ini menjadi surga firdaus."</em><br>
-  — <strong>Henry Henderson</strong>, <em>Spy x Family</em>
+  <em>"Jika laki-laki diibaratkan serigala, maka perempuan itu ular."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
