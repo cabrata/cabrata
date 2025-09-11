@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu tidak perlu terburu-buru untuk memutuskan (sesuatu)."</em><br>
-  — <strong>Hajime Suzamoto</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Jika kita hanya melihat ke atas terus, kita akan kehilangan pijakan."</em><br>
+  — <strong>Keishin Ukai</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
