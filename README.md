@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah bunga yang mekar dihatiku."</em><br>
-  — <strong>Santana</strong>, <em>Canaan</em>
+  <em>"Aku ingin bergandengan tangan denganmu. Lalu... terkadang aku juga ingin berpelukan denganmu. Maafkan aku karena tak sepolos seperti yang kau pikirkan."</em><br>
+  — <strong>Rinko Yamato</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
