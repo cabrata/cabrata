@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau dalam masalah, aku ingin jadi yang pertama membantumu. Hanya itu yang kuinginkan."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Demi menyelamatkan nyawamu, nyawa orang lain harus dikorbankan.
+Seperti itulah cara hidup "hewan"."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
