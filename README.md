@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mempelajari (tentang) seseorang dan berinteraksi dengan mereka itu adalah sesuatu yang berbeda."</em><br>
-  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Kalau kau merasa malu, tunjukkan padaku sudah sedewasa apakah dirimu!"</em><br>
+  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
