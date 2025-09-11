@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakakku selalu mengingatkanku untuk mengembalikan apa yang kupinjam."</em><br>
-  — <strong>Ayato Amagiri</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Hidup itu tidak perlu terburu-buru untuk memutuskan (sesuatu)."</em><br>
+  — <strong>Hajime Suzamoto</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
