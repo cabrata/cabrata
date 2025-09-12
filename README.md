@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat memang penting, tapi aku (lebih) cemburu dengan orang yang punya tujuan hidup."</em><br>
-  — <strong>Atomu Kai</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Semakin aku menikmati kesenangan, semakin sakit rasanya ketika harus berpisah."</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
