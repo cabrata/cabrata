@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siluman tak hanya memangsa manusia, terkadang mereka juga menyesatkan hati manusia dengan menawarkan kekuatannya. Dengan kekuatan yang melebihi akal sehat, mereka memberikan sesuatu pada manusia dan sebagai imbalannya, mereka merebut sesuatu dari manusia."</em><br>
-  — <strong>Jukai</strong>, <em>Dororo</em>
+  <em>"Manusia akan lebih kuat bila mereka berjuang untuk melindungi sesuatu."</em><br>
+  — <strong>Heathcliff</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
