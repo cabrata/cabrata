@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Jantungku) ini terasa aneh. Dari tadi berdetak kencang... sejak kau bilang padaku untuk tidak pergi, sejak kau memelukku dengan erat. Suaramu masih terdengar di telingaku. Rasa tubuhmu masih tertinggal (di diriku).
-Apa yang terjadi denganku? Apakah ini (yang dinamakan) "cinta" ?"</em><br>
-  — <strong>Mashiro Shiina</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Jika ada suatu hal yang membuatmu sedih, tidak apa kau bersedih. Kau tidak perlu selalu (berpura-pura) terlihat baik-baik saja."</em><br>
+  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
