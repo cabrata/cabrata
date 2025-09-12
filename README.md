@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau merasa malu, tunjukkan padaku sudah sedewasa apakah dirimu!"</em><br>
-  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist</em>
+  <em>"Bagi orang yang gak bisa, belajar itu memang sangat sulit. Mereka yang tak bisa takkan bisa merasakan senangnya belajar. Namun, ketika orang yang tak bisa itu mulai belajar sedikit demi sedikit hingga bisa, kurasa belajar jadi mulai terasa menyenangkan."</em><br>
+  — <strong>Nariyuki Yuiga</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
 </div>
 <!-- QUOTE END -->
 
