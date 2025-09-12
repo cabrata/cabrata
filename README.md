@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi orang yang gak bisa, belajar itu memang sangat sulit. Mereka yang tak bisa takkan bisa merasakan senangnya belajar. Namun, ketika orang yang tak bisa itu mulai belajar sedikit demi sedikit hingga bisa, kurasa belajar jadi mulai terasa menyenangkan."</em><br>
-  — <strong>Nariyuki Yuiga</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
+  <em>"Kalau kau ingin menyelamatkan seseorang yang tak bisa diselamatkan, kau akan tenggelam bersamanya."</em><br>
+  — <strong>Doppo Kunikida</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
