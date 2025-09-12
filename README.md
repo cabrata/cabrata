@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tidak bisa bertanggung jawab hingga akhir, jangan lakukan apa-apa."</em><br>
-  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Manusia itu tidak bisa hidup seorang diri, karena kehidupannya penuh dengan beban."</em><br>
+  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
 </div>
 <!-- QUOTE END -->
 
