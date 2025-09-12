@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Datang ke tempatmu sudah cukup untuk menyembuhkan satu hatiku."</em><br>
-  — <strong>Yuuka Kobayakawa</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Tak bermain sesuai dengan arahan partiturnya hanyalah keegoisan manusia yang sudah menyerah."</em><br>
+  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
