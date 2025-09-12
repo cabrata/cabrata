@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau aku tidak lagi menjadi tentara peri, aku ingin mengejar impian biasa sebagaimana orang biasa lainnya.
-Aku ingin hidup berdampingan dengannya, melihat hal yang sama, berjalan di jalan yang sama, makan makanan yang sama, dan melihat pemandangan yang sama dengannya."</em><br>
-  — <strong>Chtholly Nota Seniorious</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Jika kau tak bisa memilih salah satu, maka kau hanya perlu mencari pilihan lain untuk membuat dua pilihan itu tetap terjadi."</em><br>
+  — <strong>Kazuki Fujisawa</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
