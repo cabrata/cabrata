@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tugas seorang wanita yang sebenarnya adalah melindungi harga diri seorang pria."</em><br>
-  — <strong>Saeko Busujima</strong>, <em>Highschool of the Dead</em>
+  <em>"Siluman tak hanya memangsa manusia, terkadang mereka juga menyesatkan hati manusia dengan menawarkan kekuatannya. Dengan kekuatan yang melebihi akal sehat, mereka memberikan sesuatu pada manusia dan sebagai imbalannya, mereka merebut sesuatu dari manusia."</em><br>
+  — <strong>Jukai</strong>, <em>Dororo</em>
 </div>
 <!-- QUOTE END -->
 
