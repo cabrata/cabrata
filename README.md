@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya orang bodoh yang ingin membantu orang lain tapi malah lupa dengan bantuannya."</em><br>
-  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Terkadang orang yang hidupnya mengenaskan itu bisa jauh lebih dipercaya."</em><br>
+  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Break Time</em>
 </div>
 <!-- QUOTE END -->
 
