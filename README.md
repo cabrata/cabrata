@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencoba mendapatkan semua hal yang terbaik adalah prinsip keadilanku."</em><br>
-  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Aku tidak pernah pandai berkata-kata, tapi karena Akademi dan pertemanan yang kubuat di sini aku tidak kesepian lagi. Jadi seperti inilah caraku membalas budi pada desa ini, dengan menjadi seorang guru."</em><br>
+  — <strong>Shino Aburame</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
