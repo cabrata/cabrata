@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling penting bagiku adalah kehangatan genggaman tanganmu, senyumanmu yang imut dan masa depan yang akan kita bangun bersama."</em><br>
-  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Kalau aku tidak lagi menjadi tentara peri, aku ingin mengejar impian biasa sebagaimana orang biasa lainnya.
+Aku ingin hidup berdampingan dengannya, melihat hal yang sama, berjalan di jalan yang sama, makan makanan yang sama, dan melihat pemandangan yang sama dengannya."</em><br>
+  — <strong>Chtholly Nota Seniorious</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
