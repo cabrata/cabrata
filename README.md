@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi mencapainya, aku tidak peduli walau harus menjadi segala bentuk kejahatan di dunia ini. Jika hal itu mampu menyelamatkan dunia, maka dengan senang hati akan kulakukan."</em><br>
-  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Sudah sejak lama aku selalu melihatmu. Ini bukan lelucon, aku serius. Tak ada hal lain yang kupikirkan selain dirimu."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
