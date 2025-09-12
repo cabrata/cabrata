@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak mau kencan dengan gadis yang menjelek-jelekkan teman baikku."</em><br>
-  — <strong>Makoto Sunakawa</strong>, <em>Ore Monogatari!!</em>
+  <em>"Aku tidak mau kamu minta maaf padaku. Membuat Araragi-senpai menunduk meminta maaf adalah aib bagi Kanbaru Suruga."</em><br>
+  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
