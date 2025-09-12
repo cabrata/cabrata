@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pejuang adalah seorang yang melindungi anak-anak dan menghargai teman-temannya."</em><br>
-  — <strong>Ruijerd Superdia</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu</em>
+  <em>"Ada hal yang hanya dapat diketahui setelah kau menghadapinya."</em><br>
+  — <strong>Yoshiyuki Nakajima</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
