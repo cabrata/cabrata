@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada cowok yang benci cewek agresif."</em><br>
-  — <strong>Nagi Arisuin</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Wanita adalah makhluk yang mengejar prestasi tertinggi, sedangkan Pria adalah makhluk yang digunakan Wanita untuk memenuhi tujuannya dengan cara yang paling ekonomis."</em><br>
+  — <strong>Ernesta Kühne</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
