@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Daripada menyesal karena terlambat, lebih baik serius dari sekarang. Kita harus meneguhkan hati dan mencobanya. Jika tidak berhasil, baru kita segera berhenti."</em><br>
-  — <strong>Tsurayuki Rokuonji</strong>, <em>Bokutachi no Remake</em>
+  <em>""Sebuah tujuan" memberi seseorang kekuatan. Pertemanan lebih kuat daripada pisau."</em><br>
+  — <strong>Angelo Lagusa</strong>, <em>91 Days</em>
 </div>
 <!-- QUOTE END -->
 
