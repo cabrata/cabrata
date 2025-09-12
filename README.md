@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masa depan lahir dari pengalaman masa lalu."</em><br>
-  — <strong>Sanae Kouzuki</strong>, <em>Sakura Quest</em>
+  <em>"Tak peduli berapa banyak kebohongan yang kau katakan, kau takkan bisa membohongi hatimu sendiri."</em><br>
+  — <strong>Meliodas</strong>, <em>Nanatsu no Taizai</em>
 </div>
 <!-- QUOTE END -->
 
