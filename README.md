@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bunga-bunga yang indah pun pada akhirnya akan layu dan berguguran. Itulah takdir dari semua bentuk kehidupan."</em><br>
-  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
+  <em>"Untuk mengetahui siapa sebenarnya dirimu, kau harus melangkah keluar dari duniamu sendiri."</em><br>
+  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
