@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak perlu mencari-cari alasan. Lakukan saja apa yang benar-benar ingin kau lakukan. Bukankah begitu caranya kita mulai melakukan sesuatu yang benar-benar kita inginkan?"</em><br>
-  — <strong>Nozomi Toujou</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Meski kita bisa memilih dengan siapa kita terlibat, tapi kita tidak bisa memilih dengan siapa kita bertemu. Jadi aku pikir sangat beruntung bisa bertemu dengan orang baik."</em><br>
+  — <strong>Asami Yuuki</strong>, <em>Hige wo Soru. Soshite Joshikousei wo Hirou.</em>
 </div>
 <!-- QUOTE END -->
 
