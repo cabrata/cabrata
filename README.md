@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat ini, aku hanya memikirkan bagaimana caranya mewujudkan pemikiranku. Aku akan menghidangkan tekadku dan semuanya di atas piring."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Pekerjaan sekecil apapun membutuhkan keseriusan."</em><br>
+  — <strong>Produser Inugane</strong>, <em>Back Street Girls: Gokudolls</em>
 </div>
 <!-- QUOTE END -->
 
