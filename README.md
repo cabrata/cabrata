@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bermimpilah seakan kau hidup selamanya. Hiduplah seakan kau akan mati hari ini."</em><br>
-  — <strong>Hijiri Minowa</strong>, <em>Bakuon!!</em>
+  <em>"Untuk mencapai potensi mereka sepenuhnya.
+Dengan semua mata yang melihat mereka, mereka harus menunjukkan banyak keberanian."</em><br>
+  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
