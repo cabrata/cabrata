@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti kata Winston Churcill, Kucing memandang rendah manusia. Anjing menghormati manusia. Tapi, Babi memandang manusia dengan setara."</em><br>
-  — <strong>Ichiko Fuji</strong>, <em>Gin no Saji</em>
+  <em>"Kami melakukannya karena kami menginginkannya! Memang benar latihannya sangatlah berat, badanku sampai terasa sakit semua. Tapi, semangatku untuk membatalkan penutupan sekolah ini takkan kelah besar dari semangat milikmu!"</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
