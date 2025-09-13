@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melalui surat kau bisa mengutarakan perasaan jujur dalam hatimu yang bahkan sulit untuk diutarakan."</em><br>
-  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
+  <em>"Aku itu orang payang yang tak akan melakukan sesuatu yang tak ingin aku lakukan."</em><br>
+  — <strong>Nako Sunao</strong>, <em>Hitoribocchi no Marumaru Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
