@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengapa kau tidak bisa mempercayainya? Kalau orang tuanya saja tidak mempercayainya, lalu dia akan bergantung kepada siapa?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Cinta adalah alat untuk menguasai."</em><br>
+  — <strong>Quinella</strong>, <em>Sword Art Online: Alicization</em>
 </div>
 <!-- QUOTE END -->
 
