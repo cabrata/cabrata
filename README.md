@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita adalah teman dipihak yang lemah. Kita bukan dipihak musuh yang lebih banyak bicara sedikit bekerja."</em><br>
-  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Rasa lapar adalah bumbu terbaik."</em><br>
+  — <strong>Shinobu Oshino</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
