@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus hidup, hiduplah dengan bebas. Dari dalam hatiku, aku mencintaimu."</em><br>
-  — <strong>Gilbert Bougainvillea</strong>, <em>Violet Evergarden</em>
+  <em>"Aku ingin pergi ke berbagai tempat dan melihat, mendengar, serta merasakan berbagai macam hal yang tidak pernah kurasakan sebelumnya. Aku ingin melakukan semua yang bisa kulakukan sekarang agar saat tua nanti aku tidak punya penyesalan."</em><br>
+  — <strong>Kuon</strong>, <em>Utawarerumono: Itsuwari no Kamen</em>
 </div>
 <!-- QUOTE END -->
 
