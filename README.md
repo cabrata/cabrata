@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau membenci dirimu sendiri sebanyak seratus kali, aku akan mencintaimu sebanyak dua ribu kali. Dan itulah, perlakuan khusus yang ingin kuberikan padamu. "Mengapa dua ribu kali?" Karena angka ratusan takkan cukup untuk menggambarkan perasaanku terhadapmu."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kalau kau memang menginginkannya, terkadang kau harus melawan, tak peduli siapapun lawannya."</em><br>
+  — <strong>Kae Serinuma</strong>, <em>Watashi ga Motete Dousunda</em>
 </div>
 <!-- QUOTE END -->
 
