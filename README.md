@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang penting adalah menunjukkan dirimu sendiri, dirimu yang bersinar!"</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Aku adalah kesatria. Melindungi mata pencaharian wargaku merupakan tugas dan kehormatanku."</em><br>
+  — <strong>Dustiness Ford Lalatina</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!</em>
 </div>
 <!-- QUOTE END -->
 
