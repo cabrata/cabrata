@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sosoknya yang hanya diterangi oleh cahaya bulan itu lebih indah dari karya artistik mana pun."</em><br>
-  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Kau tak perlu mencari-cari alasan. Lakukan saja apa yang benar-benar ingin kau lakukan. Bukankah begitu caranya kita mulai melakukan sesuatu yang benar-benar kita inginkan?"</em><br>
+  — <strong>Nozomi Toujou</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
