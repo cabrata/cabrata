@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kita membantu orang lain pada akhirnya akan berujung pada kebaikan pada diri kita sendiri."</em><br>
-  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba: Katanakaji no Sato-hen</em>
+  <em>"Jangan lengah. Kalau segalanya berjalan mulus, kamu akan mudah tersandung."</em><br>
+  — <strong>Muzan Kibutsuji</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
 </div>
 <!-- QUOTE END -->
 
