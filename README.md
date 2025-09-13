@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berjuanglah sekeras mungkin. Kerahkan seluruh pikiran dan hatimu untuk mencari jalan keluar bersama dengan mereka. Biarkan hatimu yang telah mengering dan layu itu sekali lagi bermekaran."</em><br>
-  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
+  <em>"Manusia yang mengetahui kelemahan dirinya adalah orang yang tangguh."</em><br>
+  — <strong>Asuka Ootorii</strong>, <em>Mahou Shoujo Tokushusen Asuka</em>
 </div>
 <!-- QUOTE END -->
 
