@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup selalu terbentuk dari serangkaian trial dan error."</em><br>
-  — <strong>Shingen Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Kita adalah teman dipihak yang lemah. Kita bukan dipihak musuh yang lebih banyak bicara sedikit bekerja."</em><br>
+  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
