@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena tidak beruntung bukan berarti harus menderita.
-Hanya karena tidak menyenangkan bukan berarti harus membenci.
-Apa pun yang terjadi padamu, tetaplah bahagia."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Nekomonogatari: Kuro</em>
+  <em>"Makanan hangat yang kau sediakan dan senyummu telah memberi kekuatan pada semua orang."</em><br>
+  — <strong>Van Hohenheim</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
