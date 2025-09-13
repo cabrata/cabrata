@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku itu orang payang yang tak akan melakukan sesuatu yang tak ingin aku lakukan."</em><br>
-  — <strong>Nako Sunao</strong>, <em>Hitoribocchi no Marumaru Seikatsu</em>
+  <em>"Tetaplah terjaga sampai kau merasa puas menjalani harimu. Cara hidup seperti itu juga tidak buruk."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
