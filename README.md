@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginan dari anak buahku yang manis adalah keinginanku juga."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Mamaku bilang "Bagi laki-laki, jabatan adalah segalanya"."</em><br>
+  — <strong>Hina Toumi</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
