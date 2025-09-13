@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku orang yang tidak terlalu peduli dengan masa lalu. Karena jika terus memikirkannya hanya akan membuat hidupku suram."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Tidak ada darimu atau perkataan temanmu yang mempengaruhi hidupku dalam hal apapun, baik bentuk maupun jalannya."</em><br>
+  — <strong>Jinta Yadomi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
