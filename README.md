@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak laki-laki selalu membawa belati di hati mereka."</em><br>
-  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Semua yang kau katakan dan lakukan berkilauan dan bersinar terang. Itu terlalu silau untukku dan akhirnya ku menutup mata."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
