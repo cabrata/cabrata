@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu tidak usah mencemaskannya. Apapun yang kamu rasakan tinggal lepaskan saja. Aku tidak berpikir kita akan bisa mulai dari nol ke seratus dengan cepat. Tapi mungkin kita bisa mendapat satu. Aku ingin melihat jika kita bisa melakukannya juga."</em><br>
-  — <strong>Riko Sakurauchi</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"("Cinta" itu seperti apa?)
+Perasaan di saat kamu selalu memikirkan dan memimpikan tentang dia. Saat tidak berhasil menarik perhatiannya kamu pun merasa murung. Kamu juga tidak bisa menatapnya langsung karena malu. Lalu, disaat kamu mengetahui kekurangan dalam dirinya, tapi entah kenapa kamu tetap ingin mengetahui lebih banyak tentang dia."</em><br>
+  — <strong>Inari Fushimi</strong>, <em>Inari, Konkon, Koi Iroha.</em>
 </div>
 <!-- QUOTE END -->
 
