@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia akan memilih kesukaan mereka sendiri, lebih tepatnya mereka harus memilih sendiri."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Saya sangat senang bahwa (hidup di) dunia ini tidak mudah."</em><br>
+  — <strong>Nadeko Sengoku</strong>, <em>Monogatari Series: Off & Monster Season</em>
 </div>
 <!-- QUOTE END -->
 
