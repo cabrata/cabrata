@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak muda seharusnya mencoba mendapatkan berbagai macam pengalaman."</em><br>
-  — <strong>Tachibana</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Apa kau percaya dengan takdir?
+Apa kau mendengarnya? suara dari langkah takdir kita yang semakin mendekat."</em><br>
+  — <strong>Souichi Jounouchi</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
