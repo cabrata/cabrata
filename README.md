@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pejuang adalah seorang yang melindungi anak-anak dan menghargai teman-temannya."</em><br>
-  — <strong>Ruijerd Superdia</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu</em>
+  <em>"Jika kau menghindari pembicaraan yang tak penting, maka kau akan terhindar dari masalah yang tak penting."</em><br>
+  — <strong>Nozomu Itoshiki</strong>, <em>Sayonara Zetsubou Sensei</em>
 </div>
 <!-- QUOTE END -->
 
