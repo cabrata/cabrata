@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu sudah tidak perlu berjuang lagi. Menangis juga tidak apa-apa. Karena Mayushii ada di sampingmu."</em><br>
-  — <strong>Mayuri Shiina</strong>, <em>Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero</em>
+  <em>"Perasaan manusia itu terlalu rumit dan susah dimengerti. Tidak semua perasaan diungkapkan melalui kata-kata, ada kalanya manusia memiliki maksud lain atau niat kebohongan."</em><br>
+  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
