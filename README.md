@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, akulah yang gila. Aku dibutakan delusi chuunibyou dan terpengaruh rasa keadilan murahan."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Memanjakan anak adalah bagian dari pekerjaan seorang ibu."</em><br>
+  — <strong>Shizu Tanbabashi</strong>, <em>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</em>
 </div>
 <!-- QUOTE END -->
 
