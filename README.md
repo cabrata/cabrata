@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak baik bagi kesehatanmu jika kamu tidak makan."</em><br>
-  — <strong>Makoto Kowata</strong>, <em>Flying Witch</em>
+  <em>"Rasa sakit di kakiku suatu saat (pasti) akan hilang. Tapi, penyesalan takkan (pernah) hilang."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
