@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal-hal yang perlu dilakukan hanya dapat dilakukan oleh orang yang mampu melakukannya."</em><br>
-  — <strong>Yuki Funahara</strong>, <em>Psycho-Pass</em>
+  <em>"Semakin aku menikmati kesenangan, semakin sakit rasanya ketika harus berpisah."</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
