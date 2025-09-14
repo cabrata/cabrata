@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang gadis akan merasa senang jika diperlakukan secara lembut."</em><br>
-  — <strong>Rory Mercury</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Katanya, jika seorang anak mati sebelum orang tuanya, dia akan jatuh ke neraka yang terdalam."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
