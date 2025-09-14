@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang pasti memiliki pandangan yang berbeda atas perbuatanmu. Ada yang menganggap tindakan yang telah kau lakukan itu benar, ada pula yang menganggapnya salah. Biarkan mereka bicara sesukanya, kau tidak perlu mempedulikannya. Karena yang kau lakukan bukanlah suatu hal yang benar ataupun hal yang salah. Kau hanya sedang menjalani masa mudamu."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Hanamonogatari</em>
+  <em>"Kau harus tetap berlari. Kau harus memikirkan perasaanmu sendiri. Berbohong pada diri sendiri dan melakukan apa yang orang lain mau hanya akan menyakitimu. Bukankah kau ingin menjadi school idol? Kalau begitu, kau harus terus melangkah maju."</em><br>
+  — <strong>Hanamaru Kunikida</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
