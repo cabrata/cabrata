@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika ada sesuatu yang populer, itu artinya yang lainnya tidak populer."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
+  <em>"Kalau kau memang menginginkannya, terkadang kau harus melawan, tak peduli siapapun lawannya."</em><br>
+  — <strong>Kae Serinuma</strong>, <em>Watashi ga Motete Dousunda</em>
 </div>
 <!-- QUOTE END -->
 
