@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jatuh cinta itu tidak bisa diatur-atur."</em><br>
-  — <strong>Kazehana</strong>, <em>Sekirei: Pure Engagement</em>
+  <em>"Aku tak bisa mengabaikan seseorang yang menangis di depanku."</em><br>
+  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
