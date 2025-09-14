@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mamaku bilang "Bagi laki-laki, jabatan adalah segalanya"."</em><br>
-  — <strong>Hina Toumi</strong>, <em>Kakushigoto</em>
+  <em>"Lebih memilih persahabatan daripada cinta adalah alasan yang klise."</em><br>
+  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
