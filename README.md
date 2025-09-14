@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah melihat kebenaran dipalsukan di depan mata dan menyaksikan keputusan konyol yang diambil, aku pun tak tahan lagi. Sesuatu di dalam diriku hancur."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Lebih memilih persahabatan daripada cinta adalah alasan yang klise."</em><br>
+  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
