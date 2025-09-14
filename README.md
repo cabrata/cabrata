@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahasa bunga dari mawar merah adalah semangat dalam menghadapi tantangan."</em><br>
-  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
+  <em>"Ide tanpa idealisme itu tidak ada artinya."</em><br>
+  — <strong>Miko Iino</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
