@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Justru membosankan kalau kamu sedih saat (gagal) mencoba menjawab ekspektasi orang lain."</em><br>
-  — <strong>Chisato Nishikigi</strong>, <em>Lycoris Recoil</em>
+  <em>"Mempelajari (tentang) seseorang dan berinteraksi dengan mereka itu adalah sesuatu yang berbeda."</em><br>
+  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
