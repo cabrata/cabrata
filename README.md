@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia takkan tahu bahwa diri mereka telah ditipu, tapi (sebaliknya) mereka akan sangat sensitif ketika orang lain yang ditipu."</em><br>
-  — <strong>Hitsujii</strong>, <em>Juuni Taisen</em>
+  <em>"Semua orang adalah orang bodoh yang tak mau dibilang bodoh oleh orang lain."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
