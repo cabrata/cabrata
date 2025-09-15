@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa yang kamu suka?Apa yang kamu benci?Apa yang kamu hormati?Apa yang kamu anggap buruk?Itu semua kamu yang memutuskan.Kita mempelajari dan melihat banyak hal. Begitulah hidup.Kamu bukanlah yang membuat dunia, tapi dunialah yang membuatmu."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Kamus adalah barang yang dapat membantu manusia untuk memahami satu sama lain. Saat sesorang berbicara dengan orang lain atau saat membaca, kita dibanjiri oleh banyak kata. Di balik kata-kata itu, ada orang yang ingin menyampaikan perasaannya. Kamus membantu orang untuk memahami apa yang dipikirkan dan apa yang ingin disampaikan oleh orang lain."</em><br>
+  — <strong>Mitsuya Majime</strong>, <em>Fune wo Amu</em>
 </div>
 <!-- QUOTE END -->
 
