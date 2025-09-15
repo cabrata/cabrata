@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak akan pernah marah, membenci, atau membunuh seseorang. Daripada melakukan itu, aku lebih memilih mati. Dan ketika itu terjadi, aku akan mati dengan senyuman di depan wajah orang yang membunuhku."</em><br>
-  — <strong>Photo</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Meskipun bergantung pada teman bukanlah hal yang buruk. Tapi jujur saja, sebaiknya kita mencari jalan keluar dengan kemampuan kita sendiri."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
