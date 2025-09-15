@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan asal taruh barang aneh di hati orang."</em><br>
-  — <strong>Kurisu Makise</strong>, <em>Steins;Gate</em>
+  <em>"Untuk terus maju, terkadang kita harus membuang sesuatu yang berharga."</em><br>
+  — <strong>Luviagelita Edelfelt</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
