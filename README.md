@@ -5,19 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang ingin kusampaikan padamu Junichi.
-Teman yang buruk, kawan, (seorang) yang tak terpisahkan.
-Banyak kata untuk mengungkapkan hubungan kita.
-Tapi aku tidak mau ada jarak lagi diantara kita.
-Akhirnya kusadari perasaanku.
-Sampai sekarang, aku merasa senang mengerjaimu.
-Tapi itu semua baru saja berakhir.
-Entah sejak kapan, aku selalu mengerjaimu.
-Kita memiliki banyak kenangan sepanjang waktu dan membuatku sadar atas perasaan ini.
-Aku tahu 100 hal buruk tentangmu.
-Tapi aku tahu 101 hal baik tentangmu.
-Junichi.. aku menyukaimu."</em><br>
-  — <strong>Kaoru Tanamachi</strong>, <em>Amagami SS</em>
+  <em>"Jika ada yang tertinggal, maka akan ada yang menariknya. Jika ada yang lelah, akan ada yang membantunya. Kita semua kadang kebingungan dan ragu. Tapi kita tetap maju. Jadi aku yakin, kita pasti bisa!"</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
