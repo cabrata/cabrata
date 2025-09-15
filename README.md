@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau seorang ninja, mau berapa kalipun gagal, kau akan terus berusaha."</em><br>
-  — <strong>Boruto Uzumaki</strong>, <em>Boruto: Naruto Next Generations</em>
+  <em>"Aku tak mau kencan dengan gadis yang menjelek-jelekkan teman baikku."</em><br>
+  — <strong>Makoto Sunakawa</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
