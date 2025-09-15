@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah mendengar lagu itu, aku ingin menjadi shool idol seperti µ's. Membuatku ingin berjuang, berusaha, dan bekerjasama membuat keajaiban. Aku jadi merasa bahwa akupun pasti bisa melakukannya dan aku bisa mengubahnya dari diriku dulu."</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Saat kau memiliki masalah, kau harus bersandar pada orang lain. Aku yakin akan ada orang lain yang akan membantumu."</em><br>
+  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
