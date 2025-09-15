@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Otak manusia takkan melihat sesuatu yang tak ingin dilihatnya."</em><br>
-  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Kau dan mimpimu itu sangat indah. Lebih dari yang lain, meskipun kau sudah tahu kalau kau takkan mendapatkan apapun, kau masih terus berjuang melawan dirimu sendiri."</em><br>
+  — <strong>Aka no Rider</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
