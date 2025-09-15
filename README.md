@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku itu orang payang yang tak akan melakukan sesuatu yang tak ingin aku lakukan."</em><br>
-  — <strong>Nako Sunao</strong>, <em>Hitoribocchi no Marumaru Seikatsu</em>
+  <em>"Aku akan menjadi pahlawan untukmu seorang."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
