@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak mau kencan dengan gadis yang menjelek-jelekkan teman baikku."</em><br>
-  — <strong>Makoto Sunakawa</strong>, <em>Ore Monogatari!!</em>
+  <em>"Celty, bahkan jika kau mengatakan akan membinasakan seluruh manusia, aku (juga) akan mengkhianati umat manusia dan akan mendukungmu. Selama aku bisa mati bersamamu sebagai manusia terakhir di bumi, aku akan bahagia."</em><br>
+  — <strong>Shinra Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
