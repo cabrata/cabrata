@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami mengadakan konser pertama kami di auditorium ini. Saat itu, aku berkata bahwa suatu hari nanti kami pasti akan membuat seluruh kursi di auditorium ini terisi penuh. Kami telah berjuang keras, dan sekarang kami berada disini. Aku ingin suatu saat perasaanku ini tersampaikan pada semua orang. Dan hari ini, mimpi kami menjadi kenyataan! Karena itulah, kami akan mulai berlari lagi. Menuju impian yang baru!"</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Aku bisa melindungi orang-orang yang aku sayang. Aku bisa berjuang demi orang-orang yang aku cintai. Tekad bajaku diperuntukkan untuk berperang. Darahku ada untuk melindungi. Hatiku yang tersembunyi ada untuk mencintai. Terima kasih. Aku mencintaimu. Kau luar biasa. Aku sangat bahagia. Jangan ragu untuk mengatakan pada orang-orang yang kau sayang tentang perasaanmu pada mereka. Karena mereka mungkin saja tidak ada lagi besok."</em><br>
+  — <strong>Akagi</strong>, <em>Kantai Collection: KanColle</em>
 </div>
 <!-- QUOTE END -->
 
