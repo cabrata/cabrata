@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan terlalu menyalahkan dirimu hanya karena satu kesalahan."</em><br>
-  — <strong>Ibu Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Hanya karena semua orang melakukan dan mengatakan hal yang sama, itu tak menjamin kebenaran."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
