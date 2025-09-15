@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku iri padamu yang mempunyai semua yang aku inginkan. Kenapa selalu dirimu? Itu membuatku frustasi. Memang ada saat dimana aku membencimu. Tapi tidak hanya itu. Berkat dirimu, aku menemukan tujuan hidupku. Karena itu aku berusaha untuk meraihnya, namun (ternyata) gagal. Itu membuatku lebih frustasi. Meskipun begitu, semua itu adalah saat terbaik dalam hidupku. Jika saja aku tidak bertemu denganmu, aku takkan pernah merasakan perasaan seperti ini. Semua hal yang telah kau ajarkan padaku inilah yang membuatku mencintaimu. Aku sangat mencintaimu!"</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Latihan itu penting. Dan jika semakin mahir, maka akan semaki seru juga. Makanya kita harus berjuang!"</em><br>
+  — <strong>Uzuki Shimamura</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
