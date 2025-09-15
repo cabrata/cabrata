@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak baik membiarkan seorang gadis terluka."</em><br>
-  — <strong>Seiji Aino</strong>, <em>Renai Boukun</em>
+  <em>"Hanya pria yang maju ke medan perang dengan gagah berani disampingku yang pantas menjadi Masterku. Dan bukanlah pengecut yang bahkan hampir tidak punya keberanian untuk menunjukkan dirinya sendiri!"</em><br>
+  — <strong>Rider</strong>, <em>Fate/Zero</em>
 </div>
 <!-- QUOTE END -->
 
