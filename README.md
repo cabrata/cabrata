@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apa yang kau lempar padaku, dengan satu hentakan. Aku akan mengembalikannya dua kali lipat lebih baik."</em><br>
-  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
+  <em>"Laki-laki itu sebenarnya tidak begitu peduli setiap perkataan yang dikatakannya."</em><br>
+  — <strong>Shimura</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
 </div>
 <!-- QUOTE END -->
 
