@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku terlahir untuk menjadi sampel eksperimennya."</em><br>
-  — <strong>Takahashi</strong>, <em>Joshikousei no Mudazukai</em>
+  <em>"Hanya orang bodoh yang ingin membantu orang lain tapi malah lupa dengan bantuannya."</em><br>
+  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect: Michi Random</em>
 </div>
 <!-- QUOTE END -->
 
