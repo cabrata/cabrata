@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang paling tidak berguna adalah orang yang paling bodoh."</em><br>
-  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
+  <em>"Aku tidak mau mengorbankan apapun atau menyeret siapapun hanya untuk menang."</em><br>
+  — <strong>Makoto Tsukimoto</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
