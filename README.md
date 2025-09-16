@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cermin adalah alat yang dapat membantumu menghadapi dirimu sendiri dari berbagai sisi."</em><br>
-  — <strong>Tooe Kanbaru</strong>, <em>Zoku Owarimonogatari</em>
+  <em>"Seorang pahlawan profesional harus selalu menjadi simbol keadilan yang indah."</em><br>
+  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
