@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia sudah ditakdirkan mengecap rasa enak, wajar jika mereka mencari yang sesuai dengan seleranya!"</em><br>
-  — <strong>Zero</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
+  <em>"Lebih baik kau periksa motormu sebelum mengendarainya, tapi yang lebih penting lagi, periksalah pria sebelum menaikinya."</em><br>
+  — <strong>Baita</strong>, <em>Bakuon!!</em>
 </div>
 <!-- QUOTE END -->
 
