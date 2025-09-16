@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau berpikir bahwa hanya pendapatmu yang paling benar, maka kau akan membuat dirimu dan orang sekitarmu tidak senang."</em><br>
-  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Orang yang membuang dirinya sendiri tidak pantas memandang rendah orang lain."</em><br>
+  — <strong>Touka Scott</strong>, <em>Yuusha ga Shinda!</em>
 </div>
 <!-- QUOTE END -->
 
