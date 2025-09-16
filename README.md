@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta datang dalam berbagai bentuk. Mungkin memang tidak semuanya menyenangkan, tapi tetap saja (cinta) itu indah."</em><br>
-  — <strong>Mitsuki Shijou</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Hari yang baik dimulai dengan kasur yang baik."</em><br>
+  — <strong>Ikta Solork</strong>, <em>Nejimaki Seirei Senki: Tenkyou no Alderamin</em>
 </div>
 <!-- QUOTE END -->
 
