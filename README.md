@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Manusia itu bodoh". Mungkin ada sedikit kebenaran soal itu.
-Tapi aku suka manusia.
-Kalian bertengkar, kalian marah, kalian menangis.
-Tapi pada akhirnya, kalian selalu tertawa.
-Itulah yang kusuka dari kalian, para manusia."</em><br>
-  — <strong>Housuke</strong>, <em>Sket Dance</em>
+  <em>"Wanita adalah penemuan alam yang berada di tingkatan paling atas. Pria harus mengikuti wanita untuk memenuhi perintah alam dengan cara yang paling ekonomis."</em><br>
+  — <strong>Ernesta Kühne</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
