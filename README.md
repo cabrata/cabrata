@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suna, kali ini aku tak akan salah lagi. Tapi, jika aku kehilangan arah dan mulai mengambil jalan yang salah, tolong pukul aku."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Menurutku pertemanan jauh lebih bermakna daripada kata-kata dan logika."</em><br>
+  — <strong>Tomohiro Nagatsu</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
