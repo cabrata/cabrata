@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengan dalih menjalani "Masa muda", orang-orang memutar balikkan akal sehat. Mereka menganggap, kebohongan, rahasia, dosa, dan kegagalan hanyalah bumbu masa muda. Jika mereka menganggap kegagalan adalah bagian dari menjalani masa muda, bukankah seharusnya seorang yang gagal mendapatkan teman juga bagian dari menjalani masa muda?
-Tapi aku yakin mereka tidak akan menganggapnya seperti itu. Karena semua itu hanyalah standar ganda yang mereka mainkan.
-Jadi kesimpulannya, orang bodoh yang menikmati masa mudanya lebih baik mati saja!"</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Ada sesuatu dalam dirimu. Kau bersikap biasa, namun aku merasa kau selalu berada di tengah-tengah orang lain. Kau seperti tak peduli, namun kau peduli. Saat terjadi suatu masalah, kau selalu memiliki kata-kata yang tepat sasaran. Karena itulah ada sesuatu dalam dirimu."</em><br>
+  — <strong>Reina Kousaka</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
