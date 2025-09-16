@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kita teman?
-Entah mau ke toilet atau kemana pun, kita akan pergi bersama!"</em><br>
-  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!</em>
+  <em>"Pejuang adalah seorang yang melindungi anak-anak dan menghargai teman-temannya."</em><br>
+  — <strong>Ruijerd Superdia</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu</em>
 </div>
 <!-- QUOTE END -->
 
