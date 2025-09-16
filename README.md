@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada masalah adalah masalah."</em><br>
-  — <strong>Medaka Kurokami</strong>, <em>Medaka Box</em>
+  <em>"Kau tak boleh menyerah hingga akhir. Tapi itu berarti jika kau memberikan semua yang kau miliki dan masih tidak bisa melakukannya, kau (harus) menerima kekalahan."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
