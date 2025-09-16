@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada pepatah (mengatakan): "Semua akan  berguna kalau dipakai dengan benar"."</em><br>
-  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Jika sesuatu yang sama sekali tidak bisa dimengerti semakin populer, (maka) ragukanlah generasimu. Anggap itu sebagai sesuatu yang sangat membahayakan. Karena generasimu telah diselimuti oleh kegelapan."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
