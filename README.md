@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau ingin menegakkan ideologimu, maka kendalikan lawanmu dengan kemampuanmu. Itu adalah satu-satunya hukum yang ada di dunia ini."</em><br>
-  — <strong>Iltutmish</strong>, <em>Taboo Tattoo</em>
+  <em>"Di dunia ini ada banyak hal yang takkan berubah meski kita memikirkannya."</em><br>
+  — <strong>Ichiko Rokujou</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
