@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh membenciku sebesar yang kau mau, setidaknya sebesar cintaku padamu sebelumnya."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Seperti yang diharapkan, Pemain sang juara dunia memang (terlihat) garang. (Tapi) takkan kubiarkan... Jika aku tertekan, habislah aku. Kalau gentar, aku bisa kalah. Kalau takut, aku bisa mati.
+Baiklah. Siap!!"</em><br>
+  — <strong>Yutaka Hoshino</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
