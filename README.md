@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dazai pernah berkata, "Satu-satunya hal yang hanya dimiliki manusia dan tidak dimiliki oleh makhluk lainnya adalah kita memiliki rahasia""</em><br>
-  — <strong>Kotarou Azumi</strong>, <em>Tsuki ga Kirei</em>
+  <em>"Bagaimanapun keadaanya, bukan ide yang bagus ikut campur dengan perasaan seseorang."</em><br>
+  — <strong>Kazuyoshi Usui</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
