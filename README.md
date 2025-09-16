@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat memang penting, tapi aku (lebih) cemburu dengan orang yang punya tujuan hidup."</em><br>
-  — <strong>Atomu Kai</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Kamu tidak bisa bahagia karena kamu tidak mau mencoba untuk bahagia. Tidak ada yang bisa membahagiakan seseorang yang bahkan dia tidak mau mencoba untuk bahagia."</em><br>
+  — <strong>Tsubasa Hanekawa</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
