@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hari yang baik dimulai dengan kasur yang baik."</em><br>
-  — <strong>Ikta Solork</strong>, <em>Nejimaki Seirei Senki: Tenkyou no Alderamin</em>
+  <em>"Hidup itu terkadang jadi serasa lebih panjang setelah usia kita berkurang."</em><br>
+  — <strong>Eisen</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
