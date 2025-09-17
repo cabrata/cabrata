@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena ada kesediahan, maka ada kesenangan."</em><br>
-  — <strong>Kanna Tanigawa</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Jangan berjanji jika tidak bisa menepatinya!"</em><br>
+  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
