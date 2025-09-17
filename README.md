@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku mempercayai kekuatanmu, kata-katamu dan senyummu."</em><br>
-  — <strong>Minato Sahashi</strong>, <em>Sekirei</em>
+  <em>"Menemukan sisi - sisi diriku yang tak pernah ku tahu. Menghadapi sisi - sisi diriku yang tak pernah ku tahu. Aku yakin itu yang namanya jatuh cinta."</em><br>
+  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
