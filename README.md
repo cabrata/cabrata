@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak tahu apa yang terjadi, tapi aku tahu apa yang harus ku lakukan."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Semakin tinggi tujuan yang ingin dia capai, maka rintangan yang dilaluinya akan semakin besar."</em><br>
+  — <strong>Tanji Washijou</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
