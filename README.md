@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman ya,... Dia bisa punya teman, dia punya orang yang menganggap dia berharga. Bagaimana? Hebat kan? Jadi, meskipun dia tidak pergi sekolah, walaupun dia selalu ada di kamarnya, dia adalah kebanggaanku, aku bangga kepadanya."</em><br>
-  — <strong>Masamune Izumi</strong>, <em>Eromanga-sensei</em>
+  <em>"(Karena) kalian lemah, itu berarti kalian masih punya kesempatan untuk berkembang. Tak ada yang lebih menyenangkan dari ini bukan?"</em><br>
+  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
