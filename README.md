@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Segala hal terlahir dari yang sudah ada, dan yang sudah ada itu dari kenihilan. Hidup hanya sesaat, mari kita nikmati."</em><br>
-  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
+  <em>"Bagaimanapun keadaanya, bukan ide yang bagus ikut campur dengan perasaan seseorang."</em><br>
+  — <strong>Kazuyoshi Usui</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
