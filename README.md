@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak baik membiarkan seorang gadis terluka."</em><br>
-  — <strong>Seiji Aino</strong>, <em>Renai Boukun</em>
+  <em>"Manusia itu tidak bisa hidup seorang diri, karena kehidupannya penuh dengan beban."</em><br>
+  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
 </div>
 <!-- QUOTE END -->
 
