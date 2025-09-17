@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""</em><br>
-  — <strong>Masafumi Akagi</strong>, <em>Tsurezure Children</em>
+  <em>"Untuk diriku yang ada di sepuluh tahun yang lalu...
+Kau memiliki banyak kesenangan dan kebahagian yang sedang menantimu. Semoga kau menyadari kebahagiaan itu, semoga kau tak melepaskan kebahagiaan itu."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
