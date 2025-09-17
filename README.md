@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak ingin dia kalah dari takdir, aku ingin dia hidup dengan kuat."</em><br>
-  — <strong>Jukai</strong>, <em>Dororo</em>
+  <em>"Kita harus terus maju ke depan, bukan naik ke atas agar cerita terus berlanjut menuju akhir yang bahagia."</em><br>
+  — <strong>Shuu Matsubara</strong>, <em>Re:CREATORS</em>
 </div>
 <!-- QUOTE END -->
 
