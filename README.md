@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang memberikanku keberanian hingga saat terakhir adalah kau yang telah menyelamatkanku saat novelku ada yang salah. Aku bersyukur dapat bertemu denganmu."</em><br>
-  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei OVA</em>
+  <em>"Aku merasa bahagia ketika melihatmu tersenyum."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
