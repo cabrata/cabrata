@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebodohan yang ekstrem itu bisa dijual. Kalau ingin bodoh, lakukan sampai level yang tak bisa dijangkau orang lain."</em><br>
-  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
+  <em>"Semua yang kau katakan dan lakukan berkilauan dan bersinar terang. Itu terlalu silau untukku dan akhirnya ku menutup mata."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
