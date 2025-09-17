@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ciuman dapat menyelesaikan berbagai macam masalah."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Terkadang memang harus ada perpisahan."</em><br>
+  — <strong>Youhei</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
 </div>
 <!-- QUOTE END -->
 
