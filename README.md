@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ini orang yang paling mengerti perasaan siscon."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Untuk bertahan hidup, terkadang kau harus menghadapi hal-hal yang sulit. Tapi setelah kau merasakan hal itu, kau akan memperolah keberanian untuk melangkah maju."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
