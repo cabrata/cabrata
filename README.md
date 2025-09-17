@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka bilang dunia akan berubah jika kau berubah, tapi itu bohong.
-Mereka hanya memaksamu untuk berkompromi dengan berbohong."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Kita semua hanyalah manusia. Kadang, kita berbuat salah.
+Hanya saja, jangan berbuat kesalahan saat nyawa taruhannya."</em><br>
+  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
