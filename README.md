@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin tinggi tujuan yang ingin dia capai, maka rintangan yang dilaluinya akan semakin besar."</em><br>
-  — <strong>Tanji Washijou</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Beda orang, beda pandangan. Rasa sayang itu ada macam-macam bentuknya."</em><br>
+  — <strong>Kakek Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
