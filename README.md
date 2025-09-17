@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berpaling! Lihat ke depan! Tegakkan kepalamu! Saat ini, lakukan apa yang harus kau lakukan sebagai Master!"</em><br>
-  — <strong>Olga Marie Animusphere</strong>, <em>Fate/Grand Order: First Order</em>
+  <em>"Jangan menangis Yamato. Jangan menangis demi aku. Kau tak perlu mengkhawatirkanku. Tertawalah...
+Yang paling tidak kuinginkan adalah saat melihatmu menangis."</em><br>
+  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
