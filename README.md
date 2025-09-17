@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Izinkan aku berada di sisimu."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Melihat ke bawah terus tidak akan mengubah apapun. Saat frustasi lihatlah ke depan. Lalu jika ada yang ingin kau raih, rentangkan tanganmu (untuk meraihnya). Jika tetap tidak bisa meraihnya, rentangkan tanganmu lebih jauh lagi."</em><br>
+  — <strong>Ayah Seigi</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
