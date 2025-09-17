@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Karena) kalian lemah, itu berarti kalian masih punya kesempatan untuk berkembang. Tak ada yang lebih menyenangkan dari ini bukan?"</em><br>
-  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Debar hatiku ini... menggelitik dan terasa menyenangkan.
+Kuharap besok segera tiba. Aku ingin segera melihat wajahnya."</em><br>
+  — <strong>Ai Nanasaki</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
