@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekalahan pertama memang menyakitkan, tapi karena itulah yang membuat game menyenangkan."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Permintaan maaf adalah pengakuan atas kesalahan yang telah diperbuat untuk meminta pengampunan."</em><br>
+  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
