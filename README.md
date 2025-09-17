@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih dari siapapun di dunia ini, aku sangat mengenalmu. Aku mengenal kebaikan mu. Karena itu, meski seluruh dunia menyalahkanmu, aku berbeda. Sebanyak apapun itu, aku akan selalu berkata bahwa kau adalah orang baik. Kau telah menyelamatkanku."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Aku ini orang yang paling mengerti perasaan siscon."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
