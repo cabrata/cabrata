@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peluklah anak ini, dan berbanggalah layaknya seorang ayah."</em><br>
-  — <strong>Irisviel von Einzbern</strong>, <em>Fate/Zero</em>
+  <em>"Semakin tinggi tujuan yang ingin dia capai, maka rintangan yang dilaluinya akan semakin besar."</em><br>
+  — <strong>Tanji Washijou</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
