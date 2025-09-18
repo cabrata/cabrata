@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang dapat tidur lebih nyenyak ketika merasa puas pada hari (yang telah ia lalui)."</em><br>
-  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
+  <em>"Aku adalah kesatria. Melindungi mata pencaharian wargaku merupakan tugas dan kehormatanku."</em><br>
+  — <strong>Dustiness Ford Lalatina</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!</em>
 </div>
 <!-- QUOTE END -->
 
