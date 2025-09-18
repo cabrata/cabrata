@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada pertandingan yang tak bisa dimenangkan. Dan tak ada pertandingan yang pasti bisa dimenangkan."</em><br>
-  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Kejujuran tidak selalu membawa pada kebaikan."</em><br>
+  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
