@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang yang mencintaiku tidak mungkin akan menyelingkuhiku...
-Dia sangat jujur, serius dan juga sangat setia. Jadi aku pikir tidak ada hal yang harus dikhawatirkan."</em><br>
-  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru OVA</em>
+  <em>"Meski kita bisa memilih dengan siapa kita terlibat, tapi kita tidak bisa memilih dengan siapa kita bertemu. Jadi aku pikir sangat beruntung bisa bertemu dengan orang baik."</em><br>
+  — <strong>Asami Yuuki</strong>, <em>Hige wo Soru. Soshite Joshikousei wo Hirou.</em>
 </div>
 <!-- QUOTE END -->
 
