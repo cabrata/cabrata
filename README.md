@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kejujuran tidak selalu membawa pada kebaikan."</em><br>
-  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
+  <em>"Hewan bukanlah "sebuah mainan". Mereka hidup, sama seperti manusia."</em><br>
+  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
