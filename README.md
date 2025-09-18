@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu-waktu kosong tanpa kehadiranmu sangatlah menyakitkan dan (membuat hidupku jadi) tidak berarti."</em><br>
-  — <strong>Soushi Miketsukami</strong>, <em>Inu x Boku SS</em>
+  <em>"Aku tak bisa terus-terusan terluka karena hal yang telah berlalu. Aku harus menghadapinya, menerimanya, memikirkannya, dan terus melangkah maju."</em><br>
+  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
 </div>
 <!-- QUOTE END -->
 
