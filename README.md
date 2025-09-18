@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah pedangmu. Kemanapun kamu pergi aku akan selalu mengikutimu."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Apa sesuatu yang terlupakan itu, memang seharusnya dilupakan?"</em><br>
+  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
