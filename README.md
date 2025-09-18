@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan macam apa yang membuatmu dibenci orang-orang kalau semakin giat? (Polisi)"</em><br>
-  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Gaya hidupku adalah makan makanan favorit kapan pun yang aku mau."</em><br>
+  — <strong>Anna Yamada</strong>, <em>Boku no Kokoro no Yabai Yatsu</em>
 </div>
 <!-- QUOTE END -->
 
