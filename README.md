@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekuatan sejati adalah kekuatan yang dapat mengendalikan lingkungan dan jiwa mereka yang lemah, lalu membuat mereka melayanimu tanpa mereka sadari."</em><br>
-  — <strong>Aryabahta</strong>, <em>Taboo Tattoo</em>
+  <em>"Seorang yang mencintaiku tidak mungkin akan menyelingkuhiku...
+Dia sangat jujur, serius dan juga sangat setia. Jadi aku pikir tidak ada hal yang harus dikhawatirkan."</em><br>
+  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru OVA</em>
 </div>
 <!-- QUOTE END -->
 
