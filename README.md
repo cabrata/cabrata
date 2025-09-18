@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak mau kamu minta maaf padaku. Membuat Araragi-senpai menunduk meminta maaf adalah aib bagi Kanbaru Suruga."</em><br>
-  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
+  <em>"Jalan hidup masih panjang. Walau ada kalanya keraguan dan kekhawatiran menghampiri, tapi kami tetap melangkah dengan yakin di jalan yang kami pilih."</em><br>
+  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
 </div>
 <!-- QUOTE END -->
 
