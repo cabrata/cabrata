@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jalan hidup masih panjang. Walau ada kalanya keraguan dan kekhawatiran menghampiri, tapi kami tetap melangkah dengan yakin di jalan yang kami pilih."</em><br>
-  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Jika laki-laki diibaratkan serigala, maka perempuan itu ular."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
