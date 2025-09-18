@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa erat ikatanmu dengan orang lain, waktu akan memisahkanmu dengan mereka."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Nisemonogatari</em>
+  <em>"Bahkan anak pintar sepertimu bisa jadi bodoh kalau sering lihat (majalah P*o) begituan."</em><br>
+  — <strong>Tokunomori</strong>, <em>Getsuyoubi no Tawawa</em>
 </div>
 <!-- QUOTE END -->
 
