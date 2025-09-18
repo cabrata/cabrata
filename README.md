@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan rencana pamungkas namanya kalau tidak dirahasiakan."</em><br>
-  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
+  <em>"Bisa jatuh cinta pada seseorang itu hal yang membahagiakan."</em><br>
+  — <strong>Hikari Tsutsui</strong>, <em>3D Kanojo: Real Girl</em>
 </div>
 <!-- QUOTE END -->
 
