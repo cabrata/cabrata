@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seaneh apapun peristiwa yang terjadi, jika itu terjadi yang kedua kalinya maka akan terlihat biasa saja. (Jadi) tak perlu dipikirkan, biarkan saja. Itulah prinsipku"</em><br>
-  — <strong>Tom Tanaka</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Pekerjaan macam apa yang membuatmu dibenci orang-orang kalau semakin giat? (Polisi)"</em><br>
+  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
