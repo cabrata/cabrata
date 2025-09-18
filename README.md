@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seperti ini terus, hidupmu akan berjalan selambat siput.
-Apakah kau setuju hidupmu seperti itu?"</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Kutukan dan berkah itu pada dasarnya sama, tergantung bagaimana kita menerimanya."</em><br>
+  — <strong>Rahab</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
