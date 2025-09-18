@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Hitam" memang sering dianggap sebagai warna kematian. Tapi dari sudut pandang psikologi, itu adalah warna akan perjuangan melawan kematian... Warna harapan."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Kalian merasa tertekan dan akhirnya menyerah. Karena itulah kuanggap kalian itu lemah. Ini adalah pertarungan kalian, jadi terserah kalian mau berbuat apa. Tapi kukatakan satu hal... Bersungguh-sungguh, berusaha, dan mengerahkan seluruh kemampuan, tak ada yang salah dengan itu semua!."</em><br>
+  — <strong>Noboru Akimiya</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
