@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menghajar orang yang lemah itu menyedihkan."</em><br>
-  — <strong>Kana Kimishima</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Jika kau seorang ninja, mau berapa kalipun gagal, kau akan terus berusaha."</em><br>
+  — <strong>Boruto Uzumaki</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
