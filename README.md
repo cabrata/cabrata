@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu harus mendapatkan apa yang kamu mau, karena gairah begitu penting dalam cinta."</em><br>
-  — <strong>Hikari Tsuneki</strong>, <em>Seiren</em>
+  <em>"Tak ada cowok yang benci cewek agresif."</em><br>
+  — <strong>Nagi Arisuin</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
