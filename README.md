@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin aku menikmati kesenangan, semakin sakit rasanya ketika harus berpisah."</em><br>
-  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
+  <em>"Hal yang aneh memang menarik."</em><br>
+  — <strong>Shunma Suruga</strong>, <em>Re:CREATORS</em>
 </div>
 <!-- QUOTE END -->
 
