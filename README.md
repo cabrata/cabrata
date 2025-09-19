@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada yang lebih menjijikkan dari kasih sayang orang yang tidak disukai."</em><br>
-  — <strong>Hanabi Yasuraoka</strong>, <em>Kuzu no Honkai</em>
+  <em>"Orang yang membunuh temannya demi melindungi temannya yang lain, (dan) orang yang mengorbankan banyak nyawa tapi tetap tidak bisa melindungi temannya itu hanyalah seorang pecundang."</em><br>
+  — <strong>Zenzou Hattori</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
