@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku terima kekalahanku dari orang lain. Tapi, aku tidak sudi kalah dari diriku sendiri!"</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Saat kau berteriak atau saat menangis, aku akan selalu berada di sisimu. Kita akan selalu bersama untuk saling berbagi perasaan yang sama. Meskipun kamu menggapku cuma mengganggu, kemanapun kamu pergi aku akan menemukanmu. Bagaimanapun caranya aku akan selalu mendengarmu. Bahkan saat hujan, saat angin kencang, (atau) bahkan saat bunga-bunga sudah berguguran. Bagaimanapun caranya aku akan mencari suaramu, aku berjanji."</em><br>
+  — <strong>Banri Tada</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
