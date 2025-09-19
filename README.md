@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyesal itu takkan mengubah apapun. Yang terpenting adalah apa yang akan terjadi."</em><br>
-  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Alasan manusia dapat mencapai ilmu pengetahuan yang tinggi dan kebebasan bukan hanya karena perkembangan dari otak manusia. Tapi didapat dari struktur yang lebih komplek berkat evolusi. Dengan kata lain, hasil dari kontradiksi otak dan jiwa."</em><br>
+  — <strong>Wiseman</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
