@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang hidup dengan melihat ke masa depan. Semua impian masa depan didasarkan dari diri kita saat ini."</em><br>
-  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
+  <em>"Semakin aku menikmati kesenangan, semakin sakit rasanya ketika harus berpisah."</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
