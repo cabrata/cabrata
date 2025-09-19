@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan ku ukir sosokmu ke dalam ingatan semua orang."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Ada beberapa pengalaman yang hanya bisa kau dapatkan ketika sedang berlibur."</em><br>
+  — <strong>Tomosuke Matsumoto</strong>, <em>Fune wo Amu</em>
 </div>
 <!-- QUOTE END -->
 
