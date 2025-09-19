@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kedamaian yang dia rasakan saat kematian menjemputnya membuatku sedikit iri."</em><br>
-  — <strong>Chise Hatori</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Tak ada yang tahu keputusan yang mana yang tepat bagi hidup mereka, dan itu kenapa aku membuat keputusan(ku) ini.
+Juga aku tidak setuju denganmu akan satu hal, seirin tidak lemah."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
