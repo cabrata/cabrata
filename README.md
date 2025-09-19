@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama kau bertingkah tidak seperti dirimu sendiri, kesempatannya nol.
-Satu-satunya (orang) yang bisa menghentikan mimpimu menjadi nyata adalah dirimu sendiri."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Aku hanyalah sampah anak tentara bayaran. Aku bodoh dan tak memiliki fisik yang baik. Kekuatan sihirku pun hanya selevel bayi. Namun, tak peduli apa kata orang-orang, aku tak membenci diriku sendiri. Karena akulah yang tahu nilai dari diriku sendiri."</em><br>
+  — <strong>Touka Scott</strong>, <em>Yuusha ga Shinda!</em>
 </div>
 <!-- QUOTE END -->
 
