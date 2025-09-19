@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekurangan dan ketidakmampuan itu tidak ada hubungannya, aku akan bertarung dengan tubuhku ini untuk menang dan berdiri di lapangan selama yang aku bisa."</em><br>
-  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!!</em>
+  <em>"Ada banyak hal yang tak bisa diselesaikan hanya dengan mengandalkan kata-kata saja."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
