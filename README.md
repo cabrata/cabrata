@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan kita (sebagai polisi) memang tidak langsung bermanfaat, tapi aku bahagia (pekerjaan kita) bisa mencegah satu insiden yang mungkin terjadi (di masa mendatang)."</em><br>
-  — <strong>Seiko Fuji</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Pada dasarnya, orang yang kuat adalah orang yang berusaha melindungi sesuatu."</em><br>
+  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
