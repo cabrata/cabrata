@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akhir-akhir ini, kelompok kalian tidak menghasilkan apa - apa. Badan penelitian yang hanya berbicara tentang kejayaan masa lalu tidak dibutuhkan di Tootsuki."</em><br>
-  — <strong>Erina Nakiri</strong>, <em>Shokugeki no Souma</em>
+  <em>"Teman itu sulit dicari, jadi jaga teman kalian baik-baik."</em><br>
+  — <strong>Sei Handa</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
