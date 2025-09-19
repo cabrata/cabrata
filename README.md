@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik kau periksa motormu sebelum mengendarainya, tapi yang lebih penting lagi, periksalah pria sebelum menaikinya."</em><br>
-  — <strong>Baita</strong>, <em>Bakuon!!</em>
+  <em>"Mereka (para manusia) makhluk yang tak belajar apapun sejak berevolusi dari kera."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
