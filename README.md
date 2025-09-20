@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencegah agar tidak terulang penyesalan yang sama adalah nilai dari sebuah penyesalan."</em><br>
-  — <strong>Mitsuyoshi Tada</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Tahukah kamu, bahasa bunga dari mawar putih yang layu adalah "sumpah setia selamanya"."</em><br>
+  — <strong>Alice Lendrott</strong>, <em>Shinigami Bocchan to Kuro Maid</em>
 </div>
 <!-- QUOTE END -->
 
