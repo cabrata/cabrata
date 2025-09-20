@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang yang berniat membunuh ayahnya sendiri tidak berhak untuk menjadi Raja."</em><br>
-  — <strong>Shizu</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Aku tahu dia bisa berdiri sendiri. Meskipun begitu, aku akan tetap mengulurkan tanganku."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
