@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang yang bertindak melawan keinginannya sendiri menurutku orang yang menarik."</em><br>
-  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Mencita-citakan sesuatu yang tinggi adalah sesuatu yang penting, lebih tinggi lagi, lagi dan lagi."</em><br>
+  — <strong>Noboru Taki</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
