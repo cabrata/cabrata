@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tidak bisa bertanggung jawab hingga akhir, jangan lakukan apa-apa."</em><br>
-  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Walau dunia ini memusuhimu, aku akan tetap di sampingmu."</em><br>
+  — <strong>Miyabi Azumaya</strong>, <em>Dimension W</em>
 </div>
 <!-- QUOTE END -->
 
