@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada banyak hal yang tak bisa diselesaikan hanya dengan mengandalkan kata-kata saja."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Jika terus melarikan diri, kau takkan pernah bisa bangkit dan maju."</em><br>
+  — <strong>Elena Fujisawa</strong>, <em>Hanebado!</em>
 </div>
 <!-- QUOTE END -->
 
