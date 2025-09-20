@@ -5,15 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang jenius adalah orang yang mengetahui perbedaan dirinya dengan orang lain.
-Saat seseorang saling membandingkan kemampuannya dengan orang lain, mereka akan menganggap diri mereka sama.
-Tapi sayangnya sebenarnya itu salah. Setiap manusia itu berbeda.
-Sesuatu yang bisa dilakukan oleh diri kita, takkan bisa dilakukan oleh orang lain.
-Lalu, sesuatu yang bisa dilakukan oleh orang lain takkan pernah bisa dilakukan oleh diri kita.
-Orang jenius adalah orang yang bisa mengalahkan ketidakadilan itu.
-Orang jenius takkan pernah mengharapkan seseorang mengerjakan tugas yang sama seperti diri kita.
-Disaat yang sama, tak peduli sebesar apapun bakat seseorang, orang itu pasti takkan mampu meniru orang lain."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra: Last Encore - Irusterias Tendouron</em>
+  <em>"Entah kau ada di pihak yang membunuh atau di pihak yang menyelamatkan, apapun yang kau harapkan takkan muncul. Tak ada satu pun di dunia ini yang bisa mengisi lubang di hatimu. Kau akan berkelana di dalam kegelapan selamanya. (Meskipun begitu) berpihaklah pada mereka yang menyelamatkan orang-orang. Jika kedua pihak sama saja, maka jadilah orang baik. Selamatkan yang lemah dan lindungi anak-anak yatim piatu. Meski itu tak ada pengaruhnya padamu, tapi itu akan membuatmu jadi manusia yang lebih baik."</em><br>
+  — <strong>Sakunosuke Oda</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
