@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jiwa dan ragaku tidak akan bergerak untuk siapapun kecuali untuk Togame."</em><br>
-  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
+  <em>"Mulai sekarang, tujuanku adalah mengembalikan senyumanmu."</em><br>
+  — <strong>Hana Miyakoshi</strong>, <em>WWW.Working!!</em>
 </div>
 <!-- QUOTE END -->
 
