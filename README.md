@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ingin bunuh diri karena merasa bersalah itu keliru!"</em><br>
-  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
+  <em>"Mencegah agar tidak terulang penyesalan yang sama adalah nilai dari sebuah penyesalan."</em><br>
+  — <strong>Mitsuyoshi Tada</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
