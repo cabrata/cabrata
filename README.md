@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tiga orang yang berpikir bersama, akan lebih bagus daripada berpikir sendirian! Kau tidak boleh berpikir sendirian, kau juga harus mengandalkan orang yang ada di sekitarmu!"</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Untuk menjadi dewasa, kau butuh rival."</em><br>
+  — <strong>Takao Kawafuji</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
