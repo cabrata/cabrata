@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pertarungan antar musuh adalah kelemahan yang paling menghibur."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Jika seorang raja menyesal atas aturan dan keputusannya, ia bukanlah apapun kecuali raja yang bodoh."</em><br>
+  — <strong>Rider</strong>, <em>Fate/Zero</em>
 </div>
 <!-- QUOTE END -->
 
