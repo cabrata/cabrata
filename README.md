@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bergabung dengan orang yang bersungguh-sungguh sedangkan kamu hanya setengah hati (menjalaninya), itu tindakan yang paling tidak sopan."</em><br>
-  — <strong>Madoka Yachi</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Tak ada sesuatu di dunia ini yang lebih berharga dari sesuatu yang tak diketahui."</em><br>
+  — <strong>Jibril</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
