@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang kau perlihatkan saat ini bukanlah loyalitas ataupun kesetiaan. Tapi sesuatu yang menjijikkan, seperti nafsu seekor anjing ataupun babi yang serakah. Kau hanyalah babi serakah yang hanya mementingkan egomu saja! Babi serakah adalah hal terburuk yang pernah ada di dunia ini!"</em><br>
-  — <strong>Priscilla Barielle</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Tak ada yang namanya keberuntungan di dunia ini. Aturan, prasyarat, keadaan psikologis, semua itu adalah jumlah faktor tak terlihat yang dikombinasikan menghasilkan ketidakpastian yang tak bisa dihindari."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
