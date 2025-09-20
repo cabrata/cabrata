@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seorang raja menyesal atas aturan dan keputusannya, ia bukanlah apapun kecuali raja yang bodoh."</em><br>
-  — <strong>Rider</strong>, <em>Fate/Zero</em>
+  <em>"Tugas kami sebagai orang biasa adalah untuk memastikan bahwa potensi yang tak bisa dimengerti itu bisa terwujud."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
