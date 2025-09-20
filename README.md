@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang dewasa punya cara sendiri untuk tumbuh."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Mengejar mimpi yang tak bisa digapai hanya akan menghancurkan diri sendiri."</em><br>
+  — <strong>Evileye</strong>, <em>Overlord II</em>
 </div>
 <!-- QUOTE END -->
 
