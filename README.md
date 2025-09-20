@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejujurnya, aku bangga padamu. Ini adalah kemenangan untuk kerja keras."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Manusia akan lebih kuat bila mereka berjuang untuk melindungi sesuatu."</em><br>
+  — <strong>Heathcliff</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
