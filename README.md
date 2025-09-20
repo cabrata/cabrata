@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat menyukai seseorang kadang akan berakhir dengan air mata.
-Tapi menyukai seseorang bukanlah sesuatu yang salah."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Kau adalah orang yang mengatakan aku tak bisa melakukannya sendiri. Jika kau benar, tidak ada yang perlu dikhawatirkan. (Karena aku akan selalu ada sisimu)."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
