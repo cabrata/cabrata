@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tahukah kamu, bahasa bunga dari mawar putih yang layu adalah "sumpah setia selamanya"."</em><br>
-  — <strong>Alice Lendrott</strong>, <em>Shinigami Bocchan to Kuro Maid</em>
+  <em>"Kebahagiaan cuma akan jadi kebahagiaan jika semua orang membaginya."</em><br>
+  — <strong>Nanana Ryuugajou</strong>, <em>Ryuugajou Nanana no Maizoukin</em>
 </div>
 <!-- QUOTE END -->
 
