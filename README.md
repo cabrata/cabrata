@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meraih kebenaran yang ada di depan mata lebih baik daripada meraih ideologi yang tak dapat diraih."</em><br>
-  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Kau adalah seorang profesional, tapi jika kau tak bisa menyeimbangkan antara pembunuh (profesi) dan guru (tuntutan peran dalam profesi), maka ini (sekolah) adalah tempat terburuk bagi orang profesional sepertimu."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
