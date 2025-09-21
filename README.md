@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hujan dan badai takkan menghentikanku. Dan tentu saja, keinginan untuk bisa terus berada di tempat tidur takkan menghentikanku. Aku harus terus berusaha sebaik mungkin sebagai orang yang telah dewasa."</em><br>
-  — <strong>Aoba Suzukaze</strong>, <em>New Game!</em>
+  <em>"Meraka yang tak pernah mencoba tidak berhak iri pada mereka yang memiliki bakat.
+Mereka yang gagal itu karena mereka tidak membayangkan usaha yang dilakukan orang yang berhasil."</em><br>
+  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
