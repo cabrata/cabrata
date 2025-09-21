@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada perasaan yang tenang setelah kau mencurahkan perasaanmu melalui pesan singkat untuk orang lain.
-Lalu, meskipun kau baru saja mengirimkan pesannya, kau sudah tidak sabar menunggu balasannya.
-Akhirnya HP-mu pun berdering dan kau kegirangan saat melihat nama pengirimnya."</em><br>
-  — <strong>Shinzou Takemitsu</strong>, <em>Sket Dance</em>
+  <em>"Cinta hanyalah sebuah bug dari sirkuit saraf manusia. Kau bisa buang emosi yang tidak perlu itu ke tempat sampah."</em><br>
+  — <strong>Ryuunosuke Akasaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
