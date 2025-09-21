@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Raja ada untuk rakyatnya. Tanpa rakyat, tidak mungkin ada raja."</em><br>
-  — <strong>Ling Yao</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Jika kau ingin melakukan sesuatu yang kau sukai, kau harus memperjuangkan itu dengan belajar lebih baik lagi."</em><br>
+  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
