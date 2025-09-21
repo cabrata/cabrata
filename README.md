@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginan sejati dari kakak laki-laki adalah melihat setiap detail tubuh adik perempuannya. Barang kotor dan tak berguna seperti pakaian dalam hanya akan menghalangi kesucian tubuh adik perempuan yang indah."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Jika aku mati, maafkan semua yang tak termaafkan. Kebencian tidak boleh diwariskan pada anak-anak."</em><br>
+  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
