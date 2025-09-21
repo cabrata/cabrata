@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejujurnya, aku dari dulu sedikit tertarik padamu. Setelah mengobrol denganmu secara langsung, ketertarikan itu semakin kuat sekarang."</em><br>
-  — <strong>Sylvia Lyyneheym</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Memastikan keselamatan dan mengamati kondisi psikologis korban adalah tugas penting seorang detektif."</em><br>
+  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
