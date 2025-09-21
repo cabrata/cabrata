@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski kau sedih, babak belur, ataupun jatuh ke titik terdalam, kau harus tetap bermain! Seperti itulah orang-orang seperti kita bertahan."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kebodohan yang ekstrem itu bisa dijual. Kalau ingin bodoh, lakukan sampai level yang tak bisa dijangkau orang lain."</em><br>
+  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
