@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kalian dapat melakukan segala hal yang dibutuhkan untuk berhasil, maka hasilnya akan mengikuti."</em><br>
-  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Saat anak - anak bermasalah, mereka membutuhkan orang dewasa disampingnya."</em><br>
+  — <strong>Yukari Nitani</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
