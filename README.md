@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tahu hal ini akan terjadi dan tetap memilih untuk datang ke sini. Jadi, aku takkan berpaling dari mereka yang telah rela mengorbankan nyawanya demi diriku."</em><br>
-  — <strong>Sherry Tueli</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</em>
+  <em>"Aku ingin menciptakan banyak senyuman bahagia dengan sihir. Karena ini kekuatan yang diberikan oleh tuhan, kita harus menggunakannya untuk dunia."</em><br>
+  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
