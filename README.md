@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita sedang jatuh cinta, dunia jadi kelihatan lebih berwarna."</em><br>
-  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Siapapun pasti pernah melakukan kesalahan. Yang terpenting adalah mengambil pelajaran dari kesalahan yang telah diperbuat."</em><br>
+  — <strong>Hammerhead</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
