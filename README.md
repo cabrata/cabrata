@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang hanya dapat diketahui setelah kau menghadapinya."</em><br>
-  — <strong>Yoshiyuki Nakajima</strong>, <em>Gin no Saji</em>
+  <em>"Aku pikir (seorang) koki akan mendapatkan nama yang jelek, kalau hanya mempedulikan harga bahan-bahan."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
