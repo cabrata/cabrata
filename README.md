@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebenarnya, tidak ada kehidupan yang tak berarti selain keindahan."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Kata-kata itu memiliki dua sisi. Tidak semua hal yang diucapkan itu sama dengan yang ingin disampaikan."</em><br>
+  — <strong>Cattleya Baudelaire</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
