@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi menemukan kebenaran di balik kematian seseorang, tentu wajar jika kita juga harus mempertaruhkan nyawa kita."</em><br>
-  — <strong>Shinya Kougami</strong>, <em>Psycho-Pass</em>
+  <em>"Memiliki impian itu membutuhkan tekad untuk menghadapi kenyataan."</em><br>
+  — <strong>Juui</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
