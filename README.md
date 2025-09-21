@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta hanyalah sebuah bug dari sirkuit saraf manusia. Kau bisa buang emosi yang tidak perlu itu ke tempat sampah."</em><br>
-  — <strong>Ryuunosuke Akasaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Jiwa dan ragaku tidak akan bergerak untuk siapapun kecuali untuk Togame."</em><br>
+  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
