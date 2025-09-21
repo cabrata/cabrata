@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memastikan keselamatan dan mengamati kondisi psikologis korban adalah tugas penting seorang detektif."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
+  <em>"Untuk sekali saja, aku ingin menolong orang lain dengan keinginanku sendiri."</em><br>
+  — <strong>Kuro no Saber</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
