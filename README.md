@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memiliki impian itu membutuhkan tekad untuk menghadapi kenyataan."</em><br>
-  — <strong>Juui</strong>, <em>Gin no Saji</em>
+  <em>"Berjuang sebisa mungkin adalah kunci keberhasilan."</em><br>
+  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
