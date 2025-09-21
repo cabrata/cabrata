@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berjuang sebisa mungkin adalah kunci keberhasilan."</em><br>
-  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Apapun pertaruhan yang disepakati, harus dipenuhi.
+Pemenangnya (untuk sekarang) memang kau, tapi hanya untuk sementara."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
