@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginanku mungkin tidak terpenuhi. Tapi aku pasti tidak akan mendapatkannya, jika aku tidak menginginkannya."</em><br>
-  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
+  <em>"Tak peduli seperti apa dirimu dulu, sosokmu yang sekarang adalah dirimu."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
