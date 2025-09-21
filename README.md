@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan itu tetaplah cantik meski usianya telah berlalu."</em><br>
-  — <strong>Setsuna Ena</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Alasanmu, terwujud dalam pengetahuanmu. Dan pengalamanmu, terwujud dalam kesadaranmu."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
