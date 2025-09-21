@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjalanan dapat mempertemukan kita dengan sahabat dan cinta, perjalanan (juga) dapat membawa kesulitan dan kebahagiaan."</em><br>
-  — <strong>Rokurou Rangetsu</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Meski kau sedih, babak belur, ataupun jatuh ke titik terdalam, kau harus tetap bermain! Seperti itulah orang-orang seperti kita bertahan."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
