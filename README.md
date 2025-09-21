@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta sejati adalah cinta yang tak dipengaruhi oleh penampilan. Jika penampilan orang bisa mempengaruhi perasaanmu, maka cintamu itu palsu."</em><br>
-  — <strong>Chika Fujiwara</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Dengan memikirkan kekuatan yang kau miliki, ada hal yang bisa dan tidak bisa kau lakukan sendiri. Melihatmu yang seperti ini membuatku merasa malu. Tidak tahu diri dan hanya tersakiti, kau bodoh!"</em><br>
+  — <strong>Izumo Kamiki</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
