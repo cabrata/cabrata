@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia hidup untuk menyelamatkan dirinya sendiri."</em><br>
-  — <strong>Sakunosuke Oda</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Dalam pembunuhan, menipu orang dengan perkataan juga sangatlah penting."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
