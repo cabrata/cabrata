@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada pengamat yang lebih terpercaya dari orang yang mencurigaimu."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Hujan dan badai takkan menghentikanku. Dan tentu saja, keinginan untuk bisa terus berada di tempat tidur takkan menghentikanku. Aku harus terus berusaha sebaik mungkin sebagai orang yang telah dewasa."</em><br>
+  — <strong>Aoba Suzukaze</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
