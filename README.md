@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktumu di dunia nyata tidaklah terbuang dengan percuma, karena setiap detiknya telah dilewati di dunia (Sword Art Online) ini."</em><br>
-  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
+  <em>"Kita telah kehilangan rekan yang tak tergantikan. Tapi kita tidak punya waktu untuk terus merenung dalam kesedihan. Apa yang mereka ingin kita lakukan? Tetap diam dalam kesedihan dan mencoba mengejar mereka? Atau meletakkan senjata kita dan membiarkan orang lain menginvasi negeri kita? Tidak! Tentu saja tidak! Kalau kalian meratapi kematian, hadapilah! Kalau meletakkan bunga di atas kuburan, angkat pedangmu! Kita manusia tidak bisa membiarkan satu sama lain untuk saling meratap ke belakang!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
