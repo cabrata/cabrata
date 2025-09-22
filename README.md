@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Awalnya peluang selalu terlihat mustahil."</em><br>
-  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
+  <em>"Keanggunan menciptakan tradisi. Keanggunanlah yang membuat dunia ini menjadi surga firdaus."</em><br>
+  — <strong>Henry Henderson</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
