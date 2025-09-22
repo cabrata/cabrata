@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menerima tantangan dan menciptakan sesuatu itu menyakitkan. Tapi itu memuaskan, jadi terima kasih (karena telah memaksaku menerima tantangan)."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Musim semi awal dari semua musim, (awal) lahirnya cinta, (awal) lahirnya impian, (dan awal) lahirnya kebahagiaan. Semuanya dimulai pada musim semi yang menuntun kita menuju masa depan."</em><br>
+  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
 </div>
 <!-- QUOTE END -->
 
