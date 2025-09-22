@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Uang, kebanggaan, patriotisme, bahkan kematian pun fiksi. Semua yang ada di masa depanmu adalah kekosongan. Dan yang bisa kau lakukan adalah kemampuanmu beradaptasi terhadap segala sesuatu, dan secara langsung memutuskan apa yang terbaik."</em><br>
-  — <strong>Yuuki</strong>, <em>Joker Game</em>
+  <em>"(Touko-san, apa yang menyebabkan seseorang membunuh orang lain?)
+Itu terjadi ketika perasaan emosi pembunuh terhadap korban melampaui batasnya. Entah itu perasaan benci atau cinta, emosi yang tumpah dari wadahnya harus dibersihkan apapun caranya. Dan saat cara itu berubah ekstrem, maka akan menjadi pembunuhan."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
