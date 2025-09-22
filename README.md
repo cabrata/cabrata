@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak boleh mundur, saat kau sudah maju."</em><br>
-  — <strong>Shiro</strong>, <em>No Game No Life</em>
+  <em>"Manusia yang tak berguna tak punya hak untuk bernapas."</em><br>
+  — <strong>Ryuunosuke Akutagawa</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
