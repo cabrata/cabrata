@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menghancurkan dan menciptakan itu seperti dua sisi koin. Dengan kata lain, itu adalah hukum alam semesta."</em><br>
-  — <strong>Alex Louis Armstrong</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Manusia tumbuh lebih kuat demi dirinya sendiri."</em><br>
+  — <strong>Hibana</strong>, <em>Enen no Shouboutai</em>
 </div>
 <!-- QUOTE END -->
 
