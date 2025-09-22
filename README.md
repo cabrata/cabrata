@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dirimu yang telah mengerti penderitaan pasti akan jadi orang baik melebihi siapa pun."</em><br>
-  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Jika kau membenci dirimu sendiri sebanyak seratus kali, aku akan mencintaimu sebanyak dua ribu kali. Dan itulah, perlakuan khusus yang ingin kuberikan padamu. "Mengapa dua ribu kali?" Karena angka ratusan takkan cukup untuk menggambarkan perasaanku terhadapmu."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
