@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ini tidak berpikir kalau aku memiliki tenaga yang lemah. Aku hanya tidak ingin membuang energi untuk hal yang percuma."</em><br>
-  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
+  <em>"Jangan pernah minta maaf atas kerja kerasmu.
+Itu sama saja kau menghina tekadmu sendiri."</em><br>
+  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
