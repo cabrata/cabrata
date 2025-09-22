@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan lengah. Kalau segalanya berjalan mulus, kamu akan mudah tersandung."</em><br>
-  — <strong>Muzan Kibutsuji</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
+  <em>"Kebohongan adalah cinta terbaik!"</em><br>
+  — <strong>Ai Hoshino</strong>, <em>[Oshi no Ko]</em>
 </div>
 <!-- QUOTE END -->
 
