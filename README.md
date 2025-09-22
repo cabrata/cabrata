@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Gadis perpustakaan (baca: kutu buku) mungkin terlihat sangat tenang, tapi di dalam kepalanya mereka sangat berpikir keras. Sama sekali berbeda dengan orang yang berisik tapi isi kepalanya kosong. Inilah perbedaan pesona dari gadis perpustakaan."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Kita telah berjanji untuk selalu bersama. Janji itulah yang membuatku merasa damai.
+Aku sadar betapa dirinya sangat berarti bagiku. Mengingatnya (saja) membuatku senang.
+Aku telah mengatakan akan membuatnya bahagia. Mengatakan hal itu membuatku merasa puas.
+Dia telah memberikan banyak hal yang tak kusangka akan kumiliki."</em><br>
+  — <strong>Willem Kmetsch</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
