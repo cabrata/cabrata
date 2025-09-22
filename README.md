@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menjadi "orang dewasa" itu tidak selalu mengesankan. Terkadang "dewasa" itu hanya penampilan luarnya saja. Mereka (hanya) ingin terlihat mengagumkan di depan masyarakat, (dan) ingin dihormati oleh anak-anak."</em><br>
-  — <strong>Sakie Satou</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Kau tak boleh mundur, saat kau sudah maju."</em><br>
+  — <strong>Shiro</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
