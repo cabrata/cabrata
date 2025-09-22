@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau berpikir bahwa hanya pendapatmu yang paling benar, maka kau akan membuat dirimu dan orang sekitarmu tidak senang."</em><br>
-  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Dulu, ada kalanya kita berjuang tanpa malu terlunta-lunta tak jelas. Tapi sekarang, semuanya telah usai. Api yang kecil tapi kuat di hati kita ini memberitahu kita kalau yang kita lakukan selama ini tidak sia-sia."</em><br>
+  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
