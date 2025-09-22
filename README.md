@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pasti tak ingin ada orang yang menyangkal kesukaan kita. Kita ingin orang lain juga tertarik dengan yang kita sukai. Karena lebih menyenangkan apabila banyak teman yang juga menyukai hal yang kita sukai."</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Jika kau sudah menyerah dari awal, meski kau bisa menang, kau tidak akan bisa menang."</em><br>
+  — <strong>Chihiro Komiya</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
