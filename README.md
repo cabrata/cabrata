@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah makhluk yang berpikir sebelum bertindak."</em><br>
-  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Aku akan berusaha agar kalian menyukaiku, sampai aku mendapat pengakuan dari kalian."</em><br>
+  — <strong>Ritsu</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
