@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebahagiaan adalah sesuatu yang hanya dapat dirasakan oleh diri sendiri dan tidak dapat dirasakan oleh orang lain. Memilihkan dan memutuskan kebahagiaan seseorang adalah tindakan egois."</em><br>
-  — <strong>Rhantolk Ytri Historia</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Gadis perpustakaan (baca: kutu buku) mungkin terlihat sangat tenang, tapi di dalam kepalanya mereka sangat berpikir keras. Sama sekali berbeda dengan orang yang berisik tapi isi kepalanya kosong. Inilah perbedaan pesona dari gadis perpustakaan."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
