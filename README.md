@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak bisa menilai naskah game itu bagus atau jelek jika belum membacanya di dalam game."</em><br>
-  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Mungkin aku tidak bisa menjadi seorang samurai atau ayah yang hebat, tapi (setidaknya) aku ingin memberikan nama yang bagus untuk anakku."</em><br>
+  — <strong>Isaburou Sasaki</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
