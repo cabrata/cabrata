@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin aku tidak bisa menjadi seorang samurai atau ayah yang hebat, tapi (setidaknya) aku ingin memberikan nama yang bagus untuk anakku."</em><br>
-  — <strong>Isaburou Sasaki</strong>, <em>Gintama°</em>
+  <em>"Manusia cenderung belajar pada kekalahan daripada kemenangan."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Zoku Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
