@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dulu, ada kalanya kita berjuang tanpa malu terlunta-lunta tak jelas. Tapi sekarang, semuanya telah usai. Api yang kecil tapi kuat di hati kita ini memberitahu kita kalau yang kita lakukan selama ini tidak sia-sia."</em><br>
-  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Kita mungkin takkan bisa bermain bagus. Tapi selama aku punya kesempatan untuk bermain, dan ada penonton yang mendengarkan. Aku akan bermain dengan seluruh kemampuan yang ku punya. Supaya orang yang mendengarkanku, takkan pernah melupakanku. Supaya aku bisa terus hidup di dalam hatinya. Itulah alasanku bermain. Soalnya, aku adalah pemusik !"</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
