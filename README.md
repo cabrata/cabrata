@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak bisa berspekulasi berdasarkan masa lalu. Kau tak akan tahu apa yang akan terjadi sampai kau memainkannya."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Pada dasarnya semua manusia itu penyakitan. Jadi kita hanya perlu menyesuaikan diri."</em><br>
+  — <strong>Midori Kohakobe</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
