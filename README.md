@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh menertawakan tindakan seseorang, kau pun bebas mengatakan apapun tentang mereka. Tapi jangan pernah kau menertawakan perasaan mereka."</em><br>
-  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Dirimu yang telah mengerti penderitaan pasti akan jadi orang baik melebihi siapa pun."</em><br>
+  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
