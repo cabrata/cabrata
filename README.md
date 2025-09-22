@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seekor ikan, baik yang tinggal di air jernih atau kotor, selama ikan itu terus berenang ke depan, dia akan tumbuh dengan indah."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Aku seorang profesional. Karena itu aku takkan membiarkan perasaanku mengganggu pekerjaanku."</em><br>
+  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
