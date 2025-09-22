@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal-hal yang perlu dilakukan hanya dapat dilakukan oleh orang yang mampu melakukannya."</em><br>
-  — <strong>Yuki Funahara</strong>, <em>Psycho-Pass</em>
+  <em>"Wanita itu seperti sake, semakin berumur semakin nikmat."</em><br>
+  — <strong>Sumiko Kawai</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
