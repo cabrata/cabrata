@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Kerja keras pasti membuahkan hasil" aku tahu dunia tidak sesederhana itu. Tapi, aku ingin perasaanku ini tersampaikan."</em><br>
-  — <strong>Nanako Kogure</strong>, <em>Bokutachi no Remake</em>
+  <em>"Jika sihirku bisa membuat seseorang bahagia, kurasa tidak salah untuk mencobanya."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
