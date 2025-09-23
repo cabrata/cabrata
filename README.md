@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau hanya harus menjadi tanduk bagi Ram yang tak memiliki tanduk. Kalian bisa menjadi iblis bersama-sama. Selain itu, kau menganggap dirimu sebagai pengganti, tapi tidak ada yang bisa menggantikanmu. Di tempatku berasal, ada yang bilang "Iblis akan tertawa saat kau membahas tentang masa depan.", Jadi Tertawalah, Rem."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Keinginan sejati dari kakak laki-laki adalah melihat setiap detail tubuh adik perempuannya. Barang kotor dan tak berguna seperti pakaian dalam hanya akan menghalangi kesucian tubuh adik perempuan yang indah."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
