@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam kehidupan, selalu ada tiga pertanyaan.
-Aku ini apa? (Aku) datang dari mana? dan (Aku) akan pergi ke mana?
-Yang bisa kupikirkan hanya itu. Sebenarnya, hal yang (hanya harus) dipikirkan itu adalah "kebebasan". Akan tetapi, entah sejak kapan sebuah kekuatan aneh mengendalikanku, dan sedikit demi sedikit merenggut kebebasanku. Padahal saat masih kecil aku sudah memikirkan banyak hal tentang kebebasan, tapi pasti manusia sudah diprogram untuk menjadi bodoh sebelum pintar."</em><br>
-  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Kau tak boleh menyerah hingga akhir. Tapi itu berarti jika kau memberikan semua yang kau miliki dan masih tidak bisa melakukannya, kau (harus) menerima kekalahan."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
