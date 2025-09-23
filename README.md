@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus tetap berlari. Kau harus memikirkan perasaanmu sendiri. Berbohong pada diri sendiri dan melakukan apa yang orang lain mau hanya akan menyakitimu. Bukankah kau ingin menjadi school idol? Kalau begitu, kau harus terus melangkah maju."</em><br>
-  — <strong>Hanamaru Kunikida</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Kau tidak boleh mengatakan hal yang vulgar kepada perempuan."</em><br>
+  — <strong>Sagiri Izumi</strong>, <em>Eromanga-sensei</em>
 </div>
 <!-- QUOTE END -->
 
