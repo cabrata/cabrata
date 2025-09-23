@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita mungkin takkan bisa bermain bagus. Tapi selama aku punya kesempatan untuk bermain, dan ada penonton yang mendengarkan. Aku akan bermain dengan seluruh kemampuan yang ku punya. Supaya orang yang mendengarkanku, takkan pernah melupakanku. Supaya aku bisa terus hidup di dalam hatinya. Itulah alasanku bermain. Soalnya, aku adalah pemusik !"</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Bagaimanapun juga, (semua) manusia itu terkurung dalam penjara yang disebut dengan "Bumi". Tak ada bedanya (hidup) di atas atau di bawah. Yang berbeda hanyalah luas atau sempitnya saja. Orang yang merasa bahwa penjara itu sempit dan tak bisa menerimanya, mereka takkan pernah bisa bebas. Hidupnya hanya akan memandangi batang-batang besi penjara itu. Mereka yang benar-benar terkurung itu ketika mereka membuat penjara dalam hatinya. Jika kau punya tenaga dan waktu untuk mengeluh tentang kematian, kenapa kau tidak berjuang (untuk hidup) dengan kekuatanmu sendiri?"</em><br>
+  — <strong>Hinowa</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
