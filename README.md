@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun dibenci, tapi masih ada hal yang ingin kamu sampaikan padanya kan? Apakah kau lebih suka pasrah saja dan tidak menyampaikan perasaanmu itu? Meskipun sudah tahu hasilnya, tapi tetap menyampaikannya jelas lebih baik."</em><br>
-  — <strong>Misao Zaitsu</strong>, <em>Hatsukoi Limited</em>
+  <em>"Jika kau benar-benar mencintai pekerjaanmu, apapun takkan ada masalah."</em><br>
+  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
