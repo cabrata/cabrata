@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita para penguasa itu seperti hewan ternak yang hanya memakan jabatan."</em><br>
-  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
+  <em>"Makanan-minuman manis itu musuh terbesar diet."</em><br>
+  — <strong>Anna Yanami</strong>, <em>Make Heroine ga Oosugiru!</em>
 </div>
 <!-- QUOTE END -->
 
