@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak tahu apa yang terjadi, tapi aku tahu apa yang harus ku lakukan."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Ada macam-macam desain untuk bra. Tapi, pada akhirnya yang paling penting adalah yang ada di dalamnya."</em><br>
+  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
