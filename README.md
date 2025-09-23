@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada macam-macam desain untuk bra. Tapi, pada akhirnya yang paling penting adalah yang ada di dalamnya."</em><br>
-  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
+  <em>"Kau pria yang berhati dingin, ya.... Tapi aku jadi menyukaimu."</em><br>
+  — <strong>Zero</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
 </div>
 <!-- QUOTE END -->
 
