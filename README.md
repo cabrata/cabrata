@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seseorang sudah bertekad, mereka pasti bisa melakukan apapun."</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Mungkin kau akan gagal. Mungkin juga mereka akan menolakmu. Meskipun begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
