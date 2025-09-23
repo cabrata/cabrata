@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada pepatah yang berkata "Tembakan yang benar, tidak pernah meleset." Artinya jika postur menembakmu tepat saat menembak, panah pasti akan tepat menuju sasaran. Bagiku, itu berarti jika kau rajin berlatih, pasti hasilnya akan terlihat. Jika kau merasa sudah berlatih dengan baik, lakukan apa saja yang menurutmu benar. Tubuhmu pasti akan mengingatnya."</em><br>
-  — <strong>Akagi</strong>, <em>Kantai Collection: KanColle</em>
+  <em>"Suatu saat manusia pasti mati. Tapi selama seseorang terus berusaha untuk melindungi orang lainnya, maka perasaan itu tidak akan mati. Setelah menemukan rasa ingin melindungi, maka tak peduli berapa banyak kau terluka, (atau) bahkan jika kau menangis sampai tak bisa meneteskan air mata lagi, kau (pasti) akan mampu menghadapinya."</em><br>
+  — <strong>Meliodas</strong>, <em>Nanatsu no Taizai</em>
 </div>
 <!-- QUOTE END -->
 
