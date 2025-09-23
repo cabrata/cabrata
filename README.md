@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku menulis novel sebagai hobi. Dan hobi yang tidak dilakukan dengan serius akan membosankan, 'kan? Karena ini hobiku, maka aku melakukannya sepenuh hati."</em><br>
-  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei</em>
+  <em>"Pikirkanlah sesuatu yang mungkin membuatmu tertarik, mungkin dengan merendam jari kakimu? Aku yakin jika dunia yang baru akan datang menyambutmu."</em><br>
+  — <strong>Producer</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
