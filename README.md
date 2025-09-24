@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa pun misinya, yang ku lakukan hanya satu, yaitu melindungimu."</em><br>
-  — <strong>Sakuya Tachibana</strong>, <em>God Eater</em>
+  <em>"Memanfaatkan kesempatan untuk mendapatkan jaringan orang atasan adalah bentuk dari pembelajaran politik yang baik di sekolah."</em><br>
+  — <strong>Kobachi Osaragi</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
