@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat wajah bahagia para pelanggan lebih berharga daripada uang yang ada di dunia."</em><br>
-  — <strong>Shinobu Senke</strong>, <em>Isekai Izakaya: Koto Aitheria no Izakaya Nobu</em>
+  <em>"Jika seperti ini terus, hidupmu akan berjalan selambat siput.
+Apakah kau setuju hidupmu seperti itu?"</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
