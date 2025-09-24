@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyanyikan lagu kesukaanmu akan menstimulasi otak, memicu perkembangan hormon secara keseluruhan. Sangat efektif dalam proses rehabilitasi, dan mampu meningkatkan banyak hal. Bernyanyi bersama-sama ketika bekerja akan membuat pekerjaan menjadi lebih efisien."</em><br>
-  — <strong>Haruhiko Ichijou</strong>, <em>Musaigen no Phantom World</em>
+  <em>"Semakin tinggi tujuan yang ingin dia capai, maka rintangan yang dilaluinya akan semakin besar."</em><br>
+  — <strong>Tanji Washijou</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
