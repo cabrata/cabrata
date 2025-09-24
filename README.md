@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah kuputuskan. Akan kubuat Hiyori menjadi wanita paling bahagia di dunia ini."</em><br>
-  — <strong>Yato</strong>, <em>Noragami Aragoto</em>
+  <em>"Dinginkan oleh laki-laki, tidak ada yang lebih nikmat dibandingkan perasaan itu."</em><br>
+  — <strong>Akane Minagawa</strong>, <em>Kuzu no Honkai</em>
 </div>
 <!-- QUOTE END -->
 
