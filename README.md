@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita (sedang) jatuh cinta. Memang tidak selalu berjalan dengan baik. Mungkin ada juga kesalahan di sana-sini. Tapi perasaan cinta pertama kita pasti menjadi hal yang berharga. Perasaan itu satu-persatu membawa kita ke masa mendatang."</em><br>
-  — <strong>Ayumi Arihara</strong>, <em>Hatsukoi Limited</em>
+  <em>"Lak-laki itu sejak dulu ditakdirkan tidak pekaan."</em><br>
+  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
