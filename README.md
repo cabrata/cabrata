@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam percintaan, luapan perasaan yang muncul tidak dapat dijelaskan dengan kata-kata."</em><br>
-  — <strong>Hikari Tsutsui</strong>, <em>3D Kanojo: Real Girl</em>
+  <em>"Mati bukanlah pilihan yang tepat. Aku ingin meminta maaf kepada yang lain. Aku ingin membantumu untuk hidup."</em><br>
+  — <strong>Shouya Ishida</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
