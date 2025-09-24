@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walaupun dalam hal membunuh, maka sebagai umat manusia, semuanya harus dilakukan atas aturan dan tujuan! Jika tidak, maka setiap perang hanya akan membuat dunia ini seperti neraka!"</em><br>
-  — <strong>Saber</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Jangan mengatakan pada orang lain mengenai apa yang sedang kau pikirkan."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
