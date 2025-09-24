@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu makhluk yang dangkal. Mereka hanya melihat (orang lain) berdasarkan gosip yang beredar di permukaan."</em><br>
-  — <strong>Becky Blackbell</strong>, <em>Spy x Family</em>
+  <em>"Jika ada yang tertinggal, maka akan ada yang menariknya. Jika ada yang lelah, akan ada yang membantunya. Kita semua kadang kebingungan dan ragu. Tapi kita tetap maju. Jadi aku yakin, kita pasti bisa!"</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
