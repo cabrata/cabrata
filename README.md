@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku punya banyak hal yang ingin kulakukan, dan diantara itu kupilih (satu) hal yang paling kusukai sebagai pekerjaanku."</em><br>
-  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Melihat wajah bahagia para pelanggan lebih berharga daripada uang yang ada di dunia."</em><br>
+  — <strong>Shinobu Senke</strong>, <em>Isekai Izakaya: Koto Aitheria no Izakaya Nobu</em>
 </div>
 <!-- QUOTE END -->
 
