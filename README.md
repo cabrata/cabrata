@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama jantungmu masih berdetak, kau berhak untuk tetap hidup dan mewujudkan keinginanmu."</em><br>
-  — <strong>Kuro no Rider</strong>, <em>Fate/Apocrypha</em>
+  <em>"Apa pun misinya, yang ku lakukan hanya satu, yaitu melindungimu."</em><br>
+  — <strong>Sakuya Tachibana</strong>, <em>God Eater</em>
 </div>
 <!-- QUOTE END -->
 
