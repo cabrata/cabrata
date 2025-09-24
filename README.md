@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah kesalahan terungkap maka kesalahan itu akan jadi kebenaran. Di dunia ini tidak ada yang namanya kesalahan."</em><br>
-  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
+  <em>"Tak peduli walapun (kita) berada di dalam kekacauan, kita (pasti) bisa menemukan jalan hidup yang indah bagi diri kita sendiri."</em><br>
+  — <strong>Shigeshige Tokugawa</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
