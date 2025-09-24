@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tapi, takkan ada permulaan jika hanya duduk dan menonton. Aku tak bisa menjelaskannya. Tapi,  inilah kesempatanku satu-satunya. Jadi, kami ingin bersinar!"</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Kehidupan sempurna di rumah itu memang sulit untuk didapatkan."</em><br>
+  — <strong>Shinji Tokita</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
