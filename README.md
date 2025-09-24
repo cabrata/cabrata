@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peperangan akan menimbulkan kebencian meski kau menang. Dan rantai kebencian akan berlanjut. Peperangan seharusnya tidak pernah dilakukan."</em><br>
-  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Mulai sekarang, apapun yang terjadi... aku akan terus menjadi temanmu! Kita.... kita akan selalu menjadi teman, kan?"</em><br>
+  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
