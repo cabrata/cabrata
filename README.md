@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menolong teman yang sedang kesulitan adalah hal yang wajar."</em><br>
-  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Kehidupan adalah gim dewa yang tiada tandingannya."</em><br>
+  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
 </div>
 <!-- QUOTE END -->
 
