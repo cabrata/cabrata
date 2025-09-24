@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin menyalahkan seseorang karena tak ada yang berubah (dalam hidupku). Tapi aku salah. (Ternyata) jika aku ingin, bahkan dunia pun bisa berubah warna dalam sekejap."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Menyanyikan lagu kesukaanmu akan menstimulasi otak, memicu perkembangan hormon secara keseluruhan. Sangat efektif dalam proses rehabilitasi, dan mampu meningkatkan banyak hal. Bernyanyi bersama-sama ketika bekerja akan membuat pekerjaan menjadi lebih efisien."</em><br>
+  — <strong>Haruhiko Ichijou</strong>, <em>Musaigen no Phantom World</em>
 </div>
 <!-- QUOTE END -->
 
