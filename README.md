@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin tinggi tujuan yang ingin dia capai, maka rintangan yang dilaluinya akan semakin besar."</em><br>
-  — <strong>Tanji Washijou</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Untuk terus maju, terkadang kita harus membuang sesuatu yang berharga."</em><br>
+  — <strong>Luviagelita Edelfelt</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
