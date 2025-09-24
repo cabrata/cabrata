@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pilihan benar atau salah itu tak ada hubungannya denganku. Aku hanya melakukan apa yang ingin kulakukan. Tentu saja aku akan menerima konsekuensinya."</em><br>
-  — <strong>Aka no Saber</strong>, <em>Fate/Apocrypha</em>
+  <em>"Peperangan akan menimbulkan kebencian meski kau menang. Dan rantai kebencian akan berlanjut. Peperangan seharusnya tidak pernah dilakukan."</em><br>
+  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
