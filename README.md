@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena seseorang mengatakan sesuatu yang tidak kau sukai, bukan berarti mereka tidak menyukaimu."</em><br>
-  — <strong>Hyougo Otoo</strong>, <em>Working!!!</em>
+  <em>"Jika gadis yang kau sukai menyukai orang lain, hatimu pasti hancur."</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
