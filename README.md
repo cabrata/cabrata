@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutmu kenapa orang bisa terjaga di malam hari?Karena orang itu merasa tidak puas pada hari (yang telah ia lalui)."</em><br>
-  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
+  <em>"Kalau kita bekerja sebagai politikus, kita akan dikelilingi oleh kebohongan."</em><br>
+  — <strong>Shizuka Takanashi</strong>, <em>Working!!! Lord of the Takanashi</em>
 </div>
 <!-- QUOTE END -->
 
