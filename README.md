@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan aku ajari kamu tentang romansa burung yang tak bisa terbang sampai membekas di hatimu."</em><br>
-  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Alasanmu, terwujud dalam pengetahuanmu. Dan pengalamanmu, terwujud dalam kesadaranmu."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
