@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Alasanmu, terwujud dalam pengetahuanmu. Dan pengalamanmu, terwujud dalam kesadaranmu."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Ada orang yang bisa dengan cepat menemukan jalan hidupnya, ada juga orang yang mulai dengan memanjat tinggi baru menemukan jalannya. Tidak apa kalau mengambil jalan pintas, atau pun tersesat di jalan yang salah. (Karena) mereka berhak melakukan itu."</em><br>
+  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
