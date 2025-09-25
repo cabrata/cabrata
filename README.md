@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan marah begitu, Tuan Putri. Tatapan marahmu akan membuat kecantikanmu menurun drastis."</em><br>
-  — <strong>Aldebaran</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"(aneh memiliki  dan berjuang untuk suatu mimpi pada kelas sembilan). Lebih baik memulai lebih awal !! Setiap orang hanya akan berjalan tanpa arah dalam hidupnya, menghindari tiap keputusan."</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
