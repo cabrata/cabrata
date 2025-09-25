@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan menikah dengan orang lain (selain dirimu). Aku telah berdoa agar bisa bersamamu untuk selamanya."</em><br>
-  — <strong>Sae Nakata</strong>, <em>Amagami SS+ Plus</em>
+  <em>"(Mereka) benar-benar hebat. Mereka tahu apa yang ingin mereka lakukan. Dibandingkan dengan Misaki-senpai dan yang lainnya, aku tidak ada apa-apanya. Meskipun begitu, suatu hari kuharap aku menemukan apa yang ingin kulakukan."</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
