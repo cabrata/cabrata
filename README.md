@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya pria yang maju ke medan perang dengan gagah berani disampingku yang pantas menjadi Masterku. Dan bukanlah pengecut yang bahkan hampir tidak punya keberanian untuk menunjukkan dirinya sendiri!"</em><br>
-  — <strong>Rider</strong>, <em>Fate/Zero</em>
+  <em>"(kenapa kamu suka dibuatkan patung?)Karena aku ingin orang-orang mengingatku. Berbeda denganmu (yang seorang elf), kami (manusia) tidak berumur panjang. Namun, mungkin alasan terbesarku agar kamu tidak sendirian di masa depan kelak. Keberadaan kita bukanlah dongeng, tapi benar-benar nyata."</em><br>
+  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
