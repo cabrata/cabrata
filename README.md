@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Belajar dan pembunuhan itu sama.Kegunaannya ditentukan oleh pembelajaran dasar."</em><br>
-  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Ingin bunuh diri karena merasa bersalah itu keliru!"</em><br>
+  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
