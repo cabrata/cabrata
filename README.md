@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu menarik sekali. Bahkan menurutku pengalamanku selama ini, masih banyak hal yang belum kuketahui mengenai jalan pikiran mereka."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Mengabdikan diri untuk pendidikan adalah suatu bentuk kerja keras."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
