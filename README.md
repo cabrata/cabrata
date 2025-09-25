@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nenekku bilang, tubuh sehat membuat seorang gadis menjadi cantik."</em><br>
-  — <strong>Makoto Kowata</strong>, <em>Flying Witch</em>
+  <em>"Kampanye itu hanyalah tindakan mengemis suara."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
