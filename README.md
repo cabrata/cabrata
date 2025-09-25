@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena aku masih anak-anak, sejujurnya aku tak begitu mengerti apa itu cinta. Tapi aku tahu kalau yang dirasakan Onee-san itu sungguhan.
-Aku pun juga, suatu saat nanti ingin seperti itu. Ketika ada seseorang yang kucintai, aku ingin punya perasaan yang kuat seperti itu."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Kalian akan dapat terus maju dengan berpegang pada penderitaan.
+Jaga teman kalian saat ini. (Karena) jika mereka mati, mereka takkan kembali."</em><br>
+  — <strong>Shinohara</strong>, <em>Hai to Gensou no Grimgar</em>
 </div>
 <!-- QUOTE END -->
 
