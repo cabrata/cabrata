@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku takkan punya kehidupan yang cukup jika hanya mengandalkan keberuntungan saja."</em><br>
-  — <strong>Shikamaru Nara</strong>, <em>Naruto Shippuden</em>
+  <em>"Aku itu orang payang yang tak akan melakukan sesuatu yang tak ingin aku lakukan."</em><br>
+  — <strong>Nako Sunao</strong>, <em>Hitoribocchi no Marumaru Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
