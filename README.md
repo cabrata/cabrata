@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Hanya) semua inilah yang kumiliki.., Mengajarimu dalam belajar, adik kelas yang manis, seorang ayah yang pekerja keras, kemudian langit berbintang ini. Yang aku miliki hanya sebatas ini. Hanya sebatas inilah yang bisa kuberikan padamu."</em><br>
-  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
+  <em>"Karena kita makhluk yang memiliki ingatan yang kuat, kita jadi dikendalikan oleh informasi."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
