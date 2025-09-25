@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(aneh memiliki  dan berjuang untuk suatu mimpi pada kelas sembilan). Lebih baik memulai lebih awal !! Setiap orang hanya akan berjalan tanpa arah dalam hidupnya, menghindari tiap keputusan."</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Belajar dan pembunuhan itu sama.Kegunaannya ditentukan oleh pembelajaran dasar."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
