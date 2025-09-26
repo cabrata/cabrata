@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah membuatmu melihat air mataku. Meskipun begitu, kau tidak boleh menitihkan air mata. Setidaknya sampai kau bertemu dengan ibumu. Karena saat itu akan menjadi air mata bahagia."</em><br>
-  — <strong>Yoshifumi Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Entah itu jalan yang lurus ataupun jalan yang menyesatkan, selama kami masih bisa berjalan di sampingmu, kami tak peduli ke manapun kami pergi."</em><br>
+  — <strong>Toushirou Hijikata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
