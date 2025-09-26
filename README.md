@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hukum berarti ada pelanggaran."</em><br>
-  — <strong>Masakazu Masaki</strong>, <em>Eve no Jikan</em>
+  <em>"Kalau terkenal di internet saja dapat menghasilkan banyak uang, pasti kau akan merasa kalau pergi bekerja adalah tindakan yang bodoh."</em><br>
+  — <strong>Shuusei Kagari</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
