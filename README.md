@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jalan hidup masih panjang. Walau ada kalanya keraguan dan kekhawatiran menghampiri, tapi kami tetap melangkah dengan yakin di jalan yang kami pilih."</em><br>
-  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Aku terima kekalahanku dari orang lain. Tapi, aku tidak sudi kalah dari diriku sendiri!"</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
