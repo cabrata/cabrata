@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selesaikan apa yang telah kau perbuat!"</em><br>
-  — <strong>Tsukinose Vignette April</strong>, <em>Gabriel DropOut</em>
+  <em>"Saat kau menelusuri akar, ranting, dan daun yang membawamu mencapai kebenaran, maka kau akan mengerti segalanya, lalu kau mampu menguasainya!"</em><br>
+  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
