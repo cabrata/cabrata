@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakekku selalu mengajariku agar dapat memaafkan kesalahan orang lain."</em><br>
-  — <strong>Touya Mochizuki</strong>, <em>Isekai wa Smartphone to Tomo ni.</em>
+  <em>"Memanfaatkan kesempatan untuk mendapatkan jaringan orang atasan adalah bentuk dari pembelajaran politik yang baik di sekolah."</em><br>
+  — <strong>Kobachi Osaragi</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
