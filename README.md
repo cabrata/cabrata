@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teror dalam arti sebenarnya bukanlah ketakutan dalam keadaan statis, tapi dinamis. Itu terjadi di saat harapan seketika berubah menjadi keputusasaan."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Zero</em>
+  <em>"Kakekku selalu mengajariku agar dapat memaafkan kesalahan orang lain."</em><br>
+  — <strong>Touya Mochizuki</strong>, <em>Isekai wa Smartphone to Tomo ni.</em>
 </div>
 <!-- QUOTE END -->
 
