@@ -5,7 +5,7 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita lahir di situasi yang berbeda. Apakah itu rumahmu, keluargamu atau penampilanmu. Itulah mengapa banyak orang bodoh yang tetap menjadi pemimpi. Tetapi aku pintar, aku tak akan bermimpi saja."</em><br>
+  <em>"Untuk membuat manga harus pintar. Paling tidak, kau butuh kepintaran dan pikiran rasional. Tapi aku tak berpikir jika belajar sama dengan pintar."</em><br>
   — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
