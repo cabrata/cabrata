@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau takkan tahu perasaan orang lain bila kau tak bertanya.
-Perasaanmu juga takkan pernah diketahui orang lain bila kau tak mengatakannya."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Ada hukum berarti ada pelanggaran."</em><br>
+  — <strong>Masakazu Masaki</strong>, <em>Eve no Jikan</em>
 </div>
 <!-- QUOTE END -->
 
