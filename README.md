@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta itu sama halnya dengan "soal ujian".
-Pertama kau harus mengenalnya dengan baik, lalu mulailah ketika kau sudah memahaminya."</em><br>
-  — <strong>Soujirou Agata</strong>, <em>Sket Dance</em>
+  <em>"Seorang seniman harus selalu mengungkapkan apa yang dipikirkannya dan bergelut dengan akal sehatnya."</em><br>
+  — <strong>Hiromichi Kudou</strong>, <em>Photokano</em>
 </div>
 <!-- QUOTE END -->
 
