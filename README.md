@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hukum berarti ada pelanggaran."</em><br>
-  — <strong>Masakazu Masaki</strong>, <em>Eve no Jikan</em>
+  <em>"Lebih baik kau periksa motormu sebelum mengendarainya, tapi yang lebih penting lagi, periksalah pria sebelum menaikinya."</em><br>
+  — <strong>Baita</strong>, <em>Bakuon!!</em>
 </div>
 <!-- QUOTE END -->
 
