@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena kamu adalah manusia artinya kamu bukanlah sosok yang sempurna."</em><br>
-  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online: Alicization</em>
+  <em>"Cintaku seperti kilauan kembang api. Kilauan kecil yang perlahan meredup.
+Tapi, secercah cahaya kecil masih bersinar di hatiku."</em><br>
+  — <strong>Kazuko Hosogawa</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
