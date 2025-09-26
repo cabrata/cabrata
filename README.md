@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada seorang pun yang ingin jatuh dalam bahaya, karena itu menakutkan."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Kau mempercayaiku, akupun akan mempercayaimu. Itulah apa yang dinamakan sebagai teman bukan?"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
