@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan terlalu banyak menahan kesedihan, karena itu akan membuatmu melupakan suatu hal yang terpenting."</em><br>
-  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Aku tak akan berpura-pura mengerti tentang penderitaanmu, tapi aku tak akan menyerah menjadikanmu temanku."</em><br>
+  — <strong>Takeru Kusanagi</strong>, <em>Taimadou Gakuen 35 Shiken Shoutai</em>
 </div>
 <!-- QUOTE END -->
 
