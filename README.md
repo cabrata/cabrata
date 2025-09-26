@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesedihan dan penderitaannya mencengkram hatiku. Aku tahu dia sudah berjuang lebih keras dari siapa pun. Aku ingin menolongnya, tapi aku sudah tak bisa lagi menggapainya."</em><br>
-  — <strong>Daru</strong>, <em>Kanojo to Kanojo no Neko: Everything Flows</em>
+  <em>"Manusia itu sederhana. Kita akan berusaha jika hasilnya sepadan, dan kita akan berusaha lebih keras lagi jika itu bisa membuat kita lebih baik."</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
