@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencintai orang lain selain diri sendiri adalah hal yang penting."</em><br>
-  — <strong>Ruth</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Jika seseorang sudah bertekad, mereka pasti bisa melakukan apapun."</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
