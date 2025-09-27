@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada gunanya menyemangati orang yang bahkan tak berniat dengan apa yang dilakukannya."</em><br>
-  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Tak peduli apapun yang terjadi, aku akan selalu denganmu."</em><br>
+  — <strong>Yuno Gasai</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
