@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhati-hatilah atas perkataan dan perbuatanmu. Kalau kata bertarung telah keluar dari bibirmu, maka takkan bisa kau tarik kembali."</em><br>
-  — <strong>Lancer</strong>, <em>Fate/Grand Order: First Order</em>
+  <em>"Hati bukanlah sesuatu yang bisa dimengerti hanya dengan memikirkannya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
