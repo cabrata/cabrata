@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berusaha menjadi sosok yang ideal memang luar biasa. Namun, kalau terlalu terpaku pada hal itu, kita akan mengalami kegagalan dan kehilangan jati diri."</em><br>
-  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
+  <em>"Jika (hanya dengan kata) "maaf" sudah cukup (untuk menyelesaikan masalah), maka kita tak membutuhkan polisi."</em><br>
+  — <strong>Shouko Sugawara</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
