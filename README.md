@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memakai alasan untuk lari akan membuatmu terlihat menyedihkan."</em><br>
-  — <strong>Hikari Takanashi</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Masa depan lahir dari pengalaman masa lalu."</em><br>
+  — <strong>Sanae Kouzuki</strong>, <em>Sakura Quest</em>
 </div>
 <!-- QUOTE END -->
 
