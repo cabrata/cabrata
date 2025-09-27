@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak mau mengorbankan apapun atau menyeret siapapun hanya untuk menang."</em><br>
-  — <strong>Makoto Tsukimoto</strong>, <em>Ping Pong The Animation</em>
+  <em>"Syarat pertama menjadi pahlawan tidaklah perlu benar, tapi kuat. Itulah mengapa pahlawan selalu menang."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
