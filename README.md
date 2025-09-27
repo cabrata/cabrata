@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Penampilan seseorang tergantung pada dua hal, ekspresi dan postur tubuh."</em><br>
-  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
+  <em>"Tak peduli seberapa sulitnya (menjalani hidup), aku ingin kau percaya bahwa dunia ini indah."</em><br>
+  — <strong>Fujino Asagami</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
 </div>
 <!-- QUOTE END -->
 
