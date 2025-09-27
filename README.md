@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebenci apapun kau terhadap perang, jika terlalu terpaku memikirkan cara untuk menghindarinya, pada akhirnya kau akan kehilangan segalanya."</em><br>
-  — <strong>Piña Co Lada</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Seorang pria bernama Araragi Koyomi, terkadang mengutamakan seorang anak perempuan daripada mengutamakan temannya ataupun pacarnya."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
