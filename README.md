@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski melarikan diri juga bisa berakhir bahagia, (tapi) aku ingin berjuang semampuku hingga titik darah penghabisan."</em><br>
-  — <strong>Moffle</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Jika tidak menemukan masalah atau jika tidak menemukan suatu alasan yang tepat. Maka ada sebagian orang yang tidak akan bertindak."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
