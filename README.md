@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada pengamat yang lebih terpercaya dari orang yang mencurigaimu."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Pembunuhan yang dilakukan dengan menyusup, akan lebih fleksibel jika targetnya sedang gelisah.
+Karena aku berhadapan dengan makhluk tak dikenal, maka cara terbaik adalah bunuh dia segera sebelum dia curiga."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
