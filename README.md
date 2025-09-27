@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli berapa banyak kebohongan yang kau katakan, kau takkan bisa membohongi hatimu sendiri."</em><br>
-  — <strong>Meliodas</strong>, <em>Nanatsu no Taizai</em>
+  <em>"Berusaha menjadi sosok yang ideal memang luar biasa. Namun, kalau terlalu terpaku pada hal itu, kita akan mengalami kegagalan dan kehilangan jati diri."</em><br>
+  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
