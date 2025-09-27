@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berpikir untuk tidak terluka saat kau memutuskan untuk melangkahkan kakimu.
-Jangan terpaku pada kesempurnaan. Karena itu akan melukai orang lain dan orang lain juga akan melukaimu.
-Meski kau berlumuran lumpur sekalipun, kau harus tetap maju."</em><br>
-  — <strong>Evangeline Athanasia Katherine McDowell</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Bukan masalah benci atau tidaknya. Ibuku adalah Ibuku, takkan pernah berubah. Apapun yang terjadi, dialah yang melahirkanku."</em><br>
+  — <strong>Asuka Tanaka</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
