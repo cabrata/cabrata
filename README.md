@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kematian masih jauh, orang-orang mengoceh tentang impian, keyakinan, (dan) bermacam-macam teori. Tapi saat mereka sudah hampir mati, mereka baru sadar kalau manusia hanya ingin hidup dan mati di sisi orang yang mereka percayai."</em><br>
-  — <strong>Kotarou Katsura</strong>, <em>Gintama°</em>
+  <em>"Meraih kebenaran yang ada di depan mata lebih baik daripada meraih ideologi yang tak dapat diraih."</em><br>
+  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
