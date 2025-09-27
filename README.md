@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau hanya sendirian, kamu takkan mengerti keberadaanmu. Aku merasa kalau hubungan antar manusia adalah bukti tentang hidup. Aku memiliki hati karena ada semua orang. Aku memiliki tubuh karena aku disentuh semua orang. Jadi, hidup seseorang itu memiliki arti. Memilih sendiri, seperti kau dan aku, seperti hidup kita yang sekarang."</em><br>
-  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
+  <em>"Hanya mereka yang berkeinginan untuk melampaui batasannya dan berusaha untuk terus tumbuh dan berkembanglah yang bisa melewatinya. Merekalah generasi keajaiban!"</em><br>
+  — <strong>Senzaemon Nakiri</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
