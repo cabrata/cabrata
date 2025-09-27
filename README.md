@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami berjuang untuk menciptakan masa depan kalian."</em><br>
-  — <strong>Aka no Lancer</strong>, <em>Fate/Apocrypha</em>
+  <em>"Jika kau hanya sendirian, kamu takkan mengerti keberadaanmu. Aku merasa kalau hubungan antar manusia adalah bukti tentang hidup. Aku memiliki hati karena ada semua orang. Aku memiliki tubuh karena aku disentuh semua orang. Jadi, hidup seseorang itu memiliki arti. Memilih sendiri, seperti kau dan aku, seperti hidup kita yang sekarang."</em><br>
+  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
 
