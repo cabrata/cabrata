@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejarah adalah bukti bahwa manusia hidup. Bukti bahwa manusia hidup dengan batas kemampuan mereka."</em><br>
-  — <strong>Takahito Hida</strong>, <em>Katanagatari</em>
+  <em>"Jika kau seorang ninja, mau berapa kalipun gagal, kau akan terus berusaha."</em><br>
+  — <strong>Boruto Uzumaki</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
