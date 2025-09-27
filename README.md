@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah seorang anak butuh alasan untuk melindungi peninggalan yang dibanggakan orang tuanya?"</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Kamus adalah barang yang dapat membantu manusia untuk memahami satu sama lain. Saat sesorang berbicara dengan orang lain atau saat membaca, kita dibanjiri oleh banyak kata. Di balik kata-kata itu, ada orang yang ingin menyampaikan perasaannya. Kamus membantu orang untuk memahami apa yang dipikirkan dan apa yang ingin disampaikan oleh orang lain."</em><br>
+  — <strong>Mitsuya Majime</strong>, <em>Fune wo Amu</em>
 </div>
 <!-- QUOTE END -->
 
