@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada tempat yang dapat menyaingi rumah!"</em><br>
-  — <strong>Tomoko Konagai</strong>, <em>Nyanko Days</em>
+  <em>"Ketika aku bergantung pada orang lain, pada akhirnya aku hanya akan tersakiti.
+Dari awal seharusnya aku tak bergantung pada siapapun."</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
