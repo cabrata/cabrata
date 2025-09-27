@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pertama, kau harus memutuskan dimana seharusnya kau berada. Dengan begitu, kau bisa memutuskan apa yang ingin kau lakukan."</em><br>
-  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Kakak itu memang hebat. Aku takkan pernah menandinginya."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
