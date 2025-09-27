@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senyumlah saat sedang dalam masalah."</em><br>
-  — <strong>Canaria Utara</strong>, <em>Qualidea Code</em>
+  <em>"Orang bodoh yang kehilangan ketenangan dan membuat pilihan yang salah, (dia pasti) akan gagal."</em><br>
+  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
