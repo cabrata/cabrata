@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pembela kebenaran membutuhkan kejahatan untuk dikalahkan."</em><br>
-  — <strong>Kirei Kotomine</strong>, <em>Fate/stay night Movie: Heaven's Feel - I. Presage Flower</em>
+  <em>"Cepatlah meminta maaf kepada Ayahmu, kau takkan bisa meminta maaf jika dia telah mati."</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
