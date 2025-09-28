@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun obatnya, cintaku padamu takkan bisa disembuhkan!"</em><br>
-  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
+  <em>"Mungkin ada kalanya (kau) merasa bingung dan merasa kesal karena kenyataan tidak berjalan sesuai dengan harapan. Tapi, hal yang kau pelajari tidak akan pernah mengkhianatimu."</em><br>
+  — <strong>Tooru Miyagishi</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
