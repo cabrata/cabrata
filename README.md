@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Beranggapan bahwa semua itu salahmu adalah pemikiran yang tak berguna. Setiap orang pasti memiliki keterbatasan."</em><br>
-  — <strong>Sachiko Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Jika dia belajar sedikit tentang kebahagiaan, dia pasti akan segera melampauiku, meskipun begitu kebahagiaan bukanlah perlombaan. Jika dia melampauiku, nanti giliran aku yang akan belajar darinya. Itulah yang namanya belajar, mengajar, dan saling membantu demi mencapai puncak bersama. Mari belajar bersama. Meskipun kebodohan kita tidak ada batasnya, tapi kita bisa menjadi bijak bersama. Kita bisa mendapat kebahagiaan yang layak bersama."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
