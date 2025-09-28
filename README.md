@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu kehormatan bagi setiap pria bisa menjadi sandaran wanita."</em><br>
-  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
+  <em>"Dazai pernah berkata, "Manusia lahir untuk cinta dan revolusi"."</em><br>
+  — <strong>Kotarou Azumi</strong>, <em>Tsuki ga Kirei</em>
 </div>
 <!-- QUOTE END -->
 
