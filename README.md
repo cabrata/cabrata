@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kata-kata itu memiliki dua sisi. Tidak semua hal yang diucapkan itu sama dengan yang ingin disampaikan."</em><br>
-  — <strong>Cattleya Baudelaire</strong>, <em>Violet Evergarden</em>
+  <em>"Cinta datang dalam berbagai bentuk. Mungkin memang tidak semuanya menyenangkan, tapi tetap saja (cinta) itu indah."</em><br>
+  — <strong>Mitsuki Shijou</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
