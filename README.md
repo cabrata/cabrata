@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sudah bukan anak kecil yang selalu ingin menang kalau bersaing."</em><br>
-  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
+  <em>"Pembela kebenaran membutuhkan kejahatan untuk dikalahkan."</em><br>
+  — <strong>Kirei Kotomine</strong>, <em>Fate/stay night Movie: Heaven's Feel - I. Presage Flower</em>
 </div>
 <!-- QUOTE END -->
 
