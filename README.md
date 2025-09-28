@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua yang kau katakan dan lakukan berkilauan dan bersinar terang. Itu terlalu silau untukku dan akhirnya ku menutup mata."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kami sudah terbiasa diseret olehmu. Jadi, sebagai gantinya, bawalah kami ke dunia yang belum pernah kami lihat."</em><br>
+  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
