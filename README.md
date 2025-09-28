@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lak-laki itu sejak dulu ditakdirkan tidak pekaan."</em><br>
-  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>""Sebuah tujuan" memberi seseorang kekuatan. Pertemanan lebih kuat daripada pisau."</em><br>
+  — <strong>Angelo Lagusa</strong>, <em>91 Days</em>
 </div>
 <!-- QUOTE END -->
 
