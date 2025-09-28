@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di lingkungan orang-orang dewasa, setiap kerja keras akan selalu mendapat imbalan."</em><br>
-  — <strong>Yoshifumi Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Teman yang saling mengerti satu sama lain lewat berbagi hobi adalah teman yang sangat berharga."</em><br>
+  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
 </div>
 <!-- QUOTE END -->
 
