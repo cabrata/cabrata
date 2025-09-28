@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan adalah gim dewa yang tiada tandingannya."</em><br>
-  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
+  <em>"Mengabdikan diri untuk pendidikan adalah suatu bentuk kerja keras."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
