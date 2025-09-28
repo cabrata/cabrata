@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Amarah wanita adalah hal paling sulit untuk dikendalikan."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works</em>
+  <em>"Sejujurnya sampai saat ini aku masih belum tahu apa yang ingin kau capai.
+Tapi meskipun begitu aku sangat paham kalau kau serius untuk mewujudkan impianmu. Jadi berjuanglah!!"</em><br>
+  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
