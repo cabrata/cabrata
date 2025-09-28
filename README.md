@@ -5,11 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah kekalahan membuktikan bahwa kalian itu lemah?
-Bukankah bagi kalian "kalah" itu lebih terlihat seperti ujian?
-Apa kalian bisa berdiri dan berjalan lagi setelah kalian terjatuh.
-Jika kalian tetap duduk di situ, justru itulah yang membuktikan bahwa kalian lemah."</em><br>
-  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!!</em>
+  <em>"("Cinta" itu seperti apa?)
+Perasaan di saat kamu selalu memikirkan dan memimpikan tentang dia. Saat tidak berhasil menarik perhatiannya kamu pun merasa murung. Kamu juga tidak bisa menatapnya langsung karena malu. Lalu, disaat kamu mengetahui kekurangan dalam dirinya, tapi entah kenapa kamu tetap ingin mengetahui lebih banyak tentang dia."</em><br>
+  — <strong>Inari Fushimi</strong>, <em>Inari, Konkon, Koi Iroha.</em>
 </div>
 <!-- QUOTE END -->
 
