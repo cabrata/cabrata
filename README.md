@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kaulah tokoh utama dalam hidupmu sendiri."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100</em>
+  <em>"Dalam bahasa bunga, bunga Casablanca menandakan cinta yang luhur, kebaikan, dan kemuliaan. Warna-warna cerah membuatnya terlihat cocok sebagai hadiah untuk pengantin."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
