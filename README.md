@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku terima kekalahanku dari orang lain. Tapi, aku tidak sudi kalah dari diriku sendiri!"</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Mengikuti yang kuat adalah naluri makhluk lemah."</em><br>
+  — <strong>Demiurge</strong>, <em>Overlord III</em>
 </div>
 <!-- QUOTE END -->
 
