@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau hari libur adalah hari untuk bersenang-senang, maka kita harus bersenang-senang bersama."</em><br>
-  — <strong>Anzu</strong>, <em>Hinamatsuri</em>
+  <em>"Kau bisa melakukannya, jika mencobanya."</em><br>
+  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
