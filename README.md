@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekuatan yang terlalu besar akan menghancurkan sekelilingnya."</em><br>
-  — <strong>Koushi Usa</strong>, <em>ReLIFE</em>
+  <em>"Ketika bersama dengan Satou-kun, aku jadi bisa berjuang dalam berbagai hal. Duniaku jadi serasa lebih luas."</em><br>
+  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
