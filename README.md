@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengabdikan diri untuk pendidikan adalah suatu bentuk kerja keras."</em><br>
-  — <strong>Mayoi Hachikuji</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Apapun yang dapat kulakukan, akan kukerjakan!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
