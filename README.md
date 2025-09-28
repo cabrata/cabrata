@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan yang belakangan ini kurasakan...
-Perasaan yang sejak itu terus tumbuh...
-(Aku ingin tahu) suatu saat, apakah aku bisa menggapaimu..."</em><br>
-  — <strong>Shouta Kazehaya</strong>, <em>Kimi ni Todoke</em>
+  <em>"Jangan pernah berpikiran buruk kepada manusia."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
