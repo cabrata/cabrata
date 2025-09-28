@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bilang aku memanipulasi pembaca dengan teknikku, 'kan? Itu adalah kata-kata pujian yang hebat untuk seorang penulis."</em><br>
-  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Semua orang takut untuk berdiri diatas panggung. Mungkin kau akan gagal, mungkin juga mereka (para penonton) akan menolakmu. Meski begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
