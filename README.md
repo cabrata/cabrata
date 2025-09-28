@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Percayalah dan berjalanlah di atas jalanmu sendiri."</em><br>
-  — <strong>Guy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Setiap jomblo yang punya hewan peliharaan pasti merasakan kebahagiaan palsu"</em><br>
+  — <strong>Mayumi Nishikino</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
