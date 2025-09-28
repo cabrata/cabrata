@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika ada suatu hal yang membuatmu sedih, tidak apa kau bersedih. Kau tidak perlu selalu (berpura-pura) terlihat baik-baik saja."</em><br>
-  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Tidak layak mempertaruhkan hidup seseorang, tak peduli berapapun keuntungan yang akan didapat."</em><br>
+  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou</em>
 </div>
 <!-- QUOTE END -->
 
