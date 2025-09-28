@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami sudah terbiasa diseret olehmu. Jadi, sebagai gantinya, bawalah kami ke dunia yang belum pernah kami lihat."</em><br>
-  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Amarah wanita adalah hal paling sulit untuk dikendalikan."</em><br>
+  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works</em>
 </div>
 <!-- QUOTE END -->
 
