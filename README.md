@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan terasa pedih untuk menjaga ataupun melepaskan sesuatu yang tak bisa kau dapatkan kembali.
-Jika kedua-duanya akan terasa pedih, aku lebih baik menderita untuk mempertahankannya."</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Musuh dari musuhku tak harus menjadi sekutuku."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: First Order</em>
 </div>
 <!-- QUOTE END -->
 
