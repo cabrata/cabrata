@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita adalah makhluk yang siap tempur."</em><br>
-  — <strong>Yuriko Ochiai</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Di dunia ini berlaku hukum rimba. Yang kuat dapat menyelamatkan atau membunuh yang lemah."</em><br>
+  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
