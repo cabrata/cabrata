@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengikuti yang kuat adalah naluri makhluk lemah."</em><br>
-  — <strong>Demiurge</strong>, <em>Overlord III</em>
+  <em>"Kemakmuran yang sesungguhnya adalah bebas dari kekayaan dan barang-barang."</em><br>
+  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
