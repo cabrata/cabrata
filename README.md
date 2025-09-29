@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua hanya menari di atas telapak tangan Tuhan."</em><br>
-  — <strong>Otoko</strong>, <em>Konohana Kitan</em>
+  <em>"Kejujuran tidak selalu membawa pada kebaikan."</em><br>
+  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
