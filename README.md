@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa kau masih anak-anak?
-Kau melihat dunia ini hanya hitam dan putih.
-Tapi dunia tidak sesederhana itu.
-Segala sesuatu di sekitar kita ada di tengah-tengahnya.
-Bukan hitam ataupun putih, tapi abu-abu."</em><br>
-  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Daripada menyesal tanpa melakukan apa-apa, kupikir lebih baik melakukan hal yang kubisa dan menyesalinya. Meskipun aku tahu kalau persentasenya nol persen, tapi bukankah akan menjengkelkan jika hanya diam saja?"</em><br>
+  — <strong>Koyuki Ayase</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
 </div>
 <!-- QUOTE END -->
 
