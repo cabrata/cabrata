@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada yang tahu apa yang menunggu di masa depan. Karena itulah ada kemungkinan yang tak terbatas. Seperti pertemuan ini..."</em><br>
-  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate</em>
+  <em>"Semakin lama orang merencanakan sesuatu, semakin sedikit hal yang sesuai harapan."</em><br>
+  — <strong>Dio Brando</strong>, <em>JoJo no Kimyou na Bouken</em>
 </div>
 <!-- QUOTE END -->
 
