@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesedih apapun suatu ingatan, setelah diceritakan semuanya hanya akan jadi suatu cerita."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Manusia tumbuh lebih kuat demi dirinya sendiri."</em><br>
+  — <strong>Hibana</strong>, <em>Enen no Shouboutai</em>
 </div>
 <!-- QUOTE END -->
 
