@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"jika kau terbiasa, kau (akan) memiliki kebiasaan."</em><br>
-  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
+  <em>"Seseorang dapat berubah karena jatuh cinta."</em><br>
+  — <strong>Chiaki Uchimura</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
