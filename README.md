@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan kita (sebagai polisi) memang tidak langsung bermanfaat, tapi aku bahagia (pekerjaan kita) bisa mencegah satu insiden yang mungkin terjadi (di masa mendatang)."</em><br>
-  — <strong>Seiko Fuji</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Tidak ada peraturan yang menyebutkan kalau rok kostum idol group itu harus pendek!"</em><br>
+  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
