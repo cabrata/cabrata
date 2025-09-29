@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau tidak punya keinginan yang besar, kau tak akan bisa menjadi mangaka terkenal."</em><br>
-  — <strong>Yoshihisa Heishi</strong>, <em>Bakuman.</em>
+  <em>"Kalau kau terlalu bersinar, aku takkan bisa mendekatimu karena kau menyilaukan mataku."</em><br>
+  — <strong>Tanaka</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
 </div>
 <!-- QUOTE END -->
 
