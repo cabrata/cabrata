@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memang harus melakukan apa saja untuk (tetap) hidup. Tapi jangan membuang alasanmu (untuk hidup). Kalau kau membuangnya, kau bukan lagi manusia."</em><br>
-  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Ketika semua orang bermain video game, aku tinggal dan bekerja keras. Aku terus bekerja keras untuk menjadi penulis yang karyanya terlaris di (majalah manga) Jack."</em><br>
+  — <strong>Eiji Niizuma</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
