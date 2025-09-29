@@ -5,9 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku selalu serius! Tapi kenapa kamu selalu lari?
-Setiap kali aku pikir mulai lebih dekat denganmu, kamu malah bergerak semakin jauh."</em><br>
-  — <strong>Megumi Noda</strong>, <em>Nodame Cantabile: Paris Hen</em>
+  <em>"Perasaan yang belakangan ini kurasakan...
+Perasaan yang sejak itu terus tumbuh...
+(Aku ingin tahu) suatu saat, apakah aku bisa menggapaimu..."</em><br>
+  — <strong>Shouta Kazehaya</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
