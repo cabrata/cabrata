@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi seorang pria lemah yang ingin mengalahkan seorang jenius, maka ia harus menjadi iblis."</em><br>
-  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Selama tidak menyerah, manusia bisa melakukan apa pun. Bahkan manusia yang tak memiliki sayap pun bisa pergi ke bulan."</em><br>
+  — <strong>Ryouma Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
