@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku siap melakukan apapun untuk menjadi kuat. Tapi sedikitpun aku tak bisa membayangkan mampu melampaui kekuatan guru."</em><br>
-  — <strong>Genos</strong>, <em>One Punch Man</em>
+  <em>"Cuma orang aneh yang bilang orang lain aneh."</em><br>
+  — <strong>Meiko Honma</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
