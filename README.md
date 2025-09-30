@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walaupun kamu tidak punya uang, kamu masih bisa cukup bersenang-senang, asalkan ada cinta."</em><br>
-  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Aku suka dirimu yang tak bisa berterus terang seperti itu."</em><br>
+  — <strong>Rita Ainsworth</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
