@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Penyesalan itu datang terlambat. Kau tidak akan pernah tahu sampai kau kehilangannya. Karena itu, berjuanglah untuk merasakan masa mudamu."</em><br>
-  — <strong>Saku Akechi</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
+  <em>"Keadilan tanpa kekuatan hanyalah omong kosong."</em><br>
+  — <strong>Kakek Seigi</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
