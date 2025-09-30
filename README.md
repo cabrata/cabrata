@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang kubenci adalah pria yang terus-menerus memikirkan kesalahan di masa lalu dan hal lain yang tak mungkin bisa dia ubah."</em><br>
-  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
+  <em>"Aku siap melakukan apapun untuk menjadi kuat. Tapi sedikitpun aku tak bisa membayangkan mampu melampaui kekuatan guru."</em><br>
+  — <strong>Genos</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
