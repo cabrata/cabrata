@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pertama, kau harus memutuskan dimana seharusnya kau berada. Dengan begitu, kau bisa memutuskan apa yang ingin kau lakukan."</em><br>
-  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Satu hari satu kebaikan"</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
