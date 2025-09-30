@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dirimu yang tak bisa berterus terang seperti itu."</em><br>
-  — <strong>Rita Ainsworth</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Seperti kata Winston Churcill, Kucing memandang rendah manusia. Anjing menghormati manusia. Tapi, Babi memandang manusia dengan setara."</em><br>
+  — <strong>Ichiko Fuji</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
