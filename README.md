@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang terjadi kalian harus hidup dengan rasa bangga."</em><br>
-  — <strong>Hisa</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Untuk membuat sesuatu yang dapat menarik perasaan user, pertama kau harus membuat sesuatu yang dapat menarik hatimu sendiri. Kau tidak bisa menggerakkan hati sesorang jika kau tak bisa menggerakkan hatimu sendiri."</em><br>
+  — <strong>Kazuki Fujisawa</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
