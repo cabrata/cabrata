@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak masalah jika kau cemas, tapi jangan memaksakan dirimu.
-Jika ingin menangis, menangislah.
-(Karena) menangis bukan berarti lemah."</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS</em>
+  <em>"Menerima tantangan dan menciptakan sesuatu itu menyakitkan. Tapi itu memuaskan, jadi terima kasih (karena telah memaksaku menerima tantangan)."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
