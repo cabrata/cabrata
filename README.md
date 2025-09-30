@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat-saat sulit ia selalu ada untuk membantuku. Cowok SMA memang yang terbaik."</em><br>
-  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Pahlawan bisa mati kapan pun karena perintah bodoh (atasan)."</em><br>
+  — <strong>Lancer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
