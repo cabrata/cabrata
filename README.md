@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tak boleh depresi hanya karena sesuatu, seperti cuma ditolak!"</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Orang itu ada bukan untuk dipercaya, meskipun mereka keluarga. Kau tak boleh bergantung pada orang lain. Percayalah pada dirimu sendiri."</em><br>
+  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
