@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktumu di dunia nyata tidaklah terbuang dengan percuma, karena setiap detiknya telah dilewati di dunia (Sword Art Online) ini."</em><br>
-  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
+  <em>"Agar dapat membaur dengan orang-orang di sekitar, aku bertingkah layaknya seorang anak yang baik dimata orang lain."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
