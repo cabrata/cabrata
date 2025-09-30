@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau sangat menyukai ayahku bukan? Itulah mengapa kau sedih saat dia mati. Aku pun demikian, ayo kita berteman."</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Saat kau memiliki masalah, kau harus bersandar pada orang lain. Aku yakin akan ada orang lain yang akan membantumu."</em><br>
+  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
