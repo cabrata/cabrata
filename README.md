@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sifat manusiawi seseorang mulai muncul ketika mereka mulai memakai pakaian dalam. Sesuatu yang indah seharusnya memakai pakaian dalam yang indah. Bukankah itu yang menjadi daya tarik manusia?"</em><br>
-  — <strong>Kaiko Mikuniyama</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Apapun logika yang diterapkan, (atau) apapun teori yang dibentuk, Keyakinan (tentang agama) dan makhluk gaib akan terus ada."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
