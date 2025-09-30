@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau memiliki masalah, kau harus bersandar pada orang lain. Aku yakin akan ada orang lain yang akan membantumu."</em><br>
-  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Jangan menyimpulkan sesuatu sebelum mencobanya."</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
