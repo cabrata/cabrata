@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang genius itu harus selalu mengejutkan."</em><br>
-  — <strong>Leonardo da Vinci</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Pahlawan tidak butuh alasan untuk menghunuskan pedangnya.
+Dia hanya harus bertarung demi kehormatannya."</em><br>
+  — <strong>Hajime Nishikawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
