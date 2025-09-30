@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu hari mungkin kita harus berpisah dan mungkin (juga) aku akan dilupakan. Tapi aku tidak akan pernah melupakanmu."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Terlalu lancang menilai hidup orang (lain) itu bahagia atau tidak."</em><br>
+  — <strong>Osamu Dazai</strong>, <em>Isekai Shikkaku</em>
 </div>
 <!-- QUOTE END -->
 
