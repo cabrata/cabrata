@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terlalu lancang menilai hidup orang (lain) itu bahagia atau tidak."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Isekai Shikkaku</em>
+  <em>"Semua bergantung pada tampan atau tidaknya seseorang. Itulah pedoman hidupku. Jika tidak tampan, berarti bukan laki-laki."</em><br>
+  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
 </div>
 <!-- QUOTE END -->
 
