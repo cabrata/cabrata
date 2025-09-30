@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupanku di dunia nyata selalu saja membosankan, interaksi sosialpun terasa merepotkan. Jadi dunia maya adalah yang paling aku nikmati. Dan sekarang, aku telah dibuat menjadi orang jahat bagi banyak orang. Tapi di dunia nyata, aku punya keluarga yang menyemangati saat hidupku begitu berat sampai ingin mati, aku memiliki teman yang mendukung dan menyemangati dan ada rekan di band yang berkata ayo berjuang bersama. Jadi akan aku lakukan yang terbaik untuk mereka."</em><br>
-  — <strong>Yuu Haruna</strong>, <em>Fuuka</em>
+  <em>"Bisa atau tidaknya suatu impian tercapai bukanlah suatu masalah. Karena (hanya) diri sendirilah yg bisa mewujudkannya, jadi mungkin saja impian itu tidak terwujud. Tapi aku percaya bahwa memimpikan sesuatu itu adalah suatu anugerah dalam hidup. Terlepas dari bisa tidaknya impian itu dicapai, menurutku memiliki impian itu hal yg baik, karena itu berarti kau tahu apa yg kau inginkan. Jika kau tidak tahu apa yang kau inginkan, dan tidak tahu ingin menjadi apa, hidupmu akan dipenuhi oleh keraguan."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Hanamonogatari</em>
 </div>
 <!-- QUOTE END -->
 
