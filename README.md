@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita itu jika tersenyum akan terlihat cantik."</em><br>
-  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Terkadang kau harus menentang pendapat orang lain untuk menciptakan revolusi."</em><br>
+  — <strong>Sawako Tennouji</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
