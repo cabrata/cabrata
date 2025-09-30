@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pahlawan tidak butuh alasan untuk menghunuskan pedangnya.
-Dia hanya harus bertarung demi kehormatannya."</em><br>
-  — <strong>Hajime Nishikawa</strong>, <em>Gin no Saji</em>
+  <em>"Wanita itu jika tersenyum akan terlihat cantik."</em><br>
+  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
 </div>
 <!-- QUOTE END -->
 
