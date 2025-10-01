@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhati-hatilah atas perkataan dan perbuatanmu. Kalau kata bertarung telah keluar dari bibirmu, maka takkan bisa kau tarik kembali."</em><br>
-  — <strong>Lancer</strong>, <em>Fate/Grand Order: First Order</em>
+  <em>"Kau selalu gampang ikut campur urusan orang lain, seperti orang yang tak bisa menahan kakinya dan langsung masuk tanpa permisi."</em><br>
+  — <strong>Chiriko Tsurumi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
