@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang tidak akan berjuang sekeras itu jika dia tidak menyukainya."</em><br>
-  — <strong>Keiko Ayano</strong>, <em>Sword Art Online</em>
+  <em>"Genius lahir dari ketidakcocokan. Akan tetapi, tidak semua ketidakcocokan adalah genius."</em><br>
+  — <strong>Akane Sonoyama</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
