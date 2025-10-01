@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang terjadi, aku akan mewujudkan mimpi ini! Jika aku tak bisa melakukannya, aku bukanlah laki-laki !"</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Ketika aku bergantung pada orang lain, pada akhirnya aku hanya akan tersakiti.
+Dari awal seharusnya aku tak bergantung pada siapapun."</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
