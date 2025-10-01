@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku berharap kalian dapat menunjukkan pada dunia bahwa ada hal yang lebih penting daripada gelar atau pun kekuasaan."</em><br>
-  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
+  <em>"Aku telah menjadi monster yang bahkan mengontrol emosi saja tidak bisa."</em><br>
+  — <strong>Acrobatic Sarasara</strong>, <em>Dandadan</em>
 </div>
 <!-- QUOTE END -->
 
