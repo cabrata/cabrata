@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tim basket SMP-ku hanya memiliki satu prinsip, "menang adalah segalanya"."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Lebih baik menyemangati seseorang yang berjuang dalam bayang-bayang daripada orang-orang yang memiliki keberuntungan."</em><br>
+  — <strong>Keita Amano</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
