@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencoba mengalahkan seseorang dengan cara licik sama saja dengan merendahkan dirimu sendiri. Jangan menginjak-nginjak semua kerja keras dan kepercayaan yang selama ini telah kau bangun."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Aku ingin terus bersama orang yang paling membutuhkanku."</em><br>
+  — <strong>Saitou</strong>, <em>Benriya Saitou-san, Isekai ni Iku</em>
 </div>
 <!-- QUOTE END -->
 
