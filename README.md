@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang namanya keberuntungan di dunia ini. Aturan, prasyarat, keadaan psikologis, semua itu adalah jumlah faktor tak terlihat yang dikombinasikan menghasilkan ketidakpastian yang tak bisa dihindari."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Di dalam semua karya bersemayam dewa penciptanya. Dewa sangat peduli dengan ciptaannya."</em><br>
+  — <strong>Aki Shino</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
