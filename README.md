@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(aneh memiliki  dan berjuang untuk suatu mimpi pada kelas sembilan). Lebih baik memulai lebih awal !! Setiap orang hanya akan berjalan tanpa arah dalam hidupnya, menghindari tiap keputusan."</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Apakah mencabuti duri yang ada di jalan seseorang itu benar-benar langkah terbaik untuk (membantu) mereka? Meskipun mereka masih terlalu muda untuk melakukan perjalanan dan terluka, tertapi terkadang penting juga bagi mereka untuk mengetahui rasa sakit dan mencari cara agar mereka bangkit kembali."</em><br>
+  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
