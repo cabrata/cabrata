@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Informasinya tidak kredibel jika sumbernya tidak jelas."</em><br>
-  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
+  <em>"Aku benci menjadi pusat perhatian. Tapi aku lebih benci berhutang budi pada orang lain."</em><br>
+  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan</em>
 </div>
 <!-- QUOTE END -->
 
