@@ -5,8 +5,7 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam undian, kau takkan bisa menang kalau kau tak membeli tiket.
-Sama seperti manga, kau takkan bisa menjadi "seniman" jika kau tak menggambarnya."</em><br>
+  <em>"(aneh memiliki  dan berjuang untuk suatu mimpi pada kelas sembilan). Lebih baik memulai lebih awal !! Setiap orang hanya akan berjalan tanpa arah dalam hidupnya, menghindari tiap keputusan."</em><br>
   — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
