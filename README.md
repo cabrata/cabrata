@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah mencabuti duri yang ada di jalan seseorang itu benar-benar langkah terbaik untuk (membantu) mereka? Meskipun mereka masih terlalu muda untuk melakukan perjalanan dan terluka, tertapi terkadang penting juga bagi mereka untuk mengetahui rasa sakit dan mencari cara agar mereka bangkit kembali."</em><br>
-  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
+  <em>"Yang aku inginkan bukanlah pisau atau apapun itu, hanya tanganmu inilah yang kuinginkan. Apapun yang akan terjadi di masa depan aku tak akan melepaskan tanganmu ini. Karena itulah kisahku berakhir disini. Aku telah menerima diriku yang sekarang, diriku yang lalu, dan perlahan mulai menjalani kehidupanku."</em><br>
+  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
