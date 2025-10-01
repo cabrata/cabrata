@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Air mata palsu dapat menyakiti orang lain. (Sedangkan) senyum palsu akan menyakiti dirimu sendiri."</em><br>
-  — <strong>C.C.</strong>, <em>Code Geass: Hangyaku no Lelouch</em>
+  <em>"Yang kumaksud bukanlah mengubah penilaianmu. Aku yakin, tidak ada yang salah dan benar. Tapi, saat nanti kesulitan kita harus saling membantu. Karena, kita ini saudara kan?"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
