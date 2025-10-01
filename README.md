@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berjuanglah sekeras mungkin. Kerahkan seluruh pikiran dan hatimu untuk mencari jalan keluar bersama dengan mereka. Biarkan hatimu yang telah mengering dan layu itu sekali lagi bermekaran."</em><br>
-  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
+  <em>"Pertanyaan: apa maksud dari "percaya"?
+Jawaban: tidak keberatan meskipun dikhianati, tidak menyesal meskipun dikhianati."</em><br>
+  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
