@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau melawan kejahatan atas kebencian terhadap kejahatan, maka amarah dan dendam itu hanya akan menimbulkan konflik baru."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Berjuang keras dalam jangka waktu terbatas adalah pekerjaan seorang profesional."</em><br>
+  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
