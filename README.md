@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada seorang pun yang akan menertawakan orang yang berusaha keras."</em><br>
-  — <strong>Naruzou Machio</strong>, <em>Dumbbell Nan Kilo Moteru?</em>
+  <em>"Keadilan tidak akan bisa menyelamatkan dunia. Dan akupun sama sekali tidak peduli akan hal itu."</em><br>
+  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
