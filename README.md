@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat seorang anak telah menyadari kerja keras (orang tua) mereka, (saat) itulah tanda selesainya tugas orang tua."</em><br>
-  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Manusia sudah ditakdirkan mengecap rasa enak, wajar jika mereka mencari yang sesuai dengan seleranya!"</em><br>
+  — <strong>Zero</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
 </div>
 <!-- QUOTE END -->
 
