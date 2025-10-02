@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau menginginkan sesuatu, kau harus menyiapkan penawaran dari dirimu sendiri, atau kesepakatan takkan tercapai."</em><br>
-  — <strong>Dirk Eberwein</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Ada sesuatu yang harus ku raih, bahkan jika aku harus mengotorinya (*melakukan dengan cara kotor atau curang)."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
