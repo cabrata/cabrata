@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada perjalanan yang tanpa akhir. Ketika tiba saatnya kita harus berpisah, aku ingin kita berpisah dengan senyuman."</em><br>
-  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
+  <em>"Aku tak keberatan jika dia menyukai pria lain, hanya saja aku ingin menjadi orang terakhir yang menerima senyuman dari dirinya."</em><br>
+  — <strong>Seiji Yagiri</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
