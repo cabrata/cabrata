@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang kubenci adalah pria yang terus-menerus memikirkan kesalahan di masa lalu dan hal lain yang tak mungkin bisa dia ubah."</em><br>
-  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
+  <em>"Pikirkanlah baik-baik, tak perlu terburu-buru, dan cintailah aku dengan perlahan. Aku akan selalu berada di sisimu dan berusaha keras untuk membuatmu jatuh cinta padaku."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
