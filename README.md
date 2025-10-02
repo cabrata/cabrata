@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kita sepupu?
-Masalahku adalah masalahmu. Bajumu adalah bajuku (juga).
-Bukankah kita harusnya saling membantu?"</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Yang paling menyebalkan adalah ketika orang lain berisik saat kita menginginkan ketenangan."</em><br>
+  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
