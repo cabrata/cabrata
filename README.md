@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan itu tetaplah cantik meski usianya telah berlalu."</em><br>
-  — <strong>Setsuna Ena</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Pekerjaan seorang detektif itu bukan untuk melumpuhkan orang yang seharusnya dilumpuhkan. Tetapi, menyelamatkan orang yang seharusnya diselamatkan."</em><br>
+  — <strong>Shinya Kougami</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
