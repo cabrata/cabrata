@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang gadis tidak boleh menunjukkan tubuhnya sembarangan pada orang lain."</em><br>
-  — <strong>Ibu Tadokoro</strong>, <em>Shokugeki no Souma</em>
+  <em>"Perempuan itu bisa dikelompokkan menjadi dua kategori; Teman masa kecil dan Pelakor."</em><br>
+  — <strong>Anna Yanami</strong>, <em>Make Heroine ga Oosugiru!</em>
 </div>
 <!-- QUOTE END -->
 
