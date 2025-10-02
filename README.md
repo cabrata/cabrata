@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak tahu seberapa banyak orang yang datang, tapi jangan lupa ... setidaknya kamu memiliki penggemar disana."</em><br>
-  — <strong>Maya Haruna</strong>, <em>Fuuka</em>
+  <em>"Siapapun yang ingin turun sebelum sampai di puncak, sebaiknya jatuh saja."</em><br>
+  — <strong>Sougo Okita</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
