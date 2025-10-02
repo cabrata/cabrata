@@ -5,7 +5,7 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berjuang keras dalam jangka waktu terbatas adalah pekerjaan seorang profesional."</em><br>
+  <em>"Menyusun waktu untuk para creator adalah pekerjaan seorang produser."</em><br>
   — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
