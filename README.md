@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan itu bisa dikelompokkan menjadi dua kategori; Teman masa kecil dan Pelakor."</em><br>
-  — <strong>Anna Yanami</strong>, <em>Make Heroine ga Oosugiru!</em>
+  <em>"Sesuatu yang tidak bisa dihitung adalah perasaan seseorang."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
