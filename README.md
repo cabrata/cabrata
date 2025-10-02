@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita sedang jatuh cinta, dunia jadi kelihatan lebih berwarna."</em><br>
-  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Tidak ada hukum yang mengatakan kau tidak boleh menyukai seorang pria hanya karena ia telah memiliki pacar."</em><br>
+  — <strong>Ruri Miyamoto</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
