@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan itu seperti langit yang selalu bergerak dan berubah."</em><br>
-  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Ada yang bilang jika seorang pria sedang terpojok, mereka akan menunjukkan kemampuan mereka sepuluh kali lebih hebat dari biasanya."</em><br>
+  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
