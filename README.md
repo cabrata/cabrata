@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Membuat kerjaan besar menjadi kecil dan mudah diselesaikan adalah pekerjaan seorang programmer."</em><br>
-  — <strong>Ryuunosuke Akasaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Bahkan anak pintar sepertimu bisa jadi bodoh kalau sering lihat (majalah P*o) begituan."</em><br>
+  — <strong>Tokunomori</strong>, <em>Getsuyoubi no Tawawa</em>
 </div>
 <!-- QUOTE END -->
 
