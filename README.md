@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak peduli walaupun seluruh manusia di dunia ini mati asalkan gadis yang kucintai tetap hidup."</em><br>
-  — <strong>Shinra Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Semua orang berbakat yang kau irikan sebenarnya memiliki nereka mereka masing-masing. Tak peduli apa yang dilakukan, mereka tak akan lepas dari neraka itu."</em><br>
+  — <strong>Marisa Hyoudou</strong>, <em>Ballroom e Youkoso</em>
 </div>
 <!-- QUOTE END -->
 
