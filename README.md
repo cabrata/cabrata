@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak akan pernah marah, membenci, atau membunuh seseorang. Daripada melakukan itu, aku lebih memilih mati. Dan ketika itu terjadi, aku akan mati dengan senyuman di depan wajah orang yang membunuhku."</em><br>
-  — <strong>Photo</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Jika kau menginginkan sesuatu, kau harus menyiapkan penawaran dari dirimu sendiri, atau kesepakatan takkan tercapai."</em><br>
+  — <strong>Dirk Eberwein</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
