@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di negara asalku, ada pepatah yang mengatakan "Lebih baik melihat daripada mendengar". Artinya, kita akan lebih cepat mengerti dengan melihat secara langsung dibandingkan hanya mendengar dari orang lain."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Menyakitkan sekali..., meskipun aku berada sedekat ini denganmu, tapi aku tak pernah bisa meraihmu."</em><br>
+  — <strong>Shigemi Kubota</strong>, <em>Sakamoto desu ga?</em>
 </div>
 <!-- QUOTE END -->
 
