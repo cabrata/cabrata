@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin dunia kita terlalu sederhana sampai bisa diubah hanya dengan pernyataan cinta seseorang."</em><br>
-  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Dengan seluruh tubuh dan hati kita! Kita tak boleh mundur! Kita harus jujur pada perasaan masing-masing. Aku ingin mengubah nol menjadi satu."</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
