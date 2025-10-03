@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ilusi yang dilakukan oleh para pahlawan sepanjang masa telah menyebabkan banyak lautan darah kematian demi tercapainya kehormatan dan kemuliaan fana."</em><br>
-  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Waktu berlalu dengan sangat cepat.
+Untuk saat ini... Aku ingin mengeluh pada Einstein.
+Nee... Okabe... Entah waktu cepat atau lambat...
+Semua itu bergantung pada pandangan kita.
+Teori relativitas itu benar-benar romantis dan juga sangat menyedihkan."</em><br>
+  — <strong>Kurisu Makise</strong>, <em>Steins;Gate</em>
 </div>
 <!-- QUOTE END -->
 
