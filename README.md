@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktumu di dunia nyata tidaklah terbuang dengan percuma, karena setiap detiknya telah dilewati di dunia (Sword Art Online) ini."</em><br>
-  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
+  <em>"Selama kau tak menyerah, impianmu akan terwujud. Begitulah dunia ini."</em><br>
+  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
