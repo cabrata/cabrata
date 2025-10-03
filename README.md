@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya pria yang maju ke medan perang dengan gagah berani disampingku yang pantas menjadi Masterku. Dan bukanlah pengecut yang bahkan hampir tidak punya keberanian untuk menunjukkan dirinya sendiri!"</em><br>
-  — <strong>Rider</strong>, <em>Fate/Zero</em>
+  <em>"Kita harus meraih surga dan tetap menjaga langkah kaki kita tetap selalu berada di atas tanah."</em><br>
+  — <strong>Tatsuya Shiba</strong>, <em>Mahouka Koukou no Rettousei</em>
 </div>
 <!-- QUOTE END -->
 
