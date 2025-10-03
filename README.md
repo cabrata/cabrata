@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin lama orang merencanakan sesuatu, semakin sedikit hal yang sesuai harapan."</em><br>
-  — <strong>Dio Brando</strong>, <em>JoJo no Kimyou na Bouken</em>
+  <em>"Perempuan itu bisa dikelompokkan menjadi dua kategori; Teman masa kecil dan Pelakor."</em><br>
+  — <strong>Anna Yanami</strong>, <em>Make Heroine ga Oosugiru!</em>
 </div>
 <!-- QUOTE END -->
 
