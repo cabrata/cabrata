@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Justru membosankan kalau kamu sedih saat (gagal) mencoba menjawab ekspektasi orang lain."</em><br>
-  — <strong>Chisato Nishikigi</strong>, <em>Lycoris Recoil</em>
+  <em>"Aku baru saja mengetahuinya. Ketika orang yang berharga bagimu menghilang dunia ini terlihat seperti sebuah monochrome."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
