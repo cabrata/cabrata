@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku terima kekalahanku dari orang lain. Tapi, aku tidak sudi kalah dari diriku sendiri!"</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Untuk meredakan ketakutan dan kekhawatiran masyarakat, para pahlawan harus kuat dan tangguh agar dapat mengalahkan kejahatan dengan cepat, terampil dan tampan."</em><br>
+  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
