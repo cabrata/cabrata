@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap aturan kecil yang kalian patuhi pasti akan (berperan penting) melindungi kotamu."</em><br>
-  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Selama ada seorang yang ingin kau temui, maka kau tidak sendiri lagi."</em><br>
+  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou San</em>
 </div>
 <!-- QUOTE END -->
 
