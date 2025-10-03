@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tugas kami sebagai orang biasa adalah untuk memastikan bahwa potensi yang tak bisa dimengerti itu bisa terwujud."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Belahan jiwa itu adalah pria baik yang tak mementingkan penampilan."</em><br>
+  — <strong>Aina Yoshiwara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
