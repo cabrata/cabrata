@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski medan tempur kita berbeda, tapi hati kita akan tetap bersama."</em><br>
-  — <strong>Rider</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Waktumu di dunia nyata tidaklah terbuang dengan percuma, karena setiap detiknya telah dilewati di dunia (Sword Art Online) ini."</em><br>
+  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
