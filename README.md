@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Satu nyawa dapat menyelamatkan nyawa lain."</em><br>
-  — <strong>Kuro no Saber</strong>, <em>Fate/Apocrypha</em>
+  <em>"Untuk terus maju, terkadang kita harus membuang sesuatu yang berharga."</em><br>
+  — <strong>Luviagelita Edelfelt</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
