@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau mengubah pola pikirmu, mungkin kau akan bertambah kuat."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Idol tidak akan membiarkan apapun menjatuhkan mereka!"</em><br>
+  — <strong>Naka</strong>, <em>Kantai Collection: KanColle</em>
 </div>
 <!-- QUOTE END -->
 
