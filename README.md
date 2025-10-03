@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dengan orang yang punya tujuan hidup. Aku suka dengan orang yang pekerja keras."</em><br>
-  — <strong>Nanami Aoyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Cintaku seperti kilauan kembang api. Kilauan kecil yang perlahan meredup.
+Tapi, secercah cahaya kecil masih bersinar di hatiku."</em><br>
+  — <strong>Kazuko Hosogawa</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
