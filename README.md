@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia tiba-tiba berhenti bicara, aku jadi tidak tahu apa yang harus kulakukan...
-Hatiku menjadi tak karuan, (dan) rasanya seperti terlahir kembali. Banyak perasaan yang belum pernah kurasakan sebelumnya.
-Kazehaya-kun seperti sedang memperkenalkanku dengan banyak hal yang baru. Aku senang bisa bertemu dengannya."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Kalau boleh aku ingin bersamamu selamanya. Hanya dengan disampingmu saja itu sudah cukup. Tapi aku tak bisa memaksamu. Karena itu, kuserahkan diriku padamu. Sebagai gantinya, aku ingin kau menyerahkan hari-harimu bersama denganku."</em><br>
+  — <strong>Tsukasa Ayatsuji</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
