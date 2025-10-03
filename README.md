@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau hanya tahu tentang pahitnya ditinggal seorang sendiri. Apakah kau pikir aku juga akan meninggalkanmu? Hal yang seperti itu terjadi padamu, cukup sekali saja seumur hidupmu. (Karena mulai sekarang, ada aku yang takkan pernah meninggalkanmu)"</em><br>
-  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
+  <em>"Saat kau jatuh cinta, dia akan terlihat berkilauan di matamu. Karena itulah saat orang jatuh cinta dia menjadi buta"</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
