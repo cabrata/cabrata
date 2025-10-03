@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena tidak beruntung bukan berarti harus menderita.
-Hanya karena tidak menyenangkan bukan berarti harus membenci.
-Apa pun yang terjadi padamu, tetaplah bahagia."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Nekomonogatari: Kuro</em>
+  <em>"Aku terima kekalahanku dari orang lain. Tapi, aku tidak sudi kalah dari diriku sendiri!"</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
