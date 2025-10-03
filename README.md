@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjalanan kalian masih sangat jauh, tapi jika kalian tetap bersama-sama, kalian pasti akan berkembang."</em><br>
-  — <strong>Yuusuke Takinoue</strong>, <em>Haikyuu!!</em>
+  <em>"Kalau aku merasa kesakitan hanya karena hal seperti ini, aku tak pantas menjadi pengawal Tuan Putri!"</em><br>
+  — <strong>Seishirou Tsugumi</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
