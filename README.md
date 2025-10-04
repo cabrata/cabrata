@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau terus berusaha tanpa menyerah, aku yakin hal yang baik akan terjadi"</em><br>
-  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Sejarah adalah bukti bahwa manusia hidup. Bukti bahwa manusia hidup dengan batas kemampuan mereka."</em><br>
+  — <strong>Takahito Hida</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
