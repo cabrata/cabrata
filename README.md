@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau aku merasa kesakitan hanya karena hal seperti ini, aku tak pantas menjadi pengawal Tuan Putri!"</em><br>
-  — <strong>Seishirou Tsugumi</strong>, <em>Nisekoi</em>
+  <em>"Manusia tumbuh lebih kuat demi dirinya sendiri."</em><br>
+  — <strong>Hibana</strong>, <em>Enen no Shouboutai</em>
 </div>
 <!-- QUOTE END -->
 
