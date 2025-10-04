@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada tempat yang dapat menyaingi rumah!"</em><br>
-  — <strong>Tomoko Konagai</strong>, <em>Nyanko Days</em>
+  <em>"Ide tanpa idealisme itu tidak ada artinya."</em><br>
+  — <strong>Miko Iino</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
