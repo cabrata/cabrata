@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bertemu denganmu dan melukis bersamamu benar-benar menyenangkan.
-Kata-kata dan senyum terakhir yang kamu berikan tak akan kulupakan seumur hidupku. Karena itu, tetaplah tersenyum seperti itu selamanya."</em><br>
-  — <strong>Yukito Renjou</strong>, <em>Hatsukoi Limited</em>
+  <em>"Tak ada yang namanya keberuntungan di dunia ini. Aturan, prasyarat, keadaan psikologis, semua itu adalah jumlah faktor tak terlihat yang dikombinasikan menghasilkan ketidakpastian yang tak bisa dihindari."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
