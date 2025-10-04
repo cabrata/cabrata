@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bersyukur bisa bertemu denganmu. Kamu telah menyembuhkan lukaku, kamu memberi makanan hangat untukku, kamu telah memberi tujuan hidup untukku."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Orang-orang sering melihat ke langit ketika mereka sedang bingung."</em><br>
+  — <strong>Tooru Miyamae</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
