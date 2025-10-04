@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang kau harus menentang pendapat orang lain untuk menciptakan revolusi."</em><br>
-  — <strong>Sawako Tennouji</strong>, <em>Handa-kun</em>
+  <em>"Tak peduli kau dilahirkan dimana, Aku senang kau ada disini!"</em><br>
+  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
