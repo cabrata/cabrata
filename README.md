@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang aneh memang menarik."</em><br>
-  — <strong>Shunma Suruga</strong>, <em>Re:CREATORS</em>
+  <em>"Saya sangat senang bahwa (hidup di) dunia ini tidak mudah."</em><br>
+  — <strong>Nadeko Sengoku</strong>, <em>Monogatari Series: Off & Monster Season</em>
 </div>
 <!-- QUOTE END -->
 
