@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup tak seperti adegan film yang bisa diulang."</em><br>
-  — <strong>Direktur</strong>, <em>Bokutachi no Remake</em>
+  <em>"Terkadang kau harus menentang pendapat orang lain untuk menciptakan revolusi."</em><br>
+  — <strong>Sawako Tennouji</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
