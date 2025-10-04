@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia tumbuh lebih kuat demi dirinya sendiri."</em><br>
-  — <strong>Hibana</strong>, <em>Enen no Shouboutai</em>
+  <em>"Meskipun kamu seorang otaku, tapi jangan anggap dirimu tidak penting."</em><br>
+  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
