@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku terlalu mudah puas dan lengah meski hanya sekali saja, aku akan terjatuh (mulai) dari sini."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Dimanapun kau berada, kau selalu menjadi keluargaku yang berharga."</em><br>
+  — <strong>Yuri Takanashi</strong>, <em>Papa no Iukoto wo Kikinasai!</em>
 </div>
 <!-- QUOTE END -->
 
