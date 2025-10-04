@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengurus murid dengan serius lebih penting daripada mengakhiri dunia."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Bagaimanapun keadaanya, bukan ide yang bagus ikut campur dengan perasaan seseorang."</em><br>
+  — <strong>Kazuyoshi Usui</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
