@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti kata Winston Churcill, Kucing memandang rendah manusia. Anjing menghormati manusia. Tapi, Babi memandang manusia dengan setara."</em><br>
-  — <strong>Ichiko Fuji</strong>, <em>Gin no Saji</em>
+  <em>"Cepatlah meminta maaf kepada Ayahmu, kau takkan bisa meminta maaf jika dia telah mati."</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
