@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan jadi orang membosankan yang mudah menyerah hanya karena diperlakukan tidak adil."</em><br>
-  — <strong>Ryouma Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Mustahil menyelamatkan semua orang. Menyelamatkan banyak orang harus dibayar dengan menghancurkan sebagian kecil orang lainnya."</em><br>
+  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
