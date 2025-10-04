@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta adalah kekonyolan dan tak ada gunanya jika dibandingkan dengan belajar."</em><br>
-  — <strong>Fuutarou Uesugi</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Mengurus murid dengan serius lebih penting daripada mengakhiri dunia."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
