@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saya sangat senang bahwa (hidup di) dunia ini tidak mudah."</em><br>
-  — <strong>Nadeko Sengoku</strong>, <em>Monogatari Series: Off & Monster Season</em>
+  <em>"Bahkan jika itu berarti mati, tidak ada satu pun dari kami yang akan mengkhianati teman sendiri."</em><br>
+  — <strong>Kakashi Hatake</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
