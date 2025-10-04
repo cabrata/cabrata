@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagaimanapun keadaanya, bukan ide yang bagus ikut campur dengan perasaan seseorang."</em><br>
-  — <strong>Kazuyoshi Usui</strong>, <em>Sket Dance</em>
+  <em>"Seperti kata Winston Churcill, Kucing memandang rendah manusia. Anjing menghormati manusia. Tapi, Babi memandang manusia dengan setara."</em><br>
+  — <strong>Ichiko Fuji</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
