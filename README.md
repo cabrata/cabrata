@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka kamu yang berusaha menutupi air mata dengan senyuman dan tetap tegar."</em><br>
-  — <strong>Isla</strong>, <em>Plastic Memories</em>
+  <em>"Pejudi itu orang terburuk."</em><br>
+  — <strong>Fern</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
