@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jalanilah kehidupanmu demi dirimu sendiri."</em><br>
-  — <strong>Berserker</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Tak ada tempat yang dapat menyaingi rumah!"</em><br>
+  — <strong>Tomoko Konagai</strong>, <em>Nyanko Days</em>
 </div>
 <!-- QUOTE END -->
 
