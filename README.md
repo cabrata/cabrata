@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mustahil menyelamatkan semua orang. Menyelamatkan banyak orang harus dibayar dengan menghancurkan sebagian kecil orang lainnya."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Jika dirimu tak pantas bahagia, maka aku yang akan menanggungnya. Jika harus menebus semua dosa itu, mari kita tebus bersama."</em><br>
+  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
