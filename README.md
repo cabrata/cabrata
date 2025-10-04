@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sedih melihat orang yang berambisi besar senang karena hal kecil."</em><br>
-  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
+  <em>"Kesenangan takkan pernah berlangsung lama. Begitulah kehidupan."</em><br>
+  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
 </div>
 <!-- QUOTE END -->
 
