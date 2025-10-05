@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang tak mungkin bisa mendapatkan segalanya. Pasti akan datang hari ketika kita kehilangan. Karena itu majulah terus agar tak ada penyesalan."</em><br>
-  — <strong>Endorsi Jahad</strong>, <em>Kami no Tou</em>
+  <em>"Tak peduli seberapa jauh kau terjatuh di dalam kegelapan, kau masih memiliki keberanian untuk mengulurkan tanganmu."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
