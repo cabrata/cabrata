@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kuusap air mataku, akupun mulai berjuang dan bertarung semampuku. Yang ada dipikiranku hanyalah untuk selalu menang, bertambah kuat, dan terus melangkah maju."</em><br>
-  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
+  <em>"Selama perasaan kita masih saling mencintai, kita bisa melakukan apapun."</em><br>
+  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
