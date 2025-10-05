@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak bisa terus-terusan terluka karena hal yang telah berlalu. Aku harus menghadapinya, menerimanya, memikirkannya, dan terus melangkah maju."</em><br>
-  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Pelayan yang tidak mampu menggunakan alat register sama dengan ibu rumah tangga yang tidak bisa memasak nasi goreng."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
