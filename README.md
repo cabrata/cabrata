@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebahagiaan adalah sesuatu yang hanya dapat dirasakan oleh diri sendiri dan tidak dapat dirasakan oleh orang lain. Memilihkan dan memutuskan kebahagiaan seseorang adalah tindakan egois."</em><br>
-  — <strong>Rhantolk Ytri Historia</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Dari pada berhenti dan khawatir, lebih baik terus maju selangkah demi selangkah. Meskipun jejak kakiku kemarin akan menghilang, dan meskipun jalan yang aku lalui besok akan gelap, tapi aku tidak akan menoleh kebelakang ataupun pesimis dengan masa depan. Aku hanya ingin merasakan hidupku yang sekarang. Karena meskipun aku mengelaknya, waktu akan terus berjalan."</em><br>
+  — <strong>Chtholly Nota Seniorious</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
