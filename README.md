@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak perlu menjadi seorang tuan putri, asalkan bisa menjadi istrimu itu saja sudah cukup."</em><br>
-  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Aku ingin menikmati semuanya, bersama semua orang, dan bisa melaluinya bersama-sama! Itulah yang dimaksud bersinar!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
