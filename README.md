@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenapa sesuatu yang sangat penting seperti perasaan, hati, dan jiwa adalah sesuatu yang tak bisa dilihat ya?"</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Nenekku bilang, tubuh sehat membuat seorang gadis menjadi cantik."</em><br>
+  — <strong>Makoto Kowata</strong>, <em>Flying Witch</em>
 </div>
 <!-- QUOTE END -->
 
