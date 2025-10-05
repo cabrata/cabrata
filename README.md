@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mahkota seorang pemimpin bukanlah benda yang berada di atas kepala. Tapi sesuatu yang ada di dalam hati semua orang."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Memiliki impian itu membutuhkan tekad untuk menghadapi kenyataan."</em><br>
+  — <strong>Juui</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
