@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kejujuran yang kau perlihatkan saat kau mengungkapkan perasaanmu benar-benar murni dan manis."</em><br>
-  — <strong>Suzuno Kamazuki</strong>, <em>Hataraku Maou-sama!</em>
+  <em>"Kenapa sesuatu yang sangat penting seperti perasaan, hati, dan jiwa adalah sesuatu yang tak bisa dilihat ya?"</em><br>
+  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
