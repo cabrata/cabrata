@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pasti memiliki masalah dalam hidupnya. Kita semua sama. Karena itu, kamu harus menerima hal buruk sekalipun agar dapat melangkah ke depan."</em><br>
-  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
+  <em>"Di dasar laut yang gelap pun cahaya masih bisa masuk."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
