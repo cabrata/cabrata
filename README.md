@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Membereskan orang jahat seperti mereka itu perlu dilakukan demi kebaikan mereka sendiri dan masyarakat."</em><br>
-  — <strong>Ekubo</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Tak ada yang lebih indah dari pemandangan erotis."</em><br>
+  — <strong>Hiromichi Kudou</strong>, <em>Photokano</em>
 </div>
 <!-- QUOTE END -->
 
