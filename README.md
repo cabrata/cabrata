@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(aneh memiliki  dan berjuang untuk suatu mimpi pada kelas sembilan). Lebih baik memulai lebih awal !! Setiap orang hanya akan berjalan tanpa arah dalam hidupnya, menghindari tiap keputusan."</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Kau memang benar. Seperti yang telah kau katakan, aku memang bodoh. Jadi aku tak peduli apa yang kau katakan padaku! Tapi, jangan pernah mengarahkan senjatamu ke Kakakmu sendiri! Kita ini bersaudara!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
