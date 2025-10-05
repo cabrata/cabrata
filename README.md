@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kata-kata dapat menyakiti seseorang. Meskipun kau menyesalinya, kau takkan pernah bisa menarik kembali (kata-kata yang telah kau ucapkan)."</em><br>
-  — <strong>Jun Naruse</strong>, <em>Kokoro ga Sakebitagatterunda.</em>
+  <em>"Masalahnya, bagaimana aku bisa mengatasi ini? Bagaimana (caranya agar) aku dapat mengembalikan keadaan ini? Apa aku harus meminta bantuan? Kenapa aku jadi bergantung pada orang lain?
+Hubungan antara manusia hanya akan menimbulkan ketergantungan."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
