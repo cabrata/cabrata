@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu harus lebih sopan terhap gurumu!"</em><br>
-  — <strong>Beatrice</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
+  <em>"Ciuman dapat menyelesaikan berbagai macam masalah."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
