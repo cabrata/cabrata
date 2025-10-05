@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku selalu serius! Tapi kenapa kamu selalu lari?
-Setiap kali aku pikir mulai lebih dekat denganmu, kamu malah bergerak semakin jauh."</em><br>
-  — <strong>Megumi Noda</strong>, <em>Nodame Cantabile: Paris Hen</em>
+  <em>"Yaah... ini bukan cara yang buruk untuk mati. Jika aku bisa mati bersama Araragi-senpai, aku tidak bisa berharap lebih dari ini."</em><br>
+  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
