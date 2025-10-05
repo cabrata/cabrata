@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti apapun cita-citamu, kau memang tetap harus belajar."</em><br>
-  — <strong>Madoka Takatori</strong>, <em>Shounen Maid</em>
+  <em>"Sejujurnya, aku masih bingung...
+Tapi hatiku akhirnya sudah tenang."</em><br>
+  — <strong>Homura</strong>, <em>Sekirei: Pure Engagement</em>
 </div>
 <!-- QUOTE END -->
 
