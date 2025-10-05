@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik jika hanya salah satu dari kita berkorban! Mungkin ini sulit, tapi tahanlah untuk sekarang."</em><br>
-  — <strong>Aqua</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
+  <em>"Ada beberapa hal yang tak bisa dengan mudah diperhitungkan. Itulah perbedaan level pengalaman kita. Aku sudah hidup lebih lama darimu, dan mengetahui sedikit lebih banyak pengetahuan darimu. Aku menjadi seorang guru karena aku ingin berbagi pengalaman itu dengan kalian semua. Jika kalian tak belajar dari pengalamanku dari kelas ini, kalian tak akan pernah bisa mengalahkanku."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
