@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada kebahagiaan yang begitu berat hingga membuatmu hancur. Kebahagiaan itu bukanlah (suatu hal yang) berat maupun ringan. Jangan berlebihan menganggap kebahagiaan. Semua jenis kebahagiaan akan cocok untukmu. Jadi jangan membenci kebahagiaan seperti itu. Jangan membenci dunia, jangan membenci semua hal. Jangan membenci dirimu sendiri. Semua jenis kebencian di dalam dirimu semuanya akan kuterima dan kutanggung untukmu. Aku ingin kau lebih mencintai dirimu sendiri."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Melalui musik, orang-orang yang kau kenal, orang-orang yang tidak kau kenal, (dan) seluruh manusia di bumi saling terhubung."</em><br>
+  — <strong>Hiroko Seto</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
