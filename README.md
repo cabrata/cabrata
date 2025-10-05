@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mustahil menyelamatkan semua orang. Menyelamatkan banyak orang harus dibayar dengan menghancurkan sebagian kecil orang lainnya."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Ada hukum berarti ada pelanggaran."</em><br>
+  — <strong>Masakazu Masaki</strong>, <em>Eve no Jikan</em>
 </div>
 <!-- QUOTE END -->
 
