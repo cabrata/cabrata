@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kata-kata dapat menyakiti seseorang. Meskipun kau menyesalinya, kau takkan pernah bisa menarik kembali (kata-kata yang telah kau ucapkan)."</em><br>
-  — <strong>Jun Naruse</strong>, <em>Kokoro ga Sakebitagatterunda.</em>
+  <em>"Mahkota seorang pemimpin bukanlah benda yang berada di atas kepala. Tapi sesuatu yang ada di dalam hati semua orang."</em><br>
+  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
