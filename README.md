@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melalui musik, orang-orang yang kau kenal, orang-orang yang tidak kau kenal, (dan) seluruh manusia di bumi saling terhubung."</em><br>
-  — <strong>Hiroko Seto</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Untuk mendapatkan masakan yang enak, membutuhkan bahan-bahan yang bagus. Begitulah motto asrama kita!"</em><br>
+  — <strong>Yuuki Yoshino</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
