@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"DIY (Do it yourself), "Lakukanlah (dengan caramu) sendiri". Kurasa itu adalah saran yang tepat untukku."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Untuk mendapatkan masakan yang enak, membutuhkan bahan-bahan yang bagus. Begitulah motto asrama kita!"</em><br>
+  — <strong>Yuuki Yoshino</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
