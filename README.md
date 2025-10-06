@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang adalah orang bodoh yang tak mau dibilang bodoh oleh orang lain."</em><br>
-  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Teman ya,... Dia bisa punya teman, dia punya orang yang menganggap dia berharga. Bagaimana? Hebat kan? Jadi, meskipun dia tidak pergi sekolah, walaupun dia selalu ada di kamarnya, dia adalah kebanggaanku, aku bangga kepadanya."</em><br>
+  — <strong>Masamune Izumi</strong>, <em>Eromanga-sensei</em>
 </div>
 <!-- QUOTE END -->
 
