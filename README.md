@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang lebih mahal dari sesuatu yang gratis."</em><br>
-  — <strong>Honoka Maki</strong>, <em>Kiznaiver</em>
+  <em>"Pistol itu simpel. Pistol dapat mengakhiri suatu hal hanya dengan satu letupan. Tidak serumit hubungan antara manusia."</em><br>
+  — <strong>Canaan</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
