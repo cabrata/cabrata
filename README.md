@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Batas antara kebenaran dan kejahatan itu sebenarnya samar. Namun, banyak orang dengan gampangnya memisahkannya dan percaya bahwa dirinya lah yang benar."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Isekai Shikkaku</em>
+  <em>"Semua orang adalah orang bodoh yang tak mau dibilang bodoh oleh orang lain."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
