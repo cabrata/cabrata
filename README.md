@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunang-kunang hidupnya sangat singkat dan lemah, tapi dia bersinar dengan terang. Dag dig dug, seperti jantung yang berdetak. Ini adalah cahaya kehidupan."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kau harus menunggu sampai tenang.
+Kata-kataku itu tidak ada artinya.
+Kaulah orang yang bisa mengatasi masa lalumu sendiri."</em><br>
+  — <strong>Kasuka Heiwajima</strong>, <em>Durarara!!x2 Ten</em>
 </div>
 <!-- QUOTE END -->
 
