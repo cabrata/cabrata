@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun aku baru pertama kali melihatmu di konser, aku tetap akan menjadi penggemarmu. Aku selalu melihatmu, aku juga sudah banyak mengirimimu surat penggemar. Meski dalam keadaan sulit sekalipun, atau dalam keadaan sedih sekalipun, aku menyemangati diriku dengan mendengarkan lagu-lagumu. Terimakasih selalu menjadi teman bagiku."</em><br>
-  — <strong>Mayu Arita</strong>, <em>Death Parade</em>
+  <em>"Berusahalah dengan keras. Hanya pekerja keras yang pantas diberi hadiah."</em><br>
+  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
