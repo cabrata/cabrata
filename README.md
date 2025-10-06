@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang bisa kita sentuh adalah sekumpulan fakta yang bukan satu-satunya kebenaran. Karena itu kita jadi salah pengertian, salah paham, tidak cocok, dan tidak paham. Itu terjadi terus berulah di dunia tempat kita hidup ini. Seperti bayangan yang terpantul dalam cermin."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
+  <em>"Sebelumnya, aku merasa tak mungkin aku mau jalan dengan orang aneh sepertimu di depan orang banyak. Tapi hari ini, aku merasa ingin bersama denganmu selamanya."</em><br>
+  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
