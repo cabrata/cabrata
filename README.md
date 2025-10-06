@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selesaikan apa yang telah kau perbuat!"</em><br>
-  — <strong>Tsukinose Vignette April</strong>, <em>Gabriel DropOut</em>
+  <em>"Manusia bisa saling berkumpul, saling membantu, dan menyelesaikan sesuatu. Namun peradaban mereka gampang sekali dimusnahkan oleh para naga. Jadi kurasa naga lebih hebat (dari manusia)."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
