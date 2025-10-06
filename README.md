@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sudah berjanji ketika kapten memintaku untuk menjadi pelatih tahun lalu. Aku berjanji untuk fokus melatih tim menuju kejuaraan nasional.Jika kau berfikir belum siap untuk itu, ada klub lain yang lebih cocok untukmu."</em><br>
-  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
+  <em>"Untuk menjadi laki-laki tampan tak boleh melewatkan latihan sehari pun. Jika sampai membiarkan lemak sekecil apapun masuk, nanti akan jadi tumpukan lemak besar! Setetes minyak adalah awal dari obesitas!"</em><br>
+  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
 </div>
 <!-- QUOTE END -->
 
