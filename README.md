@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus bekerja keras agar kau bisa benar-benar berkontribusi bagi perusahaan. Dan setelah perusahaan mengakui kemampuanmu, Kau akan mendapat kenaikan gaji!"</em><br>
-  — <strong>Hajime Shinoda</strong>, <em>New Game!</em>
+  <em>"("Cinta" itu seperti apa?)
+Perasaan di saat kamu selalu memikirkan dan memimpikan tentang dia. Saat tidak berhasil menarik perhatiannya kamu pun merasa murung. Kamu juga tidak bisa menatapnya langsung karena malu. Lalu, disaat kamu mengetahui kekurangan dalam dirinya, tapi entah kenapa kamu tetap ingin mengetahui lebih banyak tentang dia."</em><br>
+  — <strong>Inari Fushimi</strong>, <em>Inari, Konkon, Koi Iroha.</em>
 </div>
 <!-- QUOTE END -->
 
