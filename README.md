@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau adalah tipe orang yang mengabdikan sendiri pada seseorang, aku yakin ada seseorang diluar sana yang akan jatuh cinta padamu. Dengan kata lain, cinta pertamamu pasti akan datang. Aku tak bisa membayangkan seperti apa wajahmu shal itu terjadi, tapi aku yakin kau tak akan pernah menyangkanya."</em><br>
-  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
+  <em>"Aku sedih. Aku cemas dan takut, hal itu membuatku tidak nyaman. Aku terpaku dan bersemangat, hal itu membuatku senang. Aku merasa kesepian, marah, dan juga menangis. Dadaku seperti tersengat dan rasanya sangat sakit. Aku sangat terpukau hingga tidak ingin kembali. Tapi, aku bahagia."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
