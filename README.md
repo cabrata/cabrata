@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah seorang anak butuh alasan untuk melindungi peninggalan yang dibanggakan orang tuanya?"</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Tak ada yang lebih mahal dari sesuatu yang gratis."</em><br>
+  — <strong>Honoka Maki</strong>, <em>Kiznaiver</em>
 </div>
 <!-- QUOTE END -->
 
