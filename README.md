@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah di planet (Bumi) ini orang mau membantu sesamanya itu hanya karena menginginkan balasan?"</em><br>
-  — <strong>Nino</strong>, <em>Arakawa Under the Bridge</em>
+  <em>"Seiring bertambahnya usia, kita akan semakin khawatir tentang masa depan."</em><br>
+  — <strong>Santouka Taneda</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
 </div>
 <!-- QUOTE END -->
 
