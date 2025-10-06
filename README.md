@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan sempurna di rumah itu memang sulit untuk didapatkan."</em><br>
-  — <strong>Shinji Tokita</strong>, <em>Grand Blue</em>
+  <em>"Alkohol adalah pelicin kehidupan."</em><br>
+  — <strong>Haruno Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
