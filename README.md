@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang orang jahat berbuat baik dan orang baik berbuat jahat. Itulah manusia, itulah kita."</em><br>
-  — <strong>Rider</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Origami (memang) tidak bisa terbang, tapi kelopak bunga sakura bisa menari di atas angin kan?
+Jika aku menguburnya di dekat pohon sakura, aku pikir suatu hari nanti (origami ini) akan seperti kelopak bunga sakura."</em><br>
+  — <strong>Tetsu</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
