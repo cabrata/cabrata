@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu memang bukan segalanya.Tapi sesuatu yang hanya bisa kau lakukan sekarang, sesuatu yang hanya ada di sini... Sekaranglah saatnya... Pikirkanlah, perjuangkanlah, menderitalah karenanya, dan cemaskanlah itu semua! Tanpa itu semua, hal itu tidak bisa menjadi kenyataan."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Sayang sekali hubungan kalian berdua harus berakhir seperti ini. Tapi kalian tidak boleh saling membenci.
+Karena cinta telah membuat kalian jadi orang yang lebih baik. Karena itu kalian harus saling berterima kasih.
+Dan mulai saat ini, kalian berdua bisa menjadi teman yang baik bukan?"</em><br>
+  — <strong>Kazuyoshi Usui</strong>, <em>SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi</em>
 </div>
 <!-- QUOTE END -->
 
