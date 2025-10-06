@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia takkan tahu bahwa diri mereka telah ditipu, tapi (sebaliknya) mereka akan sangat sensitif ketika orang lain yang ditipu."</em><br>
-  — <strong>Hitsujii</strong>, <em>Juuni Taisen</em>
+  <em>"Aku tak butuh alasan.
+Saat aku bilang akan kutolong, maka akan kutolong!
+Aku takkan pernah mengkhianati temanku!"</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
