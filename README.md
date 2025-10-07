@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sangat menyukai kerendahan hatimu yang bahkan tak kausadari telah menjadi daya tarikmu."</em><br>
-  — <strong>Neko Fujinomiya</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Daripada meninggalkan kenangan yang menyedihkan, lebih baik meninggalkan kenangan yang menyenangkan, membahagiakan, dan penuh dengan senyuman."</em><br>
+  — <strong>Kaede Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
