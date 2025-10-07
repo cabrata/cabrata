@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau takkan tahu perasaan orang lain bila kau tak bertanya.
-Perasaanmu juga takkan pernah diketahui orang lain bila kau tak mengatakannya."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Membunuh manusia tak ada bedanya dengan membunuh binatang."</em><br>
+  — <strong>Inounoshishi</strong>, <em>Juuni Taisen</em>
 </div>
 <!-- QUOTE END -->
 
