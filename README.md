@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengetahui orang lain mau membaca tulisanku yang kusukai dan mereka memberikan kesan yang cukup bagus itu sangat menyenangkan."</em><br>
-  — <strong>Yoshiteru Zaimokuza</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Uang? Hal seperti itu tidak ada artinya di hadapan cinta."</em><br>
+  — <strong>Tarou Jiroumaru</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
