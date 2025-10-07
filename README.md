@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku siap melakukan apapun untuk menjadi kuat. Tapi sedikitpun aku tak bisa membayangkan mampu melampaui kekuatan guru."</em><br>
-  — <strong>Genos</strong>, <em>One Punch Man</em>
+  <em>"Hal yang sangat penting dalam hidup seperti perasaan, hati, dan jiwa semuanya adalah hal yang tak bisa dilihat.
+Semakin kau berusaha menganggap semua itu nyata, kau akan berpikir kalau semua itu tidak nyata.
+Tapi, sekarang aku berpikir kalau semua itu memang ada. Semua itu sangat dekat, sampai aku bisa menyentuhnya."</em><br>
+  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
