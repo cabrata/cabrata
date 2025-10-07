@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Uang? Hal seperti itu tidak ada artinya di hadapan cinta."</em><br>
-  — <strong>Tarou Jiroumaru</strong>, <em>Hanasaku Iroha</em>
+  <em>"Bakat bukanlah sesuatu yang bisa didapat dengan bekerja keras."</em><br>
+  — <strong>Eiko Tsukimi</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
