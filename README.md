@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"kata paling disukai kita (aku dan kakakku) adalah "tidak", pada orang yang berpikiran kalau mereka mempunyai keuntungan mutlak."</em><br>
-  — <strong>Shiro</strong>, <em>No Game No Life</em>
+  <em>"Pajak Kebahagiaan. Semua hal yang mendatangkan kebahagiaan itu pasti kena pajak."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
