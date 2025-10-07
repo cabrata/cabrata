@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Naskah bukanlah produk jadi. Kalau tujuannya hanya untuk dibaca, lebih baik buat novel saja."</em><br>
-  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
+  <em>"Kalau Jepang kalah perang, orang - orang akan bersumpah setia secara serentak terhadap apa yang sama sekali berbeda sebelumnya (sumpah setia pada negara yang mengalahkannya)."</em><br>
+  — <strong>Kaminaga</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
