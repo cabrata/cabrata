@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyimpan harta hanya untuk diri sendiri mungkin akan membuatmu kaya raya, tapi itu tidak akan membuatmu makmur."</em><br>
-  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
+  <em>"Meskipun keabadian adalah sesuatu yang buruk, tapi selama aku bisa terus bersamamu, kurasa itu bukanlah hal yang buruk."</em><br>
+  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
