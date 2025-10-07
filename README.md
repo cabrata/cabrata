@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau orangnya baik. Kau selalu mengajarkanku hal-hal baru. Terima kasih untuk semuanya. Jika tidak keberatan, tetaplah bersamaku selamanya."</em><br>
-  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
+  <em>"Kau bilang aku memanipulasi pembaca dengan teknikku, 'kan? Itu adalah kata-kata pujian yang hebat untuk seorang penulis."</em><br>
+  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
