@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu sederhana. Kita akan berusaha jika hasilnya sepadan, dan kita akan berusaha lebih keras lagi jika itu bisa membuat kita lebih baik."</em><br>
-  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
+  <em>"Ini adalah hidupku, jadi akan kujalani dengan caraku sendiri."</em><br>
+  — <strong>Iori Nagase</strong>, <em>Kokoro Connect: Michi Random</em>
 </div>
 <!-- QUOTE END -->
 
