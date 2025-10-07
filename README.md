@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak muda kadang terobsesi pada kesempurnaan.
-Aku juga pernah begitu.
-Tapi suatu saat nanti, kau pasti akan percaya pada jalanmu sendiri.
-Seperti yang kulakukan.
-Karena itu, tenang saja, tak apa kalau kau cemas."</em><br>
-  — <strong>Shirosaki</strong>, <em>Bokura wa Minna Kawaisou</em>
+  <em>"Keyakinan saja tidak cukup untuk mewujudkan idealismemu."</em><br>
+  — <strong>Doppo Kunikida</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
 </div>
 <!-- QUOTE END -->
 
