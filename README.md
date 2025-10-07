@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pistol itu simpel. Pistol dapat mengakhiri suatu hal hanya dengan satu letupan. Tidak serumit hubungan antara manusia."</em><br>
-  — <strong>Canaan</strong>, <em>Canaan</em>
+  <em>"Kami (berdua) yang telah terluka saling mengharapkan hal yang sama.
+Jika besok kau mati, maka aku tidak keberatan jika besok hidupku juga berakhir.
+Jika hari ini kau tetap hidup, aku pun juga akan hidup."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
