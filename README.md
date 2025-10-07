@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mari kita bersaing secara sehat agar nantinya takkan ada penyesalan diantara kita."</em><br>
-  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Ternyata aku yang tidak merasa adanya dinding antara diriku dengan Kazehaya...
+Dinding yang ingin ku hancurkan. Kazehaya dengan mudah menghancurkannya dengan satu senyuman."</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
