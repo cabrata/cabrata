@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau pria yang berhati dingin, ya.... Tapi aku jadi menyukaimu."</em><br>
-  — <strong>Zero</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
+  <em>"Berbeda denganku, kalian semua lahir dari negara yang tak begitu berbahaya. Bersyukurlah dan gunakan semua yang kalian punya, untuk membuat kalian bersinar sebagai perempuan."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
