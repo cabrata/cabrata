@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang namanya keberuntungan di dunia ini. Aturan, prasyarat, keadaan psikologis, semua itu adalah jumlah faktor tak terlihat yang dikombinasikan menghasilkan ketidakpastian yang tak bisa dihindari."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Saat bangun pagi, saat tidur pada malam hari, saat berangkat sekolah, saat berpakaian, saat menangis dan saat tertawa itu semua karena Mitsuo. Tanpa Mitsuo, tak ada yang bisa kulakukan, tidak ada artinya aku hidup."</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
