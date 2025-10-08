@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup tanpa hal menarik itu tak ada artinya."</em><br>
-  — <strong>Ha Yuri Jahad</strong>, <em>Kami no Tou</em>
+  <em>"Hidup itu berharga, nyawamu hanya ada satu!"</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
