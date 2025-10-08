@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cintailah dunia ini. Mungkin selama ini dunia tidak berpihak padamu, tapi dunia bukanlah musuhmu."</em><br>
-  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Jangan pernah berpura-pura dapat melihat sesuatu yang tidak bisa kau lihat, atau berpura-pura kau tidak bisa melihat sesuatu yang kau bisa lihat."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
