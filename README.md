@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berbeda denganku, kalian semua lahir dari negara yang tak begitu berbahaya. Bersyukurlah dan gunakan semua yang kalian punya, untuk membuat kalian bersinar sebagai perempuan."</em><br>
-  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Dia telah menolong diriku yang tak memiliki tujuan hidup. Meskipun dia orang jahat, aku tak bisa jauh dari sisinya."</em><br>
+  — <strong>Aku</strong>, <em>Maou-sama, Retry!</em>
 </div>
 <!-- QUOTE END -->
 
