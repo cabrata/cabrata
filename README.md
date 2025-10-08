@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah makhluk yang selalu menyesal dan terluka dengan keputusan yang telah dibuatnya."</em><br>
-  — <strong>Glenn Radars</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
+  <em>"Laki-laki yang kebiasaannya hanya diam aja sangat membosankan."</em><br>
+  — <strong>Winry Rockbell</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
