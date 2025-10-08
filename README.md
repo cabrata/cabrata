@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang itu ada bukan untuk dipercaya, meskipun mereka keluarga. Kau tak boleh bergantung pada orang lain. Percayalah pada dirimu sendiri."</em><br>
-  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Sebuah program komputer pasti memilih langkah terbaik, karena itu kau bisa mengalahkannya."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
