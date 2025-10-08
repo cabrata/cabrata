@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus mengatakan apa yang kau rasakan sejujurnya demi (kebaikan) dirimu sendiri."</em><br>
-  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
+  <em>"Dunia terus bergerak maju tak peduli apa yang kita lakukan."</em><br>
+  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
