@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia telah menolong diriku yang tak memiliki tujuan hidup. Meskipun dia orang jahat, aku tak bisa jauh dari sisinya."</em><br>
-  — <strong>Aku</strong>, <em>Maou-sama, Retry!</em>
+  <em>""Berbuatlah demi orang lain. Korbankan diri sendiri demi itu". Aku dibesarkan dengan (memegang) prinsip seperti itu."</em><br>
+  — <strong>Tsukasa Jinguuji</strong>, <em>Fantasy Bishoujo Juniku Ojisan to</em>
 </div>
 <!-- QUOTE END -->
 
