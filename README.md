@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah berpura-pura dapat melihat sesuatu yang tidak bisa kau lihat, atau berpura-pura kau tidak bisa melihat sesuatu yang kau bisa lihat."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Bakemonogatari</em>
+  <em>"Pekerjaan seorang Idol bukan hanya menjukkan senyuman kepada orang lain, tapi seorang Idol harus bisa membuat orang lain tersenyum!"</em><br>
+  — <strong>Niko Yazawa</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
