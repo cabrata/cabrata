@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sedikit takut. Bukan karena kematian, tapi aku takut berpisah denganmu.
-Aku tak pernah merasa seperti ini sebelumnya, tapi menurutku inilah yang terbaik untukku.
-Semua ini demi masa depan umat manusia, dan juga demi masa depanmu.
-Untuk itu aku bisa mempertaruhkan nyawaku berapa kali pun."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Dengan seluruh tubuh dan hati kita! Kita tak boleh mundur! Kita harus jujur pada perasaan masing-masing. Aku ingin mengubah nol menjadi satu."</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
