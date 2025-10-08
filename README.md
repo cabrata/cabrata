@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau punya waktu untuk bicara omong kosong, (lebih baik) lakukan semua yang kau bisa untuk bertahan hidup."</em><br>
-  — <strong>Tanya Degurechaff</strong>, <em>Youjo Senki</em>
+  <em>"Dalam undian, kau takkan bisa menang kalau kau tak membeli tiket.
+Sama seperti manga, kau takkan bisa menjadi "seniman" jika kau tak menggambarnya."</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
