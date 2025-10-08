@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia terus bergerak maju tak peduli apa yang kita lakukan."</em><br>
-  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
+  <em>"Meski melarikan diri juga bisa berakhir bahagia, (tapi) aku ingin berjuang semampuku hingga titik darah penghabisan."</em><br>
+  — <strong>Moffle</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
