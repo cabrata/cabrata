@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa yang berharga menurut klienku, itu juga berharga untukku. Akan ku lakukan apapun untuk melindungi mereka."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Kedamaian yang dia rasakan saat kematian menjemputnya membuatku sedikit iri."</em><br>
+  — <strong>Chise Hatori</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
