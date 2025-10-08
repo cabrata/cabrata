@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun di depan hanya akan ada jalan buntu ataupun keputusasaan, tapi setidaknya kami ingin berjalan di jalan yang kami pilih."</em><br>
-  — <strong>Sieg</strong>, <em>Fate/Apocrypha</em>
+  <em>"Jika ada seseorang yang senang ketika melihat hasil fotoku, aku merasa bersemangat."</em><br>
+  — <strong>Shou Yamabuki</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
