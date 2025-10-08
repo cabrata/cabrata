@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jatuh cinta itu tidak bisa diatur-atur."</em><br>
-  — <strong>Kazehana</strong>, <em>Sekirei: Pure Engagement</em>
+  <em>"Kau mempercayaiku, akupun akan mempercayaimu. Itulah apa yang dinamakan sebagai teman bukan?"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
