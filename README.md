@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia mudah memuja sesuatu yang mistis dan hal-hal yang di luar nalar."</em><br>
-  — <strong>Ekubo</strong>, <em>Mob Psycho 100 III</em>
+  <em>"Apa yang berharga menurut klienku, itu juga berharga untukku. Akan ku lakukan apapun untuk melindungi mereka."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
