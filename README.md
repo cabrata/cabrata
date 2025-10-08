@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memiliki mimpi tidak menjamin kesuksesan. Dan jika mimpi itu tidak terwujud, kau masih dapat menjalani hidup normal."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Aku tak terlalu mengerti dengan perasaanku sendiri. Tapi waktu itu, saat kau memelukku dan bilang mencintaiku, waktu terasa seperti berhenti. Aku mencintaimu Satou-kun."</em><br>
+  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
