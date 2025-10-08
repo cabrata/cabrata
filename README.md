@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk sekali saja, aku ingin menolong orang lain dengan keinginanku sendiri."</em><br>
-  — <strong>Kuro no Saber</strong>, <em>Fate/Apocrypha</em>
+  <em>"Bolehkah aku berjuang untuk membuatmu mencintaiku?"</em><br>
+  — <strong>Nozomi Matsunaga</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
