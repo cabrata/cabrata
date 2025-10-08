@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jujur saja, (saat ini) aku tidak bisa bilang "aku mencintaimu", tapi aku tidak ingin orang lain memilikimu."</em><br>
-  — <strong>Daisuke Higashida</strong>, <em>WWW.Working!!</em>
+  <em>"Untuk mendapatkan masakan yang enak, membutuhkan bahan-bahan yang bagus. Begitulah motto asrama kita!"</em><br>
+  — <strong>Yuuki Yoshino</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
