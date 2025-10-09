@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang Idol dapat melakukan banyak hal. Mereka semua sungguh fantastis."</em><br>
-  — <strong>Anastasia</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Membenci sesuatu yang kamu cintai adalah perasaan yang menyakitkan."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
