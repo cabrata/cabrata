@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang lebih mudah daripada membodohi orang bodoh."</em><br>
-  — <strong>Yozora Mikazuki</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
+  <em>"Aku mendengarkan semua lagu mereka. Aku melihat video mereka setiap hari dan menghapal lagunya. Lalu aku berpikir, aku juga ingin melakukannya bersama teman-temanku. Aku ingin memiliki tujuan yang sama seperti mereka. Aku juga ingin bersinar!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
