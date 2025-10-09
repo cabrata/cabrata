@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau telah menuntunku. Kau telah memberikan kehidupan bagi boneka sepertiku."</em><br>
-  — <strong>Irisviel von Einzbern</strong>, <em>Fate/Zero</em>
+  <em>"Tidak ada gadis yang membuat seseorang repot."</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
