@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apa kata orang tentang dirimu, tak peduli apa yang kau pikirkan tentang dirimu, aku tetap mencintaimu. Aku mencintaimu, sangat mencintaimu! Aku ingin terus bersamamu. Aku ingin terus menggenggam tanganmu."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Jangan berpikir bodoh seperti itu. Tinggalkan rasa cemburumu yang menggemaskan itu. Jangan bingung. Saat ini hanya kaulah satu-satunya yang ku punya."</em><br>
+  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
