@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebesar apa pun idealismemu, itu hanyalah idealisme belaka (bukan kenyataan)."</em><br>
-  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Tak peduli masalah apa yang kau hadapi, kelak semua itu akan berubah. Saat ada hal yang tak berjalan sesuai dengan kehendakmu, kau tidak boleh menyalahkan dirimu sendiri."</em><br>
+  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
