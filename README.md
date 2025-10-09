@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencoba mendapatkan semua hal yang terbaik adalah prinsip keadilanku."</em><br>
-  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Kalau kita bekerja sebagai politikus, kita akan dikelilingi oleh kebohongan."</em><br>
+  — <strong>Shizuka Takanashi</strong>, <em>Working!!! Lord of the Takanashi</em>
 </div>
 <!-- QUOTE END -->
 
