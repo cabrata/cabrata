@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bergabung dengan orang yang bersungguh-sungguh sedangkan kamu hanya setengah hati (menjalaninya), itu tindakan yang paling tidak sopan."</em><br>
-  — <strong>Madoka Yachi</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Kemakmuran yang sesungguhnya adalah bebas dari kekayaan dan barang-barang."</em><br>
+  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
