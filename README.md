@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang membunuh temannya demi melindungi temannya yang lain, (dan) orang yang mengorbankan banyak nyawa tapi tetap tidak bisa melindungi temannya itu hanyalah seorang pecundang."</em><br>
-  — <strong>Zenzou Hattori</strong>, <em>Gintama°</em>
+  <em>"Tak ada seorang pun yang ingin jatuh dalam bahaya, karena itu menakutkan."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
