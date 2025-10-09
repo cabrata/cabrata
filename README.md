@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ayahku sangat keras terhadapku. Dia ingin agar aku hanya memiliki latar belakang pendidikan yang bagus dan prestasi yang bagus. Aku ingin lepas dari itu semua. Jadi aku melepaskan seragam sekolahku dan merubah penampilanku, dimana banyak orang yang tak mengenalku. Aku bodoh, kan? Karena hanya bermain-main, kelas yang kudapatkan adalah kelas E. (Sekarang) aku tak tahu lagi kemana aku harus melangkah."</em><br>
-  — <strong>Yukiko Kanzaki</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Benar-benar tidak masuk akal. Aku bertindak berdasarkan emosi layaknya manusia bodoh. Bahkan anjing pun punya pengendalian diri yang lebih bagus (dariku)"</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
