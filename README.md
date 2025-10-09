@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berjuang keras dalam jangka waktu terbatas adalah pekerjaan seorang profesional."</em><br>
-  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Tidak baik membiarkan seorang gadis terluka."</em><br>
+  — <strong>Seiji Aino</strong>, <em>Renai Boukun</em>
 </div>
 <!-- QUOTE END -->
 
