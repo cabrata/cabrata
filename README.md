@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku menjadi school idol karena kalian berdua, dan bisa sampai disini karena kalian terus menungguku."</em><br>
-  — <strong>Mari Ohara</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Menurutku semua laki-laki menginginkan kelembutan dari seorang wanita yang baik."</em><br>
+  — <strong>Haruto Fuwa</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
