@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang takut untuk berdiri diatas panggung. Mungkin kau akan gagal, mungkin juga mereka (para penonton) akan menolakmu. Meski begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Cermin adalah alat pertama ciptakan manusia yang dapat digunakan untuk mengintip alam semesta alternatif. Objek yang tampak di dalam cermin tidaklah nyata, tapi orang-orang berpikir bahwa itu nyata."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
