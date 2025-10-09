@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mendekatlah. Aku akan membisikkannya padamu, jadi dengarkan baik-baik.
-Aku mencintaimu. Aku ingin kau melihat dunia di luar sana, dan aku ingin kau bersamaku."</em><br>
-  — <strong>Jun Satou</strong>, <em>Working!!!</em>
+  <em>"Kalau kau menginginkan sebuah balasan, hal buruk dan pahit seperti itu... aku pikir bukanlah cinta."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
