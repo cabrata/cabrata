@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan yang sedang jatuh cinta bisa menentang Tuhan."</em><br>
-  — <strong>Tsushima</strong>, <em>Toaru Majutsu no Index III</em>
+  <em>"Kau harus tetap berlari. Kau harus memikirkan perasaanmu sendiri. Berbohong pada diri sendiri dan melakukan apa yang orang lain mau hanya akan menyakitimu. Bukankah kau ingin menjadi school idol? Kalau begitu, kau harus terus melangkah maju."</em><br>
+  — <strong>Hanamaru Kunikida</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
