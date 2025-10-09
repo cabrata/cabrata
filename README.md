@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau sudah puas sekarang? Kalau ini belum cukup untukmu. Akan kuterima tantanganmu sebanyak apapun kau mau, karena aku sudah terbiasa. Jadi, aku mohon padamu, jangan libatkan orang yang tidak bersalah!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Shio-chan, aku harap kau masih mencintaiku ketika kita dilahirkan kembali. Aku minta maaf,... dan terima kasih."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
