@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Membenci sesuatu yang kamu cintai adalah perasaan yang menyakitkan."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Tak peduli apa kata orang tentang dirimu, tak peduli apa yang kau pikirkan tentang dirimu, aku tetap mencintaimu. Aku mencintaimu, sangat mencintaimu! Aku ingin terus bersamamu. Aku ingin terus menggenggam tanganmu."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
