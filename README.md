@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku percaya padamu, Rem. Jadi aku ingin melakukan sesuatu agar kau bisa mempercayaiku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Orang-orang selalu bilang, tertawalah dengan wajahmu dan menangislah dengan hatimu."</em><br>
+  — <strong>Koharu Shiroyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
