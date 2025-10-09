@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""</em><br>
-  — <strong>Masafumi Akagi</strong>, <em>Tsurezure Children</em>
+  <em>"Jika gadis yang kau sukai menyukai orang lain, hatimu pasti hancur."</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
