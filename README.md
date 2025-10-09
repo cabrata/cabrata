@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya orang bodoh yang memainkan game yang tak bisa dia menangkan."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Entah itu orang suci ataupun pendosa, semua orang punya hak untuk menegakkan keadilan mereka. Menolak keadilan mereka dan membunuhnya adalah hal tabu bagiku."</em><br>
+  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
