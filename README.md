@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang selalu ingin mengetahui kebenaran, atau lebih tepatnya mereka ingin mempercayai apa yang diketahuinya itu benar. Jadi, kebenaran sebenarnya bukanlah hal yang utama."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"(Apakah mungkin seseorang bisa menang melawan orang yang lebih besar darinya?)
+Manusia bukanlah monyet. Jadi selama kau bisa memakai otakmu kau bisa menang."</em><br>
+  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
