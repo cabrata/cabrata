@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat bisa membuat orang semakin tak berguna rasanya sangat nikmat."</em><br>
-  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Kalau kita tidak bisa memilih pekerjaan (yang diinginkan), setidaknya kita bisa memilih rekan kerja (yang kita inginkan)."</em><br>
+  — <strong>Lancer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
