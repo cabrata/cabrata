@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak akan bisa hidup hanya dengan (menggeluti) hobimu saja."</em><br>
-  — <strong>Michiru Hyoudou</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Tak ada yang lebih mahal dari sesuatu yang gratis."</em><br>
+  — <strong>Honoka Maki</strong>, <em>Kiznaiver</em>
 </div>
 <!-- QUOTE END -->
 
