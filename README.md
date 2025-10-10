@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan mengendurkan perasaanmu. Perasaan senang, sakit, bahagia, sedih... rasakan semuanya demi diriku."</em><br>
-  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
+  <em>"Aku percaya bahwa mencitai orang lain adalah bentuk dari menghargai diri sendiri."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
