@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dalam semua karya bersemayam dewa penciptanya. Dewa sangat peduli dengan ciptaannya."</em><br>
-  — <strong>Aki Shino</strong>, <em>Bokutachi no Remake</em>
+  <em>"Jika cintamu tidak terbalas, kau harus segera move on darinya."</em><br>
+  — <strong>Izumi Takanashi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
