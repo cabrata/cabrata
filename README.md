@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan menyelamatkan kalian semua. Hiduplah kalian dengan mengingat rasa malu karena telah diselamatkan oleh orang yang kalian buang. Lalu aku akan menertawakan kalian yang hidup seperti itu."</em><br>
-  — <strong>Ikoma</strong>, <em>Koutetsujou no Kabaneri</em>
+  <em>"Baik 10 tahun yang lalu atau 10 tahun yang akan datang, waktu selalu memiliki batas."</em><br>
+  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
