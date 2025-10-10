@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku harus membuang segalanya kecuali tujuanku."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Apapun hobinya, tidak masalah selama bisa ditekuni dengan baik."</em><br>
+  — <strong>Saori Makishima</strong>, <em>Ore no Imouto ga Konnani Kawaii Wake ga Nai</em>
 </div>
 <!-- QUOTE END -->
 
