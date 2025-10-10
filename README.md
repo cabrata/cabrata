@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau orangnya baik. Kau selalu mengajarkanku hal-hal baru. Terima kasih untuk semuanya. Jika tidak keberatan, tetaplah bersamaku selamanya."</em><br>
-  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
+  <em>"Kita semua hanyalah manusia. Kadang, kita berbuat salah.
+Hanya saja, jangan berbuat kesalahan saat nyawa taruhannya."</em><br>
+  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
