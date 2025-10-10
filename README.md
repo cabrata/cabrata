@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bilang bahwa "Orang bodoh belajar dari pengalaman, sementara orang bijak belajar dari sejarah". Kuharap kau bukan termasuk orang yang bodoh."</em><br>
-  — <strong>Nobuchika Ginoza</strong>, <em>Psycho-Pass</em>
+  <em>"Percaya pada orang lain, saling membantu dan saling mendukung adalah hal yang paling tepat untuk dilakukan.
+Tapi itu hanya idealistis. Kenyataannya orang-orang tidak seperti itu.
+Jadi aku tidak ingin menyuruhmu bergantung pada orang lain."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
