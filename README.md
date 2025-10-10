@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebahagiaan sejati adalah menemukan orang yang di cintai, menjadi seorang ibu, kemudian menjalani hidup dengannya."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Kakak adalah kelinci percobaan terbaik."</em><br>
+  — <strong>Tanaka</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
 </div>
 <!-- QUOTE END -->
 
