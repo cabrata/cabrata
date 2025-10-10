@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peran orang dewasa adalah memastikan anak-anak dapat melakukan semua hal yang ingin mereka lakukan."</em><br>
-  — <strong>Willem Kmetsch</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Origami (memang) tidak bisa terbang, tapi kelopak bunga sakura bisa menari di atas angin kan?
+Jika aku menguburnya di dekat pohon sakura, aku pikir suatu hari nanti (origami ini) akan seperti kelopak bunga sakura."</em><br>
+  — <strong>Tetsu</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
