@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau takkan bisa maju kalau kau masih takut mengotori tanganmu sendiri."</em><br>
-  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Memakai alasan untuk lari akan membuatmu terlihat menyedihkan."</em><br>
+  — <strong>Hikari Takanashi</strong>, <em>Demi-chan wa Kataritai</em>
 </div>
 <!-- QUOTE END -->
 
