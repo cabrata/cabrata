@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jujurlah kepada dirimu sendiri."</em><br>
-  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
+  <em>"Di dalam semua karya bersemayam dewa penciptanya. Dewa sangat peduli dengan ciptaannya."</em><br>
+  — <strong>Aki Shino</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
