@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengabaikan seseorang itu hal yang mudah, membenci seseorang lebih mudah lagi, namun mencintai seseorang adalah hal yang sulit."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Aku akan menyelamatkan kalian semua. Hiduplah kalian dengan mengingat rasa malu karena telah diselamatkan oleh orang yang kalian buang. Lalu aku akan menertawakan kalian yang hidup seperti itu."</em><br>
+  — <strong>Ikoma</strong>, <em>Koutetsujou no Kabaneri</em>
 </div>
 <!-- QUOTE END -->
 
