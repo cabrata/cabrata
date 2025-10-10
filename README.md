@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kebohonganmu tidak bisa menipu dirimu sendiri, orang lain pun takkan bisa tertipu."</em><br>
-  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku seharusnya tidak menangis. Dibandingkan dengan menghabiskan waktu dengan menangis, aku harusnya bisa menambah beberapa teman!"</em><br>
+  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
