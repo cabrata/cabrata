@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta adalah rumah cermin, itu hanya lah ilusi."</em><br>
-  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Jangan melihat ke bawah! Voli adalah olahraga dimana kau harus melihat ke atas!"</em><br>
+  — <strong>Keishin Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
