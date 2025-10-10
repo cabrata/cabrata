@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakak adalah kelinci percobaan terbaik."</em><br>
-  — <strong>Tanaka</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
+  <em>"Namaku adalah Nasa Yuzaki, seorang yang lebih cepat dari Nasa, seorang yang akan mencapai kecepatan cahaya."</em><br>
+  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
