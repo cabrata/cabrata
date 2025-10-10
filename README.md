@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah kematian, kalian akan dikirim ke "surga" atau "neraka"."</em><br>
-  — <strong>Decim</strong>, <em>Death Parade</em>
+  <em>"Hidupmu akan jadi bermakna saat kau bisa tersenyum!"</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
