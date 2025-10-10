@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan rencana pamungkas namanya kalau tidak dirahasiakan."</em><br>
-  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
+  <em>"Terlalu lancang menilai hidup orang (lain) itu bahagia atau tidak."</em><br>
+  — <strong>Osamu Dazai</strong>, <em>Isekai Shikkaku</em>
 </div>
 <!-- QUOTE END -->
 
