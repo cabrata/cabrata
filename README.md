@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Baik 10 tahun yang lalu atau 10 tahun yang akan datang, waktu selalu memiliki batas."</em><br>
-  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
+  <em>"Orang-orang selalu bilang, tertawalah dengan wajahmu dan menangislah dengan hatimu."</em><br>
+  — <strong>Koharu Shiroyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
