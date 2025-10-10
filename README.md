@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada manusia yang lahir karena keinginannya sendiri."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Aku memiliki kehidupan yang kosong, tak ada apapun kecuali perasaanku padamu.
+(Meskipun) aku juga tidak punya pedang, tapi hatiku ingin menjadi seorang kesatria."</em><br>
+  — <strong>Akitoshi Daimon</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
