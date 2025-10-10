@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Luka fisik dibiarkan akan sembuh sendiri. Namun, rasa sakit karena ditolak olehmu takkan pernah bisa hilang."</em><br>
-  — <strong>Romio Inuzuka</strong>, <em>Kishuku Gakkou no Juliet</em>
+  <em>"Mungkin ada kalanya (kau) merasa bingung dan merasa kesal karena kenyataan tidak berjalan sesuai dengan harapan. Tapi, hal yang kau pelajari tidak akan pernah mengkhianatimu."</em><br>
+  — <strong>Tooru Miyagishi</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
