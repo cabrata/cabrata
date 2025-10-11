@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia memang makhluk bodoh yang banyak kekurangan, meskipun begitu usaha dan perjuangan kalian sangat indah. Apapun akhir yang menanti kalian, sejarah kalian layak ditinggalkan di bumi ini."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Keyakinan seseorang tidak bisa dikekang oleh waktu."</em><br>
+  — <strong>Petelgeuse Romanée-Conti</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
