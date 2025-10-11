@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan memaksakan diri dan menjalani hidup dengan senang-senang."</em><br>
-  — <strong>Red</strong>, <em>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</em>
+  <em>"Preman dan politikus itu mempedulikan imej mereka lebih dari apapun."</em><br>
+  — <strong>Ekubo</strong>, <em>Mob Psycho 100</em>
 </div>
 <!-- QUOTE END -->
 
