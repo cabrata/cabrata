@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memang harus melakukan apa saja untuk (tetap) hidup. Tapi jangan membuang alasanmu (untuk hidup). Kalau kau membuangnya, kau bukan lagi manusia."</em><br>
-  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Kalau cuma aku saja, aku yakin akan mengacaukan (semua) nya. Tapi "tanpa nama" lain lagi ceritanya. Kalau aku membuat kesalahan, ada Shiro disana (yang akan membantuku). Itulah cara "tanpa nama" agar selalu menang."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
