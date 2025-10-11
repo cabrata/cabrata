@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus terus maju ke depan, bukan naik ke atas agar cerita terus berlanjut menuju akhir yang bahagia."</em><br>
-  — <strong>Shuu Matsubara</strong>, <em>Re:CREATORS</em>
+  <em>"Meski melarikan diri juga bisa berakhir bahagia, (tapi) aku ingin berjuang semampuku hingga titik darah penghabisan."</em><br>
+  — <strong>Moffle</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
