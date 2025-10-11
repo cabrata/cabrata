@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam percintaan tak ada yang namanya "Kerja keras akan selalu membuahkan hasil"."</em><br>
-  — <strong>Sakura Akino</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Aku bukan orang bodoh yang suka menyalahkan orang lain."</em><br>
+  — <strong>Kanami Ibuki</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
