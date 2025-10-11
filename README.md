@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah makhluk yang selalu menyesal dan terluka dengan keputusan yang telah dibuatnya."</em><br>
-  — <strong>Glenn Radars</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
+  <em>"Kekurangan dan ketidakmampuan itu tidak ada hubungannya, aku akan bertarung dengan tubuhku ini untuk menang dan berdiri di lapangan selama yang aku bisa."</em><br>
+  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
