@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah seorang koki. Seorang koki tidak boleh lari dari dapur!"</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"(Karena) kalian lemah, itu berarti kalian masih punya kesempatan untuk berkembang. Tak ada yang lebih menyenangkan dari ini bukan?"</em><br>
+  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
