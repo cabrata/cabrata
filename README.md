@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang tak ada yang menyadari kalau dirinya berbakat. Karena itulah, kita semua terus berjuang meningkatkan kemampuan kita. Saat kita berjuang meningkatkan kemampuan kita, kita sadar bahwa orang disekitar kita juga semakin meningkat dan kita jadi semakin termotivasi. Kurasa teman dapat dijadikan sebagai rival."</em><br>
-  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Jika filosofi pendidikan di sekolah Anda menginjak-injak perasaan anak, tampaknya saya memilih sekolah yang salah."</em><br>
+  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
