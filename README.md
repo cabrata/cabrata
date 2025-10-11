@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengabdikan diri untuk pendidikan adalah suatu bentuk kerja keras."</em><br>
-  — <strong>Mayoi Hachikuji</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Setiap kali kamu khawatir atau saat menemui jalan buntu, bisa ceritakan (masalahmu itu) padaku?
+Aku mungkin tak bisa membantu banyak, tapi aku ingin lebih dari sekedar berada di sisimu. Aku ingin jadi sumber kekuatanmu."</em><br>
+  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
