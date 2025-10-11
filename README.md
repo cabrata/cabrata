@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ini adalah hidupku, jadi akan kujalani dengan caraku sendiri."</em><br>
-  — <strong>Iori Nagase</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Keberuntungan adalah sebuah bakat juga!"</em><br>
+  — <strong>Mio Honda</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
