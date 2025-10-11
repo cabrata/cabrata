@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau memang benar. Seperti yang telah kau katakan, aku memang bodoh. Jadi aku tak peduli apa yang kau katakan padaku! Tapi, jangan pernah mengarahkan senjatamu ke Kakakmu sendiri! Kita ini bersaudara!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Saat kita terpisah, aku selalu saja memikirkan tentangmu. Kalau bisa, selama 24 jam (dalam sehari) aku ingin selalu bersama denganmu. Aku ingin memperhatikan setiap apa yang kamu lihat, apa yang kamu dengar, apa yang kamu makan, (dan) apa yang kamu rasakan. Aku ingin tahu segalanya (tentangmu)."</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
