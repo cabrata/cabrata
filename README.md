@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunang-kunang hidupnya sangat singkat dan lemah, tapi dia bersinar dengan terang. Dag dig dug, seperti jantung yang berdetak. Ini adalah cahaya kehidupan."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Lebih baik kau periksa motormu sebelum mengendarainya, tapi yang lebih penting lagi, periksalah pria sebelum menaikinya."</em><br>
+  — <strong>Baita</strong>, <em>Bakuon!!</em>
 </div>
 <!-- QUOTE END -->
 
