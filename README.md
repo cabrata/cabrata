@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan biarkan orang lain menentukan nilai dirimu."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Bagi seorang pria, ada kalanya memukul seseorang itu rasanya lebih sakit daripada terkena pukulan."</em><br>
+  — <strong>Tooru Asagiri</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
