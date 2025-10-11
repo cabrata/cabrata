@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia tidak akan menunggumu untuk mendapat keyakinan."</em><br>
-  — <strong>Hansung Yu</strong>, <em>Kami no Tou</em>
+  <em>"Aku yakin suatu saat hari nanti, kita akan terbunuh juga. Sampai saat itu, mari kita hidup dengan keyakinan manusia."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
