@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada hukum yang mengatakan kau tidak boleh menyukai seorang pria hanya karena ia telah memiliki pacar."</em><br>
-  — <strong>Ruri Miyamoto</strong>, <em>Nisekoi</em>
+  <em>"Uang tidak bisa membeli perasaan seseorang."</em><br>
+  — <strong>Yuuta Shindou</strong>, <em>WWW.Working!!</em>
 </div>
 <!-- QUOTE END -->
 
