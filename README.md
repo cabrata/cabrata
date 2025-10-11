@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku melakukan ini bukan untuk bermain-main. Aku akan bahagia jika aku bisa memainkannya."</em><br>
-  — <strong>Asuka Tanaka</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Memanjakan anak adalah bagian dari pekerjaan seorang ibu."</em><br>
+  — <strong>Shizu Tanbabashi</strong>, <em>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</em>
 </div>
 <!-- QUOTE END -->
 
