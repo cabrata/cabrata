@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengan berpihak pada seseorang, kau harus bermusuhan dengan pihak lain."</em><br>
-  — <strong>Kirei Kotomine</strong>, <em>Fate/stay night Movie: Heaven's Feel - I. Presage Flower</em>
+  <em>"Seseorang dapat berubah karena jatuh cinta."</em><br>
+  — <strong>Chiaki Uchimura</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
