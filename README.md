@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus mengatakan apa yang kau rasakan sejujurnya demi (kebaikan) dirimu sendiri."</em><br>
-  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
+  <em>"Kerja keras pasti membuahkan hasil. Bantuan pasti akan datang bagi mereka yang selalu bekerja keras."</em><br>
+  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect: Michi Random</em>
 </div>
 <!-- QUOTE END -->
 
