@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ternyata aku yang tidak merasa adanya dinding antara diriku dengan Kazehaya...
-Dinding yang ingin ku hancurkan. Kazehaya dengan mudah menghancurkannya dengan satu senyuman."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Dalam percintaan tak ada yang namanya "Kerja keras akan selalu membuahkan hasil"."</em><br>
+  — <strong>Sakura Akino</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
 </div>
 <!-- QUOTE END -->
 
