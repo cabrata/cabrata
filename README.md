@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia terus bergerak maju tak peduli apa yang kita lakukan."</em><br>
-  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
+  <em>"Aku seharusnya tidak menangis. Dibandingkan dengan menghabiskan waktu dengan menangis, aku harusnya bisa menambah beberapa teman!"</em><br>
+  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
