@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehilangan hasrat untuk hidup dan berharap untuk mati adalah hal yang berbeda."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Bukan masalah benci atau tidaknya. Ibuku adalah Ibuku, takkan pernah berubah. Apapun yang terjadi, dialah yang melahirkanku."</em><br>
+  — <strong>Asuka Tanaka</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
