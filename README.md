@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku berlari lebih cepat dari siapa pun karena kamu melihat dan mendukungku.
-Alasan kenapa aku berlari dengan cepat, alasan aku ingin menjadi cantik, dan alasan aku ingin jatuh cinta adalah karenamu!"</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Jika kau memanfaatkan waktumu dengan baik dan menghadapinya, serta mengungkapkan perasaanmu melewati kata-katamu, dia (Emilia) pasti bisa mengerti. Kau adalah orang yang hebat."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
