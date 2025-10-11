@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika ada yang menyatakan suka padamu, kamu akan merasa senang, geli, malu, tapi terasa nyaman di hati."</em><br>
-  — <strong>Rika Dobashi</strong>, <em>Hatsukoi Limited</em>
+  <em>"Penglihatan bukanlah apa yang kau lihat, tapi (objek) gambar yang otakmu pahami. Pandangan kita tergantung oleh akal sehat kita. Dalam keadaan normal, manusia tidak bisa melihat diluar kotak mereka."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
