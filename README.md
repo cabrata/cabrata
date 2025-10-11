@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekurangan dan ketidakmampuan itu tidak ada hubungannya, aku akan bertarung dengan tubuhku ini untuk menang dan berdiri di lapangan selama yang aku bisa."</em><br>
-  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!!</em>
+  <em>"Perasaan jatuh cinta dengan seseorang muncul secara alami. Jangan menyangkal perasaan seseorang yang mencintaimu!"</em><br>
+  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
