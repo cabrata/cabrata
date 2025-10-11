@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Raja ada untuk rakyatnya. Tanpa rakyat, tidak mungkin ada raja."</em><br>
-  — <strong>Ling Yao</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Kakakku selalu mengingatkanku untuk mengembalikan apa yang kupinjam."</em><br>
+  — <strong>Ayato Amagiri</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
