@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meraka yang tak pernah mencoba tidak berhak iri pada mereka yang memiliki bakat.
-Mereka yang gagal itu karena mereka tidak membayangkan usaha yang dilakukan orang yang berhasil."</em><br>
-  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Saat kau menatap jurang terlalu lama, maka jurang tersebut juga akan menatapmu.
+Saat kau mencoba mengungkap rahasia seseorang, maka rahasiamu juga akan terungkap."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
