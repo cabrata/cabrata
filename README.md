@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta adalah sesuatu yang dengan sendirinya dapat dirasakan oleh hatimu. Manis, berkilauan, membuatmu sadar bahwa kau merasa senang tanpa diberitahu orang lain."</em><br>
-  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
+  <em>"Jika filosofi pendidikan di sekolah Anda menginjak-injak perasaan anak, tampaknya saya memilih sekolah yang salah."</em><br>
+  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
