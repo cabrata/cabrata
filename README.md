@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan seorang Idol bukan hanya menjukkan senyuman kepada orang lain, tapi seorang Idol harus bisa membuat orang lain tersenyum!"</em><br>
-  — <strong>Niko Yazawa</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Aku benci menjadi pusat perhatian. Tapi aku lebih benci berhutang budi pada orang lain."</em><br>
+  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan</em>
 </div>
 <!-- QUOTE END -->
 
