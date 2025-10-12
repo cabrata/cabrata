@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia pasti membuat kebohongan, tapi aku percaya padamu."</em><br>
-  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Jika satu kata tak cukup mengungkapkan perasaanmu, ungkapkanlah dengan semua kata-kata. Kalau kamu tidak bisa mempercayai kata-kata, ungkapkan dengan tindakan."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
