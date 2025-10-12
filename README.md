@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku selalu siap menerima (kematian). Bila ajal menjemput, maka memang lebih baik mati. Aku, Akane Sonoyama tak akan mengeluh dibunuh, tak peduli kapan, di mana, oleh siapa, dan dengan alasan apapun."</em><br>
-  — <strong>Akane Sonoyama</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Tanaman sangatlah jujur. Jika kau menutupinya dengan cinta, mereka akan mencintaimu juga."</em><br>
+  — <strong>Orphelia Landlufen</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
