@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat seorang anak telah menyadari kerja keras (orang tua) mereka, (saat) itulah tanda selesainya tugas orang tua."</em><br>
-  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Manusia yang berlebihan dalam kehidupannya adalah manusia yang berlebihan dalam hatinya."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
