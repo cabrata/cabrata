@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau berpikir pesimis, maka hal yang seharusnya berjalan lancar, nantinya akan jadi tidak lancar. Kita harus berpikir secara optimis."</em><br>
-  — <strong>Yuuki Hase</strong>, <em>Isshuukan Friends.</em>
+  <em>"Sejak kecil, aku adalah gadis pendiam yang suka menyendiri. Aku tak pandai olahraga, dan selalu jadi anak bawang di sekolah. Jadi aku terbiasa bermain sendirian, dan jatuh cinta pada membaca. Tanpa sadar, perpustakan seakan menjadi rumahku, dan imajinasiku jadi berkembang karena membaca buku-buku disana. Setelah selesai membaca sebuah buku, aku akan merasakan kehampaan, tapi aku yakin selama aku punya buku, aku akan baik baik saja."</em><br>
+  — <strong>Hanamaru Kunikida</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
