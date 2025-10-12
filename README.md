@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihatnya bekerja keras untuk membenciku, entah mengapa agak menyenangkan."</em><br>
-  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Baru kali ini aku melihat orang mendapat bunga setelah kompetisi. Tidak hanya itu, kau tak mengenal mereka kan?'
+Mereka pasti tidak menyiapkan bunganya, mereka pasti setelah mendengar pertunjukanmu langsung membeli bunga itu untukmu. Ini hari yang tak terlupakan bagi mereka. Mungkin seperti itulah pertunjukanmu."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
