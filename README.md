@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus bekerja keras agar kau bisa benar-benar berkontribusi bagi perusahaan. Dan setelah perusahaan mengakui kemampuanmu, Kau akan mendapat kenaikan gaji!"</em><br>
-  — <strong>Hajime Shinoda</strong>, <em>New Game!</em>
+  <em>"Siapapun pasti memiliki masalah dalam hidupnya. Kita semua sama. Karena itu, kamu harus menerima hal buruk sekalipun agar dapat melangkah ke depan."</em><br>
+  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
