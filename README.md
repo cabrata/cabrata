@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi menyelamatkan dirimu, aku memutuskan untuk memulai pertempuran ini."</em><br>
-  — <strong>Kouji Sugawara</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</em>
+  <em>"Satu-satunya cara untuk menyingkirkan rasa (kecewa) ini adalah dengan melakukannya. Tak peduli seberapa banyak kegagalan, aku harus melakukannya. Setelah aku pikir-pikir, kurasa aku mulai menikmati ini."</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
