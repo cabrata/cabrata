@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rekan-rekanku dan aku bersumpah kalau kami akan rela berkorban, jika itu memang diharuskan. Aku akan rela berkorban demi menyelamatkan orang lain."</em><br>
-  — <strong>Sakuma</strong>, <em>Joker Game</em>
+  <em>"Jika kau melakukan sesuatu yang akan melukaiku, aku akan mengerahkan seluruh kekuatanku untuk menghentikannya."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
