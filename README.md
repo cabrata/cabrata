@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam  game, mustahil mengetahui aturan atau tujuan seseorang, karena ada 7 milyar pemain yang bergerak sesuai kenginannya."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Kamu adalah orang yang hebat. Sangat berkebalikan denganku. Tentunya aku ingin menjadi seperti dirimu. Bisa mengakui seseorang, menerima seseorang, mencintai seseorang, dicintai seseorang. Bagaimana caranya agar aku dapat seperti dirimu?"</em><br>
+  — <strong>Haruki Shiga</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
 
