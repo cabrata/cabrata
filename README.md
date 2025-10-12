@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena kalian kembar, hal yang dapat kamu lakukan pasti bisa dilakukan oleh keempat saudarimu. Sebaliknya, hal yang dapat dilakukan oleh keempat saudarimu, pasti bisa dilakukan olehmu."</em><br>
-  — <strong>Fuutarou Uesugi</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Kau harus menunggu sampai tenang.
+Kata-kataku itu tidak ada artinya.
+Kaulah orang yang bisa mengatasi masa lalumu sendiri."</em><br>
+  — <strong>Kasuka Heiwajima</strong>, <em>Durarara!!x2 Ten</em>
 </div>
 <!-- QUOTE END -->
 
