@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus menunggu sampai tenang.
-Kata-kataku itu tidak ada artinya.
-Kaulah orang yang bisa mengatasi masa lalumu sendiri."</em><br>
-  — <strong>Kasuka Heiwajima</strong>, <em>Durarara!!x2 Ten</em>
+  <em>"Pekerjaan seorang Idol bukan hanya menjukkan senyuman kepada orang lain, tapi seorang Idol harus bisa membuat orang lain tersenyum!"</em><br>
+  — <strong>Niko Yazawa</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
