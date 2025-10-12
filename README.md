@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pahlawan tidak pernah mengabaikan perbuatan baik yang tak dihargai."</em><br>
-  — <strong>Hiiro</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
+  <em>"Postur tubuh menentukan bagaimana orang lain melihatmu."</em><br>
+  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
 </div>
 <!-- QUOTE END -->
 
