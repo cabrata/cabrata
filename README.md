@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku pria lemah yang lari dari masalah dengan minum sake."</em><br>
-  — <strong>Paul Greyrat</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu Part 2</em>
+  <em>"Laki-laki yang kebiasaannya hanya diam aja sangat membosankan."</em><br>
+  — <strong>Winry Rockbell</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
