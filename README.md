@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu tidak bisa hidup seorang diri, karena kehidupannya penuh dengan beban."</em><br>
-  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
+  <em>"Dia telah menolong diriku yang tak memiliki tujuan hidup. Meskipun dia orang jahat, aku tak bisa jauh dari sisinya."</em><br>
+  — <strong>Aku</strong>, <em>Maou-sama, Retry!</em>
 </div>
 <!-- QUOTE END -->
 
