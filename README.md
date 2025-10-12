@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika filosofi pendidikan di sekolah Anda menginjak-injak perasaan anak, tampaknya saya memilih sekolah yang salah."</em><br>
-  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
+  <em>"Kalau terkenal di internet saja dapat menghasilkan banyak uang, pasti kau akan merasa kalau pergi bekerja adalah tindakan yang bodoh."</em><br>
+  — <strong>Shuusei Kagari</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
