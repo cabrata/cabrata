@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rasa sakit ini adalah bukti kalau aku hidup.Karena ada rasa sakit, maka ada rasa senang.Itulah arti menjadi manusia."</em><br>
-  — <strong>Bruford</strong>, <em>JoJo no Kimyou na Bouken</em>
+  <em>"Kebahagiaan sejati adalah menemukan orang yang di cintai, menjadi seorang ibu, kemudian menjalani hidup dengannya."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
