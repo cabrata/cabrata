@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebahagiaan sejati adalah menemukan orang yang di cintai, menjadi seorang ibu, kemudian menjalani hidup dengannya."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Bunga Corong Ungu, dalam bahasa bunga berarti "Aku akan mengobati sakitmu"."</em><br>
+  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
 </div>
 <!-- QUOTE END -->
 
