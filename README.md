@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan terasa pedih untuk menjaga ataupun melepaskan sesuatu yang tak bisa kau dapatkan kembali.
-Jika kedua-duanya akan terasa pedih, aku lebih baik menderita untuk mempertahankannya."</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Tidak ada tempat di masyarakat untuk orang yang tak menghargai diri sendiri."</em><br>
+  — <strong>Ai Hayasaka</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
