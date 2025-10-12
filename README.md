@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tanaman sangatlah jujur. Jika kau menutupinya dengan cinta, mereka akan mencintaimu juga."</em><br>
-  — <strong>Orphelia Landlufen</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Ketika kita membantu orang lain pada akhirnya akan berujung pada kebaikan pada diri kita sendiri."</em><br>
+  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba: Katanakaji no Sato-hen</em>
 </div>
 <!-- QUOTE END -->
 
