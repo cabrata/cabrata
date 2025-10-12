@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita yang baik menjaga rumah dengan tenang."</em><br>
-  — <strong>Anna Kyouyama</strong>, <em>Shaman King</em>
+  <em>"Malam sebelum fajar adalah yang paling gelap. Tapi, jangan menutup matamu. Kalau kau menutup matamu dari kegelapan, kau takkan bisa melihat cahaya dari hari esok yang baru."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
