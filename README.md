@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakakku selalu mengingatkanku untuk mengembalikan apa yang kupinjam."</em><br>
-  — <strong>Ayato Amagiri</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Pemandangan yang kurasa membosankan...
+Pemandangan di mana Kou-chan berada (ternyata) sangat indah."</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
