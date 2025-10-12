@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu tidak bisa hidup seorang diri, karena kehidupannya penuh dengan beban."</em><br>
-  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
+  <em>"Yang membutuhkan sandaran hati tidak hanya anak kecil."</em><br>
+  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
