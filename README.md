@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada pertandingan yang tak bisa dimenangkan. Dan tak ada pertandingan yang pasti bisa dimenangkan."</em><br>
-  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Manusia itu sederhana. Kita akan berusaha jika hasilnya sepadan, dan kita akan berusaha lebih keras lagi jika itu bisa membuat kita lebih baik."</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
