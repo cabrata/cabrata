@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang membutuhkan sandaran hati tidak hanya anak kecil."</em><br>
-  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
+  <em>"Seaneh apapun peristiwa yang terjadi, jika itu terjadi yang kedua kalinya maka akan terlihat biasa saja. (Jadi) tak perlu dipikirkan, biarkan saja. Itulah prinsipku"</em><br>
+  — <strong>Tom Tanaka</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
