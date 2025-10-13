@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebuah program komputer pasti memilih langkah terbaik, karena itu kau bisa mengalahkannya."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Yang terbaik adalah melakukan hal yang kau inginkan."</em><br>
+  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
