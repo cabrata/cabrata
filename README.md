@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita sudah bertekad akan membuat konser ini suksus. Kita telah membuat sebuah lagu, belajar menari, dan membuat kostum bersama-sama. Kita selalu berusaha keras sampai saat ini. Kita telah berjuang untuk tampil. Aku tak mau semua itu menjadi sia-sia."</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Jika kau bisa mengetahui posisi dan momentum setiap atom di dunia ini, kau bisa memprediksi masa depan."</em><br>
+  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
