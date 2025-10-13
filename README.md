@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika minta maaf dapat menyelesaikan masalah, maka tidak akan ada tindakan bunuh diri yang dilakukan oleh samurai jika gagal melaksanakan tugas."</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Akan aku ajari kamu tentang romansa burung yang tak bisa terbang sampai membekas di hatimu."</em><br>
+  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
