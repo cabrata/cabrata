@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebagai senior dalam menjalani hidup, (aku) yang berada sedikit di depannya akan menunjukkannya jalan menuju kebahagiaan."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>""Sebuah tujuan" memberi seseorang kekuatan. Pertemanan lebih kuat daripada pisau."</em><br>
+  — <strong>Angelo Lagusa</strong>, <em>91 Days</em>
 </div>
 <!-- QUOTE END -->
 
