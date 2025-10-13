@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam  game, mustahil mengetahui aturan atau tujuan seseorang, karena ada 7 milyar pemain yang bergerak sesuai kenginannya."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Makanan hangat yang kau sediakan dan senyummu telah memberi kekuatan pada semua orang."</em><br>
+  — <strong>Van Hohenheim</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
