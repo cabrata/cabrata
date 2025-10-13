@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang terbaik adalah melakukan hal yang kau inginkan."</em><br>
-  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
+  <em>"Jangan pernah mati hanya karena hal-hal yang konyol."</em><br>
+  — <strong>Eris</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!</em>
 </div>
 <!-- QUOTE END -->
 
