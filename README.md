@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pejudi itu orang terburuk."</em><br>
-  — <strong>Fern</strong>, <em>Sousou no Frieren</em>
+  <em>"Kau masih saja membicarakan tentang tujuan hidup dan alasan kenapa kau dilahirkan?
+Tak pernah kubayangkan ada orang yang bingung karena hal seperti itu."</em><br>
+  — <strong>Shuusei Kagari</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
