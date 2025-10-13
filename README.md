@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"DIY (Do it yourself), "Lakukanlah (dengan caramu) sendiri". Kurasa itu adalah saran yang tepat untukku."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Hanya karena seseorang mengatakan sesuatu yang tidak kau sukai, bukan berarti mereka tidak menyukaimu."</em><br>
+  — <strong>Hyougo Otoo</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
