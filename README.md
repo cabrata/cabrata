@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesuatu yang lahir dari hal buruk itu adalah suatu hal yang imut. Melihat seseorang yang selalu terlihat sempurna itu tidak menarik."</em><br>
-  — <strong>Haruno Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Orang-orang jadi berpikir sempit kalau sedang tidak punya uang."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 3: Tsuukaku Zanryuu</em>
 </div>
 <!-- QUOTE END -->
 
