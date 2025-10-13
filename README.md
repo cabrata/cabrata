@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah mati hanya karena hal-hal yang konyol."</em><br>
-  — <strong>Eris</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!</em>
+  <em>"Tautologi. "Dengan kesetiaan yang mumpuni, kau bahkan bisa menuhankan kepala sarden."
+Ini adalah pemahaman mendalam, tapi tidak berbeda dari kepercayaan baru.
+Pendapat mereka hanya tertinggal, sementara mereka meninggalkan kelompok mereka (yang berpikiran berbeda)."</em><br>
+  — <strong>Miyoshi</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
