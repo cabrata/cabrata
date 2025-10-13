@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang kubenci adalah pria yang terus-menerus memikirkan kesalahan di masa lalu dan hal lain yang tak mungkin bisa dia ubah."</em><br>
-  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
+  <em>"Tugas seorang wanita yang sebenarnya adalah melindungi harga diri seorang pria."</em><br>
+  — <strong>Saeko Busujima</strong>, <em>Highschool of the Dead</em>
 </div>
 <!-- QUOTE END -->
 
