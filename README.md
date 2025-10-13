@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau akan membenci dirimu sendiri jika kau melakukan apa yang kau benci."</em><br>
-  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Kita sudah bertekad akan membuat konser ini suksus. Kita telah membuat sebuah lagu, belajar menari, dan membuat kostum bersama-sama. Kita selalu berusaha keras sampai saat ini. Kita telah berjuang untuk tampil. Aku tak mau semua itu menjadi sia-sia."</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
