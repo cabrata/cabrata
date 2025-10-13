@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika aku menatap Kazehaya, aku tak bisa mengalihkan pandanganku. Mungkin karena itu, sebelum tidur wajah Kazehaya selalu muncul di pikiranku. Aku belum pernah merasakan perasaan spesial seperti ini sebelumnya."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke 2nd Season</em>
+  <em>"Sebuah program komputer pasti memilih langkah terbaik, karena itu kau bisa mengalahkannya."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
