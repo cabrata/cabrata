@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang jadi berpikir sempit kalau sedang tidak punya uang."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 3: Tsuukaku Zanryuu</em>
+  <em>"Pelayan yang tidak mampu menggunakan alat register sama dengan ibu rumah tangga yang tidak bisa memasak nasi goreng."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
