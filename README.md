@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin hidup tanpa meninggalkan sesuatu yang belum terselesaikan."</em><br>
-  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Akan kugunakan semua yang bisa kugunakan. Jika itu bisa memperbesar kemungkinan kemenangan, maka resikonya sepadan. Untuk seseorang yang serba kekurangan sepertiku, aku hanya bisa menggunakan cara ini."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
