@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena seseorang mengatakan sesuatu yang tidak kau sukai, bukan berarti mereka tidak menyukaimu."</em><br>
-  — <strong>Hyougo Otoo</strong>, <em>Working!!!</em>
+  <em>"Walaupun kamu tidak punya uang, kamu masih bisa cukup bersenang-senang, asalkan ada cinta."</em><br>
+  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
