@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejujurnya, aku masih bingung...
-Tapi hatiku akhirnya sudah tenang."</em><br>
-  — <strong>Homura</strong>, <em>Sekirei: Pure Engagement</em>
+  <em>"(Bagaimana rasanya mencintai seseorang? Pada saat apa kamu mulai berpikir bahwa itu cinta?)Bagiku, ketika aku menyadari itu aku selalu memikirkan tentangnya. Rasanya (dia) seperti tidak bisa pergi dalam pikiranku."</em><br>
+  — <strong>Yuumi Hoshino</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
