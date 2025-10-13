@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau selalu gampang ikut campur urusan orang lain, seperti orang yang tak bisa menahan kakinya dan langsung masuk tanpa permisi."</em><br>
-  — <strong>Chiriko Tsurumi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Karena aku sungguh-sungguh mencintai Misaki, aku tak boleh meninggalkan impianku dan hanya menjadi orang biasa."</em><br>
+  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
