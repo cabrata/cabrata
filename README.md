@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peperangan itu benar-benar kejam. Entah kau menang atau kalah, kau selalu kehilangan lebih banyak dari pada apa yang kau peroleh."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Cinta pertama? Aku tak pernah merasakan hal seperti itu. Tidak untuk sekarang, dan untuk selamanya. Melayani Tuan Putri adalah misiku, dan itulah yang membuatku bahagia. Asal Tuan Putri bahagia, itu sudah cukup bagiku."</em><br>
+  — <strong>Seishirou Tsugumi</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
