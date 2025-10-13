@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Violet", saat kau dewasa nanti, kau pasti akan menjadi gadis yang cocok dengan nama itu. Kau bukanlah sebuah alat, tapi seorang yang pantas memiliki nama itu (Violet)."</em><br>
-  — <strong>Gilbert Bougainvillea</strong>, <em>Violet Evergarden</em>
+  <em>"Seorang pemimpin itu. Yang pertama, dia harus lebih bersemangat dari yang lain dan juga mampu memotivasi yang lain! Selain itu, dia haruslah orang yang penuh kasih dan mampu meningkatkan semangat anggota lain! Dan yang paling penting, dia haruslah orang yang paling dihormati anggota lainnya!"</em><br>
+  — <strong>Niko Yazawa</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
