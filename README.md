@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh bekerja lembur, tapi perhatikan juga kesehatanmu!"</em><br>
-  — <strong>Chihiro Komiya</strong>, <em>Shounen Maid</em>
+  <em>"Yang kubenci adalah pria yang terus-menerus memikirkan kesalahan di masa lalu dan hal lain yang tak mungkin bisa dia ubah."</em><br>
+  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
