@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti inilah pekerjaan yang kulakukan selama ini. Pekerjaan inilah yang telah menafkahimu. Apa kau pikir kalau semua pekerjaan itu indah? 
-Pekerjaan ini mungkin tak berguna. Meskipun begitu, bukan berarti aku tidak berusaha untuk menjadi yang terbaik dibidang ini."</em><br>
-  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Catur adalah permainan informasi dua pemain yang berbasis hitungan matematis.
+Dalam permainan ini tak ada yang namanya "keberuntungan"."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
