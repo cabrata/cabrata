@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman adalah kecap manis. Teman adalah penyedap rasa yang jauh lebih baik dari pada gula dan garam."</em><br>
-  — <strong>Nico Niiyama</strong>, <em>Kiznaiver</em>
+  <em>"Apapun yang terjadi, aku akan selalu berada dipihakmu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
