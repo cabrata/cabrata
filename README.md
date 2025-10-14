@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Gaya hidupku adalah makan makanan favorit kapan pun yang aku mau."</em><br>
-  — <strong>Anna Yamada</strong>, <em>Boku no Kokoro no Yabai Yatsu</em>
+  <em>"Kau boleh kalah di permainan ataupun di pertandaingan.
+Tapi kalau kau tidak kalah dengan dirimu sendiri, itu bukan kekalahan."</em><br>
+  — <strong>Karen Araragi</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
