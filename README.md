@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa kau masih anak-anak?
-Kau melihat dunia ini hanya hitam dan putih.
-Tapi dunia tidak sesederhana itu.
-Segala sesuatu di sekitar kita ada di tengah-tengahnya.
-Bukan hitam ataupun putih, tapi abu-abu."</em><br>
-  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Mana mungkin ada hal yang lebih berharga daripada pacar."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
