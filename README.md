@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berpikir bodoh seperti itu. Tinggalkan rasa cemburumu yang menggemaskan itu. Jangan bingung. Saat ini hanya kaulah satu-satunya yang ku punya."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Jika aku bisa mengubah keadaan dengan pergi kesana (ke lapangan), kumohon biarkan aku masuk (bermain)."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
