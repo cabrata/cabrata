@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengambil resiko itu hal yang membosankan. Tapi memiliki keuntungan besar juga membosankan."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Gaya hidupku adalah makan makanan favorit kapan pun yang aku mau."</em><br>
+  — <strong>Anna Yamada</strong>, <em>Boku no Kokoro no Yabai Yatsu</em>
 </div>
 <!-- QUOTE END -->
 
