@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tentara dari dahulu hingga kini. Aku bersiap untuk mengorbankan diri jika dibutuhkan. Namun menolak menjadi bidak catur yang digunakan, selesai dan dibuang."</em><br>
-  — <strong>Sakuma</strong>, <em>Joker Game</em>
+  <em>"Orang tua itu harusnya gak boleh ganggu kalau anaknya lagi kerja keras kan?"</em><br>
+  — <strong>Shingo Hachiken</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
