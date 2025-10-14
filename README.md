@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tidak hanya mencoba, tapi kita akan jadi yang terbaik."</em><br>
-  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
+  <em>"Tidak apa kalau hanya aku yang merugi. Asalkan tidak menyusahkan orang lain."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
