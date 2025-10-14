@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cintaku seperti kilauan kembang api. Kilauan kecil yang perlahan meredup.
-Tapi, secercah cahaya kecil masih bersinar di hatiku."</em><br>
-  — <strong>Kazuko Hosogawa</strong>, <em>Tsurezure Children</em>
+  <em>"Tahukah kamu, bahasa bunga dari mawar putih yang layu adalah "sumpah setia selamanya"."</em><br>
+  — <strong>Alice Lendrott</strong>, <em>Shinigami Bocchan to Kuro Maid</em>
 </div>
 <!-- QUOTE END -->
 
