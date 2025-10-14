@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun hobinya, tidak masalah selama bisa ditekuni dengan baik."</em><br>
-  — <strong>Saori Makishima</strong>, <em>Ore no Imouto ga Konnani Kawaii Wake ga Nai</em>
+  <em>"Bahkan anak pintar sepertimu bisa jadi bodoh kalau sering lihat (majalah P*o) begituan."</em><br>
+  — <strong>Tokunomori</strong>, <em>Getsuyoubi no Tawawa</em>
 </div>
 <!-- QUOTE END -->
 
