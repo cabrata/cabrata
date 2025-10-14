@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di jamanku dulu, tidak ada hal yang sia-sia. Meskipun ada perbudakan, tapi budak itu memiliki tujuan (hidup). Apapun perannya, mereka tetap punya arti dalam hidupnya. Tapi bagaimana dengan era di dunia yang sekarang? (Era dimana) manusia lebih banyak daripada tujuan hidup itu sendiri."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Akan terasa pedih untuk menjaga ataupun melepaskan sesuatu yang tak bisa kau dapatkan kembali.
+Jika kedua-duanya akan terasa pedih, aku lebih baik menderita untuk mempertahankannya."</em><br>
+  — <strong>Tae Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
