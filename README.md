@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang terjadi, aku akan selalu berada dipihakmu."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Pemenang dari game ditentukan sebelum game itu dimulai.Tak ada yang namanya kesempatan murni."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
