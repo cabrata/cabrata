@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saya sangat senang bahwa (hidup di) dunia ini tidak mudah."</em><br>
-  — <strong>Nadeko Sengoku</strong>, <em>Monogatari Series: Off & Monster Season</em>
+  <em>"Manusia suka sekali membuat kesalahan yang sama. Mereka tak bisa diharapkan."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
