@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia memasak terlalu dalam dan luas jika dibandingkan dengan hidup kita yang singkat. Meski kau terus mempelajarinya seumur hidupmu, kau tetap tak akan mencapai batasnya"</em><br>
-  — <strong>Eishi Tsukasa</strong>, <em>Shokugeki no Souma: Ni no Sara OVA</em>
+  <em>"Hanya seseorang yang bisa memahami dirinya sendirilah yang dapat terus menerus membuat kemajuan."</em><br>
+  — <strong>Masachika Kouda</strong>, <em>3-gatsu no Lion</em>
 </div>
 <!-- QUOTE END -->
 
