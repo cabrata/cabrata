@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kaulah tokoh utama dalam hidupmu sendiri."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100</em>
+  <em>"Seluruh pengalaman yang didapat adalah alat untuk membersihkan jalanmu ke depan."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
