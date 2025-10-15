@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagiku setiap hari adalah perayaan. Perayaan untuk dunia ini dan dirimu."</em><br>
-  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Hanya karena tidak beruntung bukan berarti harus menderita.
+Hanya karena tidak menyenangkan bukan berarti harus membenci.
+Apa pun yang terjadi padamu, tetaplah bahagia."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Nekomonogatari: Kuro</em>
 </div>
 <!-- QUOTE END -->
 
