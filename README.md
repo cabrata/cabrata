@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Deru ombak adalah lagu pengantar tidur terbaik."</em><br>
-  — <strong>Kaguya Shinomiya</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Bertemu denganmu dan melukis bersamamu benar-benar menyenangkan.
+Kata-kata dan senyum terakhir yang kamu berikan tak akan kulupakan seumur hidupku. Karena itu, tetaplah tersenyum seperti itu selamanya."</em><br>
+  — <strong>Yukito Renjou</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
