@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada cowok yang benci cewek agresif."</em><br>
-  — <strong>Nagi Arisuin</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Kami (berdua) yang telah terluka saling mengharapkan hal yang sama.
+Jika besok kau mati, maka aku tidak keberatan jika besok hidupku juga berakhir.
+Jika hari ini kau tetap hidup, aku pun juga akan hidup."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
