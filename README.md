@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Dalam sebuah kompetisi) menganggap semua orang di sini sebagai musuh, adalah keputusan yang bijaksana."</em><br>
-  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma</em>
+  <em>"Aku ingin menikmati semuanya, bersama semua orang, dan bisa melaluinya bersama-sama! Itulah yang dimaksud bersinar!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
