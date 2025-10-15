@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kemenangan sejati bukanlah saat kau menang melawan yang kuat.
-Melainkan saat kau berhasil melindungi sesuatu yang berharga bagimu."</em><br>
-  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Aku ingin melakukan apa pun yang ku bisa. Sekalipun itu tak berarti."</em><br>
+  — <strong>Ritsuka Fujimaru</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
