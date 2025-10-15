@@ -5,9 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pahlawan tidak butuh alasan untuk menghunuskan pedangnya.
-Dia hanya harus bertarung demi kehormatannya."</em><br>
-  — <strong>Hajime Nishikawa</strong>, <em>Gin no Saji</em>
+  <em>"Misalnya...
+Misal saja aku bisa kembali ke save data seperti dalam sebuah game dan aku bisa mengambil pilihan yang tepat, maka apakah kehidupanku akan berubah...?
+Jawabannya adalah "tidak"."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
