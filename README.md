@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Simbol kebebasan itu adalah "musik"."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Pahlawan tidak butuh alasan untuk menghunuskan pedangnya.
+Dia hanya harus bertarung demi kehormatannya."</em><br>
+  — <strong>Hajime Nishikawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
