@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang kau harus menentang pendapat orang lain untuk menciptakan revolusi."</em><br>
-  — <strong>Sawako Tennouji</strong>, <em>Handa-kun</em>
+  <em>"(Dalam sebuah kompetisi) menganggap semua orang di sini sebagai musuh, adalah keputusan yang bijaksana."</em><br>
+  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
