@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku tak mengerti apa yang dirasakan temanku, apakah (itu artinya) aku tak boleh mengkhawatirkannya? Jika aku tak merasakan hal yang sama, apakah aku tidak boleh mengkhawatirkannya?"</em><br>
-  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
+  <em>"Sudah kuputuskan. Aku adalah "bayangan".
+Semakin kuat cahayanya, semakin kuat bayangannya.
+Aku akan menjadi bayangan dari cahayamu, dan menjadikanmu pemain terbaik di jepang."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
