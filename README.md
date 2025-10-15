@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seluruh pengalaman yang didapat adalah alat untuk membersihkan jalanmu ke depan."</em><br>
-  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Tak ada yang lebih indah dari pemandangan erotis."</em><br>
+  — <strong>Hiromichi Kudou</strong>, <em>Photokano</em>
 </div>
 <!-- QUOTE END -->
 
