@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk membuat sesuatu yang dapat menarik perasaan user, pertama kau harus membuat sesuatu yang dapat menarik hatimu sendiri. Kau tidak bisa menggerakkan hati sesorang jika kau tak bisa menggerakkan hatimu sendiri."</em><br>
-  — <strong>Kazuki Fujisawa</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Ketika ada yang menyatakan suka padamu, kamu akan merasa senang, geli, malu, tapi terasa nyaman di hati."</em><br>
+  — <strong>Rika Dobashi</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
