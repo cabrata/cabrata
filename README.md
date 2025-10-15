@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia di luar dipenuhi dengan kotoran. Orang yang kubenci. Orang yang menghalangi jalanku. Pembohong. Orang kotor. Aku harus memusnahkan semuanya."</em><br>
-  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
+  <em>"Cinta adalah hasrat yang buruk."</em><br>
+  — <strong>Quinella</strong>, <em>Sword Art Online: Alicization</em>
 </div>
 <!-- QUOTE END -->
 
