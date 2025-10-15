@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin aku tidak bisa menjadi seorang samurai atau ayah yang hebat, tapi (setidaknya) aku ingin memberikan nama yang bagus untuk anakku."</em><br>
-  — <strong>Isaburou Sasaki</strong>, <em>Gintama°</em>
+  <em>"Bunga Corong Ungu, dalam bahasa bunga berarti "Aku akan mengobati sakitmu"."</em><br>
+  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
 </div>
 <!-- QUOTE END -->
 
