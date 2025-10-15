@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah di planet (Bumi) ini orang mau membantu sesamanya itu hanya karena menginginkan balasan?"</em><br>
-  — <strong>Nino</strong>, <em>Arakawa Under the Bridge</em>
+  <em>"Ingatan dari 10 tahun yang lalu... seorang laki-laki yang dulu menjadi ayahku berkata "Meskipun sejak awal, aku adalah kesalahan. Tapi jalan yang aku pilih bukanlah kesalahan"."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
