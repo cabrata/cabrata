@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Doa itu penuh dengan ajaran masa depan."</em><br>
-  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
+  <em>"Terkadang kau harus menentang pendapat orang lain untuk menciptakan revolusi."</em><br>
+  — <strong>Sawako Tennouji</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
