@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerajaan Lugnica bukanlah milik sang Naga! Tapi milik kita semua!"</em><br>
-  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Manusia yang mengetahui kelemahan dirinya adalah orang yang tangguh."</em><br>
+  — <strong>Asuka Ootorii</strong>, <em>Mahou Shoujo Tokushusen Asuka</em>
 </div>
 <!-- QUOTE END -->
 
