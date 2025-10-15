@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Belajar terus kayak orang bodoh saja."</em><br>
-  — <strong>Nino Nakano</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Tidak ada arti untung atau rugi demi menyelamatkan seorang teman."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
