@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia menyerang dengan jumlah yang lebih banyak (mengeroyok), membuat hewan lebih baik daripada manusia."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Tugas seorang wanita yang sebenarnya adalah melindungi harga diri seorang pria."</em><br>
+  — <strong>Saeko Busujima</strong>, <em>Highschool of the Dead</em>
 </div>
 <!-- QUOTE END -->
 
