@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah melakukan hal baik ataupun hal buruk, jadilah boss!!"</em><br>
-  — <strong>Kagura</strong>, <em>Gintama</em>
+  <em>"Hujan dan badai takkan menghentikanku. Dan tentu saja, keinginan untuk bisa terus berada di tempat tidur takkan menghentikanku. Aku harus terus berusaha sebaik mungkin sebagai orang yang telah dewasa."</em><br>
+  — <strong>Aoba Suzukaze</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
