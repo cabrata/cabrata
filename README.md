@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang percaya padaku. Aku takkan membiarkan mereka semua menjadi korban."</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Wanita adalah makhluk yang mengejar prestasi tertinggi, sedangkan Pria adalah makhluk yang digunakan Wanita untuk memenuhi tujuannya dengan cara yang paling ekonomis."</em><br>
+  — <strong>Ernesta Kühne</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
