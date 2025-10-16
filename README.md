@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau takkan bisa maju kalau kau masih takut mengotori tanganmu sendiri."</em><br>
-  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Kembang api itu indah, terang, dan menarik. Tapi saat cahayanya mulai menghilang, rasanya menyedihkan."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
