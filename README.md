@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia yang benar-benar jenius memang ada. Dan meski aku tak meyakini keberadaannya, tapi dia malah muncul dengan sendirinya. Di dunia kami, manusia bisa terbang melewati langit dan berpergian antar planet. Semuanya, bahkan manusia itu sendiri berpikir begitu (hal itu tak mungkin bisa terjadi). Tapi seseorang berhasil melakukannya. Seseorang benar-benar melakukannya."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Jika satu kata tak cukup mengungkapkan perasaanmu, ungkapkanlah dengan semua kata-kata. Kalau kamu tidak bisa mempercayai kata-kata, ungkapkan dengan tindakan."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
