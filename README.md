@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pria idaman itu seperti apa?
-Wajahnya? Hartanya?
-Bagiku, pria idaman itu adalah seorang yang mau untuk hidup bersama."</em><br>
-  — <strong>Charlotte Abelfreyja Drossel</strong>, <em>Violet Evergarden</em>
+  <em>"Hidup adalah sesuatu yang sangat akrab dengan ketidakadilan. Ada yang hidup dengan makmur, dan ada juga yang hidupnya sangat menderita."</em><br>
+  — <strong>Decim</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
