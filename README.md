@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menjatuhkan orang lain demi keuntungan sendiri adalah usaha yang sia-sia. Itu artinya, mereka sudah menyerah untuk menang."</em><br>
-  — <strong>Michiru Saiki</strong>, <em>ReLIFE</em>
+  <em>"Kau takkan bisa merasa puas jika tidak membebaskan dirimu sendiri."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
