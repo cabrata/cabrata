@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria kesepian yang tidak mengenal cinta harus diselimuti dengan cinta tanpa syarat."</em><br>
-  — <strong>Mizuho Asano</strong>, <em>Bleach</em>
+  <em>"Menyedihkan sekali. Memikirkan hal lain disaat pertandingan, apa kau meremehkan lawanmu?
+Ini adalah pertarungan. Jika kau terjebak dalam drama yang (menurutmu) lebih penting, jangan buang waktumu dipertandingan ini."</em><br>
+  — <strong>Yuuri Himemiya</strong>, <em>Prince of Stride: Alternative</em>
 </div>
 <!-- QUOTE END -->
 
