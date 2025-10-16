@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hukum berarti ada pelanggaran."</em><br>
-  — <strong>Masakazu Masaki</strong>, <em>Eve no Jikan</em>
+  <em>"Lebih memilih persahabatan daripada cinta adalah alasan yang klise."</em><br>
+  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
