@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia akan lebih kuat bila mereka berjuang untuk melindungi sesuatu."</em><br>
-  — <strong>Heathcliff</strong>, <em>Sword Art Online</em>
+  <em>"Yang bermain lebih agresif itu jauh lebih diuntungkan."</em><br>
+  — <strong>Makoto Shimada</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
