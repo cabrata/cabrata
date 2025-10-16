@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang sudah tau bahwa (seorang) koki yang banyak bicara di dapur itu, tidak punya kemampuan!"</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Mendekatlah. Aku akan membisikkannya padamu, jadi dengarkan baik-baik.
+Aku mencintaimu. Aku ingin kau melihat dunia di luar sana, dan aku ingin kau bersamaku."</em><br>
+  — <strong>Jun Satou</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
