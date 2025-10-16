@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita adalah makhluk yang mengejar prestasi tertinggi, sedangkan Pria adalah makhluk yang digunakan Wanita untuk memenuhi tujuannya dengan cara yang paling ekonomis."</em><br>
-  — <strong>Ernesta Kühne</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Kupikir kalau aku hidup dengan jujur pada diriku sendiri, aku tak akan punya penyesalan. Tapi ternyata itu salah..."</em><br>
+  — <strong>Hime Onizuka</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
