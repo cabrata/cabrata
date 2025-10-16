@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang bermain lebih agresif itu jauh lebih diuntungkan."</em><br>
-  — <strong>Makoto Shimada</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Jika seorang pria bersungguh-sungguh, apapun mungkin bisa diselesaikan dalam sehari."</em><br>
+  — <strong>Kurihara</strong>, <em>Prison School</em>
 </div>
 <!-- QUOTE END -->
 
