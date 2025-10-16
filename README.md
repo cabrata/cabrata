@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mendekatlah. Aku akan membisikkannya padamu, jadi dengarkan baik-baik.
-Aku mencintaimu. Aku ingin kau melihat dunia di luar sana, dan aku ingin kau bersamaku."</em><br>
-  — <strong>Jun Satou</strong>, <em>Working!!!</em>
+  <em>"Kalau tidak menyerah, seharusnya jangan lari."</em><br>
+  — <strong>Hanabi Yasuraoka</strong>, <em>Kuzu no Honkai</em>
 </div>
 <!-- QUOTE END -->
 
