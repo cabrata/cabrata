@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pasti tak ingin ada orang yang menyangkal kesukaan kita. Kita ingin orang lain juga tertarik dengan yang kita sukai. Karena lebih menyenangkan apabila banyak teman yang juga menyukai hal yang kita sukai."</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Setelah jadi orang dewasa dan paham jarak hubungan dengan orang lain, kita jadi bisa menghindari perselisihan."</em><br>
+  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
