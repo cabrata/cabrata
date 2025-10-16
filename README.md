@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pemimpin tidak perlu menunjukkan kekuatannya untuk membuat temannya patuh. Kekuatan hanya perlu digunakan untuk melindungi temannya."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Semua orang percaya padaku. Aku takkan membiarkan mereka semua menjadi korban."</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
