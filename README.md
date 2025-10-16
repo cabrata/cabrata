@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ini adalah aturan yang ku buat sendiri. Kalau tidak bisa mengikuti aturanku sendiri, tidak ada artinya aku menjadi diriku."</em><br>
-  — <strong>Nanana Ryuugajou</strong>, <em>Ryuugajou Nanana no Maizoukin</em>
+  <em>"Orang-orang jadi berpikir sempit kalau sedang tidak punya uang."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 3: Tsuukaku Zanryuu</em>
 </div>
 <!-- QUOTE END -->
 
