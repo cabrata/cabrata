@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kupikir kau (memang) benar. (Selama ini) aku berpura-pura. Aku ingin orang-orang menyukaiku. Aku ingin punya teman. Namun ketika aku memikirkan "Apa yang bisa dilakukan oleh orang sepertiku ini?", aku putuskan untuk menyukai semua orang. Lalu, setelah itu jadi jauh lebih mudah untuk berpura-pura."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Cinta datang dalam berbagai bentuk. Mungkin memang tidak semuanya menyenangkan, tapi tetap saja (cinta) itu indah."</em><br>
+  — <strong>Mitsuki Shijou</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
