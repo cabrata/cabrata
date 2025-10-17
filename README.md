@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan jadi juara pertama lagi supaya ibu bisa cepat sembuh."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Tidak ada darimu atau perkataan temanmu yang mempengaruhi hidupku dalam hal apapun, baik bentuk maupun jalannya."</em><br>
+  — <strong>Jinta Yadomi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
