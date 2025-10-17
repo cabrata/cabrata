@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Besok kami akan datang lagi (mengunjungimu). Meskipun terlihat merepotkanmu, tapi demi orang yang kami sayangi, itu adalah bentuk kepedulian kami."</em><br>
-  — <strong>Tsubasa Hanekawa</strong>, <em>Owarimonogatari</em>
+  <em>"Aku ingin membuat negeri dimana orang-orang yang kucintai bisa hidup tanpa kebencian."</em><br>
+  — <strong>Lux Acadia</strong>, <em>Saijaku Muhai no Bahamut</em>
 </div>
 <!-- QUOTE END -->
 
