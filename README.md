@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang bisa mencapai tujuannya adalah orang-orang bodoh yang terus melangkah ke depan. (Sedangkan) orang yang tidak bisa mencapai tujuannya adalah orang-orang bijak yang berhenti melangkah."</em><br>
-  — <strong>Celica Arfonia</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
+  <em>"Saat kita berbicara, lihatlah ke depan untuk menghapus seluruh waktu yang kau habiskan untuk melihat masa lalu!"</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
