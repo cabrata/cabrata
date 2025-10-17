@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mustahil kita disukai oleh semua orang. Kita cukup menyayangi orang yang memahami kita."</em><br>
-  — <strong>Shiori Saginomiya</strong>, <em>Joshikousei no Mudazukai</em>
+  <em>"Kita tidak hidup demi sebuah arti, tapi (kita diciptakan) untuk menemukan arti setelah hidup."</em><br>
+  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
