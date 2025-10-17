@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang sudah tau bahwa (seorang) koki yang banyak bicara di dapur itu, tidak punya kemampuan!"</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Kita semua hanya menari di atas telapak tangan Tuhan."</em><br>
+  — <strong>Otoko</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
