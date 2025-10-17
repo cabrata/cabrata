@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Alasan manusia dapat mencapai ilmu pengetahuan yang tinggi dan kebebasan bukan hanya karena perkembangan dari otak manusia. Tapi didapat dari struktur yang lebih komplek berkat evolusi. Dengan kata lain, hasil dari kontradiksi otak dan jiwa."</em><br>
-  — <strong>Wiseman</strong>, <em>Taboo Tattoo</em>
+  <em>"Film bagus akan tetap bagus dilihat di layar apa pun."</em><br>
+  — <strong>Tsukasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
