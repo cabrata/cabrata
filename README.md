@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Asalkan kebenciannya padaku bisa membuatnya mencintai dirinya sendiri, kurasa itu lebih baik."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Alasan manusia dapat mencapai ilmu pengetahuan yang tinggi dan kebebasan bukan hanya karena perkembangan dari otak manusia. Tapi didapat dari struktur yang lebih komplek berkat evolusi. Dengan kata lain, hasil dari kontradiksi otak dan jiwa."</em><br>
+  — <strong>Wiseman</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
