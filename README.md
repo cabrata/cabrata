@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Voli adalah olahraga yang tidak memperbolehkan pemain untuk memegang bola. Kau hanya boleh menyentuh bolanya selama beberapa detik saja. Karena itu, kau harus menguasai momen singkat itu, dan anggap bola itu sebagai bagian dari tubuhmu."</em><br>
-  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Lebih dari siapapun di dunia ini, aku sangat mengenalmu. Aku mengenal kebaikan mu. Karena itu, meski seluruh dunia menyalahkanmu, aku berbeda. Sebanyak apapun itu, aku akan selalu berkata bahwa kau adalah orang baik. Kau telah menyelamatkanku."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
