@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mempunyai kekuatan terlalu hebat itu membosankan."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Balas dendam adalah motivasiku."</em><br>
+  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
