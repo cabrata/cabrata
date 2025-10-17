@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta datang dalam berbagai bentuk. Mungkin memang tidak semuanya menyenangkan, tapi tetap saja (cinta) itu indah."</em><br>
-  — <strong>Mitsuki Shijou</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Mengharapkan hal yang tinggi tanpa memikirkan untuk mewujudkannya itu membuatku tampak bodoh. Tapi, harapan takkan menjadi kenyataan jika tak mengatakannya dengan lantang."</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
