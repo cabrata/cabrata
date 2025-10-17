@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku terlalu mudah puas dan lengah meski hanya sekali saja, aku akan terjatuh (mulai) dari sini."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Hanya dengan menatapmu saja, aku merasa sangat bahagia."</em><br>
+  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
