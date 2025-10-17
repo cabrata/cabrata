@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski tidak diperbolehkan, harusnya aku tetap memberitahukan keinginanku!"</em><br>
-  — <strong>Mamiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Jika kau memiliki kehormatan, (berarti) kau memiliki keberanian."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Kizumonogatari I: Tekketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
