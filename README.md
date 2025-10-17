@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau memiliki kehormatan, (berarti) kau memiliki keberanian."</em><br>
-  — <strong>Meme Oshino</strong>, <em>Kizumonogatari I: Tekketsu-hen</em>
+  <em>"Meski medan tempur kita berbeda, tapi hati kita akan tetap bersama."</em><br>
+  — <strong>Rider</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
