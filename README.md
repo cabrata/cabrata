@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak perlu mencari-cari alasan. Lakukan saja apa yang benar-benar ingin kau lakukan. Bukankah begitu caranya kita mulai melakukan sesuatu yang benar-benar kita inginkan?"</em><br>
-  — <strong>Nozomi Toujou</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Dari nol menjadi satu! Mari kita bersinar dengan segala yang kita miliki!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
