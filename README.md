@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak apa-apa kamu tak mencintaiku. Tapi biarkan aku mencintaimu."</em><br>
-  — <strong>Touko Nanami</strong>, <em>Yagate Kimi ni Naru</em>
+  <em>"Nyawa jauh lebih penting daripada misi."</em><br>
+  — <strong>Tengen Uzui</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
 </div>
 <!-- QUOTE END -->
 
