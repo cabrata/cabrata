@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebahagiaan adalah sesuatu yang hanya dapat dirasakan oleh diri sendiri dan tidak dapat dirasakan oleh orang lain. Memilihkan dan memutuskan kebahagiaan seseorang adalah tindakan egois."</em><br>
-  — <strong>Rhantolk Ytri Historia</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Orang yang bisa mencapai tujuannya adalah orang-orang bodoh yang terus melangkah ke depan. (Sedangkan) orang yang tidak bisa mencapai tujuannya adalah orang-orang bijak yang berhenti melangkah."</em><br>
+  — <strong>Celica Arfonia</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
 </div>
 <!-- QUOTE END -->
 
