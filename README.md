@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nyawa jauh lebih penting daripada misi."</em><br>
-  — <strong>Tengen Uzui</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
+  <em>"Mencoba mendapatkan semua hal yang terbaik adalah prinsip keadilanku."</em><br>
+  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
