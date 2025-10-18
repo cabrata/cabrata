@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia takkan tahu bahwa diri mereka telah ditipu, tapi (sebaliknya) mereka akan sangat sensitif ketika orang lain yang ditipu."</em><br>
-  — <strong>Hitsujii</strong>, <em>Juuni Taisen</em>
+  <em>"Kami percaya kalau semua yang diberikan pada kami itu sama seperti yang diberikan pada semua makhluk hidup di planet ini."</em><br>
+  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
