@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak perlu menjadi seorang tuan putri, asalkan bisa menjadi istrimu itu saja sudah cukup."</em><br>
-  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Semua orang yang ingin menjadi Koki profesional pasti pernah mengalami kekalahan. Meski kepercayaan diri dan kebanggaanmu yang telah kau bangun selama bertahun-tahun hancur berkeping-keping dalam sebuah kesalahan besar. Meski kau memiliki pengalaman yang sangat buruk kau masih harus membuka tokomu esok hari. Seperti itulah yang dinamakan Koki."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
