@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus menunggu sampai tenang.
-Kata-kataku itu tidak ada artinya.
-Kaulah orang yang bisa mengatasi masa lalumu sendiri."</em><br>
-  — <strong>Kasuka Heiwajima</strong>, <em>Durarara!!x2 Ten</em>
+  <em>"Tak peduli walapun (kita) berada di dalam kekacauan, kita (pasti) bisa menemukan jalan hidup yang indah bagi diri kita sendiri."</em><br>
+  — <strong>Shigeshige Tokugawa</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
