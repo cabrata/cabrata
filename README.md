@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika (hanya dengan kata) "maaf" sudah cukup (untuk menyelesaikan masalah), maka kita tak membutuhkan polisi."</em><br>
-  — <strong>Shouko Sugawara</strong>, <em>Psycho-Pass</em>
+  <em>"Setiap jomblo yang punya hewan peliharaan pasti merasakan kebahagiaan palsu"</em><br>
+  — <strong>Mayumi Nishikino</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
