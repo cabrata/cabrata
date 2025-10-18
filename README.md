@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada banyak hal yang menyenangkan dan menyedihkan. Begitu juga kesuksesan dan kegagalan. Kalian memang sudah lulus SD hari ini, tapi masih ada banyak hal lagi yang belum kalian rasakan. Begitu juga denganku. Tapi, merasakan semua hal yang masih belum kita rasakan itu pasti adalah tujuan utama kita hidup."</em><br>
-  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Siluman tak hanya memangsa manusia, terkadang mereka juga menyesatkan hati manusia dengan menawarkan kekuatannya. Dengan kekuatan yang melebihi akal sehat, mereka memberikan sesuatu pada manusia dan sebagai imbalannya, mereka merebut sesuatu dari manusia."</em><br>
+  — <strong>Jukai</strong>, <em>Dororo</em>
 </div>
 <!-- QUOTE END -->
 
