@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesetiaanmu sangatlah luar biasa! Jangan pernah kau nodai impian dan sumpah setiamu!"</em><br>
-  — <strong>Archer</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Doa itu penuh dengan ajaran masa depan."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
 </div>
 <!-- QUOTE END -->
 
