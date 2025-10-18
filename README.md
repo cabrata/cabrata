@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika bersama denganmu, segalanya jadi menyenangkan."</em><br>
-  — <strong>Yukiko Asai</strong>, <em>Nijiiro Days</em>
+  <em>"Jika peringkat (dalam pertandingan) membuatmu khawatir. (Tenang saja) kau sudah mendapatkan peringkat pertama di dalam hatiku."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
