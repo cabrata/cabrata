@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bergabung dengan orang yang bersungguh-sungguh sedangkan kamu hanya setengah hati (menjalaninya), itu tindakan yang paling tidak sopan."</em><br>
-  — <strong>Madoka Yachi</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Aku ingin punya cinta yang begitu panas hingga bisa melelehkan lereng salju."</em><br>
+  — <strong>Roman Saotome</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
