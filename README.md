@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengintai dalam hidupmu seperti (wartawan) itu hanya akan membuat hal-hal yang canggung antara kita. Aku tidak ingin membahas tentang apapun yang kamu lakukan. Kamu bisa menceritakan tentang hal ini ketika kamu siap."</em><br>
-  — <strong>Rea Amano</strong>, <em>Mirai Nikki</em>
+  <em>"Agar dapat membaur dengan orang-orang di sekitar, aku bertingkah layaknya seorang anak yang baik dimata orang lain."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
