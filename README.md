@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak bisa membawa uang atau benda berharga milikmu setelah meninggal dunia. Bukankah hanya kenangan berharga terhadap seseorang, dan dikenang oleh seseoranglah yang paling berharga kan?"</em><br>
-  — <strong>Ume Sawa</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Menyebut dewa negara lawan sebagai iblis atau mengolok-olok politikus yang dibenci dengan sebutan yang konyol merupakan kutukan paling norak."</em><br>
+  — <strong>Flatt Escardos</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
