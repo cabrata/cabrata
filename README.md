@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidupmu akan jadi bermakna saat kau bisa tersenyum!"</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Ketika bersama denganmu, segalanya jadi menyenangkan."</em><br>
+  — <strong>Yukiko Asai</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
