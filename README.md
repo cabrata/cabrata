@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku pikir hujan ini akan membasuh perasaan bimbangku. Tapi (ternyata) setiap tetes yang mengenai wajahku membuatku lebih sengsara."</em><br>
-  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Kita tidak hidup demi sebuah arti, tapi (kita diciptakan) untuk menemukan arti setelah hidup."</em><br>
+  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
