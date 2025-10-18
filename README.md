@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Uang, kebanggaan, patriotisme, bahkan kematian pun fiksi. Semua yang ada di masa depanmu adalah kekosongan. Dan yang bisa kau lakukan adalah kemampuanmu beradaptasi terhadap segala sesuatu, dan secara langsung memutuskan apa yang terbaik."</em><br>
-  — <strong>Yuuki</strong>, <em>Joker Game</em>
+  <em>"Impianku sederhana. Aku hanya ingin terus mencintai orang yang kucintai dan terus bersamanya."</em><br>
+  — <strong>Shinra Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
