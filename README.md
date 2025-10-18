@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat manusia terjatuh dalam kegelapan mereka membutuhkan cahaya. Tak peduli seredup apa pun cahaya itu selama masih ada secercah cahaya akan ada harapan."</em><br>
-  — <strong>Suiryuu</strong>, <em>One Punch Man Season 2</em>
+  <em>"Aku tak peduli dengan masa depan yang belum pasti."</em><br>
+  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
 </div>
 <!-- QUOTE END -->
 
