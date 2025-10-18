@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Postur tubuh menentukan bagaimana orang lain melihatmu."</em><br>
-  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Jika (hanya dengan kata) "maaf" sudah cukup (untuk menyelesaikan masalah), maka kita tak membutuhkan polisi."</em><br>
+  — <strong>Shouko Sugawara</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
