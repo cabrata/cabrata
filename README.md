@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kita tidak bisa bahagia, (tapi) kita beruntung karena masih memiliki banyak waktu. Waktu untuk menyendiri, waktu untuk berpikir, dan waktu untuk hidup."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Aku tak perlu menjadi seorang tuan putri, asalkan bisa menjadi istrimu itu saja sudah cukup."</em><br>
+  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
