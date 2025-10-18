@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hiduplah seperti biasanya. Memang tidak mudah. Tapi kau punya banyak waktu yang terbentang luas di depanmu."</em><br>
-  — <strong>Ginko</strong>, <em>Mushishi</em>
+  <em>"Kadang-kadang lembut, terkadang kasar, begitulah gejolak hati wanita."</em><br>
+  — <strong>You Satou</strong>, <em>Ben-To</em>
 </div>
 <!-- QUOTE END -->
 
