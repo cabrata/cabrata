@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan menilai orang dari satu sudut pandang. Kamu harus melihat dari berbagai sudut pandang."</em><br>
-  — <strong>Tetsuo Takahashi</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Dia memang lebih kuat dariku, tapi itu bukan alasan untuk tidak mencemaskannya. Apapun yang kami lakukan, dia selalu lebih baik dariku. Tapi, aku adalah kakaknya. Aku takkan pernah goyah dari posisi itu."</em><br>
+  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
