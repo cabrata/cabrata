@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku mungkin pria yang kikuk. Tapi ketika sudah menentukan satu hal, maka akan kulakukan sampai akhir."</em><br>
-  — <strong>Fudou Aikawa</strong>, <em>Koi wa Sekai Seifuku no Ato de</em>
+  <em>"Kita mungkin takkan bisa bermain bagus. Tapi selama aku punya kesempatan untuk bermain, dan ada penonton yang mendengarkan. Aku akan bermain dengan seluruh kemampuan yang ku punya. Supaya orang yang mendengarkanku, takkan pernah melupakanku. Supaya aku bisa terus hidup di dalam hatinya. Itulah alasanku bermain. Soalnya, aku adalah pemusik !"</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
