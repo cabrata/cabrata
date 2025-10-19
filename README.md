@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak boleh ragu, untuk negeri ini, untuk pedang ini dan untuk hidupku.
-Pendekar membutuhkan sesuatu untuk dia lindungi. Tanpa itu, dia tidak akan bisa bertarung."</em><br>
-  — <strong>Ginkaku Uneri</strong>, <em>Katanagatari</em>
+  <em>"Aku tak peduli apa yang akan kalian katakan atau pikirkan. Aku bukanlah anak iblis. Ayahku hanya satu, tidak lain dan tidak bukan adalah pria itu!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
