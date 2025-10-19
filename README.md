@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau telah menuntunku. Kau telah memberikan kehidupan bagi boneka sepertiku."</em><br>
-  — <strong>Irisviel von Einzbern</strong>, <em>Fate/Zero</em>
+  <em>"Doa itu penuh dengan ajaran masa depan."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
 </div>
 <!-- QUOTE END -->
 
