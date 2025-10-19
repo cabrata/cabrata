@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kepercayaan rakyatlah yang membuatku terus hidup."</em><br>
-  — <strong>Ortfiné Fredericka von Eylstadt</strong>, <em>Shuumatsu no Izetta</em>
+  <em>"Cinta adalah hasrat yang buruk."</em><br>
+  — <strong>Quinella</strong>, <em>Sword Art Online: Alicization</em>
 </div>
 <!-- QUOTE END -->
 
