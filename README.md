@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin menciptakan banyak senyuman bahagia dengan sihir. Karena ini kekuatan yang diberikan oleh tuhan, kita harus menggunakannya untuk dunia."</em><br>
-  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Kita tak boleh mengharapkan kehidupan rumah seperti di dalam drama (sinetron)."</em><br>
+  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
