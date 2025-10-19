@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau menginginkan sesuatu, kau harus menyiapkan penawaran dari dirimu sendiri, atau kesepakatan takkan tercapai."</em><br>
-  — <strong>Dirk Eberwein</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Kau boleh menertawakan tindakan seseorang, kau pun bebas mengatakan apapun tentang mereka. Tapi jangan pernah kau menertawakan perasaan mereka."</em><br>
+  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
 </div>
 <!-- QUOTE END -->
 
