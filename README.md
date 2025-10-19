@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun cahaya kembang api akan menghilang, tapi kenangannya akan terus terjaga."</em><br>
-  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
+  <em>"Kau memang benar. Seperti yang telah kau katakan, aku memang bodoh. Jadi aku tak peduli apa yang kau katakan padaku! Tapi, jangan pernah mengarahkan senjatamu ke Kakakmu sendiri! Kita ini bersaudara!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
