@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tak boleh mengharapkan kehidupan rumah seperti di dalam drama (sinetron)."</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Menyumbunyikan semua usaha dari orang lain bukan sesuatu yang bisa dilakukan semua orang."</em><br>
+  — <strong>Oota</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
 </div>
 <!-- QUOTE END -->
 
