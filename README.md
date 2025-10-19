@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah seorang profesional, tapi jika kau tak bisa menyeimbangkan antara pembunuh (profesi) dan guru (tuntutan peran dalam profesi), maka ini (sekolah) adalah tempat terburuk bagi orang profesional sepertimu."</em><br>
-  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Bagiku, senyum Emilia-tan adalah bintang yang bersinar paling terang di langit malam."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
