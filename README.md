@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus punya mata dan keberanian untuk mengatakan yang bagus ya bagus, dan jelek ya jelek."</em><br>
-  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Aku dengar kau mengatakan sesuatu yang menarik di upacara pembukaan.
+Menjadi yang terbaik di Akademi Tootsuki mungkin tak semudah yang kau bayangkan."</em><br>
+  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
