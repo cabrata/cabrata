@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""skakmat" bukan berarti kau menyudutkan raja lawan. Itu adalah pernyataan bahwa raja lawan menjadi milikmu."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Tak masalah kabur untuk tetap hidup. Karena kau bukan hewan ternak yang tak punya tempat untuk melarikan diri."</em><br>
+  — <strong>Kouchou</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
