@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang berbakat itu bisa membuat orang lain mendekat dan tanpa sadar menghancurkannya. Semakin kau dekat dengan mereka, kau akan semakin hancur. Mereka hidup dalam dunia yang benar-benar berbeda dari kita, yang tak bisa diraih oleh orang biasa. Dunia yang tak akan pernah bisa kita lihat, dunia diatas awan."</em><br>
-  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Dengan menerapkan aturan diri sendiri pada dirimu, itu untuk mendorong dan membantumu untuk mengatasi tantangan atau situasi yang sulit. Kau menerapkan aturan diri sendiri hanya pada dirimu. Karena aturan itulah kau bisa mengumpulkan kekuatanmu dan fokus pada usahamu. Bahkan jika kau gagal, kau sudah menerapkan aturan yang membuat dirimu menjadi sangat disiplin dan fokus. Begitulah "aturan diri sendiri"."</em><br>
+  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
