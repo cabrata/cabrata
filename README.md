@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang tahu ide akan muncul dari mana. Karena itu pastikan antenamu terus berdiri."</em><br>
-  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
+  <em>"Meskipun aku tidak tahu pilihan mana yang benar, tapi setidaknya aku tahu pilihan mana yang harus aku pilih."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
