@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh menertawakan tindakan seseorang, kau pun bebas mengatakan apapun tentang mereka. Tapi jangan pernah kau menertawakan perasaan mereka."</em><br>
-  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"(Bukan berarti) aku tidak ingin menjadi kuat.
+Kalau bisa aku (hanya) ingin tetap menjadi seorang gadis selamanya..."</em><br>
+  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
