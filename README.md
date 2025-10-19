@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyumbunyikan semua usaha dari orang lain bukan sesuatu yang bisa dilakukan semua orang."</em><br>
-  — <strong>Oota</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
+  <em>"Seorang pria bernama Araragi Koyomi, terkadang mengutamakan seorang anak perempuan daripada mengutamakan temannya ataupun pacarnya."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
