@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semoga saja suatu saat jalan yang kuambil ini akan mempertemukanku denganmu lagi."</em><br>
-  — <strong>Miki Naoki</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Rasa lapar adalah bumbu terbaik."</em><br>
+  — <strong>Shinobu Oshino</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
