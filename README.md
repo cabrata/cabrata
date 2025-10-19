@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Takut dengan kematian itu wajar. Tapi bertahan hidup tanpa melakukan apa pun itu sama sekali tidak indah."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
+  <em>"Apapun hobinya, tidak masalah selama bisa ditekuni dengan baik."</em><br>
+  — <strong>Saori Makishima</strong>, <em>Ore no Imouto ga Konnani Kawaii Wake ga Nai</em>
 </div>
 <!-- QUOTE END -->
 
