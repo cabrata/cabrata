@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun aku tidak tahu pilihan mana yang benar, tapi setidaknya aku tahu pilihan mana yang harus aku pilih."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Aku merasakan perubahan. Aku yang dulunya tidak tertarik dengan orang lain tanpa kusadari, aku berubah karena dia. Kalau disesuaikan, mungkin aku memilih untuk mengubah diriku. Aku memilih untuk memungut catatan penyakitnya. Aku memilih untuk menemaninya. Lalu, aku memilih untuk berjalan bersamanya."</em><br>
+  — <strong>Haruki Shiga</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
 
