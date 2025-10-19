@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Awalnya peluang selalu terlihat mustahil."</em><br>
-  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
+  <em>"Hidup itu terkadang jadi serasa lebih panjang setelah usia kita berkurang."</em><br>
+  — <strong>Eisen</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
