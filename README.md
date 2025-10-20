@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak boleh ragu, untuk negeri ini, untuk pedang ini dan untuk hidupku.
-Pendekar membutuhkan sesuatu untuk dia lindungi. Tanpa itu, dia tidak akan bisa bertarung."</em><br>
-  — <strong>Ginkaku Uneri</strong>, <em>Katanagatari</em>
+  <em>"Memang benar, pemain di seusiamu masih bisa memaksakan diri untuk berjuang. Tapi, jikalau ingin jadi juara dunia, kau juga harus berani mengibarkan bendera putih."</em><br>
+  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
