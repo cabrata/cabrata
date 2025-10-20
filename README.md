@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku baru saja mengetahuinya. Ketika orang yang berharga bagimu menghilang dunia ini terlihat seperti sebuah monochrome."</em><br>
-  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
+  <em>"Orang genius tidak setara di mata hukum."</em><br>
+  — <strong>Iria Akagami</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
