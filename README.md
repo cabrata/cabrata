@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap kali kamu khawatir atau saat menemui jalan buntu, bisa ceritakan (masalahmu itu) padaku?
-Aku mungkin tak bisa membantu banyak, tapi aku ingin lebih dari sekedar berada di sisimu. Aku ingin jadi sumber kekuatanmu."</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Aku akan menyelamatkannya karena dia adalah temanku. Kalau ada orang yang membuatnya menderita, aku tidak akan memaafkannya!"</em><br>
+  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya 3rei!!</em>
 </div>
 <!-- QUOTE END -->
 
