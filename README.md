@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekuatan sejati adalah kekuatan yang dapat mengendalikan lingkungan dan jiwa mereka yang lemah, lalu membuat mereka melayanimu tanpa mereka sadari."</em><br>
-  — <strong>Aryabahta</strong>, <em>Taboo Tattoo</em>
+  <em>"Kalau kita sedang jatuh cinta, dunia jadi kelihatan lebih berwarna."</em><br>
+  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
