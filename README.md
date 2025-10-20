@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang dewasa itu memang (makhluk yang) kotor."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Wanita terlihat paling cantik ketika mereka membicarakan orang yang mereka sukai."</em><br>
+  — <strong>Hiroomi Souma</strong>, <em>Working!!</em>
 </div>
 <!-- QUOTE END -->
 
