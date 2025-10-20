@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita sedang jatuh cinta, dunia jadi kelihatan lebih berwarna."</em><br>
-  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Aku akan menghapus kegelapan di masa lalu, dan membangun masa depan yang cerah dari awal."</em><br>
+  — <strong>Sasuke Uchiha</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
