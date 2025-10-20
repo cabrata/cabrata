@@ -5,9 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya mereka yang lahir dengan bakat yang dapat menjadi seniman manga.
-Dan diantara mereka, hanya yang jeniuslah yang bisa melakukannya, sisanya hanyalah berjudi."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Perasaan yang belakangan ini kurasakan...
+Perasaan yang sejak itu terus tumbuh...
+(Aku ingin tahu) suatu saat, apakah aku bisa menggapaimu..."</em><br>
+  — <strong>Shouta Kazehaya</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
