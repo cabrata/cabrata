@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pasti kau sudah lama tidak menangis. Syukurlah! Sekarang kau punya tempat untuk menangis."</em><br>
-  — <strong>Chiaki Takahashi</strong>, <em>Sket Dance</em>
+  <em>"Siapapun yang ingin turun sebelum sampai di puncak, sebaiknya jatuh saja."</em><br>
+  — <strong>Sougo Okita</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
