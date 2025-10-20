@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak boleh ragu, untuk negeri ini, untuk pedang ini dan untuk hidupku.
-Pendekar membutuhkan sesuatu untuk dia lindungi. Tanpa itu, dia tidak akan bisa bertarung."</em><br>
-  — <strong>Ginkaku Uneri</strong>, <em>Katanagatari</em>
+  <em>"Menyusun waktu untuk para creator adalah pekerjaan seorang produser."</em><br>
+  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
