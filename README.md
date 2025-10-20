@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap makhluk itu berusaha untuk hidup. Kita semua adalah teman."</em><br>
-  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Tidak masalah jika kau cemas, tapi jangan memaksakan dirimu.
+Jika ingin menangis, menangislah.
+(Karena) menangis bukan berarti lemah."</em><br>
+  — <strong>Junichi Tachibana</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
