@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seorang gadis tidak menyukaimu, maka rumor buruk akan menyebar dan mempengaruhi gadis lain."</em><br>
-  — <strong>Kodaka Hasegawa</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
+  <em>"Meraka yang tak pernah mencoba tidak berhak iri pada mereka yang memiliki bakat.
+Mereka yang gagal itu karena mereka tidak membayangkan usaha yang dilakukan orang yang berhasil."</em><br>
+  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
