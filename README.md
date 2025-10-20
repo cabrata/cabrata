@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebaiknya jangan pernah menerima uang yang tak pantas diterima. Kalau kau terima, nanti kau akan selalu manggampangkan masalah."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Bekerja keras adalah bakat terbaik."</em><br>
+  — <strong>Hiroshi Kido</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
