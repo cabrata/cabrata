@@ -5,10 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak masalah jika kau cemas, tapi jangan memaksakan dirimu.
-Jika ingin menangis, menangislah.
-(Karena) menangis bukan berarti lemah."</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS</em>
+  <em>"Jangan pernah minta maaf atas kerja kerasmu.
+Itu sama saja kau menghina tekadmu sendiri."</em><br>
+  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
