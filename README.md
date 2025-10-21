@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak apa kalau hanya aku yang merugi. Asalkan tidak menyusahkan orang lain."</em><br>
-  — <strong>Naho Takamiya</strong>, <em>Orange</em>
+  <em>"Seorang Idol dapat melakukan banyak hal. Mereka semua sungguh fantastis."</em><br>
+  — <strong>Anastasia</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
