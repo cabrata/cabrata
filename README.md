@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak bisa terus-terusan terluka karena hal yang telah berlalu. Aku harus menghadapinya, menerimanya, memikirkannya, dan terus melangkah maju."</em><br>
-  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Film bagus akan tetap bagus dilihat di layar apa pun."</em><br>
+  — <strong>Tsukasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
