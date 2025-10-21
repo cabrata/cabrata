@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sekarang aku hanyalah sekuncup bunga. Tapi, itulah kenapa aku menatap matahari yang jauh di atas, dan terus minum agar tidak kering. Mulai saat ini, aku akan berusaha untuk mekar!"</em><br>
-  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Jika kau ingin memperlihatkan impianmu pada seseorang, kau harus mempercayai impianmu itu terlebih dahulu."</em><br>
+  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
