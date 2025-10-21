@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus meraih surga dan tetap menjaga langkah kaki kita tetap selalu berada di atas tanah."</em><br>
-  — <strong>Tatsuya Shiba</strong>, <em>Mahouka Koukou no Rettousei</em>
+  <em>"Pahlawan itu tidak ada.
+Dalam dunia nyata, mereka yang beradaptasi dengan kenyataan yang akan menang."</em><br>
+  — <strong>Ryuuichi Kazama</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
