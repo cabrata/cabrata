@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang Idol dapat melakukan banyak hal. Mereka semua sungguh fantastis."</em><br>
-  — <strong>Anastasia</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Bakat bukanlah sesuatu yang bisa didapat dengan bekerja keras."</em><br>
+  — <strong>Eiko Tsukimi</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
