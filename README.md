@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu kehormatan bagi setiap pria bisa menjadi sandaran wanita."</em><br>
-  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
+  <em>"Satu hari satu kebaikan"</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
