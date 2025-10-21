@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau ingin melindungi seseorang yang berharga bagimu, maka aku akan berada di pihakmu."</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
+  <em>"Kalau kita tidak bahagia, maka kita tidak bisa membuat tamu bahagia. Selain itu, ini bukan hanya demi kamu. Kalau kau bahagia, aku juga bahagia."</em><br>
+  — <strong>Seiji Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
