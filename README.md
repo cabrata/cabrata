@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama kau tak menyerah, impianmu akan terwujud. Begitulah dunia ini."</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Yang bermain lebih agresif itu jauh lebih diuntungkan."</em><br>
+  — <strong>Makoto Shimada</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
