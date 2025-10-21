@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang yang berniat membunuh ayahnya sendiri tidak berhak untuk menjadi Raja."</em><br>
-  — <strong>Shizu</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Kau boleh mati dengan mempertahankan harga dirimu itu,  tapi jika kau makan dan hidup bukankah masa depanmu akan lebih baik?"</em><br>
+  — <strong>Sanji</strong>, <em>One Piece</em>
 </div>
 <!-- QUOTE END -->
 
