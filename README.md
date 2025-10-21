@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh kalah di permainan ataupun di pertandaingan.
-Tapi kalau kau tidak kalah dengan dirimu sendiri, itu bukan kekalahan."</em><br>
-  — <strong>Karen Araragi</strong>, <em>Nisemonogatari</em>
+  <em>"Saat aku masih kecil, aku bercita-cita ingin menjadi seorang pahlawan.
+Tapi aku ingin jadi pahlawan yang menghempaskan penjahat kurang ajar (sepertimu) dengan satu pukulan !"</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
