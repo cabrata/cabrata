@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia akan memilih kesukaan mereka sendiri, lebih tepatnya mereka harus memilih sendiri."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Selama kau tak menyerah, impianmu akan terwujud. Begitulah dunia ini."</em><br>
+  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
