@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"24 jam dalam satu hari itu tidak cukup. Apakah kamu pernah merasakan seperti itu?
-Aku ingin melakukan semua hal yang ingin kulakukan. Tapi, tidak bisa (karena waktunya tak cukup)."</em><br>
-  — <strong>Yuuka Kobayakawa</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Aku akan menjadi pria terhebat di dunia yang akan membuat orang tersenyum dengan kue (buatanku)."</em><br>
+  — <strong>Kouki Ichinose</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
