@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak tahan dengan wanita yang mengistimewakan gendernya sendiri, dan mengatai laki-laki "bencong" karena ia tak sesuai dengan yang diharapkannya!"</em><br>
-  — <strong>Kazuma Satou</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
+  <em>"Kau akan menjadi kuat ketika semua orang mengincarmu."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
