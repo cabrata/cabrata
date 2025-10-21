@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kejujuran yang kau perlihatkan saat kau mengungkapkan perasaanmu benar-benar murni dan manis."</em><br>
-  — <strong>Suzuno Kamazuki</strong>, <em>Hataraku Maou-sama!</em>
+  <em>"Kita tidak hanya mencoba, tapi kita akan jadi yang terbaik."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
