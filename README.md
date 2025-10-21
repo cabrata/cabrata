@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keadilan tanpa kekuatan hanyalah omong kosong."</em><br>
-  — <strong>Kakek Seigi</strong>, <em>Taboo Tattoo</em>
+  <em>"Kunci kesuksesan dalam berbisnis adalah senyuman."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
 </div>
 <!-- QUOTE END -->
 
