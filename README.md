@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Supaya diriku diakui oleh ayahku, aku juga harus bisa menjadi orang yang bisa diandalkan! Aku juga akan menjadi orang baik."</em><br>
-  — <strong>Miyako Otori</strong>, <em>Shounen Maid</em>
+  <em>"Kejujuran yang kau perlihatkan saat kau mengungkapkan perasaanmu benar-benar murni dan manis."</em><br>
+  — <strong>Suzuno Kamazuki</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
