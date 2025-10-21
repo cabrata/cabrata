@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada perjalanan yang tanpa akhir. Ketika tiba saatnya kita harus berpisah, aku ingin kita berpisah dengan senyuman."</em><br>
-  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
+  <em>"Wanita itu orang yang realistis. Kami tidak percaya hanya pada kata-kata."</em><br>
+  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
