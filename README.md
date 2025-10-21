@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tahu kalau diriku ini sangat lemah, aku tak punya kesempatan untuk mengalahkanmu. Akulah yang paling tahu akan hal itu.Meski begitu, aku akan tetap melakukannya. Ini bukan soal menang atau kalah, tapi karena aku harus melawanmu disini sekarang juga (sebagai pahlawan yang akan melawan penjahat)."</em><br>
-  — <strong>Mumen Rider</strong>, <em>One Punch Man</em>
+  <em>"Aku tak perlu sebuah alasan untuk menyukaimu. Ketika kusadari, aku sudah menyukaimu."</em><br>
+  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
