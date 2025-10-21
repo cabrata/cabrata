@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dari pada membiarkan seseorang mati, lebih baik aku mati bersamanya. Khususnya, jika itu menimpa gadis sepertimu."</em><br>
-  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
+  <em>"Tidak apa kalau hanya aku yang merugi. Asalkan tidak menyusahkan orang lain."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
