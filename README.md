@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dazai pernah berkata, "Manusia lahir untuk cinta dan revolusi"."</em><br>
-  — <strong>Kotarou Azumi</strong>, <em>Tsuki ga Kirei</em>
+  <em>"Melihat seorang murid yang menatap masa depannya itu begitu indah."</em><br>
+  — <strong>Souma</strong>, <em>Demi-chan wa Kataritai</em>
 </div>
 <!-- QUOTE END -->
 
