@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pandangan yang sempit adalah musuh idealisme dan kecerdasan."</em><br>
-  — <strong>Eiha Kudou</strong>, <em>Gimai Seikatsu</em>
+  <em>"Perempuan itu suka kalau kita punya uang, laki-laki suka kalau kita punya daging."</em><br>
+  — <strong>Niwatori</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
