@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang takut untuk berdiri diatas panggung. Mungkin kau akan gagal, mungkin juga mereka (para penonton) akan menolakmu. Meski begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Suatu kehormatan bagi setiap pria bisa menjadi sandaran wanita."</em><br>
+  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
 </div>
 <!-- QUOTE END -->
 
