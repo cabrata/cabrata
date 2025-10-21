@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat aku masih kecil, aku bercita-cita ingin menjadi seorang pahlawan.
-Tapi aku ingin jadi pahlawan yang menghempaskan penjahat kurang ajar (sepertimu) dengan satu pukulan !"</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Aku tahu kalau diriku ini sangat lemah, aku tak punya kesempatan untuk mengalahkanmu. Akulah yang paling tahu akan hal itu.Meski begitu, aku akan tetap melakukannya. Ini bukan soal menang atau kalah, tapi karena aku harus melawanmu disini sekarang juga (sebagai pahlawan yang akan melawan penjahat)."</em><br>
+  — <strong>Mumen Rider</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
