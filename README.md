@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tidak hanya mencoba, tapi kita akan jadi yang terbaik."</em><br>
-  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
+  <em>"Aku suka melihatmu ketika melakukan hal-hal yang kamu sukai."</em><br>
+  — <strong>Hirotaka Nifuji</strong>, <em>Wotaku ni Koi wa Muzukashii</em>
 </div>
 <!-- QUOTE END -->
 
