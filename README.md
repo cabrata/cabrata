@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melakukan yang terbaik, berjuang dengan segala apa yang kubisa untuk berbohong. Karena bagitu, kebohongan adalah cinta. Dengan kata lain, berbohong adalah caraku untuk mengungkapkan rasa cinta."</em><br>
-  — <strong>Ai Hoshino</strong>, <em>[Oshi no Ko]</em>
+  <em>"Hujan dan badai takkan menghentikanku. Dan tentu saja, keinginan untuk bisa terus berada di tempat tidur takkan menghentikanku. Aku harus terus berusaha sebaik mungkin sebagai orang yang telah dewasa."</em><br>
+  — <strong>Aoba Suzukaze</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
