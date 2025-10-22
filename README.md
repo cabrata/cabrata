@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup bersandiwara (untuk menjadi sosok ideal) sering kali sangat melelahkan. Karena itu, aku ingin kamu tetap menjadi dirimu sendiri."</em><br>
-  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
+  <em>"Jika kau ingin melakukan sesuatu yang kau sukai, kau harus memperjuangkan itu dengan belajar lebih baik lagi."</em><br>
+  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
