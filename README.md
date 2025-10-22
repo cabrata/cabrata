@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Satu hari satu kebaikan"</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Pada akhirnya, menepati janji adalah jalan yang paling singkat untuk mendapatkan hasil."</em><br>
+  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
