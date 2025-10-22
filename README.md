@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebaiknya jangan pernah menerima uang yang tak pantas diterima. Kalau kau terima, nanti kau akan selalu manggampangkan masalah."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Di dunia ini berlaku hukum rimba. Yang kuat dapat menyelamatkan atau membunuh yang lemah."</em><br>
+  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
