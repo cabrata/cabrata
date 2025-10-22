@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena ada kesediahan, maka ada kesenangan."</em><br>
-  — <strong>Kanna Tanigawa</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Kita tidak memilih jalan kita berdasarkan dosa yang kita bawa, tetapi membawa dosa kita pada jalan yang kita pilih."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
