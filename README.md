@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan sebut babi itu gendut. Lemak babi itu hanya 15%. Sedangkan Seorang Pria memiliki lemak 10% hingga 20% dan Wanita antara 20% hingga 30%."</em><br>
-  — <strong>Ichiko Fuji</strong>, <em>Gin no Saji</em>
+  <em>"Kalau kau tidak hidup demi dirimu sendiri, maka kau takkan pernah mengerti apa itu arti kebahagiaan!"</em><br>
+  — <strong>Rin Tohsaka</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
