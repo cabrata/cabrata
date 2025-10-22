@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah tantangan. Tak ada gunanya hidup jika tak ada lawan yang kuat untuk bermain. Lebih baik jika aku tidak menang."</em><br>
-  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
+  <em>"Karena aku sungguh-sungguh mencintai Misaki, aku tak boleh meninggalkan impianku dan hanya menjadi orang biasa."</em><br>
+  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
