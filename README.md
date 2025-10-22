@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena aku sungguh-sungguh mencintai Misaki, aku tak boleh meninggalkan impianku dan hanya menjadi orang biasa."</em><br>
-  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Jika dengan bertarung bisa melindungi senyuman seseorang, maka itu saja sudah cukup memberi alasan untukku melakukannya."</em><br>
+  — <strong>Hayato Kisaragi</strong>, <em>Hundred</em>
 </div>
 <!-- QUOTE END -->
 
