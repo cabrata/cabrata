@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""skakmat" bukan berarti kau menyudutkan raja lawan. Itu adalah pernyataan bahwa raja lawan menjadi milikmu."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Sebaiknya jangan pernah menerima uang yang tak pantas diterima. Kalau kau terima, nanti kau akan selalu manggampangkan masalah."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
 </div>
 <!-- QUOTE END -->
 
