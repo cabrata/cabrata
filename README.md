@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau ingin melakukan sesuatu yang kau sukai, kau harus memperjuangkan itu dengan belajar lebih baik lagi."</em><br>
-  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji 2nd Season</em>
+  <em>"Aku itu orang payang yang tak akan melakukan sesuatu yang tak ingin aku lakukan."</em><br>
+  — <strong>Nako Sunao</strong>, <em>Hitoribocchi no Marumaru Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
