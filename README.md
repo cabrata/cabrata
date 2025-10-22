@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tidak hidup demi dirimu sendiri, maka kau takkan pernah mengerti apa itu arti kebahagiaan!"</em><br>
-  — <strong>Rin Tohsaka</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Wanita itu terbuat dari gula dan bumbu, serta sesuatu yang menakjubkan, meski aku tidak tahu apa itu. Tentu saja, kalau dimisalkan di dalam Isshiki memang terlalu banyak rasa pedas, tapi ... mau dikasih gula sebanyak apapun, pedas tetaplah pedas. Kau takkan bisa mengerti hal menakjubkannya sebelum merasakannya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
