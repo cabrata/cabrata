@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kata-kata itu memiliki dua sisi. Tidak semua hal yang diucapkan itu sama dengan yang ingin disampaikan."</em><br>
-  — <strong>Cattleya Baudelaire</strong>, <em>Violet Evergarden</em>
+  <em>"Aku tak peduli dengan masa depan yang belum pasti."</em><br>
+  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
 </div>
 <!-- QUOTE END -->
 
