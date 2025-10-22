@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku menjadi school idol karena kalian berdua, dan bisa sampai disini karena kalian terus menungguku."</em><br>
-  — <strong>Mari Ohara</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Orang-orang sering melihat ke langit ketika mereka sedang bingung."</em><br>
+  — <strong>Tooru Miyamae</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
