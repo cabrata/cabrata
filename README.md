@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku itu orang payang yang tak akan melakukan sesuatu yang tak ingin aku lakukan."</em><br>
-  — <strong>Nako Sunao</strong>, <em>Hitoribocchi no Marumaru Seikatsu</em>
+  <em>"Bertemu denganmu dan melukis bersamamu benar-benar menyenangkan.
+Kata-kata dan senyum terakhir yang kamu berikan tak akan kulupakan seumur hidupku. Karena itu, tetaplah tersenyum seperti itu selamanya."</em><br>
+  — <strong>Yukito Renjou</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
