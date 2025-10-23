@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah berpura-pura dapat melihat sesuatu yang tidak bisa kau lihat, atau berpura-pura kau tidak bisa melihat sesuatu yang kau bisa lihat."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Bakemonogatari</em>
+  <em>"Ketika bersama denganmu, segalanya jadi menyenangkan."</em><br>
+  — <strong>Yukiko Asai</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
