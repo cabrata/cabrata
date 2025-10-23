@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika minta maaf dapat menyelesaikan masalah, maka tidak akan ada tindakan bunuh diri yang dilakukan oleh samurai jika gagal melaksanakan tugas."</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Informasinya tidak kredibel jika sumbernya tidak jelas."</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
