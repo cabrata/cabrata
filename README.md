@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Agen papan atas adalah agen yang bisa menghabisi anak muda genius sebelum tumbuh dewasa."</em><br>
-  — <strong>Koumori</strong>, <em>Tantei wa Mou, Shindeiru.</em>
+  <em>"Bertemu denganmu dan melukis bersamamu benar-benar menyenangkan.
+Kata-kata dan senyum terakhir yang kamu berikan tak akan kulupakan seumur hidupku. Karena itu, tetaplah tersenyum seperti itu selamanya."</em><br>
+  — <strong>Yukito Renjou</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
