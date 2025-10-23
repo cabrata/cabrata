@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan menyelamatkan kalian semua. Hiduplah kalian dengan mengingat rasa malu karena telah diselamatkan oleh orang yang kalian buang. Lalu aku akan menertawakan kalian yang hidup seperti itu."</em><br>
-  — <strong>Ikoma</strong>, <em>Koutetsujou no Kabaneri</em>
+  <em>"Tidak ada darimu atau perkataan temanmu yang mempengaruhi hidupku dalam hal apapun, baik bentuk maupun jalannya."</em><br>
+  — <strong>Jinta Yadomi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
