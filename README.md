@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Satu hari satu kebaikan"</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Kalau kau punya waktu untuk bicara omong kosong, (lebih baik) lakukan semua yang kau bisa untuk bertahan hidup."</em><br>
+  — <strong>Tanya Degurechaff</strong>, <em>Youjo Senki</em>
 </div>
 <!-- QUOTE END -->
 
