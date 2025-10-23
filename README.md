@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan jika itu berarti mati, tidak ada satu pun dari kami yang akan mengkhianati teman sendiri."</em><br>
-  — <strong>Kakashi Hatake</strong>, <em>Naruto Shippuden</em>
+  <em>"Informasinya tidak kredibel jika sumbernya tidak jelas."</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
