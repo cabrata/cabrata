@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian akan dapat terus maju dengan berpegang pada penderitaan.
-Jaga teman kalian saat ini. (Karena) jika mereka mati, mereka takkan kembali."</em><br>
-  — <strong>Shinohara</strong>, <em>Hai to Gensou no Grimgar</em>
+  <em>"Kami tidak seperti manusia yang takut akan kematian. Karena kami sudah hidup cukup lama dan tidak meninggalkan penyesalan."</em><br>
+  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
