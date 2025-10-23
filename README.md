@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup tak seperti adegan film yang bisa diulang."</em><br>
-  — <strong>Direktur</strong>, <em>Bokutachi no Remake</em>
+  <em>"Terkadang kau akan melihat sesuatu saat memejamkan mata."</em><br>
+  — <strong>Arthur Boyle</strong>, <em>Enen no Shouboutai</em>
 </div>
 <!-- QUOTE END -->
 
