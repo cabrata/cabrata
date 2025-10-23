@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah memukul seseorang jika kalian belum siap untuk dipukul (juga)."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama°</em>
+  <em>"Kamu tidak usah mencemaskannya. Apapun yang kamu rasakan tinggal lepaskan saja. Aku tidak berpikir kita akan bisa mulai dari nol ke seratus dengan cepat. Tapi mungkin kita bisa mendapat satu. Aku ingin melihat jika kita bisa melakukannya juga."</em><br>
+  — <strong>Riko Sakurauchi</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
