@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami tidak seperti manusia yang takut akan kematian. Karena kami sudah hidup cukup lama dan tidak meninggalkan penyesalan."</em><br>
-  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Agen papan atas adalah agen yang bisa menghabisi anak muda genius sebelum tumbuh dewasa."</em><br>
+  — <strong>Koumori</strong>, <em>Tantei wa Mou, Shindeiru.</em>
 </div>
 <!-- QUOTE END -->
 
