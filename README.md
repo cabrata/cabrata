@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Informasinya tidak kredibel jika sumbernya tidak jelas."</em><br>
-  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
+  <em>"Saat wanita menunjukkan kelemahannya, saat itulah pria bertindak. Tolong berhati-hatilah."</em><br>
+  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
