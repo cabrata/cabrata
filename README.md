@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika cintamu tidak terbalas, kau harus segera move on darinya."</em><br>
-  — <strong>Izumi Takanashi</strong>, <em>Working!!!</em>
+  <em>"Seorang pejuang harus selalu berpegang teguh pada keyakinannya."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
