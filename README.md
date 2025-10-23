@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang ada hal yang tak bisa sampaikan pada seseorang meskipun orang itu dekat denganmu."</em><br>
-  — <strong>Nanami Aoyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Aku adalah pedangmu, tidak peduli sekeras apapun rintangannya aku akan selalu mengikutimu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
