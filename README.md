@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Ketika anak kecil melakukan kesalahan) Tidak ada yang perlu dimarahi. Dan tidak ada yang perlu ditertawakan."</em><br>
-  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
+  <em>"Cinta itu sama halnya dengan "soal ujian".
+Pertama kau harus mengenalnya dengan baik, lalu mulailah ketika kau sudah memahaminya."</em><br>
+  — <strong>Soujirou Agata</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
