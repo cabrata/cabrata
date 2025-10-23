@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pejuang harus selalu berpegang teguh pada keyakinannya."</em><br>
-  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
+  <em>"Bolehkah aku berjuang untuk membuatmu mencintaiku?"</em><br>
+  — <strong>Nozomi Matsunaga</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
