@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah kuputuskan. Akan kubuat Hiyori menjadi wanita paling bahagia di dunia ini."</em><br>
-  — <strong>Yato</strong>, <em>Noragami Aragoto</em>
+  <em>"Aku harus melindungi kehidupanku bersama Shio-chan karena aku ingin lebih mengetahui tentang cinta."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
