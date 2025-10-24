@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau sudah bertekad, lebih baik kita segera bertindak."</em><br>
-  — <strong>Enri Emmot</strong>, <em>Overlord III</em>
+  <em>"Sudah kuputuskan. Akan kubuat Hiyori menjadi wanita paling bahagia di dunia ini."</em><br>
+  — <strong>Yato</strong>, <em>Noragami Aragoto</em>
 </div>
 <!-- QUOTE END -->
 
