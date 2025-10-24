@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman itu sulit dicari, jadi jaga teman kalian baik-baik."</em><br>
-  — <strong>Sei Handa</strong>, <em>Handa-kun</em>
+  <em>"Melihat ke belakang dan belajar dari pengalaman adalah bagian dari kehidupan."</em><br>
+  — <strong>All Might</strong>, <em>Boku no Hero Academia</em>
 </div>
 <!-- QUOTE END -->
 
