@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dirimu yang tak bisa berterus terang seperti itu."</em><br>
-  — <strong>Rita Ainsworth</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Hanya dengan keberadaanmu dan senyummu aku merasa bahagia.
+Hanya dengan keberadaanmu dan berjalan bersamamu aku merasa senang."</em><br>
+  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
