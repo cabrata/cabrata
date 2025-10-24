@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia adalah tipe orang yang tak mempercayai orang lain. Bukankah tak mungkin orang seperti dia akan menemukan kebahagiaan?"</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Yang penting adalah menunjukkan dirimu sendiri, dirimu yang bersinar!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
