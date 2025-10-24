@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang gadis tidak boleh menunjukkan tubuhnya sembarangan pada orang lain."</em><br>
-  — <strong>Ibu Tadokoro</strong>, <em>Shokugeki no Souma</em>
+  <em>"Kepercayaan rakyatlah yang membuatku terus hidup."</em><br>
+  — <strong>Ortfiné Fredericka von Eylstadt</strong>, <em>Shuumatsu no Izetta</em>
 </div>
 <!-- QUOTE END -->
 
