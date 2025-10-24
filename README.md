@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman adalah kecap manis. Teman adalah penyedap rasa yang jauh lebih baik dari pada gula dan garam."</em><br>
-  — <strong>Nico Niiyama</strong>, <em>Kiznaiver</em>
+  <em>"Berbeda denganmu, aku tidak membuat keputusan berdasarkan perasaanku. Mencampurkan cinta dengan pekerjaan adalah ide yang buruk. Begitu kau membuat keputusan, membiarkan perasaanmu pada seseorang mempengaruhi pekerjaanmu itu tidak bisa dibiarkan."</em><br>
+  — <strong>Minko Tsurugi</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
