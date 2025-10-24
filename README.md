@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang tidak menghargai karya orang lain adalah orang yang sudah lupa cara menikmati hidup."</em><br>
-  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service Kai</em>
+  <em>"Entah menang atau kalah itu bukan masalah. Karena bekerja keras menuju tujuan itu sangat menyenangkan.
+Tapi jangan salah, meskipun aku bilang begitu. Aku tidak berniat untuk kalah."</em><br>
+  — <strong>Teppei Kiyoshi</strong>, <em>Kuroko no Basket 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
