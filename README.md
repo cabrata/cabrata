@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi mencapainya, aku tidak peduli walau harus menjadi segala bentuk kejahatan di dunia ini. Jika hal itu mampu menyelamatkan dunia, maka dengan senang hati akan kulakukan."</em><br>
-  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Tidak ada keajaiban yang bisa diraih tanpa pengorbanan."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
