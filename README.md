@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang gadis akan merasa senang jika diperlakukan secara lembut."</em><br>
-  — <strong>Rory Mercury</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Teruslah berjuang walaupun itu mustahil.
+Lakukanlah sampai perasaanmu mencapainya"</em><br>
+  — <strong>Minene Uryuu</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
