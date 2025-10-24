@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami percaya kalau semua yang diberikan pada kami itu sama seperti yang diberikan pada semua makhluk hidup di planet ini."</em><br>
-  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Meskipun aku tidak tahu pilihan mana yang benar, tapi setidaknya aku tahu pilihan mana yang harus aku pilih."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
