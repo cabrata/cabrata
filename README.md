@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria bernama Araragi Koyomi, terkadang mengutamakan seorang anak perempuan daripada mengutamakan temannya ataupun pacarnya."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Teman adalah kecap manis. Teman adalah penyedap rasa yang jauh lebih baik dari pada gula dan garam."</em><br>
+  — <strong>Nico Niiyama</strong>, <em>Kiznaiver</em>
 </div>
 <!-- QUOTE END -->
 
