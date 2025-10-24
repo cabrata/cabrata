@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu telah memberikan berbagai hal yang berharga untukku."</em><br>
-  — <strong>Yuito Aoi</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Aku suka dengan orang yang bahagia. Melihat mereka saja membuatku merasa bahagia.
+(Tapi) yang kubenci adalah mereka yang tidak tahu alasan kebahagiaan mereka.
+Mereka yang tak peduli kenapa mereka bahagia."</em><br>
+  — <strong>Sodachi Oikura</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
