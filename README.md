@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita itu seperti sake, semakin berumur semakin nikmat."</em><br>
-  — <strong>Sumiko Kawai</strong>, <em>Bokura wa Minna Kawaisou</em>
+  <em>"Sudah jadi kewajiban seorang samurai untuk membalas budi (setiap kebaikan)."</em><br>
+  — <strong>Amidamaru</strong>, <em>Shaman King</em>
 </div>
 <!-- QUOTE END -->
 
