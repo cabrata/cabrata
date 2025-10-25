@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena tidak meminta tolong bukan berarti tidak ingin ditolong.
-Hanya karena dia tidak bilang cinta bukan berarti dia tidak mencintaimu.
-Siapapun punya hal yang tak bisa dikatakan walaupun ingin mengatakannya."</em><br>
-  — <strong>Meme Oshino</strong>, <em>Nekomonogatari: Kuro</em>
+  <em>"Ada beberapa pengalaman yang hanya bisa kau dapatkan ketika sedang berlibur."</em><br>
+  — <strong>Tomosuke Matsumoto</strong>, <em>Fune wo Amu</em>
 </div>
 <!-- QUOTE END -->
 
