@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Asalkan itu menarik, kebohongan juga tak masalah."</em><br>
-  — <strong>Manako Jouten</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
+  <em>"Wanita itu jika tersenyum akan terlihat cantik."</em><br>
+  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
 </div>
 <!-- QUOTE END -->
 
