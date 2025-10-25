@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau ingin bernegosiasi, kau harus menawarkan keuntungan yang bisa didapatkan. Jika tidak, maka tidak ada negosiasi"</em><br>
-  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kau dan Dr. Magata adalah orang yang berbeda. Tak perlu berpikir hal yang sama. Lagi pula, bagaimanapun juga manusia tak mungkin bisa saling merasakan perasaan yang sama, tak peduli seberapa dekat mereka. Karena itu, mulai sekarang apa yang ingin kau lakukan, pikirkanlah seorang diri."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
