@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Membunuh manusia tak ada bedanya dengan membunuh binatang."</em><br>
-  — <strong>Inounoshishi</strong>, <em>Juuni Taisen</em>
+  <em>"Menurutku wajar jika kau tidak mempercayai siapa pun di dunia yang tak kau kenal ini. Aku pun juga tak (akan) percaya. Mempercayai seseorang bisa terjadi setelah kau menjadi teman atau kekasihnya."</em><br>
+  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
