@@ -5,9 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk mencapai potensi mereka sepenuhnya.
-Dengan semua mata yang melihat mereka, mereka harus menunjukkan banyak keberanian."</em><br>
-  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
+  <em>"Pria idaman itu seperti apa?
+Wajahnya? Hartanya?
+Bagiku, pria idaman itu adalah seorang yang mau untuk hidup bersama."</em><br>
+  — <strong>Charlotte Abelfreyja Drossel</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
