@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Makna kehidupan adalah mengisi apa yang kurang dari dirimu."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Uang hanya akan membawa masalah, entah kau memilikinya atau tidak."</em><br>
+  — <strong>Yuuta Shindou</strong>, <em>WWW.Working!!</em>
 </div>
 <!-- QUOTE END -->
 
