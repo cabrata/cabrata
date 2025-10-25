@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat bisa membuat orang semakin tak berguna rasanya sangat nikmat."</em><br>
-  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Kau mungkin istimewa dan orang yang terpilih. Aku mungkin tidak istimewa dan juga bukan orang yang terpilih. Tidak ada yang bisa menggantikanmu, tapi banyak orang yang bisa menggantikanku. Namun, kau tidak akan bisa menjadi sepertiku. Banyak orang yang bisa menggantikanku, tapi aku adalah satu-satunya (tidak ada yang lain). Dirimu bukanlah diriku, dan diriku bukanlah dirimu."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
