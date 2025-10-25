@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Segala sesuatu memiliki kekurangan. Tidak ada yang sempurna, karena itu semua orang ingin menghancurkannya dan menciptakannya kembali."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 4: Garan no Dou</em>
+  <em>"Belajar itu memang penting, tapi cinta juga penting."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
