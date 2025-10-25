@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan mengatakan pada orang lain mengenai apa yang sedang kau pikirkan."</em><br>
-  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Hanya karena tidak meminta tolong bukan berarti tidak ingin ditolong.
+Hanya karena dia tidak bilang cinta bukan berarti dia tidak mencintaimu.
+Siapapun punya hal yang tak bisa dikatakan walaupun ingin mengatakannya."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Nekomonogatari: Kuro</em>
 </div>
 <!-- QUOTE END -->
 
