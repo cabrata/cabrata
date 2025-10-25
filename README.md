@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin percaya padamu, tapi kau tak mau memberiku alasan untuk percaya padamu!"</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kekuatan berasal dari tanggung jawab, dan power berasal dari tanggung jawab. Yang artinya kekuatan berarti tanggung jawab, dan tanggung jawab berarti power! Kekuatan bisa juga berarti power!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
