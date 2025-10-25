@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pada akhirnya, menepati janji adalah jalan yang paling singkat untuk mendapatkan hasil."</em><br>
-  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
+  <em>"Menghajar orang yang lemah itu menyedihkan."</em><br>
+  — <strong>Kana Kimishima</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
