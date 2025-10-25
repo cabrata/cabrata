@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tak keberatan dengan Makhluk Bumi seperti diriku yang dulu, sekarang dan yang akan datang..., mari (hidup) bersama selamanya."</em><br>
-  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge</em>
+  <em>"Bila kau pikir bisa membuahkan hasil hanya dengan bekerja keras, berarti kau bodoh."</em><br>
+  — <strong>Tomitte</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
 </div>
 <!-- QUOTE END -->
 
