@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia ini adalah tanah kosong. Di mana yang tidak bersalah akan dilahap. Di mana seseorang tidak bisa bertahan hidup hanya dengan melakukan hal yang disenangi saja. Hanya mereka yang membakar ambisi dalam hati merekalah yang akan bisa bersaing untuk impian mereka di tanah kosong yang kejam ini!."</em><br>
-  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Memang benar, pemain di seusiamu masih bisa memaksakan diri untuk berjuang. Tapi, jikalau ingin jadi juara dunia, kau juga harus berani mengibarkan bendera putih."</em><br>
+  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
