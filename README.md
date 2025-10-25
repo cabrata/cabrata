@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku takkan punya kehidupan yang cukup jika hanya mengandalkan keberuntungan saja."</em><br>
-  — <strong>Shikamaru Nara</strong>, <em>Naruto Shippuden</em>
+  <em>"Kalau kau tak keberatan dengan Makhluk Bumi seperti diriku yang dulu, sekarang dan yang akan datang..., mari (hidup) bersama selamanya."</em><br>
+  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge</em>
 </div>
 <!-- QUOTE END -->
 
