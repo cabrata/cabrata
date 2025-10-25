@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita sudah bertekad akan membuat konser ini suksus. Kita telah membuat sebuah lagu, belajar menari, dan membuat kostum bersama-sama. Kita selalu berusaha keras sampai saat ini. Kita telah berjuang untuk tampil. Aku tak mau semua itu menjadi sia-sia."</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Demi menyelamatkan nyawamu, nyawa orang lain harus dikorbankan.
+Seperti itulah cara hidup "hewan"."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
