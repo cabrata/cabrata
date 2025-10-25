@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk meredakan ketakutan dan kekhawatiran masyarakat, para pahlawan harus kuat dan tangguh agar dapat mengalahkan kejahatan dengan cepat, terampil dan tampan."</em><br>
-  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
+  <em>"Jika kau ingin berkelahi, lakukanlah secara adil dan jujur."</em><br>
+  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
