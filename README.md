@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ayahku sangat keras terhadapku. Dia ingin agar aku hanya memiliki latar belakang pendidikan yang bagus dan prestasi yang bagus. Aku ingin lepas dari itu semua. Jadi aku melepaskan seragam sekolahku dan merubah penampilanku, dimana banyak orang yang tak mengenalku. Aku bodoh, kan? Karena hanya bermain-main, kelas yang kudapatkan adalah kelas E. (Sekarang) aku tak tahu lagi kemana aku harus melangkah."</em><br>
-  — <strong>Yukiko Kanzaki</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Hanya dengan keberadaanmu dan senyummu aku merasa bahagia.
+Hanya dengan keberadaanmu dan berjalan bersamamu aku merasa senang."</em><br>
+  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
