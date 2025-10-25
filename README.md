@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman adalah seseorang yang selalu bersama tak peduli apapun yang terjadi. Teman adalah seseorang yang dapat menanggung dosa bersama. Bukankah itu yang dinamakan teman?"</em><br>
-  — <strong>Yoshitake Tanaka</strong>, <em>Danshi Koukousei no Nichijou</em>
+  <em>"Jika punya waktu untuk membuat konspirasi, lebih baik gunakan waktu itu untuk mengasah kemampuan."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
