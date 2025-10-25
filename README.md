@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia senang menyakiti orang lain ketika mereka tidak bisa menyakiti diri sendiri."</em><br>
-  — <strong>Yozora Mikazuki</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
+  <em>"Kita sudah bertekad akan membuat konser ini suksus. Kita telah membuat sebuah lagu, belajar menari, dan membuat kostum bersama-sama. Kita selalu berusaha keras sampai saat ini. Kita telah berjuang untuk tampil. Aku tak mau semua itu menjadi sia-sia."</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
