@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Istirahat sejenak sangatlah penting untuk pekerjaanmu."</em><br>
-  — <strong>Kou Yagami</strong>, <em>New Game!</em>
+  <em>"Kerja keras pasti membuahkan hasil. Bantuan pasti akan datang bagi mereka yang selalu bekerja keras."</em><br>
+  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect: Michi Random</em>
 </div>
 <!-- QUOTE END -->
 
