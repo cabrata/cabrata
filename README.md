@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu tidak perlu terburu-buru untuk memutuskan (sesuatu)."</em><br>
-  — <strong>Hajime Suzamoto</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Manusia itu menyedihkan. Mereka selalu menginginkan apa yang tidak bisa dimiliki, (dan) selalu ingin meraih apa yang tak bisa diraih."</em><br>
+  — <strong>Kamui</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
