@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apakah kami melawan elves (sejenis makhluk seperti hewan) atau dewa sekalipun, kami tak akan pernah kalah. Jangan meremehkan umat manusia !!"</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Peganglah tekad kalian, tak perlu buru-buru, dan tak perlu berkecil hati. Jika kalian terus melakukan hal itu, suatu saat nanti kalian pasti akan mendapatkan hasil yang luar biasa."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
