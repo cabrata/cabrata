@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi mereka yang berbakat, memiliki bakat itu sendiri membawa penderitaan."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Menemukan sisi - sisi diriku yang tak pernah ku tahu. Menghadapi sisi - sisi diriku yang tak pernah ku tahu. Aku yakin itu yang namanya jatuh cinta."</em><br>
+  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
