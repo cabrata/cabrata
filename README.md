@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hari yang baik dimulai dengan kasur yang baik."</em><br>
-  — <strong>Ikta Solork</strong>, <em>Nejimaki Seirei Senki: Tenkyou no Alderamin</em>
+  <em>"Tidak ada manusia yang lahir karena keinginannya sendiri."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
