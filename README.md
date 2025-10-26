@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerajaan Lugnica bukanlah milik sang Naga! Tapi milik kita semua!"</em><br>
-  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Ada kalanya, seorang pria memfokuskan diri mereka pada pekerjaan untuk melupakan suatu hal (yang ingin mereka lupakan)."</em><br>
+  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
