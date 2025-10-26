@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka tidak lebih dari sekedar monster yang dapat berbicara. Aku mendefinisikan mereka (para monster) yang dapat berbicara itu sebagai iblis."</em><br>
-  — <strong>Flamme</strong>, <em>Sousou no Frieren</em>
+  <em>"Kerajaan Lugnica bukanlah milik sang Naga! Tapi milik kita semua!"</em><br>
+  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
