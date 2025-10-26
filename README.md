@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah sejak lama aku selalu melihatmu. Ini bukan lelucon, aku serius. Tak ada hal lain yang kupikirkan selain dirimu."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Menurutku fotografi itu seperti meminjam mata orang lain. Jadi, meskipun matamu tertutup, kau masih bisa (melihat dengan) meminjam (mata) milik orang lain."</em><br>
+  — <strong>Maria Oosawa</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
