@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku punya banyak hal yang ingin kulakukan, dan diantara itu kupilih (satu) hal yang paling kusukai sebagai pekerjaanku."</em><br>
-  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Keadilan tanpa kekuatan hanyalah omong kosong."</em><br>
+  — <strong>Kakek Seigi</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
