@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku memutuskan hanya akan mati demi cinta."</em><br>
-  — <strong>Santana</strong>, <em>Canaan</em>
+  <em>"Meskipun tidak ada yang mempercayaimu, aku akan selalu mempercayaimu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
