@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peganglah tekad kalian, tak perlu buru-buru, dan tak perlu berkecil hati. Jika kalian terus melakukan hal itu, suatu saat nanti kalian pasti akan mendapatkan hasil yang luar biasa."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Jangan asal ambil keputusan penting yang bisa mengubah arah hidupmu hanya karena dirimu mengantuk atau bosan."</em><br>
+  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
