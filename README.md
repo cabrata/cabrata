@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mudah berkata "pilihlah agar kau tidak menyesalinya", tapi hal itu mustahil. Tak peduli betapa kau memikirkan jalan yang akan kau pilih, pada akhirnya kau pasti akan menyesalkan suatu hal. Begitulah kita para manusia. Karena itulah, menurutku yang terpenting adalah perasaan kita yang sesungguhnya."</em><br>
-  — <strong>Glenn Radars</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
+  <em>"Seorang pahlawan profesional harus selalu menjadi simbol keadilan yang indah."</em><br>
+  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
