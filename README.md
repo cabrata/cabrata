@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling menakutkan dan sama sekali tak bisa diajak damai itu bukanlah makhluk gaib ataupun manusia, tapi "alam". (Alam itu) mengerikan seperti iblis, dan menakutkan seperti seseorang."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
+  <em>"Dengan menerapkan aturan diri sendiri pada dirimu, itu untuk mendorong dan membantumu untuk mengatasi tantangan atau situasi yang sulit. Kau menerapkan aturan diri sendiri hanya pada dirimu. Karena aturan itulah kau bisa mengumpulkan kekuatanmu dan fokus pada usahamu. Bahkan jika kau gagal, kau sudah menerapkan aturan yang membuat dirimu menjadi sangat disiplin dan fokus. Begitulah "aturan diri sendiri"."</em><br>
+  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
