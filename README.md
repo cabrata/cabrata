@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan masalah bisa atau tidak bisa. Yang terpenting adalah apakah kau mau atau tidak."</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Saat aku dimintai tolong, sudah pasti aku harus menolongnya, bukan? Karena aku sudah berjanji, aku sudah berjanji kepada kakakku. Meski jari kami sudah berpisah. Tapi janji kami masih tetap ada."</em><br>
+  — <strong>Madoka Takatori</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
