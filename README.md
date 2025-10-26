@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam bahasa bunga, bunga Casablanca menandakan cinta yang luhur, kebaikan, dan kemuliaan. Warna-warna cerah membuatnya terlihat cocok sebagai hadiah untuk pengantin."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Bagi mereka yang berbakat, memiliki bakat itu sendiri membawa penderitaan."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
