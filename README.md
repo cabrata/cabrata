@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjudian adalah kegilaan. Di dunia kapitalis, uang adalah nyawa. Orang sehat tidak mungkin mempertaruhkan nyawanya. Tapi pada kenyataannya banyak orang pergi ke tempat perjudian untuk merasakan kegilaan."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Selama ini aku hanya bisa tersakiti, selama ini aku hanya bisa menangis, selama ini aku hanya bisa merasa sakit, selama ini aku hanya bisa mempertaruhkan nyawaku dalam pertarungan... Dan hadiah yang kudapatkan (dari itu semua) adalah nama dan senyumnya yang sederhana."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
