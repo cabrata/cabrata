@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Membereskan orang jahat seperti mereka itu perlu dilakukan demi kebaikan mereka sendiri dan masyarakat."</em><br>
-  — <strong>Ekubo</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Setiap makhluk itu berusaha untuk hidup. Kita semua adalah teman."</em><br>
+  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
