@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ramalan itu hanya pertanda. Yang menentukan masa depan adalah dirimu sendiri."</em><br>
-  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Perjudian adalah kegilaan. Di dunia kapitalis, uang adalah nyawa. Orang sehat tidak mungkin mempertaruhkan nyawanya. Tapi pada kenyataannya banyak orang pergi ke tempat perjudian untuk merasakan kegilaan."</em><br>
+  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
 </div>
 <!-- QUOTE END -->
 
