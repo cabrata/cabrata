@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan itu bisa dikelompokkan menjadi dua kategori; Teman masa kecil dan Pelakor."</em><br>
-  — <strong>Anna Yanami</strong>, <em>Make Heroine ga Oosugiru!</em>
+  <em>"Tak peduli apakah kami melawan elves (sejenis makhluk seperti hewan) atau dewa sekalipun, kami tak akan pernah kalah. Jangan meremehkan umat manusia !!"</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
