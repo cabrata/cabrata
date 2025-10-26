@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak perlu sebuah alasan untuk menyukaimu. Ketika kusadari, aku sudah menyukaimu."</em><br>
-  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Apa yang membuat kami memulai dari nol? Kami mengejar sesuatu yang tak berwujud, tersesat, ketakutan, menangis, kami ingin keluar dari zona nol itu. Dan dimana yang seharusnya tidak ada apa-apa, sebuah sinar terus bersinar di dalam hati kami. Dan keyakinan bahwa kesembilan dari kami bisa melakukan sesuatu yang istimewa karena dituntun oleh sinar cahaya itu. Dari situlah kami berasal, dimana Aqours berasal. Kami akan membuat kisah kami menjadi nyata! Dengan sinar cahaya ini!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
