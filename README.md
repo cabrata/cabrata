@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah berpikiran buruk kepada manusia."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Aku benci jadi orang yang lemah. Tapi setelah mengetahui kalau masih ada banyak pemain yang lebih hebat dari aku, itu membuatku jadi lebih bersemangat!"</em><br>
+  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
