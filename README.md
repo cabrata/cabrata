@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku fotografi itu seperti meminjam mata orang lain. Jadi, meskipun matamu tertutup, kau masih bisa (melihat dengan) meminjam (mata) milik orang lain."</em><br>
-  — <strong>Maria Oosawa</strong>, <em>Canaan</em>
+  <em>"Aku tak perlu sebuah alasan untuk menyukaimu. Ketika kusadari, aku sudah menyukaimu."</em><br>
+  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
