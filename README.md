@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun pertaruhan yang disepakati, harus dipenuhi.
-Pemenangnya (untuk sekarang) memang kau, tapi hanya untuk sementara."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Memang benar, akulah yang gila. Aku dibutakan delusi chuunibyou dan terpengaruh rasa keadilan murahan."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
