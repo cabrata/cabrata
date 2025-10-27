@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau memiliki kehormatan, (berarti) kau memiliki keberanian."</em><br>
-  — <strong>Meme Oshino</strong>, <em>Kizumonogatari I: Tekketsu-hen</em>
+  <em>"Manusia (baru) akan kalah ketika mereka berhenti melawan. Selama kita terus bertarung, kita belum kalah."</em><br>
+  — <strong>Mike Zacharias</strong>, <em>Shingeki no Kyojin Season 2</em>
 </div>
 <!-- QUOTE END -->
 
