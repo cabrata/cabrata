@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang tak bisa dilakukan itu memang sesuatu yang wajar. Namun, bukan berarti itu tak bisa dilakukan selamanya kan?"</em><br>
-  — <strong>Nariyuki Yuiga</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
+  <em>"Istirahat sejenak sangatlah penting untuk pekerjaanmu."</em><br>
+  — <strong>Kou Yagami</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
