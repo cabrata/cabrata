@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kadang-kadang pria harus melindungi sesuatu, walaupun dia harus membuang kehormatannya sendiri."</em><br>
-  — <strong>Kanichi Konishi</strong>, <em>Shokugeki no Souma</em>
+  <em>"Sekolah itu hanya seperti satu akuarium kecil. Di luar sana masih ada lautan dan akuarium lain. Kau bebas memilih (tempatmu)."</em><br>
+  — <strong>Nagi Yoshino</strong>, <em>Jujutsu Kaisen</em>
 </div>
 <!-- QUOTE END -->
 
