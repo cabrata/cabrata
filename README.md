@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pagi hari, angin yang menyegarkan dan cahaya matahari yang lembut mengisyaratkan suatu yang indah akan terjadi."</em><br>
-  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
+  <em>"Kadang-kadang pria harus melindungi sesuatu, walaupun dia harus membuang kehormatannya sendiri."</em><br>
+  — <strong>Kanichi Konishi</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
