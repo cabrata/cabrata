@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup tak seperti adegan film yang bisa diulang."</em><br>
-  — <strong>Direktur</strong>, <em>Bokutachi no Remake</em>
+  <em>"Tak ada alasan bagiku untuk bicara dengan seseorang yang bermain sangat menyedihkan. Jika kau ingin mengatakan sesuatu,
+kau bisa memberitahukannya padaku, dengan permainanmu."</em><br>
+  — <strong>Shintarou Midorima</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
