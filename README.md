@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau memang benar. Seperti yang telah kau katakan, aku memang bodoh. Jadi aku tak peduli apa yang kau katakan padaku! Tapi, jangan pernah mengarahkan senjatamu ke Kakakmu sendiri! Kita ini bersaudara!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Aku ingin percaya padamu, tapi kau tak mau memberiku alasan untuk percaya padamu!"</em><br>
+  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
