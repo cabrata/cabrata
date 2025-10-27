@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pemimpin tidak perlu menunjukkan kekuatannya untuk membuat temannya patuh. Kekuatan hanya perlu digunakan untuk melindungi temannya."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Meskipun kesunyian ini mulai membuatku nyaman, rasanya detak jantungku ini ingin meninggalkan jarum jam ke dalam debu dan bergegas ke masa depan."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
