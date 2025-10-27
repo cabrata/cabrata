@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat ke bawah terus tidak akan mengubah apapun. Saat frustasi lihatlah ke depan. Lalu jika ada yang ingin kau raih, rentangkan tanganmu (untuk meraihnya). Jika tetap tidak bisa meraihnya, rentangkan tanganmu lebih jauh lagi."</em><br>
-  — <strong>Ayah Seigi</strong>, <em>Taboo Tattoo</em>
+  <em>"Aku benar-benar beruntung, punya orang-orang yang mendukungku dan menolongku.
+Hanya dapat hidup saja sudah (membuatku) beruntung."</em><br>
+  — <strong>Ryousuke Kirishima</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
