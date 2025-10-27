@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang pasti pernah membuat kesalahan. Tapi perasaan manusia sering diungkapkan dalam cara yang tak menentu.Kalau kau seorang hakim, jangan mengabaikan hal itu."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Kalau menjadi idola profesional mungkin kami takkan bisa. Tapi, kalau menjadi idola sekolah, selama kami punya motivasi dan tujuan untuk diraih, kami akan terus mencoba dan kami pasti bisa!"</em><br>
+  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
