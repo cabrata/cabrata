@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keadilan yang tak membuahkan hasil itu hanya omong kosong."</em><br>
-  — <strong>Ayase Ayatsuji</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Atasan yang lebih baik, membawa perusahaan lebih baik. Tak ada gunanya mempermasalahkan siapa atasanmu!"</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
