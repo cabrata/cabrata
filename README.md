@@ -5,9 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau sangat hebat saat membaca pikiran seseorang. Tapi kau tidak memahami perasaan mereka.
-Pikiran dan perasaan seseorang itu tidaklah sama. Karena itulah, kadang-kadang kau bisa menarik kesimpulan yang tidak rasional."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Apa yang akan terjadi jika kita hanya mendapatkan hal-hal yang baik?
+Kita akan berharap besok lebih baik dari hari ini dan lusa lebih baik dari besok.
+Kita akan terus berharap untuk menjadi lebih baik.
+Tapi, pada akhirnya apa yang akan terjadi?
+Pada akhirnya kita tidak akan pernah bisa merasa puas."</em><br>
+  — <strong>Holo</strong>, <em>Ookami to Koushinryou II</em>
 </div>
 <!-- QUOTE END -->
 
