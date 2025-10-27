@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akhir-akhir ini, kelompok kalian tidak menghasilkan apa - apa. Badan penelitian yang hanya berbicara tentang kejayaan masa lalu tidak dibutuhkan di Tootsuki."</em><br>
-  — <strong>Erina Nakiri</strong>, <em>Shokugeki no Souma</em>
+  <em>"Jangan pernah memukul seseorang jika kalian belum siap untuk dipukul (juga)."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
