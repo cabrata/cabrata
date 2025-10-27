@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus membayar cinta dengan cinta!"</em><br>
-  — <strong>Petelgeuse Romanée-Conti</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Mahkota seorang pemimpin bukanlah benda yang berada di atas kepala. Tapi sesuatu yang ada di dalam hati semua orang."</em><br>
+  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
