@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada tempat di masyarakat untuk orang yang tak menghargai diri sendiri."</em><br>
-  — <strong>Ai Hayasaka</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Pistol itu simpel. Pistol dapat mengakhiri suatu hal hanya dengan satu letupan. Tidak serumit hubungan antara manusia."</em><br>
+  — <strong>Canaan</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
