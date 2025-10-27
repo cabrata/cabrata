@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apapun yang terjadi, aku akan selalu denganmu."</em><br>
-  — <strong>Yuno Gasai</strong>, <em>Mirai Nikki</em>
+  <em>"Rasa lapar adalah bumbu terbaik."</em><br>
+  — <strong>Shinobu Oshino</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
