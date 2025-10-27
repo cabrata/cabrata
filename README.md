@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau boleh aku ingin bersamamu selamanya. Hanya dengan disampingmu saja itu sudah cukup. Tapi aku tak bisa memaksamu. Karena itu, kuserahkan diriku padamu. Sebagai gantinya, aku ingin kau menyerahkan hari-harimu bersama denganku."</em><br>
-  — <strong>Tsukasa Ayatsuji</strong>, <em>Amagami SS</em>
+  <em>""Hitam" memang sering dianggap sebagai warna kematian. Tapi dari sudut pandang psikologi, itu adalah warna akan perjuangan melawan kematian... Warna harapan."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
