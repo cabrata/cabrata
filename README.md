@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau menjadi idola profesional mungkin kami takkan bisa. Tapi, kalau menjadi idola sekolah, selama kami punya motivasi dan tujuan untuk diraih, kami akan terus mencoba dan kami pasti bisa!"</em><br>
-  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Kalau boleh aku ingin bersamamu selamanya. Hanya dengan disampingmu saja itu sudah cukup. Tapi aku tak bisa memaksamu. Karena itu, kuserahkan diriku padamu. Sebagai gantinya, aku ingin kau menyerahkan hari-harimu bersama denganku."</em><br>
+  — <strong>Tsukasa Ayatsuji</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
