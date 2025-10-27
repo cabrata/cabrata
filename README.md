@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saling menerima cinta satu sama lain adalah hal yang wajar. Jika dunia melarangnya, aku akan mengubah dunia ini meskipun harus menghancurkannya."</em><br>
-  — <strong>Theo Cornaro</strong>, <em>Grancrest Senki</em>
+  <em>"Akhir-akhir ini, kelompok kalian tidak menghasilkan apa - apa. Badan penelitian yang hanya berbicara tentang kejayaan masa lalu tidak dibutuhkan di Tootsuki."</em><br>
+  — <strong>Erina Nakiri</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
