@@ -5,9 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah minta maaf atas kerja kerasmu.
-Itu sama saja kau menghina tekadmu sendiri."</em><br>
-  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Anak muda kadang terobsesi pada kesempurnaan.
+Aku juga pernah begitu.
+Tapi suatu saat nanti, kau pasti akan percaya pada jalanmu sendiri.
+Seperti yang kulakukan.
+Karena itu, tenang saja, tak apa kalau kau cemas."</em><br>
+  — <strong>Shirosaki</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
