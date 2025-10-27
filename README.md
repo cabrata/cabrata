@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang kau akan melihat sesuatu saat memejamkan mata."</em><br>
-  — <strong>Arthur Boyle</strong>, <em>Enen no Shouboutai</em>
+  <em>"Jangan pikir semua orang melihat dunia yang sama seperti yang kau lihat!"</em><br>
+  — <strong>Ichiya Suzaku</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
