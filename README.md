@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang selalu bilang, tertawalah dengan wajahmu dan menangislah dengan hatimu."</em><br>
-  — <strong>Koharu Shiroyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Jangan pernah minta maaf atas kerja kerasmu.
+Itu sama saja kau menghina tekadmu sendiri."</em><br>
+  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
