@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin percaya padamu, tapi kau tak mau memberiku alasan untuk percaya padamu!"</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Perjalanan kalian masih sangat jauh, tapi jika kalian tetap bersama-sama, kalian pasti akan berkembang."</em><br>
+  — <strong>Yuusuke Takinoue</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
