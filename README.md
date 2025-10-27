@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti inilah pekerjaan yang kulakukan selama ini. Pekerjaan inilah yang telah menafkahimu. Apa kau pikir kalau semua pekerjaan itu indah? 
-Pekerjaan ini mungkin tak berguna. Meskipun begitu, bukan berarti aku tidak berusaha untuk menjadi yang terbaik dibidang ini."</em><br>
-  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Berhentilah menyalahkan orang lain.Aku tak tahu apa yang sebenarnya terjadi. Tapi bila kau menyalahkan orang lain, itu takkan menyelesaikan masalah apapun. Di masa mendatang akan ada banyak keadaan yang sulit untuk dijelaskan. Dan akhirnya kau tak punya pilihan lain selain memperbaiki diri sendiri."</em><br>
+  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
