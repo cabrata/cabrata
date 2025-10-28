@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau membuka hatimu untuknya, sejauh apapun kalian terpisah, kau pasti bisa mendengar suaranya."</em><br>
-  — <strong>Lailah</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Berbeda denganmu, aku tidak membuat keputusan berdasarkan perasaanku. Mencampurkan cinta dengan pekerjaan adalah ide yang buruk. Begitu kau membuat keputusan, membiarkan perasaanmu pada seseorang mempengaruhi pekerjaanmu itu tidak bisa dibiarkan."</em><br>
+  — <strong>Minko Tsurugi</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
