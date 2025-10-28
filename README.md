@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunci kesuksesan dalam berbisnis adalah senyuman."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Aku hanya memiliki satu keinginan. Kesamaan hak bagi semuanya. Aku ingin menciptakan negeri dimana semua rakyat memiliki hak yang sama!"</em><br>
+  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
