@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selesaikan apa yang telah kau perbuat!"</em><br>
-  — <strong>Tsukinose Vignette April</strong>, <em>Gabriel DropOut</em>
+  <em>"Aku benci pria yang diam saja melihat seorang wanita tersakiti."</em><br>
+  — <strong>Sen Yarizui</strong>, <em>Ben-To</em>
 </div>
 <!-- QUOTE END -->
 
