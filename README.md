@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melihat ke atas, tapi lihatlah ke bawah. Hiduplah di dunia ini dengan melihat ke bawah. Jika melihat ke atas terus tidak ada habisnya. Melihat ke bawah juga tak ada habisnya."</em><br>
-  — <strong>Bunko Daikokutei</strong>, <em>Uchi no Shishou wa Shippo ga Nai</em>
+  <em>"Impian dan harapan itu hal yang berbeda. Melihat kenyataan, menganalisis dan bertarung sekuat tenaga lah yang dapat membuka jalan harapan kita."</em><br>
+  — <strong>Berserker</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
