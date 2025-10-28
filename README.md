@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak bermain sesuai dengan arahan partiturnya hanyalah keegoisan manusia yang sudah menyerah."</em><br>
-  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Jangan ketakutan! Jika kita jatuh, jatuhlah ke depan!"</em><br>
+  — <strong>Yuu Nishinoya</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
