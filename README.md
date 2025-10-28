@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat singa memburu seekor kelinci dia mengerahkan seluruh kekuatannya."</em><br>
-  — <strong>Cosette</strong>, <em>Takt Op. Destiny</em>
+  <em>"Aku akan berbohong apabila mengatakan tidak mengorbankan diriku disini (pengorbanan merawat anak).
+Jadi aku harap dapat melewati tahun-tahun kedepan (menjadi lebih baik)."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
