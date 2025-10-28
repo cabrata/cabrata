@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanya memiliki satu keinginan. Kesamaan hak bagi semuanya. Aku ingin menciptakan negeri dimana semua rakyat memiliki hak yang sama!"</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Terkadang kau akan melihat sesuatu saat memejamkan mata."</em><br>
+  — <strong>Arthur Boyle</strong>, <em>Enen no Shouboutai</em>
 </div>
 <!-- QUOTE END -->
 
