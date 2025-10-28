@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau membenci dirimu sendiri sebanyak seratus kali, aku akan mencintaimu sebanyak dua ribu kali. Dan itulah, perlakuan khusus yang ingin kuberikan padamu. "Mengapa dua ribu kali?" Karena angka ratusan takkan cukup untuk menggambarkan perasaanku terhadapmu."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Orang jenius itu bukanlah orang yang memiliki bakat atau kemampuan luar biasa. Memang itu diperlukan, tapi jika hanya mengandalkan bakat, orang itu tak lebih dari sekedar orang berbakat."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
