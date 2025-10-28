@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan jika harus menunggu hingga 10 tahun, aku rela jika nanti bisa berkencan dengan gadis cantik sepertimu."</em><br>
-  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Kemenangan sejati bukanlah saat kau menang melawan yang kuat.
+Melainkan saat kau berhasil melindungi sesuatu yang berharga bagimu."</em><br>
+  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
