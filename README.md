@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau aku tidak lagi menjadi tentara peri, aku ingin mengejar impian biasa sebagaimana orang biasa lainnya.
-Aku ingin hidup berdampingan dengannya, melihat hal yang sama, berjalan di jalan yang sama, makan makanan yang sama, dan melihat pemandangan yang sama dengannya."</em><br>
-  — <strong>Chtholly Nota Seniorious</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Aku tahu kalau aku ini (hanya) tiruan. Meskipun aku tidak memiliki masa lalu, tapi aku mempunyai keyakinan yang kuat!
+Aku mencintai Ryougi! Bahkan jika aku adalah tiruan, tapi hati ini nyata."</em><br>
+  — <strong>Tomoe Enjou</strong>, <em>Kara no Kyoukai 5: Mujun Rasen</em>
 </div>
 <!-- QUOTE END -->
 
