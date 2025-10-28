@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pistol itu simpel. Pistol dapat mengakhiri suatu hal hanya dengan satu letupan. Tidak serumit hubungan antara manusia."</em><br>
-  — <strong>Canaan</strong>, <em>Canaan</em>
+  <em>"Selesaikan apa yang telah kau perbuat!"</em><br>
+  — <strong>Tsukinose Vignette April</strong>, <em>Gabriel DropOut</em>
 </div>
 <!-- QUOTE END -->
 
