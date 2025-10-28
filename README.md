@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun semua orang menyalahkannya, atau bahkan jika dirinya juga menyalahkan dirinya sendiri, aku akan menggenggam tangannya dan membawanya ke tempat yang terang."</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
+  <em>"Tak ada yang lebih mahal dari sesuatu yang gratis."</em><br>
+  — <strong>Honoka Maki</strong>, <em>Kiznaiver</em>
 </div>
 <!-- QUOTE END -->
 
