@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hidup berkat bantuan dari banyak orang. Aku disini karena Ibu ada disini. Aku senang kau menjadi orang tuaku. Aku benar-benar beruntung."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Suatu saat manusia pasti mati. Tapi selama seseorang terus berusaha untuk melindungi orang lainnya, maka perasaan itu tidak akan mati. Setelah menemukan rasa ingin melindungi, maka tak peduli berapa banyak kau terluka, (atau) bahkan jika kau menangis sampai tak bisa meneteskan air mata lagi, kau (pasti) akan mampu menghadapinya."</em><br>
+  — <strong>Meliodas</strong>, <em>Nanatsu no Taizai</em>
 </div>
 <!-- QUOTE END -->
 
