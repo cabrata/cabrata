@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada gunanya menyesali hal yang telah terjadi. Karena itu aku berpikir untuk menatap masa depan."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Aku takkan memaksamu untuk melakukan sesuatu yang besar. Cukup lakukan apa yang bisa kau lakukan. Aku pun akan melakukan apa yang bisa kulakukan. Begitulah peran yang bisa kita lakukan di dunia ini."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
