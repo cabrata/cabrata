@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa tinggi kedudukanmu, tak peduli seberapa sunyi tempat ini, jangan pernah menunjukkan kesombonganmu."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
+  <em>"Aku akan jadi juara pertama lagi supaya ibu bisa cepat sembuh."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
