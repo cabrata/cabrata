@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesulit apapun yang akan terjadi, selama ada dirimu aku bisa terus berjuang."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Saat singa memburu seekor kelinci dia mengerahkan seluruh kekuatannya."</em><br>
+  — <strong>Cosette</strong>, <em>Takt Op. Destiny</em>
 </div>
 <!-- QUOTE END -->
 
