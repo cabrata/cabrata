@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun pertaruhan yang disepakati, harus dipenuhi.
-Pemenangnya (untuk sekarang) memang kau, tapi hanya untuk sementara."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Kami tidak peduli tentang mimpimu! kami hanya ingin melindungi teman-teman kamu, dan dunia kami apapun yang terjadi!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
