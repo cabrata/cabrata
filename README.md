@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan yang sedang jatuh cinta bisa menentang Tuhan."</em><br>
-  — <strong>Tsushima</strong>, <em>Toaru Majutsu no Index III</em>
+  <em>"Mamaku bilang "Bagi laki-laki, jabatan adalah segalanya"."</em><br>
+  — <strong>Hina Toumi</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
