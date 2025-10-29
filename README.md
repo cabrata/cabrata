@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mulai sekarang, tujuanku adalah mengembalikan senyumanmu."</em><br>
-  — <strong>Hana Miyakoshi</strong>, <em>WWW.Working!!</em>
+  <em>"Kau pikir berapa banyak kekalahan yang sudah aku dapatkan sampai detik ini?
+Walau bukan sesuatu yang bisa dibanggakan, tapi aku sudah kalah ratusan, bahkan ribuan kali. Meskipun begitu, aku tidak pernah depresi, tidak pernah sepertimu sekarang!. (Karena) aku selalu yakin pada akhirnya aku akan menang."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
