@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kedamaian adalah hal yang paling indah dan paling sulit (wujudkan)."</em><br>
-  — <strong>Chio Miyamo</strong>, <em>Chio-chan no Tsuugakuro</em>
+  <em>"Keyakinan saja tidak cukup untuk mewujudkan idealismemu."</em><br>
+  — <strong>Doppo Kunikida</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
 </div>
 <!-- QUOTE END -->
 
