@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di Tootsuki, semua orang menunjukkan apakah dia layak atau tidak dengan kemampuannya sendiri. Apakah kau layak untuk tetap bertahan atau tidak, itu bergantung pada dirimu sendiri!"</em><br>
-  — <strong>Gin Doujima</strong>, <em>Shokugeki no Souma</em>
+  <em>"Jangan menangis Yamato. Jangan menangis demi aku. Kau tak perlu mengkhawatirkanku. Tertawalah...
+Yang paling tidak kuinginkan adalah saat melihatmu menangis."</em><br>
+  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
