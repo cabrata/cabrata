@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena kita makhluk yang memiliki ingatan yang kuat, kita jadi dikendalikan oleh informasi."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Di Tootsuki, semua orang menunjukkan apakah dia layak atau tidak dengan kemampuannya sendiri. Apakah kau layak untuk tetap bertahan atau tidak, itu bergantung pada dirimu sendiri!"</em><br>
+  — <strong>Gin Doujima</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
