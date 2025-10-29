@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah kau ada di pihak yang membunuh atau di pihak yang menyelamatkan, apapun yang kau harapkan takkan muncul. Tak ada satu pun di dunia ini yang bisa mengisi lubang di hatimu. Kau akan berkelana di dalam kegelapan selamanya. (Meskipun begitu) berpihaklah pada mereka yang menyelamatkan orang-orang. Jika kedua pihak sama saja, maka jadilah orang baik. Selamatkan yang lemah dan lindungi anak-anak yatim piatu. Meski itu tak ada pengaruhnya padamu, tapi itu akan membuatmu jadi manusia yang lebih baik."</em><br>
-  — <strong>Sakunosuke Oda</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Kalau berpikir pesimis, maka hal yang seharusnya berjalan lancar, nantinya akan jadi tidak lancar. Kita harus berpikir secara optimis."</em><br>
+  — <strong>Yuuki Hase</strong>, <em>Isshuukan Friends.</em>
 </div>
 <!-- QUOTE END -->
 
