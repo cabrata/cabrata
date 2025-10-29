@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau berpikir pesimis, maka hal yang seharusnya berjalan lancar, nantinya akan jadi tidak lancar. Kita harus berpikir secara optimis."</em><br>
-  — <strong>Yuuki Hase</strong>, <em>Isshuukan Friends.</em>
+  <em>"Seorang pria kesepian yang tidak mengenal cinta harus diselimuti dengan cinta tanpa syarat."</em><br>
+  — <strong>Mizuho Asano</strong>, <em>Bleach</em>
 </div>
 <!-- QUOTE END -->
 
