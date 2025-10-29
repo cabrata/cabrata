@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria kesepian yang tidak mengenal cinta harus diselimuti dengan cinta tanpa syarat."</em><br>
-  — <strong>Mizuho Asano</strong>, <em>Bleach</em>
+  <em>"Perempuan yang sedang jatuh cinta bisa menentang Tuhan."</em><br>
+  — <strong>Tsushima</strong>, <em>Toaru Majutsu no Index III</em>
 </div>
 <!-- QUOTE END -->
 
