@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mamaku bilang "Bagi laki-laki, jabatan adalah segalanya"."</em><br>
-  — <strong>Hina Toumi</strong>, <em>Kakushigoto</em>
+  <em>"Jika kau tak bisa memilih salah satu, maka kau hanya perlu mencari pilihan lain untuk membuat dua pilihan itu tetap terjadi."</em><br>
+  — <strong>Kazuki Fujisawa</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
