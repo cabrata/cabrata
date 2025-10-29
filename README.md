@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bilang akan membuktikan bahwa ia tak salah membesarkanmu. Jadi buktikanlah!"</em><br>
-  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Justru membosankan kalau kamu sedih saat (gagal) mencoba menjawab ekspektasi orang lain."</em><br>
+  — <strong>Chisato Nishikigi</strong>, <em>Lycoris Recoil</em>
 </div>
 <!-- QUOTE END -->
 
