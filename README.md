@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah bertahan dari kesulitan dan penderitaan."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Kau menyebut dirimu seorang pria? Kalau memang iya, perhatikanlah dia!"</em><br>
+  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
