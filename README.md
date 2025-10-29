@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dulu kamu bilang padaku kalau pemandangan di Tokyo itu membosankan, kan?
-Aku sendiri tak pernah berpikir seperti itu. Tapi, begitu kau pergi, pemandangan kota (Tokyo) ini mulai membosankan. Mungkin aku menyukai pemandangan di Tokyo karena keberadaanmu."</em><br>
-  — <strong>Kouichi Tanemura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Mulai sekarang, apapun yang terjadi... aku akan terus menjadi temanmu! Kita.... kita akan selalu menjadi teman, kan?"</em><br>
+  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
