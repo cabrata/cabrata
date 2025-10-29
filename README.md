@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Gagal pun tak apa-apa. Karena meskipun hari ini kau gagal, masih ada hari esok, lusa atau mungkin butuh waktu satu tahun agar bisa berhasil. Hidup itu panjang, jadi meskipun saat ini kau gagal, mungkin suatu saat nanti kau akan berhasil."</em><br>
-  — <strong>Tanaka</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
+  <em>"Beranggapan bahwa semua itu salahmu adalah pemikiran yang tak berguna. Setiap orang pasti memiliki keterbatasan."</em><br>
+  — <strong>Sachiko Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
