@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyerah karena menghadapi kesulitan adalah hal yang bodoh."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Mamaku bilang "Bagi laki-laki, jabatan adalah segalanya"."</em><br>
+  — <strong>Hina Toumi</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
