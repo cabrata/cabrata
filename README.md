@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya duduk membicarakan mimpi kita, takkan membuatnya nyata."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Pandangan yang sempit adalah musuh idealisme dan kecerdasan."</em><br>
+  — <strong>Eiha Kudou</strong>, <em>Gimai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
