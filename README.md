@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tapi, takkan ada permulaan jika hanya duduk dan menonton. Aku tak bisa menjelaskannya. Tapi,  inilah kesempatanku satu-satunya. Jadi, kami ingin bersinar!"</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Jarang sekali rencana pertamaku berjalan mulus seperti yang ku harapkan. (Maka dari itu) Aku membuat rencana cadangan yang lebih detail untuk hal yang tak terduga dalam misi pembunuhan."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
