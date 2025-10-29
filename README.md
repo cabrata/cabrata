@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanyalah sampah anak tentara bayaran. Aku bodoh dan tak memiliki fisik yang baik. Kekuatan sihirku pun hanya selevel bayi. Namun, tak peduli apa kata orang-orang, aku tak membenci diriku sendiri. Karena akulah yang tahu nilai dari diriku sendiri."</em><br>
-  — <strong>Touka Scott</strong>, <em>Yuusha ga Shinda!</em>
+  <em>"Saat kau menelusuri akar, ranting, dan daun yang membawamu mencapai kebenaran, maka kau akan mengerti segalanya, lalu kau mampu menguasainya!"</em><br>
+  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
