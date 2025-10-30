@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau jangan terlalu baik. Orang baik selalu mati yang paling akhir."</em><br>
-  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Gaya hidupku adalah makan makanan favorit kapan pun yang aku mau."</em><br>
+  — <strong>Anna Yamada</strong>, <em>Boku no Kokoro no Yabai Yatsu</em>
 </div>
 <!-- QUOTE END -->
 
