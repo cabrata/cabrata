@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu harus lebih sopan terhap gurumu!"</em><br>
-  — <strong>Beatrice</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
+  <em>"Apapun yang kau lakukan ataupun kau berubah, itu tidaklah penting. Lagipula, kau tetaplah kau."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
