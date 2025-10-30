@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pasti pernah melakukan kesalahan. Yang terpenting adalah mengambil pelajaran dari kesalahan yang telah diperbuat."</em><br>
-  — <strong>Hammerhead</strong>, <em>One Punch Man</em>
+  <em>"Debar hatiku ini... menggelitik dan terasa menyenangkan.
+Kuharap besok segera tiba. Aku ingin segera melihat wajahnya."</em><br>
+  — <strong>Ai Nanasaki</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
