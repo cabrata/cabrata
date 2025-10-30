@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu harus mendapatkan apa yang kamu mau, karena gairah begitu penting dalam cinta."</em><br>
-  — <strong>Hikari Tsuneki</strong>, <em>Seiren</em>
+  <em>"Pasti sangat sulit berusaha melakukan apa yang diinginkan. (Sebenarnya) aku tidak terlalu mengerti, tapi pasti butuh kerja keras untuk mendapatkan hasilnya. Meskipun (kadang) memiliki impian itu membuatmu sulit (menjalani hidup)."</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
