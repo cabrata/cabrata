@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita teman, seharusnya tidak boleh ada rahasia, perasaan yang disembunyikan, ataupun keputusan yang dibuat sendiri kan?"</em><br>
-  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Akan aku beri tahu sesuatu hal yang bagus...
+Cara agar tidak kalah adalah dengan tidak bertanding."</em><br>
+  — <strong>Manabu Sakuma</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
