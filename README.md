@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia hidup untuk menyelamatkan dirinya sendiri."</em><br>
-  — <strong>Sakunosuke Oda</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Kau jangan terlalu baik. Orang baik selalu mati yang paling akhir."</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
