@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin terus bersama orang yang paling membutuhkanku."</em><br>
-  — <strong>Saitou</strong>, <em>Benriya Saitou-san, Isekai ni Iku</em>
+  <em>"Yang menang selalu benar! Dan yang salah adalah setan!"</em><br>
+  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
