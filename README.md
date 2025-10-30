@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka melihatmu ketika melakukan hal-hal yang kamu sukai."</em><br>
-  — <strong>Hirotaka Nifuji</strong>, <em>Wotaku ni Koi wa Muzukashii</em>
+  <em>"Kau selalu gampang ikut campur urusan orang lain, seperti orang yang tak bisa menahan kakinya dan langsung masuk tanpa permisi."</em><br>
+  — <strong>Chiriko Tsurumi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
