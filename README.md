@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman itu sulit dicari, jadi jaga teman kalian baik-baik."</em><br>
-  — <strong>Sei Handa</strong>, <em>Handa-kun</em>
+  <em>"Seorang gadis tidak boleh menunjukkan tubuhnya sembarangan pada orang lain."</em><br>
+  — <strong>Ibu Tadokoro</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
