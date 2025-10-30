@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Diatas langit memang masih ada langit."</em><br>
-  — <strong>You Watanabe</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Suatu hal yang berubah tidak selalu hal buruk."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
