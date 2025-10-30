@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tak bisa menilai sesuatu yang tak bisa dilihat."</em><br>
-  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
+  <em>"Beranggapan bahwa semua itu salahmu adalah pemikiran yang tak berguna. Setiap orang pasti memiliki keterbatasan."</em><br>
+  — <strong>Sachiko Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
