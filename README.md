@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan aku ajari kamu tentang romansa burung yang tak bisa terbang sampai membekas di hatimu."</em><br>
-  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Teman itu sulit dicari, jadi jaga teman kalian baik-baik."</em><br>
+  — <strong>Sei Handa</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
