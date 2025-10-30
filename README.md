@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku takkan bilang padamu untuk tidak bersedih. Aku takkan bilang padamu untuk tidak menangis. Tapi kau tidak bisa membiarkan bawahanmu melihatmu seperti ini. Kalau kau yang pemimpin mereka saja keadaanmu seperti ini, mereka takkan sanggup untuk bertarung."</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Jangan pernah mati hanya karena hal-hal yang konyol."</em><br>
+  — <strong>Eris</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!</em>
 </div>
 <!-- QUOTE END -->
 
