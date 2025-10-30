@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria sejati pasti sudah melompat ke dalam api jika gadisnya berada dalam bahaya!"</em><br>
-  — <strong>Marco Ikusaba</strong>, <em>Mirai Nikki</em>
+  <em>"Untuk membuat manga harus pintar. Paling tidak, kau butuh kepintaran dan pikiran rasional. Tapi aku tak berpikir jika belajar sama dengan pintar."</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
