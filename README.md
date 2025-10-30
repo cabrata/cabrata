@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pikirkanlah baik-baik, tak perlu terburu-buru, dan cintailah aku dengan perlahan. Aku akan selalu berada di sisimu dan berusaha keras untuk membuatmu jatuh cinta padaku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kekurangan dan ketidakmampuan itu tidak ada hubungannya, aku akan bertarung dengan tubuhku ini untuk menang dan berdiri di lapangan selama yang aku bisa."</em><br>
+  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
