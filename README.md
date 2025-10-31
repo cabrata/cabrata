@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bermain (musik) untuk seseorang, itu jauh lebih berharga."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Teman itu tidak bisa didapat dalam waktu yang singkat."</em><br>
+  — <strong>Shi</strong>, <em>Nyanko Days</em>
 </div>
 <!-- QUOTE END -->
 
