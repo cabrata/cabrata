@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebaikan absolut itu lebih merepotkan daripada kejahatan."</em><br>
-  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Aku benci orang jenius. Mereka tidak punya keindahan dari hasil usaha dan jerih payah."</em><br>
+  — <strong>Lügner</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
