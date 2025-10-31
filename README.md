@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang sangat penting dalam hidup seperti perasaan, hati, dan jiwa semuanya adalah hal yang tak bisa dilihat.
-Semakin kau berusaha menganggap semua itu nyata, kau akan berpikir kalau semua itu tidak nyata.
-Tapi, sekarang aku berpikir kalau semua itu memang ada. Semua itu sangat dekat, sampai aku bisa menyentuhnya."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Manusia memang makhluk bodoh yang banyak kekurangan, meskipun begitu usaha dan perjuangan kalian sangat indah. Apapun akhir yang menanti kalian, sejarah kalian layak ditinggalkan di bumi ini."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
