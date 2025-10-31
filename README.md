@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jalanilah kehidupanmu demi dirimu sendiri."</em><br>
-  — <strong>Berserker</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Sebenarnya aku juga tidak terlalu peduli tentang fakta ada atau tidak adanya dunia setelah kematian. Namun, kalaupun tidak ada (surga), menurutku sebaiknya kita tetap mengimani keberadaannya. Karena memang selayaknya begitu. Tidak pantas orang yang selama hidupnya berjuang sekuat tenaga, setelah meninggal hanya menuju ketiadaan. Karena itu lebih baik kita menganggap mereka berada di surga dengan damai."</em><br>
+  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
