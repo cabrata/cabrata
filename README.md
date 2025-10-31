@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak muda kadang terobsesi pada kesempurnaan.
-Aku juga pernah begitu.
-Tapi suatu saat nanti, kau pasti akan percaya pada jalanmu sendiri.
-Seperti yang kulakukan.
-Karena itu, tenang saja, tak apa kalau kau cemas."</em><br>
-  — <strong>Shirosaki</strong>, <em>Bokura wa Minna Kawaisou</em>
+  <em>"Terkadang kita harus menggunakan kemampuan terbaik agar kemampuan kita tidak menumpul."</em><br>
+  — <strong>Kino</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
 </div>
 <!-- QUOTE END -->
 
