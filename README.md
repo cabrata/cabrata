@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walau apapun yang terjadi kedepannya nanti, aku tetap akan terus melindungimu! Aku janji!"</em><br>
-  — <strong>Akihito Kanbara</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
+  <em>"Menolong teman yang sedang kesulitan adalah hal yang wajar."</em><br>
+  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
