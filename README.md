@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman itu tidak bisa didapat dalam waktu yang singkat."</em><br>
-  — <strong>Shi</strong>, <em>Nyanko Days</em>
+  <em>"Cintaku seperti kilauan kembang api. Kilauan kecil yang perlahan meredup.
+Tapi, secercah cahaya kecil masih bersinar di hatiku."</em><br>
+  — <strong>Kazuko Hosogawa</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
