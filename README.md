@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada sesuatu di dunia ini yang lebih berharga dari sesuatu yang tak diketahui."</em><br>
-  — <strong>Jibril</strong>, <em>No Game No Life</em>
+  <em>"Rival itu bukan berarti menjadi musuh."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
