@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku selalu siap menerima (kematian). Bila ajal menjemput, maka memang lebih baik mati. Aku, Akane Sonoyama tak akan mengeluh dibunuh, tak peduli kapan, di mana, oleh siapa, dan dengan alasan apapun."</em><br>
-  — <strong>Akane Sonoyama</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Jika kau memilih (kegiatan) hanya berdasarkan kemampuanmu, kau takkan pernah memulai apapun. Yang terpenting adalah ketertarikanmu."</em><br>
+  — <strong>Ryuujirou Kotobuki</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
