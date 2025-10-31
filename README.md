@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sudah berjanji ketika kapten memintaku untuk menjadi pelatih tahun lalu. Aku berjanji untuk fokus melatih tim menuju kejuaraan nasional.Jika kau berfikir belum siap untuk itu, ada klub lain yang lebih cocok untukmu."</em><br>
-  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
+  <em>"Seorang yang berniat membunuh ayahnya sendiri tidak berhak untuk menjadi Raja."</em><br>
+  — <strong>Shizu</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
 </div>
 <!-- QUOTE END -->
 
