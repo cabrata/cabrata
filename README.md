@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mata-mata tidak percaya siapa pun, selain dirinya sendiri."</em><br>
-  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
+  <em>"Kau adalah pahlawan karena menyelamatkan seorang wanita tua."</em><br>
+  — <strong>Alan Lernier</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
