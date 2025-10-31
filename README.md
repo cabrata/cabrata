@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dimanjakan dan memanjakan kakak adalah hak khusus seorang adik."</em><br>
-  — <strong>Mizuha Kiryuu</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
+  <em>"Teman itu tidak bisa didapat dalam waktu yang singkat."</em><br>
+  — <strong>Shi</strong>, <em>Nyanko Days</em>
 </div>
 <!-- QUOTE END -->
 
