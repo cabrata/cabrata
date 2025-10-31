@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menulis cerita itu bagaikan menulis seseorang. Penulis dapat menulis bagaimana orang itu hidup dan bagaimana orang itu mati."</em><br>
-  — <strong>Souseki Natsume</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Tak ada sesuatu di dunia ini yang lebih berharga dari sesuatu yang tak diketahui."</em><br>
+  — <strong>Jibril</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
