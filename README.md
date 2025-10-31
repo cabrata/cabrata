@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengikuti yang kuat adalah naluri makhluk lemah."</em><br>
-  — <strong>Demiurge</strong>, <em>Overlord III</em>
+  <em>"Tidak apa-apa kamu tak mencintaiku. Tapi biarkan aku mencintaimu."</em><br>
+  — <strong>Touko Nanami</strong>, <em>Yagate Kimi ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
