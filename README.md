@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ayo kita bersama selamanya mulai dari sekarang!"</em><br>
-  — <strong>Fuuka Akitsuki</strong>, <em>Fuuka</em>
+  <em>"Laki-laki itu sebenarnya tidak begitu peduli setiap perkataan yang dikatakannya."</em><br>
+  — <strong>Shimura</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
 </div>
 <!-- QUOTE END -->
 
