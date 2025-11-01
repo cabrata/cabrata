@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang membuang dirinya sendiri tidak pantas memandang rendah orang lain."</em><br>
-  — <strong>Touka Scott</strong>, <em>Yuusha ga Shinda!</em>
+  <em>"Aku benci bocah yang hanya jago bicara saja !"</em><br>
+  — <strong>Fumio Daimidou</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
