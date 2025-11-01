@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebanyak apapun kejahatan yang dilakukan seseorang, membunuh orang itu teteplah tidak benar. Tidak ada manusia yang pantas dibunuh."</em><br>
-  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
+  <em>"Jujurlah kepada dirimu sendiri."</em><br>
+  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
