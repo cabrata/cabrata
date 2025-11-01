@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang konyol, tapi semua orang takut perbedaan."</em><br>
-  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Bagaimanapun juga, mereka berhasil memberi kita sedikit "sambutan". Ini tidak baik jika kita tidak "membalas budi"."</em><br>
+  — <strong>Yukio Kasamatsu</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
