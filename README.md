@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang kau lakukan ataupun kau berubah, itu tidaklah penting. Lagipula, kau tetaplah kau."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kami tidak seperti manusia yang takut akan kematian. Karena kami sudah hidup cukup lama dan tidak meninggalkan penyesalan."</em><br>
+  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
