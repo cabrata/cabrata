@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hari (pernikahan) ini adalah hari di mana seorang wanita terlihat paling cantik selama hidupnya."</em><br>
-  — <strong>Tomoe Wajima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Siapapun yang melawan monster harus berhati-hati. Karena mereka sendiri akan menjadi monster saat melawannya."</em><br>
+  — <strong>Mephisto Pheles</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
