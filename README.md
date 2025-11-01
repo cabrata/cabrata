@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sains adalah satu-satunya bahasa yang bisa membuat kita mengerti alam semesta yang diciptakan Tuhan."</em><br>
-  — <strong>Motojirou Kajii</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Hidupku yang membosankan ternyata dapat berguna juga."</em><br>
+  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
