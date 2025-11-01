@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyedihkan sekali. Memikirkan hal lain disaat pertandingan, apa kau meremehkan lawanmu?
-Ini adalah pertarungan. Jika kau terjebak dalam drama yang (menurutmu) lebih penting, jangan buang waktumu dipertandingan ini."</em><br>
-  — <strong>Yuuri Himemiya</strong>, <em>Prince of Stride: Alternative</em>
+  <em>"Aku benci bocah yang hanya jago bicara saja !"</em><br>
+  — <strong>Fumio Daimidou</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
