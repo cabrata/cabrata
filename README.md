@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lak-laki itu sejak dulu ditakdirkan tidak pekaan."</em><br>
-  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Dengan memikirkan kekuatan yang kau miliki, ada hal yang bisa dan tidak bisa kau lakukan sendiri. Melihatmu yang seperti ini membuatku merasa malu. Tidak tahu diri dan hanya tersakiti, kau bodoh!"</em><br>
+  — <strong>Izumo Kamiki</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
