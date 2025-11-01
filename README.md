@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bertarunglah! Meski jika Anda memiliki penyesalan, atau meski anda memiliki luka, Anda harus tetap bertarung! Jika Anda membuat keputusan untuk bertarung dan berusaha, Anda harus bertarung sekuat tenaga! Jangan sampai menyerah meski hanya satu detik, hanya sesaat, atau sekilas saja. Anda harus berpegang teguh pada rasa haus kemenangan yang terpancar dimata Anda. Jika Anda masih bisa berdiri, jika jari Anda masih bisa bergerak, jika seluruh gigi Anda masih belum hancur, Anda harus berdiri dan bertarung! Anda harus bertarung!"</em><br>
-  — <strong>Wilhelm van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Menyedihkan sekali. Memikirkan hal lain disaat pertandingan, apa kau meremehkan lawanmu?
+Ini adalah pertarungan. Jika kau terjebak dalam drama yang (menurutmu) lebih penting, jangan buang waktumu dipertandingan ini."</em><br>
+  — <strong>Yuuri Himemiya</strong>, <em>Prince of Stride: Alternative</em>
 </div>
 <!-- QUOTE END -->
 
