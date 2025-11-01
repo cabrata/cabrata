@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk menipu orang, kau harus tahu musuhmu (orang yang akan kau tipu). Kau (juga) harus merencanakan perkataanmu."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Aku akan menyelamatkan kalian semua. Hiduplah kalian dengan mengingat rasa malu karena telah diselamatkan oleh orang yang kalian buang. Lalu aku akan menertawakan kalian yang hidup seperti itu."</em><br>
+  — <strong>Ikoma</strong>, <em>Koutetsujou no Kabaneri</em>
 </div>
 <!-- QUOTE END -->
 
