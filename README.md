@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apapun yang terjadi, aku akan selalu denganmu."</em><br>
-  — <strong>Yuno Gasai</strong>, <em>Mirai Nikki</em>
+  <em>"Semua orang diciptakan berbeda!"</em><br>
+  — <strong>Izuku Midoriya</strong>, <em>Boku no Hero Academia</em>
 </div>
 <!-- QUOTE END -->
 
