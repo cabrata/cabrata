@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan menyelamatkan kalian semua. Hiduplah kalian dengan mengingat rasa malu karena telah diselamatkan oleh orang yang kalian buang. Lalu aku akan menertawakan kalian yang hidup seperti itu."</em><br>
-  — <strong>Ikoma</strong>, <em>Koutetsujou no Kabaneri</em>
+  <em>"Kita harus membunuh, demi kebaikan yang lebih besar."</em><br>
+  — <strong>Aiguille</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
