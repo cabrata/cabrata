@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita menyerah sebelum bertempur, kita tidak akan mendapatkan apapun."</em><br>
-  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Manusia adalah makhluk yang berakal. Meskipun kata "setara" seolah hanya candaan belaka, namun sebaliknya "ketidaksetaraan" dapat terlihat dengan jelas."</em><br>
+  — <strong>Kiyotaka Ayanokouji</strong>, <em>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</em>
 </div>
 <!-- QUOTE END -->
 
