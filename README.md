@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup tanpa hal menarik itu tak ada artinya."</em><br>
-  — <strong>Ha Yuri Jahad</strong>, <em>Kami no Tou</em>
+  <em>"Memikirkan kegagalan adalah hal yang bodoh."</em><br>
+  — <strong>Lupusregina Beta</strong>, <em>Overlord III</em>
 </div>
 <!-- QUOTE END -->
 
