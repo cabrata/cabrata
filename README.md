@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa erat ikatanmu dengan orang lain, waktu akan memisahkanmu dengan mereka."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Nisemonogatari</em>
+  <em>"Penyesalan itu datang terlambat. Kau tidak akan pernah tahu sampai kau kehilangannya. Karena itu, berjuanglah untuk merasakan masa mudamu."</em><br>
+  — <strong>Saku Akechi</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
 </div>
 <!-- QUOTE END -->
 
