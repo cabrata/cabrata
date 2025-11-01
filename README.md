@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah makhluk yang berakal. Meskipun kata "setara" seolah hanya candaan belaka, namun sebaliknya "ketidaksetaraan" dapat terlihat dengan jelas."</em><br>
-  — <strong>Kiyotaka Ayanokouji</strong>, <em>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</em>
+  <em>"Cinta itu sama halnya dengan "soal ujian".
+Pertama kau harus mengenalnya dengan baik, lalu mulailah ketika kau sudah memahaminya."</em><br>
+  — <strong>Soujirou Agata</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
