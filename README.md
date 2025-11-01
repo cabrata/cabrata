@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami tidak seperti manusia yang takut akan kematian. Karena kami sudah hidup cukup lama dan tidak meninggalkan penyesalan."</em><br>
-  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Aku akan menyelamatkannya karena dia adalah temanku. Kalau ada orang yang membuatnya menderita, aku tidak akan memaafkannya!"</em><br>
+  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya 3rei!!</em>
 </div>
 <!-- QUOTE END -->
 
