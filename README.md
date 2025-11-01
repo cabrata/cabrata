@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang diciptakan berbeda!"</em><br>
-  — <strong>Izuku Midoriya</strong>, <em>Boku no Hero Academia</em>
+  <em>"Memang konyol, tapi semua orang takut perbedaan."</em><br>
+  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
