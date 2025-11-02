@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena kau benar, bukan berarti kau adalah kebenaran."</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Jika kau membuka hatimu untuknya, sejauh apapun kalian terpisah, kau pasti bisa mendengar suaranya."</em><br>
+  — <strong>Lailah</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
