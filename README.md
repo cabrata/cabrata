@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Samurai tidak membutuhkan alasan untuk bertindak.
-Jika mereka ingin melindungi sesuatu, maka mereka akan menarik pedangnya."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Pekerjaan seorang detektif itu bukan untuk melumpuhkan orang yang seharusnya dilumpuhkan. Tetapi, menyelamatkan orang yang seharusnya diselamatkan."</em><br>
+  — <strong>Shinya Kougami</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
