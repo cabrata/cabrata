@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesukaan orang itu berbeda-beda. Dan mungkin saja kamu menemukan hal yang lebih kamu sukai. Hal itu tidak perlu diputuskan sekarang. Selama tidak terburu-buru, kamu pasti baik-baik saja."</em><br>
-  — <strong>Chigusa Fukasawa</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"(Jalani) seperti (saat naik) kereta. Selama tetap di jalurnya, kau pasti akan sampai tujuan dengan lancar. Jadi, duduklah dengan tenang sampai tiba di tujuan."</em><br>
+  — <strong>Shikadai Nara</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
