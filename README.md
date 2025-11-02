@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat bisa membuat orang semakin tak berguna rasanya sangat nikmat."</em><br>
-  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Kesukaan orang itu berbeda-beda. Dan mungkin saja kamu menemukan hal yang lebih kamu sukai. Hal itu tidak perlu diputuskan sekarang. Selama tidak terburu-buru, kamu pasti baik-baik saja."</em><br>
+  — <strong>Chigusa Fukasawa</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
