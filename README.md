@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci pria yang diam saja melihat seorang wanita tersakiti."</em><br>
-  — <strong>Sen Yarizui</strong>, <em>Ben-To</em>
+  <em>"Kau tak bisa menilai naskah game itu bagus atau jelek jika belum membacanya di dalam game."</em><br>
+  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
