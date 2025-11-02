@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kematian masih jauh, orang-orang mengoceh tentang impian, keyakinan, (dan) bermacam-macam teori. Tapi saat mereka sudah hampir mati, mereka baru sadar kalau manusia hanya ingin hidup dan mati di sisi orang yang mereka percayai."</em><br>
-  — <strong>Kotarou Katsura</strong>, <em>Gintama°</em>
+  <em>"Kerinduan mencengkeram orang lebih kuat daripada racun, dan lebih dalam daripada penyakit."</em><br>
+  — <strong>Lyza</strong>, <em>Made in Abyss</em>
 </div>
 <!-- QUOTE END -->
 
