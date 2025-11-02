@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengan menerapkan aturan diri sendiri pada dirimu, itu untuk mendorong dan membantumu untuk mengatasi tantangan atau situasi yang sulit. Kau menerapkan aturan diri sendiri hanya pada dirimu. Karena aturan itulah kau bisa mengumpulkan kekuatanmu dan fokus pada usahamu. Bahkan jika kau gagal, kau sudah menerapkan aturan yang membuat dirimu menjadi sangat disiplin dan fokus. Begitulah "aturan diri sendiri"."</em><br>
-  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Perasaan yang belakangan ini kurasakan...
+Perasaan yang sejak itu terus tumbuh...
+(Aku ingin tahu) suatu saat, apakah aku bisa menggapaimu..."</em><br>
+  — <strong>Shouta Kazehaya</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
