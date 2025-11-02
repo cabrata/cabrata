@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli berapa banyak kebohongan yang kau katakan, kau takkan bisa membohongi hatimu sendiri."</em><br>
-  — <strong>Meliodas</strong>, <em>Nanatsu no Taizai</em>
+  <em>"Kalau kau menghentikan langkahmu karena takut dengan masa depan, maka kau takkan mendapatkan apa-apa, takkan ada  hal yang dimulai. Kau hanya akan menghabiskan hidupmu seperti orang yang sudah mati."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
