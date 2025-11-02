@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang punya cara berbeda untuk mencapai hal yang diinginkan. Makanya, kita tidak bisa begitu saja menjalani satu hal yang pasti. Hanya saja, kalau terus terperangkap dalam pikiran sempit seperti itu dan membohongi perasaan kita sendiri, maka kita tidak akan pernah bisa merasakan apa arti kebahagiaan sejati."</em><br>
-  — <strong>Hiroomi Nase</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
+  <em>"Masa muda itu seperti itu. Meskipun kau kesulitan atau tersesat, akan ada peluang untuk mencari tantangan baru dan menciptakan hal baru."</em><br>
+  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
