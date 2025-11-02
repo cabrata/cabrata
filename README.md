@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli bagaimana caramu memandang, kebenaran takkan ditemukan jika tertutup awan."</em><br>
-  — <strong>Igor Neuhaus</strong>, <em>Ao no Exorcist</em>
+  <em>"Orang yang terlalu memusingkan peringkat seseorang itu sama sekali tidak spesial."</em><br>
+  — <strong>Kasumi Chigusa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
