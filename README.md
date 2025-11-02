@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan itu tetaplah cantik meski usianya telah berlalu."</em><br>
-  — <strong>Setsuna Ena</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Meskipun tidak ada yang mempercayaimu, aku akan selalu mempercayaimu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
