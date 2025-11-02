@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mulai sekarang, tujuanku adalah mengembalikan senyumanmu."</em><br>
-  — <strong>Hana Miyakoshi</strong>, <em>WWW.Working!!</em>
+  <em>"Tak peduli berapa banyak kebohongan yang kau katakan, kau takkan bisa membohongi hatimu sendiri."</em><br>
+  — <strong>Meliodas</strong>, <em>Nanatsu no Taizai</em>
 </div>
 <!-- QUOTE END -->
 
