@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan buang rasa kesalmu. Karena itu akan jadi bukti kalau kau masih belum menyerah pada dirimu sendiri."</em><br>
-  — <strong>Ryouma Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Samurai tidak membutuhkan alasan untuk bertindak.
+Jika mereka ingin melindungi sesuatu, maka mereka akan menarik pedangnya."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
