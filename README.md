@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau menghentikan langkahmu karena takut dengan masa depan, maka kau takkan mendapatkan apa-apa, takkan ada  hal yang dimulai. Kau hanya akan menghabiskan hidupmu seperti orang yang sudah mati."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Saat bisa membuat orang semakin tak berguna rasanya sangat nikmat."</em><br>
+  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
