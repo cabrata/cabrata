@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menjadi "orang dewasa" itu tidak selalu mengesankan. Terkadang "dewasa" itu hanya penampilan luarnya saja. Mereka (hanya) ingin terlihat mengagumkan di depan masyarakat, (dan) ingin dihormati oleh anak-anak."</em><br>
-  — <strong>Sakie Satou</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Ketika dia berbicara seperti itu (sangat percaya diri), dia tidak akan membiarkan tembakannya meleset. (Maka) Serahkan penyerangan padanya. Kau hanya harus bertahan seperti hidupmu bergantung padanya."</em><br>
+  — <strong>Shun Izuki</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
