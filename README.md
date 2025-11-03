@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah kekalahan membuktikan bahwa kalian itu lemah?
-Bukankah bagi kalian "kalah" itu lebih terlihat seperti ujian?
-Apa kalian bisa berdiri dan berjalan lagi setelah kalian terjatuh.
-Jika kalian tetap duduk di situ, justru itulah yang membuktikan bahwa kalian lemah."</em><br>
-  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!!</em>
+  <em>"Sebenarnya aku juga tidak terlalu peduli tentang fakta ada atau tidak adanya dunia setelah kematian. Namun, kalaupun tidak ada (surga), menurutku sebaiknya kita tetap mengimani keberadaannya. Karena memang selayaknya begitu. Tidak pantas orang yang selama hidupnya berjuang sekuat tenaga, setelah meninggal hanya menuju ketiadaan. Karena itu lebih baik kita menganggap mereka berada di surga dengan damai."</em><br>
+  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
