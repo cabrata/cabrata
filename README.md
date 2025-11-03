@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada alasan bagiku untuk bicara dengan seseorang yang bermain sangat menyedihkan. Jika kau ingin mengatakan sesuatu,
-kau bisa memberitahukannya padaku, dengan permainanmu."</em><br>
-  — <strong>Shintarou Midorima</strong>, <em>Kuroko no Basket</em>
+  <em>"Aku tak boleh kalah disini! Aku telah bersumpah di makam ayah bahwa aku akan menjadi exorcist yang hebat seperti dirinya dan akan menghajar Satan!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
