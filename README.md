@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak ingin menyimpan dendam dengan masa lalu, lebih baik memaafkan dan melangkah maju."</em><br>
-  — <strong>Iori Nagase</strong>, <em>Kokoro Connect</em>
+  <em>"Gagal pun tak apa-apa. Karena meskipun hari ini kau gagal, masih ada hari esok, lusa atau mungkin butuh waktu satu tahun agar bisa berhasil. Hidup itu panjang, jadi meskipun saat ini kau gagal, mungkin suatu saat nanti kau akan berhasil."</em><br>
+  — <strong>Tanaka</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
 </div>
 <!-- QUOTE END -->
 
