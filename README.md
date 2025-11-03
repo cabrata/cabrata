@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tidak bisa bertahan di sekolah hingga lulus, cita-citamu untuk melampauiku hanyalah omong kosong."</em><br>
-  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Idol tidak akan membiarkan apapun menjatuhkan mereka!"</em><br>
+  — <strong>Naka</strong>, <em>Kantai Collection: KanColle</em>
 </div>
 <!-- QUOTE END -->
 
