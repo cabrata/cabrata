@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Kenapa kamu menolong orang-orang?).Mungkin karena demi diriku sendiri. Meskipun hanya sedikit, aku ingin orang-orang mengingatku."</em><br>
-  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
+  <em>"Jika kebohonganmu tidak bisa menipu dirimu sendiri, orang lain pun takkan bisa tertipu."</em><br>
+  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
