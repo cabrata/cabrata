@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Gaya hidupku adalah makan makanan favorit kapan pun yang aku mau."</em><br>
-  — <strong>Anna Yamada</strong>, <em>Boku no Kokoro no Yabai Yatsu</em>
+  <em>"Belajar terus kayak orang bodoh saja."</em><br>
+  — <strong>Nino Nakano</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
