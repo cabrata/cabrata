@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan jika harus menunggu hingga 10 tahun, aku rela jika nanti bisa berkencan dengan gadis cantik sepertimu."</em><br>
-  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Pahlawan tidak butuh alasan untuk menghunuskan pedangnya.
+Dia hanya harus bertarung demi kehormatannya."</em><br>
+  — <strong>Hajime Nishikawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
