@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya pertemuan yang dapat membuat seorang Koki berkembang. Kalau hanya menghadapi masakanmu sendiri, kau hanya akan melihat dirimu yang tak pernah berubah!"</em><br>
-  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"(Bolehkah aku menyatakan cintaku?)
+Tidak... (biarkan) aku yang akan melakukannya.
+Aku jatuh cinta padamu. Selama ini aku jatuh cinta padamu. Aku cinta padamu sejak pertama kali bertemu."</em><br>
+  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
