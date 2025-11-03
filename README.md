@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebenarnya aku juga tidak terlalu peduli tentang fakta ada atau tidak adanya dunia setelah kematian. Namun, kalaupun tidak ada (surga), menurutku sebaiknya kita tetap mengimani keberadaannya. Karena memang selayaknya begitu. Tidak pantas orang yang selama hidupnya berjuang sekuat tenaga, setelah meninggal hanya menuju ketiadaan. Karena itu lebih baik kita menganggap mereka berada di surga dengan damai."</em><br>
-  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
+  <em>"Saat seorang anak telah menyadari kerja keras (orang tua) mereka, (saat) itulah tanda selesainya tugas orang tua."</em><br>
+  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
