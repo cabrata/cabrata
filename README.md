@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bolehkah aku menyatakan cintaku?)
-Tidak... (biarkan) aku yang akan melakukannya.
-Aku jatuh cinta padamu. Selama ini aku jatuh cinta padamu. Aku cinta padamu sejak pertama kali bertemu."</em><br>
-  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Berhati-hatilah atas perkataan dan perbuatanmu. Kalau kata bertarung telah keluar dari bibirmu, maka takkan bisa kau tarik kembali."</em><br>
+  — <strong>Lancer</strong>, <em>Fate/Grand Order: First Order</em>
 </div>
 <!-- QUOTE END -->
 
