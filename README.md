@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau memang menginginkannya, terkadang kau harus melawan, tak peduli siapapun lawannya."</em><br>
-  — <strong>Kae Serinuma</strong>, <em>Watashi ga Motete Dousunda</em>
+  <em>"Kamu harus lebih sopan terhap gurumu!"</em><br>
+  — <strong>Beatrice</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
