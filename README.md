@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat seorang anak telah menyadari kerja keras (orang tua) mereka, (saat) itulah tanda selesainya tugas orang tua."</em><br>
-  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Tak ada yang tahu ide akan muncul dari mana. Karena itu pastikan antenamu terus berdiri."</em><br>
+  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
