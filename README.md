@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku terlahir sepuluh tahun lebih awal, dan bertemu dengannya sepuluh tahun lebih awal, mungkin hatiku ini bisa dicuri olehnya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Memanjakan anak adalah bagian dari pekerjaan seorang ibu."</em><br>
+  — <strong>Shizu Tanbabashi</strong>, <em>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</em>
 </div>
 <!-- QUOTE END -->
 
