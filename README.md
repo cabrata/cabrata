@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau takkan tahu perasaan orang lain bila kau tak bertanya.
-Perasaanmu juga takkan pernah diketahui orang lain bila kau tak mengatakannya."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Saat kau dalam masalah, aku ingin jadi yang pertama membantumu. Hanya itu yang kuinginkan."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
