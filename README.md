@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu makhluk yang dangkal. Mereka hanya melihat (orang lain) berdasarkan gosip yang beredar di permukaan."</em><br>
-  — <strong>Becky Blackbell</strong>, <em>Spy x Family</em>
+  <em>"Spekulasi saja takkan mengubah fakta. Kita harus menerima kenyataan dan bergerak maju."</em><br>
+  — <strong>Kuro no Caster</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
