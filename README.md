@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan tidak akan tersampaikan kalau tidak diungkapkan."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Pasti kau sudah lama tidak menangis. Syukurlah! Sekarang kau punya tempat untuk menangis."</em><br>
+  — <strong>Chiaki Takahashi</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
