@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar mungkin tidak ada bunga yang bisa mekar selamanya. Mungkin juga bunga itu akan mudah layu. Tapi, walaupun bunga itu layu, saat musim telah berganti bunga itu akan mekar kembali."</em><br>
-  — <strong>Tsukuyo</strong>, <em>Gintama°: Aizome Kaori-hen</em>
+  <em>"Demi menyelamatkan nyawamu, nyawa orang lain harus dikorbankan.
+Seperti itulah cara hidup "hewan"."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
