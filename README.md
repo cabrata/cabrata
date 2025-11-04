@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap jomblo yang punya hewan peliharaan pasti merasakan kebahagiaan palsu"</em><br>
-  — <strong>Mayumi Nishikino</strong>, <em>Bokura wa Minna Kawaisou</em>
+  <em>"Kehidupan adalah gim busuk."</em><br>
+  — <strong>Fumiya Tomozaki</strong>, <em>Jaku-Chara Tomozaki-kun</em>
 </div>
 <!-- QUOTE END -->
 
