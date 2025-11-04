@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus terus maju ke depan, bukan naik ke atas agar cerita terus berlanjut menuju akhir yang bahagia."</em><br>
-  — <strong>Shuu Matsubara</strong>, <em>Re:CREATORS</em>
+  <em>"Setiap jomblo yang punya hewan peliharaan pasti merasakan kebahagiaan palsu"</em><br>
+  — <strong>Mayumi Nishikino</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
