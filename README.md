@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekalahan pertama memang menyakitkan, tapi karena itulah yang membuat game menyenangkan."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Kalau tidak menyerah, seharusnya jangan lari."</em><br>
+  — <strong>Hanabi Yasuraoka</strong>, <em>Kuzu no Honkai</em>
 </div>
 <!-- QUOTE END -->
 
