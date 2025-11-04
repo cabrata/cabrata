@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka melakukan sesuatu yang tak ingin dilakukan orang lain."</em><br>
-  — <strong>Reines El-Melloi Archisorte</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Balas dendam adalah hal yang bodoh."</em><br>
+  — <strong>Kino</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
 </div>
 <!-- QUOTE END -->
 
