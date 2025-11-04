@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang memanggil orang lain bodoh, adalah orang yang bodoh."</em><br>
-  — <strong>Subaru Uchimaki</strong>, <em>Kono Bijutsubu ni wa Mondai ga Aru!</em>
+  <em>"Meskipun peringkat kami yang paling bawah,
+Meskipun kami tak bisa menggunakan sihir,
+Kakek percaya kami bisa mengalahkan ras lain.
+Aku ingin membuktikan kalau yang dipercayai kakekku itu benar."</em><br>
+  — <strong>Stephanie Dola</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
