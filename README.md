@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada sesuatu yang lebih menyedihkan daripada hidup di bawah kendali orang lain."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Dalam keadaan segenting apapun, bertaruh adalah caraku untuk menyelesaikannya."</em><br>
+  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
