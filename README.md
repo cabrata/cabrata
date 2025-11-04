@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Balas dendam adalah hal yang bodoh."</em><br>
-  — <strong>Kino</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Samurai tidak membutuhkan alasan untuk bertindak.
+Jika mereka ingin melindungi sesuatu, maka mereka akan menarik pedangnya."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
