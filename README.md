@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka tidak akan pernah bilang kalau itu susah atau mereka adalah pekerja keras, (meski begitu) mereka terus berjuang keras agar impiannya bisa terwujud."</em><br>
-  — <strong>Kaya Miyoshi</strong>, <em>Bakuman.</em>
+  <em>"Jangan pernah berpura-pura dapat melihat sesuatu yang tidak bisa kau lihat, atau berpura-pura kau tidak bisa melihat sesuatu yang kau bisa lihat."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
