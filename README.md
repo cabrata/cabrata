@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita hanya bisa menduga apa yang mereka pikirkan saat ini. Kau boleh menyebutnya prasangka, tapi membutuhkan pengalaman serta pengamatan untuk melakukan sebuah penghakiman."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Memikirkan masalah dengan wajah serius mungkin membuatmu tampak bijak, tapi kau salah. Tidak ada alasan untuk terus memikirkannya. Menerima segala yang terjadi di hidupmu adalah cara yang tepat dalam menjalani hidup.
+Mengkhawatirkan masalah hanya akan membuang waktumu. Jika kau punya waktu untuk merenung, lebih baik lakukan sesuatu.
+Lupakanlah masalahmu. Tak ada gunanya menyesali hal yang telah terjadi."</em><br>
+  — <strong>Tooe Kanbaru</strong>, <em>Hanamonogatari</em>
 </div>
 <!-- QUOTE END -->
 
