@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak boleh diam dan merasa iri pada dunianya orang lain.
-Kau harus keluar dan mengubah duniamu sendiri."</em><br>
-  — <strong>Shinichi Chiaki</strong>, <em>Nodame Cantabile</em>
+  <em>"Aku akan menghapus kegelapan di masa lalu, dan membangun masa depan yang cerah dari awal."</em><br>
+  — <strong>Sasuke Uchiha</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
