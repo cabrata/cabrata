@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pergilah dulu, dan tunggu aku. Aku akan segera menyusul, mengendarai angin."</em><br>
-  — <strong>Sei Handa</strong>, <em>Barakamon</em>
+  <em>"Aku ini orang yang paling mengerti perasaan siscon."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
