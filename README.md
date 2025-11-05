@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria kesepian yang tidak mengenal cinta harus diselimuti dengan cinta tanpa syarat."</em><br>
-  — <strong>Mizuho Asano</strong>, <em>Bleach</em>
+  <em>"Jangan lari, hadapilah!. Kalau punya hal yang ingin kamu kejar dengan serius, kenapa kau tidak memakainya sebagai senjata untuk bertarung."</em><br>
+  — <strong>Eiko Kawasegawa</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
