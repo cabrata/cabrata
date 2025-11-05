@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada perdebatan kenapa alien tidak menginvasi Bumi padahal mereka maju dalam hal sains dan teknologi. Mereka tidak bisa (menyerang) karena ada siluman (di Bumi). Siluman dan setan melindungi Bumi dari invasi alien."</em><br>
-  — <strong>Ken Takakura</strong>, <em>Dandadan</em>
+  <em>"Ada dua cara untuk menjalani hidup. Hidup dengan menyadari bahwa hanya sedikit hal yang bernilai dalam diri sendiri, atau hidup dengan menyadari bahwa hanya sedikit hal yang berharga di dunia ini."</em><br>
+  — <strong>Jun Aikawa</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
