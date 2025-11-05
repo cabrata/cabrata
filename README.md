@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjalanan kalian masih sangat jauh, tapi jika kalian tetap bersama-sama, kalian pasti akan berkembang."</em><br>
-  — <strong>Yuusuke Takinoue</strong>, <em>Haikyuu!!</em>
+  <em>"Kau tak boleh diam dan merasa iri pada dunianya orang lain.
+Kau harus keluar dan mengubah duniamu sendiri."</em><br>
+  — <strong>Shinichi Chiaki</strong>, <em>Nodame Cantabile</em>
 </div>
 <!-- QUOTE END -->
 
