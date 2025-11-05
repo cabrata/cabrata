@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebaiknya jangan pernah menerima uang yang tak pantas diterima. Kalau kau terima, nanti kau akan selalu manggampangkan masalah."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Jujur, sekarang aku belum bisa memberikan kontribusi dipertandingan. Tapi aku ingin membantu sebanyak yang kubisa. Itu sebabnya aku di sini. Memang sekarang, aku bukan pelari. Tapi, perasaanku berlari bersama mereka. Aku ingin berbagi dalam kebahagiaan maupun penyesalan. Menurutku "Stride" bukan hanya tentang mengalahkan orang lain. Alasan kenapa aku merasa seperti itu karena, kau dan murid kelas satu lainnya telah menghubungkan perasaan kita semua."</em><br>
+  — <strong>Ayumu Kadowaki</strong>, <em>Prince of Stride: Alternative</em>
 </div>
 <!-- QUOTE END -->
 
