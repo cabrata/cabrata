@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin di hadapanmu cuma ada jalan yang kelam. Tapi kamu harus tetap yakin dan melangkah maju. Percayalah kalau bintang-bintang akan menerangi jalanmu, walupun cuma sekilas."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Orang genius adalah orang yang mendedikasikan dirinya pada satu hal dan satu arah dalam kehidupannya. Setiap orang dapat melakukan berbagai hal. Namun, orang yang fokus pada satu hal mendapatkan keuntungan lebih daripada melakukan banyak hal."</em><br>
+  — <strong>Jun Aikawa</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
