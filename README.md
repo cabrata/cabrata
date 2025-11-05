@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bilang saat kau menemukan sesuatu yang tidak bisa diatasi dengan pengalaman dan pengetahuanmu, maka kau akan berubah."</em><br>
-  — <strong>Seinen Shounin</strong>, <em>Maoyuu Maou Yuusha</em>
+  <em>"Mana mungkin ada hal yang lebih berharga daripada pacar."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
