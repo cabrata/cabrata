@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta adalah kekonyolan dan tak ada gunanya jika dibandingkan dengan belajar."</em><br>
-  — <strong>Fuutarou Uesugi</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Saya sangat senang bahwa (hidup di) dunia ini tidak mudah."</em><br>
+  — <strong>Nadeko Sengoku</strong>, <em>Monogatari Series: Off & Monster Season</em>
 </div>
 <!-- QUOTE END -->
 
