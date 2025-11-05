@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dewa itu bisa ada di mana pun, bisa juga tidak ada di mana pun."</em><br>
-  — <strong>Meme Oshino</strong>, <em>Bakemonogatari</em>
+  <em>"Orang bilang "Kebalikan dari dicintai itu bukanlah dibenci, tapi diabaikan"."</em><br>
+  — <strong>Retto Enjou</strong>, <em>Dokyuu H* HxEros</em>
 </div>
 <!-- QUOTE END -->
 
