@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika laki-laki diibaratkan serigala, maka perempuan itu ular."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Jangan berkecil hati (karena ditolak). Perempuan itu ada banyak, sebanyak bintang di langit yang sulit di jangkau."</em><br>
+  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan</em>
 </div>
 <!-- QUOTE END -->
 
