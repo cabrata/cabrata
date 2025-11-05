@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pada dasarnya semua manusia itu penyakitan. Jadi kita hanya perlu menyesuaikan diri."</em><br>
-  — <strong>Midori Kohakobe</strong>, <em>Yofukashi no Uta</em>
+  <em>"Sejak dia datang, semuanya menjadi lebih baik. Duniaku mulai berubah.
+Mungkin kau tidak tahu, tapi Rinko ditakdirkan untuk menjadi inspirasiku."</em><br>
+  — <strong>Kouki Ichinose</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
