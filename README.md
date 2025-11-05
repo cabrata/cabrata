@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik kau periksa motormu sebelum mengendarainya, tapi yang lebih penting lagi, periksalah pria sebelum menaikinya."</em><br>
-  — <strong>Baita</strong>, <em>Bakuon!!</em>
+  <em>"Tidak layak mempertaruhkan hidup seseorang, tak peduli berapapun keuntungan yang akan didapat."</em><br>
+  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou</em>
 </div>
 <!-- QUOTE END -->
 
