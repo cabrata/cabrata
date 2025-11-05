@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu berharga, nyawamu hanya ada satu!"</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Tak bermain sesuai dengan arahan partiturnya hanyalah keegoisan manusia yang sudah menyerah."</em><br>
+  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
