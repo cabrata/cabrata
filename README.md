@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk menjadi dewasa, kau butuh rival."</em><br>
-  — <strong>Takao Kawafuji</strong>, <em>Barakamon</em>
+  <em>"Pembunuhan yang dilakukan dengan menyusup, akan lebih fleksibel jika targetnya sedang gelisah.
+Karena aku berhadapan dengan makhluk tak dikenal, maka cara terbaik adalah bunuh dia segera sebelum dia curiga."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
