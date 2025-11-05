@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah orang paling berharga yang pernah mengisi kehidupanku. Sejak awal bertemu, kau selalu ada bersamaku. Karena kita berdua (terus bersama), semua masalah dapat terlewati. Tapi, disaat yang bersamaan, semua itu menimbulkan kepedihan dan rasa sakit yang amat mendalam. Aku tak ingin lagi melihatmu memikul semua beban berat itu, aku tak ingin kau tersakiti. Karena itu kita berdua tidak boleh bersama."</em><br>
-  — <strong>Akihito Kanbara</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
+  <em>"Wanita adalah makhluk yang mengejar prestasi tertinggi, sedangkan Pria adalah makhluk yang digunakan Wanita untuk memenuhi tujuannya dengan cara yang paling ekonomis."</em><br>
+  — <strong>Ernesta Kühne</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
