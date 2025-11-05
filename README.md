@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memikirkan masalah dengan wajah serius mungkin membuatmu tampak bijak, tapi kau salah. Tidak ada alasan untuk terus memikirkannya. Menerima segala yang terjadi di hidupmu adalah cara yang tepat dalam menjalani hidup.
-Mengkhawatirkan masalah hanya akan membuang waktumu. Jika kau punya waktu untuk merenung, lebih baik lakukan sesuatu.
-Lupakanlah masalahmu. Tak ada gunanya menyesali hal yang telah terjadi."</em><br>
-  — <strong>Tooe Kanbaru</strong>, <em>Hanamonogatari</em>
+  <em>"Jarang sekali rencana pertamaku berjalan mulus seperti yang ku harapkan. (Maka dari itu) Aku membuat rencana cadangan yang lebih detail untuk hal yang tak terduga dalam misi pembunuhan."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
