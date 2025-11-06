@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah menang atau kalah itu bukan masalah. Karena bekerja keras menuju tujuan itu sangat menyenangkan.
-Tapi jangan salah, meskipun aku bilang begitu. Aku tidak berniat untuk kalah."</em><br>
-  — <strong>Teppei Kiyoshi</strong>, <em>Kuroko no Basket 2nd Season</em>
+  <em>"Orang yang menggunakan kekuatannya karena terbawa emosi bukanlah orang kuat sejati. Kalau hanya karena keisengan kecil, orang dewasa akan menanggapinya dengan senyuman. Lagi pula, tidak akan terjadi pertengkaran kalau dibalas senyuman."</em><br>
+  — <strong>Yor Forger</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
