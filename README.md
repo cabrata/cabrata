@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dengan orang yang bahagia. Melihat mereka saja membuatku merasa bahagia.
-(Tapi) yang kubenci adalah mereka yang tidak tahu alasan kebahagiaan mereka.
-Mereka yang tak peduli kenapa mereka bahagia."</em><br>
-  — <strong>Sodachi Oikura</strong>, <em>Owarimonogatari</em>
+  <em>"Keyakinan seseorang tidak bisa dikekang oleh waktu."</em><br>
+  — <strong>Petelgeuse Romanée-Conti</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
