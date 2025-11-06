@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus mengambil semua tantangan jika itu dapat membuatmu berkembang."</em><br>
-  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Kau bilang kau akan menjadi yang nomor satu di Tootsuki. Mulai saat ini, kata-kata yang kau ucapkan itu akan menjadi beban buatmu."</em><br>
+  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
