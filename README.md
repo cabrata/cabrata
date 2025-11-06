@@ -5,7 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""skakmat" bukan berarti kau menyudutkan raja lawan. Itu adalah pernyataan bahwa raja lawan menjadi milikmu."</em><br>
+  <em>"Apapun pertaruhan yang disepakati, harus dipenuhi.
+Pemenangnya (untuk sekarang) memang kau, tapi hanya untuk sementara."</em><br>
   — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
