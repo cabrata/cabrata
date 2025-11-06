@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika ada sesuatu yang benar-benar ingin kau capai, kejarlah tanpa mementingkan hasilnya."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Pedansa adalah makhluk yang suka menjadi pusat perhatian."</em><br>
+  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
 </div>
 <!-- QUOTE END -->
 
