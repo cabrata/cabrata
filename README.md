@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun pertaruhan yang disepakati, harus dipenuhi.
-Pemenangnya (untuk sekarang) memang kau, tapi hanya untuk sementara."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Aku benci menjadi pusat perhatian. Tapi aku lebih benci berhutang budi pada orang lain."</em><br>
+  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan</em>
 </div>
 <!-- QUOTE END -->
 
