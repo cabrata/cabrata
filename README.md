@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku diam saja, harapan tidak akan bisa jadi kenyataan."</em><br>
-  — <strong>Varma</strong>, <em>Taboo Tattoo</em>
+  <em>"Jangan mengendurkan perasaanmu. Perasaan senang, sakit, bahagia, sedih... rasakan semuanya demi diriku."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
