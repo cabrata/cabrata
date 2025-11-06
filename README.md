@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Takut dikhianati, lebih buruk dari pengkhianatan!"</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>""skakmat" bukan berarti kau menyudutkan raja lawan. Itu adalah pernyataan bahwa raja lawan menjadi milikmu."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
