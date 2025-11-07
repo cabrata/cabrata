@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada banyak hal yang takkan berubah meski kita memikirkannya."</em><br>
-  — <strong>Ichiko Rokujou</strong>, <em>Kakushigoto</em>
+  <em>"Tiga orang yang berpikir bersama, akan lebih bagus daripada berpikir sendirian! Kau tidak boleh berpikir sendirian, kau juga harus mengandalkan orang yang ada di sekitarmu!"</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
