@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua bergantung pada tampan atau tidaknya seseorang. Itulah pedoman hidupku. Jika tidak tampan, berarti bukan laki-laki."</em><br>
-  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Uang hanya akan membawa masalah, entah kau memilikinya atau tidak."</em><br>
+  — <strong>Yuuta Shindou</strong>, <em>WWW.Working!!</em>
 </div>
 <!-- QUOTE END -->
 
