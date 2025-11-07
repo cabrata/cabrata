@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau selalu gampang ikut campur urusan orang lain, seperti orang yang tak bisa menahan kakinya dan langsung masuk tanpa permisi."</em><br>
-  — <strong>Chiriko Tsurumi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Saat kau melihat ke bawah dari tempat setinggi ini, kota (jadi) terlihat kecil ya?
+Tapi, aku lahir disini, besar disini... dan jatuh cinta disini."</em><br>
+  — <strong>Kaoru Tanamachi</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
