@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada seorang pun yang ingin jatuh dalam bahaya, karena itu menakutkan."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Cinta dapat membuat seseorang menjadi kuat dan lemah."</em><br>
+  — <strong>Hibiki Tsukahara</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
