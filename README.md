@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pikirkanlah sesuatu yang mungkin membuatmu tertarik, mungkin dengan merendam jari kakimu? Aku yakin jika dunia yang baru akan datang menyambutmu."</em><br>
-  — <strong>Producer</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Tak peduli apakah kami melawan elves (sejenis makhluk seperti hewan) atau dewa sekalipun, kami tak akan pernah kalah. Jangan meremehkan umat manusia !!"</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
