@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah sesuatu yang sangat akrab dengan ketidakadilan. Ada yang hidup dengan makmur, dan ada juga yang hidupnya sangat menderita."</em><br>
-  — <strong>Decim</strong>, <em>Death Parade</em>
+  <em>"Di dunia ini ada banyak hal yang takkan berubah meski kita memikirkannya."</em><br>
+  — <strong>Ichiko Rokujou</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
