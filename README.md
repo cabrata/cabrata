@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau adalah tipe orang yang mengabdikan sendiri pada seseorang, aku yakin ada seseorang diluar sana yang akan jatuh cinta padamu. Dengan kata lain, cinta pertamamu pasti akan datang. Aku tak bisa membayangkan seperti apa wajahmu shal itu terjadi, tapi aku yakin kau tak akan pernah menyangkanya."</em><br>
-  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
+  <em>"Tak peduli berapa banyak kebohongan yang kau katakan, kau takkan bisa membohongi hatimu sendiri."</em><br>
+  — <strong>Meliodas</strong>, <em>Nanatsu no Taizai</em>
 </div>
 <!-- QUOTE END -->
 
