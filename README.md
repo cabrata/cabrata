@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang laki-laki yang tidak pernah terluka karena selalu melarikan diri (dari masalah) mereka sama sekali tidak keren."</em><br>
-  — <strong>Tooru Miyamae</strong>, <em>Seiren</em>
+  <em>"Aku tak keberatan jika dia menyukai pria lain, hanya saja aku ingin menjadi orang terakhir yang menerima senyuman dari dirinya."</em><br>
+  — <strong>Seiji Yagiri</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
