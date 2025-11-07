@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apakah kami melawan elves (sejenis makhluk seperti hewan) atau dewa sekalipun, kami tak akan pernah kalah. Jangan meremehkan umat manusia !!"</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Jujur, sekarang aku belum bisa memberikan kontribusi dipertandingan. Tapi aku ingin membantu sebanyak yang kubisa. Itu sebabnya aku di sini. Memang sekarang, aku bukan pelari. Tapi, perasaanku berlari bersama mereka. Aku ingin berbagi dalam kebahagiaan maupun penyesalan. Menurutku "Stride" bukan hanya tentang mengalahkan orang lain. Alasan kenapa aku merasa seperti itu karena, kau dan murid kelas satu lainnya telah menghubungkan perasaan kita semua."</em><br>
+  — <strong>Ayumu Kadowaki</strong>, <em>Prince of Stride: Alternative</em>
 </div>
 <!-- QUOTE END -->
 
