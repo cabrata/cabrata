@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau sangat hebat saat membaca pikiran seseorang. Tapi kau tidak memahami perasaan mereka.
-Pikiran dan perasaan seseorang itu tidaklah sama. Karena itulah, kadang-kadang kau bisa menarik kesimpulan yang tidak rasional."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Tak peduli sejujur apa dirimu, orang-orang hanya akan menilai dari perilakumu."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
