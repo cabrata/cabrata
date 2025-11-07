@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Maafkan aku... Maafkan aku (karena) tak bisa menjadi gadis yang mengangis di pelukanmu. Maafkan aku yang memilih mengejar impianku daripada cintaku. Maafkan aku karena aku akan selalu mencintaimu."</em><br>
-  — <strong>Sayuka</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Warna yang gelap dan warna yang cerah. Semua itu membentuk dirimu. Tidak perlu dihapus. Di masa depan, tetaplah tersenyum."</em><br>
+  — <strong>Yuito Aoi</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
