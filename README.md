@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia senang menyakiti orang lain ketika mereka tidak bisa menyakiti diri sendiri."</em><br>
-  — <strong>Yozora Mikazuki</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
+  <em>"Jika kau melawan kejahatan atas kebencian terhadap kejahatan, maka amarah dan dendam itu hanya akan menimbulkan konflik baru."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
