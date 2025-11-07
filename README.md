@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mulai sekarang, tujuanku adalah mengembalikan senyumanmu."</em><br>
-  — <strong>Hana Miyakoshi</strong>, <em>WWW.Working!!</em>
+  <em>"Apa yang berharga menurut klienku, itu juga berharga untukku. Akan ku lakukan apapun untuk melindungi mereka."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
