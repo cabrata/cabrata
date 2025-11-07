@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyumbunyikan semua usaha dari orang lain bukan sesuatu yang bisa dilakukan semua orang."</em><br>
-  — <strong>Oota</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
+  <em>"Kemakmuran yang sesungguhnya adalah bebas dari kekayaan dan barang-barang."</em><br>
+  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
