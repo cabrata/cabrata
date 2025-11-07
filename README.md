@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagaimanapun juga, (semua) manusia itu terkurung dalam penjara yang disebut dengan "Bumi". Tak ada bedanya (hidup) di atas atau di bawah. Yang berbeda hanyalah luas atau sempitnya saja. Orang yang merasa bahwa penjara itu sempit dan tak bisa menerimanya, mereka takkan pernah bisa bebas. Hidupnya hanya akan memandangi batang-batang besi penjara itu. Mereka yang benar-benar terkurung itu ketika mereka membuat penjara dalam hatinya. Jika kau punya tenaga dan waktu untuk mengeluh tentang kematian, kenapa kau tidak berjuang (untuk hidup) dengan kekuatanmu sendiri?"</em><br>
-  — <strong>Hinowa</strong>, <em>Gintama</em>
+  <em>"Genos, sejak awal karena keinginan besarku yang ingin menjadi pahlawanlah yang mendorongku untuk berlatih sangat keras.
+karena itulah aku menjadi sekuat ini."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
