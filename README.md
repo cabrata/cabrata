@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan anak pintar sepertimu bisa jadi bodoh kalau sering lihat (majalah P*o) begituan."</em><br>
-  — <strong>Tokunomori</strong>, <em>Getsuyoubi no Tawawa</em>
+  <em>"Kau sangat hebat saat membaca pikiran seseorang. Tapi kau tidak memahami perasaan mereka.
+Pikiran dan perasaan seseorang itu tidaklah sama. Karena itulah, kadang-kadang kau bisa menarik kesimpulan yang tidak rasional."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
