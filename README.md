@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau tidak mampu, dari awal bilang saja tidak mampu. Ada saatnya kita bergantung pada orang lain. Ketika kau bisa meminta bantuan pada orang sekitarmu dengan terbuka, semua permasalahan bisa diatasi. Itulah sesuatu yang aku pelajari di game online."</em><br>
-  — <strong>Hideki Nishimura</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Semua yang indah (pasti) ada akhirnya. Keabadian itu tidak ada, meskipun menyedihkan tapi aku pikir lebih baik begitu."</em><br>
+  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
