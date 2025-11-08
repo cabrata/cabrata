@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Penglihatan bukanlah apa yang kau lihat, tapi (objek) gambar yang otakmu pahami. Pandangan kita tergantung oleh akal sehat kita. Dalam keadaan normal, manusia tidak bisa melihat diluar kotak mereka."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Jika kau punya hak untuk hidup, kami juga punya. Meskipun aku yakin, setiap manusia memiliki pemikirannya sendiri mengenai "hak". Pokoknya, kami akan melakukan apapun untuk hidup."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
