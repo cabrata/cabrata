@@ -5,8 +5,19 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu memang bukan segalanya.Tapi sesuatu yang hanya bisa kau lakukan sekarang, sesuatu yang hanya ada di sini... Sekaranglah saatnya... Pikirkanlah, perjuangkanlah, menderitalah karenanya, dan cemaskanlah itu semua! Tanpa itu semua, hal itu tidak bisa menjadi kenyataan."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Ada hal yang ingin kusampaikan padamu Junichi.
+Teman yang buruk, kawan, (seorang) yang tak terpisahkan.
+Banyak kata untuk mengungkapkan hubungan kita.
+Tapi aku tidak mau ada jarak lagi diantara kita.
+Akhirnya kusadari perasaanku.
+Sampai sekarang, aku merasa senang mengerjaimu.
+Tapi itu semua baru saja berakhir.
+Entah sejak kapan, aku selalu mengerjaimu.
+Kita memiliki banyak kenangan sepanjang waktu dan membuatku sadar atas perasaan ini.
+Aku tahu 100 hal buruk tentangmu.
+Tapi aku tahu 101 hal baik tentangmu.
+Junichi.. aku menyukaimu."</em><br>
+  — <strong>Kaoru Tanamachi</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
