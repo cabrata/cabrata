@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bodoh akan menghabiskan uangnya untuk hal yang tidak penting.
-Orang bijak akan menghabiskan uangnya untuk hal yang baik untuk dirinya.
-Baik buruknya orang dapat dinilai dari cara dia menghabiskan uangnya."</em><br>
-  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Jika aku terlahir sepuluh tahun lebih awal, dan bertemu dengannya sepuluh tahun lebih awal, mungkin hatiku ini bisa dicuri olehnya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
