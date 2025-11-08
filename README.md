@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun diri kita, selama kita bisa jujur memikirkan orang yang paling berharga dan bisa terus berada di sampingnya, maka semua orang yang melihatnya pun akan ikut bahagia."</em><br>
-  — <strong>Yayoi Kanbara</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
+  <em>"Tidak ada yang tahu masa depan seperti apa. Selama kamu tidak menyerah, selalu akan ada kesempatan."</em><br>
+  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
