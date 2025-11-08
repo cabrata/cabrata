@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dengan hal-hal yang spesial. Atau lebih tepatnya, aku tertarik dengan hal-hal yang terlihat tabu. Jadi kupikir aku beruntung sekali (ternyata) orang yang kucintai adalah kerabat dekatku."</em><br>
-  — <strong>Azaka Kokutou</strong>, <em>Kara no Kyoukai 6: Boukyaku Rokuon</em>
+  <em>"Aku selalu serius! Tapi kenapa kamu selalu lari?
+Setiap kali aku pikir mulai lebih dekat denganmu, kamu malah bergerak semakin jauh."</em><br>
+  — <strong>Megumi Noda</strong>, <em>Nodame Cantabile: Paris Hen</em>
 </div>
 <!-- QUOTE END -->
 
