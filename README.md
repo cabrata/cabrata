@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Manusia itu bodoh". Mungkin ada sedikit kebenaran soal itu.
-Tapi aku suka manusia.
-Kalian bertengkar, kalian marah, kalian menangis.
-Tapi pada akhirnya, kalian selalu tertawa.
-Itulah yang kusuka dari kalian, para manusia."</em><br>
-  — <strong>Housuke</strong>, <em>Sket Dance</em>
+  <em>"Laki-laki itu bisa mati hanya karena patah hati."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
