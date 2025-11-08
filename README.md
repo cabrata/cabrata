@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam mencintai seseorang tidak boleh mengharapkan balasan. Cinta sejati adalah ketika dapat mengorbankan diri sendiri demi orang lain."</em><br>
-  — <strong>Miyoko Kinjou</strong>, <em>Handa-kun</em>
+  <em>"Dengan menyelamatkan seseorang, berarti ada orang lain yang tak terselamatkan. Manusia hanya bisa menyelamatkan seseorang yang memang pantas diselamatkan sejak awal. Ini adalah hal yang wajar, sebagai bentuk pengorbanan seorang pahlawan."</em><br>
+  — <strong>Kiritsugu Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works</em>
 </div>
 <!-- QUOTE END -->
 
