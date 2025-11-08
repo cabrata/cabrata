@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah pedangmu, tidak peduli sekeras apapun rintangannya aku akan selalu mengikutimu."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Genos, sejak awal karena keinginan besarku yang ingin menjadi pahlawanlah yang mendorongku untuk berlatih sangat keras.
+karena itulah aku menjadi sekuat ini."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
