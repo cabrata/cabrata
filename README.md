@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengan menyelamatkan seseorang, berarti ada orang lain yang tak terselamatkan. Manusia hanya bisa menyelamatkan seseorang yang memang pantas diselamatkan sejak awal. Ini adalah hal yang wajar, sebagai bentuk pengorbanan seorang pahlawan."</em><br>
-  — <strong>Kiritsugu Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works</em>
+  <em>"Menguasai bahasa asing akan membantumu untuk berkomunikasi dengan orang asing."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
