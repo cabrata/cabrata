@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau ingin berkelahi, lakukanlah secara adil dan jujur."</em><br>
-  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"(Apakah mungkin seseorang bisa menang melawan orang yang lebih besar darinya?)
+Manusia bukanlah monyet. Jadi selama kau bisa memakai otakmu kau bisa menang."</em><br>
+  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
