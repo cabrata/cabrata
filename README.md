@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tak boleh mengharapkan kehidupan rumah seperti di dalam drama (sinetron)."</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Kalau tidak mampu, dari awal bilang saja tidak mampu. Ada saatnya kita bergantung pada orang lain. Ketika kau bisa meminta bantuan pada orang sekitarmu dengan terbuka, semua permasalahan bisa diatasi. Itulah sesuatu yang aku pelajari di game online."</em><br>
+  — <strong>Hideki Nishimura</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
