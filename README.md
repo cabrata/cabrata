@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunci kesuksesan dalam berbisnis adalah senyuman."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Melalui lagu, aku bisa menyampaikan perasaanku pada kalian. Melalui lagu, perasaan kita saling terhubung. Itulah alasan mengapa aku menyuikai yang namanya bernyanyi! Aku sangat menyukainya!"</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
