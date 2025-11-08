@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin kau akan gagal. Mungkin juga mereka akan menolakmu. Meskipun begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Aku tidak akan membuat kesimpulan mengenai sesuatu yang tak terbukti, itulah aturan dunia akademis."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
