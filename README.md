@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah makhluk yang berpikir sebelum bertindak."</em><br>
-  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Orang bodoh akan menghabiskan uangnya untuk hal yang tidak penting.
+Orang bijak akan menghabiskan uangnya untuk hal yang baik untuk dirinya.
+Baik buruknya orang dapat dinilai dari cara dia menghabiskan uangnya."</em><br>
+  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
