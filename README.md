@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang hanya dapat diketahui setelah kau menghadapinya."</em><br>
-  — <strong>Yoshiyuki Nakajima</strong>, <em>Gin no Saji</em>
+  <em>"Shinichi, aku tak memiliki perasaan manusia. Jadi membunuh spesiesku sendiri tak berpengaruh sama sekali denganku. Tapi bagaimana kalau kau ada di posisiku?"</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
