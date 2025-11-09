@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peperangan itu benar-benar kejam. Entah kau menang atau kalah, kau selalu kehilangan lebih banyak dari pada apa yang kau peroleh."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Kesukaan orang itu berbeda-beda. Dan mungkin saja kamu menemukan hal yang lebih kamu sukai. Hal itu tidak perlu diputuskan sekarang. Selama tidak terburu-buru, kamu pasti baik-baik saja."</em><br>
+  — <strong>Chigusa Fukasawa</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
