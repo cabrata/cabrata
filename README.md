@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin menikmati semuanya, bersama semua orang, dan bisa melaluinya bersama-sama! Itulah yang dimaksud bersinar!"</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Jangan pernah berpura-pura dapat melihat sesuatu yang tidak bisa kau lihat, atau berpura-pura kau tidak bisa melihat sesuatu yang kau bisa lihat."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
