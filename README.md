@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Apa yang membuatmu mempercayaiku?)
-Aku tak punya dasar, tapi aku mungkin akan tetap mempercayaimu. Aku ingin terus mempercayaimu, karena aku suka padamu."</em><br>
-  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 2: Satsujin Kousatsu (Zen)</em>
+  <em>"Saat menyukai seseorang kadang akan berakhir dengan air mata.
+Tapi menyukai seseorang bukanlah sesuatu yang salah."</em><br>
+  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
