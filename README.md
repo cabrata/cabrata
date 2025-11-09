@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang bagus kalau bisa menemukan pekerjaan yang sesuai dengan diri kita.
-Tapi kurasa tak masalah kalau kita yang harus menyesuaikan diri dengan pekerjaan."</em><br>
-  — <strong>Shinei Ookawa</strong>, <em>Gin no Saji</em>
+  <em>"Cermin adalah alat pertama ciptakan manusia yang dapat digunakan untuk mengintip alam semesta alternatif. Objek yang tampak di dalam cermin tidaklah nyata, tapi orang-orang berpikir bahwa itu nyata."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
