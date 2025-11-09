@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memiliki sifat tempramen boleh saja, tapi kalau kau tak bisa mengendalikannya kau bisa terbakar."</em><br>
-  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
+  <em>"Pertarungan antar musuh adalah kelemahan yang paling menghibur."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
