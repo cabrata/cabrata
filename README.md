@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang kumaksud bukanlah mengubah penilaianmu. Aku yakin, tidak ada yang salah dan benar. Tapi, saat nanti kesulitan kita harus saling membantu. Karena, kita ini saudara kan?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Bakat tak selalu mendatangkan kebahagiaan bagi pemiliknya."</em><br>
+  — <strong>Atsushi Nakajima</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
