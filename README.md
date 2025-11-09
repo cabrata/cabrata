@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apakah kami melawan elves (sejenis makhluk seperti hewan) atau dewa sekalipun, kami tak akan pernah kalah. Jangan meremehkan umat manusia !!"</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Kalau kamu memanggil gurumu dengan sapaan aneh misalnya "Tan", itu namanya keterlaluan!"</em><br>
+  — <strong>Emilia</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
