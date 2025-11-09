@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin memiliki lebih banyak waktu menggambar manga. (Sebelum aku punya keinginan menjadi seniman manga pada usia muda) Aku tidak pernah menyadari waktu adalah hal yang berharga."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Aku ingin melakukan apa pun yang ku bisa. Sekalipun itu tak berarti."</em><br>
+  — <strong>Ritsuka Fujimaru</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
