@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sangat setuju kalau seorang anak memang membutuhkan seorang ibu."</em><br>
-  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
+  <em>"Semua orang sudah tau bahwa (seorang) koki yang banyak bicara di dapur itu, tidak punya kemampuan!"</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
