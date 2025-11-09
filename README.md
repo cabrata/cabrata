@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cintaku seperti kilauan kembang api. Kilauan kecil yang perlahan meredup.
-Tapi, secercah cahaya kecil masih bersinar di hatiku."</em><br>
-  — <strong>Kazuko Hosogawa</strong>, <em>Tsurezure Children</em>
+  <em>"Selama ada orang yang bahagia, pasti ada orang yang akan meneteskan air mata."</em><br>
+  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
