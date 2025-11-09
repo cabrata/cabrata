@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu terkadang jadi serasa lebih panjang setelah usia kita berkurang."</em><br>
-  — <strong>Eisen</strong>, <em>Sousou no Frieren</em>
+  <em>"Kalau tahu hasil kerja kerasku dibenci orang-orang, aku takkan jadi polisi."</em><br>
+  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
