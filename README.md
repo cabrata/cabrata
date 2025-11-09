@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak tahu apa yang sedang kamu lakukan, tapi kamu sangat berusaha keras, makanya aku ingin membuatkan sesuatu untukmu."</em><br>
-  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Rasa puas seseorang setelah menyelamatkan sesuatu hanyalah kasalahpahaman otak. Karena menyelamatkan seseorang tidak (sama dengan) menyelamatkan diri sendiri. Meskipun kau merasa menyelamatkan seseorang, sebenarnya kau tak pernah tahu apa benar orang tersebut telah terselamatkan."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
