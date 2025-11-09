@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang tak pernah bisa dilihat sebelum melangkah. Karena itu, aku melangkah tanpa rasa takut."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Aku benci bocah yang hanya jago bicara saja !"</em><br>
+  — <strong>Fumio Daimidou</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
