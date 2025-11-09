@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami melakukannya karena kami menginginkannya! Memang benar latihannya sangatlah berat, badanku sampai terasa sakit semua. Tapi, semangatku untuk membatalkan penutupan sekolah ini takkan kelah besar dari semangat milikmu!"</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Aku tak terlalu mengerti dengan perasaanku sendiri. Tapi waktu itu, saat kau memelukku dan bilang mencintaiku, waktu terasa seperti berhenti. Aku mencintaimu Satou-kun."</em><br>
+  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
