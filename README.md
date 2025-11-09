@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Karena) kalian lemah, itu berarti kalian masih punya kesempatan untuk berkembang. Tak ada yang lebih menyenangkan dari ini bukan?"</em><br>
-  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Memang benar mungkin tidak ada bunga yang bisa mekar selamanya. Mungkin juga bunga itu akan mudah layu. Tapi, walaupun bunga itu layu, saat musim telah berganti bunga itu akan mekar kembali."</em><br>
+  — <strong>Tsukuyo</strong>, <em>Gintama°: Aizome Kaori-hen</em>
 </div>
 <!-- QUOTE END -->
 
