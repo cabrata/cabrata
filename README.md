@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bagaimana rasanya mencintai seseorang? Pada saat apa kamu mulai berpikir bahwa itu cinta?)Saat (melihat) orang yang kau cintai senang, kau juga ikut senang."</em><br>
-  — <strong>Kouichi Sanada</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Kerja keras yang didasari dengan alasan itu takkan membuahkan hasil."</em><br>
+  — <strong>Sumireko Sanshokuin</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
 </div>
 <!-- QUOTE END -->
 
