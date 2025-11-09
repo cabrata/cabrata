@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Justru karena ada kesulitan itulah yang membuat jiwa seseorang itu bersinar."</em><br>
-  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
+  <em>"Baik 10 tahun yang lalu atau 10 tahun yang akan datang, waktu selalu memiliki batas."</em><br>
+  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
