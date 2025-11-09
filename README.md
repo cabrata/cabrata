@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kau mengayunkan pedang untuk melindungi sesuatu? Ksatria adalah seseorang yang wajib melindungi orang lain."</em><br>
-  — <strong>Theresia van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Apapun logika yang diterapkan, (atau) apapun teori yang dibentuk, Keyakinan (tentang agama) dan makhluk gaib akan terus ada."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
