@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah mati hanya karena hal-hal yang konyol."</em><br>
-  — <strong>Eris</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!</em>
+  <em>"Kuberitahu rahasia melawan musuh yang kuat. Caranya mudah, teruslah bangkit dan serang mereka dengan jurusmu secara terus-menerus. Bagi pendekar, mereka yang berdiri hingga akhir adalah pemenangnya."</em><br>
+  — <strong>Eisen</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
