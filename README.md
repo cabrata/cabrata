@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kaulah tokoh utama dalam hidupmu sendiri."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100</em>
+  <em>"Jangan menilai orang dari satu sudut pandang. Kamu harus melihat dari berbagai sudut pandang."</em><br>
+  — <strong>Tetsuo Takahashi</strong>, <em>Demi-chan wa Kataritai</em>
 </div>
 <!-- QUOTE END -->
 
