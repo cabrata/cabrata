@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang laki-laki yang tidak pernah terluka karena selalu melarikan diri (dari masalah) mereka sama sekali tidak keren."</em><br>
-  — <strong>Tooru Miyamae</strong>, <em>Seiren</em>
+  <em>"Jika lusa kau mati, aku akan hidup hingga tiga hari lagi.
+Aku akan menceritakan kisahmu pada orang-orang.
+Aku akan menceritakan tentang tuanku yang aku banggakan."</em><br>
+  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
