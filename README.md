@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada orang yang bisa dengan cepat menemukan jalan hidupnya, ada juga orang yang mulai dengan memanjat tinggi baru menemukan jalannya. Tidak apa kalau mengambil jalan pintas, atau pun tersesat di jalan yang salah. (Karena) mereka berhak melakukan itu."</em><br>
-  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Melihat masa lalu sama artinya dengan tak bisa hidup di masa sekarang."</em><br>
+  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
