@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau ingin berkelahi, lakukanlah secara adil dan jujur."</em><br>
-  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Jujur saja, (saat ini) aku tidak bisa bilang "aku mencintaimu", tapi aku tidak ingin orang lain memilikimu."</em><br>
+  — <strong>Daisuke Higashida</strong>, <em>WWW.Working!!</em>
 </div>
 <!-- QUOTE END -->
 
