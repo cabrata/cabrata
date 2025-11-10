@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang lebih mudah daripada membodohi orang bodoh."</em><br>
-  — <strong>Yozora Mikazuki</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
+  <em>"Penampilan seseorang tergantung pada dua hal, ekspresi dan postur tubuh."</em><br>
+  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
 </div>
 <!-- QUOTE END -->
 
