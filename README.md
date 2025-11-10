@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesehatan adalah hal yang paling penting dari apapun."</em><br>
-  — <strong>Latifa Fleuranza</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Yang memberikanku keberanian hingga saat terakhir adalah kau yang telah menyelamatkanku saat novelku ada yang salah. Aku bersyukur dapat bertemu denganmu."</em><br>
+  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei OVA</em>
 </div>
 <!-- QUOTE END -->
 
