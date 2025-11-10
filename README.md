@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia memasak terlalu dalam dan luas jika dibandingkan dengan hidup kita yang singkat. Meski kau terus mempelajarinya seumur hidupmu, kau tetap tak akan mencapai batasnya"</em><br>
-  — <strong>Eishi Tsukasa</strong>, <em>Shokugeki no Souma: Ni no Sara OVA</em>
+  <em>"Apa sesuatu yang terlupakan itu, memang seharusnya dilupakan?"</em><br>
+  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
