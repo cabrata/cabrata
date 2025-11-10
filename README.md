@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakakku selalu mengingatkanku untuk mengembalikan apa yang kupinjam."</em><br>
-  — <strong>Ayato Amagiri</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Ada orang yang bisa dengan cepat menemukan jalan hidupnya, ada juga orang yang mulai dengan memanjat tinggi baru menemukan jalannya. Tidak apa kalau mengambil jalan pintas, atau pun tersesat di jalan yang salah. (Karena) mereka berhak melakukan itu."</em><br>
+  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
