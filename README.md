@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski kau bisa menutup mata, telinga dan mulutmu sekalipun, kau takkan bisa menghentikan luapan perasaanmu kepada seseorang."</em><br>
-  — <strong>Shuu Igarashi</strong>, <em>Koi to Uso</em>
+  <em>"Menghormati setiap individu tanpa merusak keinginan mereka bentuk dari idealisme yang sesungguhnya."</em><br>
+  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
