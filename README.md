@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin aku harus belajar dari orang bodoh yang terlampau optimis."</em><br>
-  — <strong>Kazuma Satou</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
+  <em>"Bekerja keras adalah bakat terbaik."</em><br>
+  — <strong>Hiroshi Kido</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
