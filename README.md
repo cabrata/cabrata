@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau Jepang kalah perang, orang - orang akan bersumpah setia secara serentak terhadap apa yang sama sekali berbeda sebelumnya (sumpah setia pada negara yang mengalahkannya)."</em><br>
-  — <strong>Kaminaga</strong>, <em>Joker Game</em>
+  <em>"Seluruh pengalaman yang didapat adalah alat untuk membersihkan jalanmu ke depan."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
