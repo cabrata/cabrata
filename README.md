@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencoba untuk tidak menyakiti seseorang adalah hal yang mustahil. Hanya dengan hidup saja, terkadang tanpa disadari seseorang bisa menyakiti orang lain. Meski hidup atau mati, manusia akan selalu menyakiti seseorang. Jika terlibat, kau akan menyakiti seseorang, tapi jika kau tidak terlibat mungkin kau juga akan menyakiti seseorang."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Mungkin kau akan gagal. Mungkin juga mereka akan menolakmu. Meskipun begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
