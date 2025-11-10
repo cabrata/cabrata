@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika lusa kau mati, aku akan hidup hingga tiga hari lagi.
-Aku akan menceritakan kisahmu pada orang-orang.
-Aku akan menceritakan tentang tuanku yang aku banggakan."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Hidup adalah tantangan. Tak ada gunanya hidup jika tak ada lawan yang kuat untuk bermain. Lebih baik jika aku tidak menang."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
