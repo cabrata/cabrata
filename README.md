@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjalanan kalian masih sangat jauh, tapi jika kalian tetap bersama-sama, kalian pasti akan berkembang."</em><br>
-  — <strong>Yuusuke Takinoue</strong>, <em>Haikyuu!!</em>
+  <em>"Percayalah dan berjalanlah di atas jalanmu sendiri."</em><br>
+  — <strong>Guy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
