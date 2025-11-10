@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah bunga yang mekar dihatiku."</em><br>
-  — <strong>Santana</strong>, <em>Canaan</em>
+  <em>"Jangan terlalu memikirkan hal-hal yang tak bisa kau lakukan.
+Lakukan saja apa yang bisa kau lakukan."</em><br>
+  — <strong>Zange Natsume</strong>, <em>Inu x Boku SS</em>
 </div>
 <!-- QUOTE END -->
 
