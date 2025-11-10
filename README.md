@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengejar mimpi yang tak bisa digapai hanya akan menghancurkan diri sendiri."</em><br>
-  — <strong>Evileye</strong>, <em>Overlord II</em>
+  <em>"Perjalanan kalian masih sangat jauh, tapi jika kalian tetap bersama-sama, kalian pasti akan berkembang."</em><br>
+  — <strong>Yuusuke Takinoue</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
