@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seluruh pengalaman yang didapat adalah alat untuk membersihkan jalanmu ke depan."</em><br>
-  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Kebaikan terkadang dapat memberi jalan untuk permusuhan."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
