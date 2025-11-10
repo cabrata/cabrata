@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Percayalah dan berjalanlah di atas jalanmu sendiri."</em><br>
-  — <strong>Guy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Tim basket SMP-ku hanya memiliki satu prinsip, "menang adalah segalanya"."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
