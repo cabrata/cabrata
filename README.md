@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku bisa menyelamatkan orang-orang yang ada disini, aku yakin mimpiku pasti ada di jalan Sang Pelindung. Aku akan menjadi Sang Pelindung!"</em><br>
-  — <strong>Sorey</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Tidak apa kalau hanya aku yang merugi. Asalkan tidak menyusahkan orang lain."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
