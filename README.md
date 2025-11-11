@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tahu jika kau sedang berbohong. Aku tahu kalau kau juga tak bisa mengatakan alasannya. Jadi, kau tak perlu meyakinkanku, menutupi semuanya dengan kebohongan, atau menyalahkan dirimu sendiri seperti itu. Karena aku percaya padamu."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku selalu berpikir bahwa hal terpenting untuk kakak adalah melakukan apapun yang membuat kakak senang. Karena kau selalu melindungiku lebih dari yang lain. Tapi aku ingin menjadi kuat. Kalau kakak ingin bertarung, aku akan bertarung denganmu. Aku tidak mau hanya dilindungi olehmu, aku ingin berdiri disampingmu. Jadi, kau tidak boleh menghentikanku, oke? Dan suatu hari nanti, Aku pasti akan menjadi lebih kuat darimu!"</em><br>
+  — <strong>Priscilla Urzaiz</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
