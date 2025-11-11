@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak itu memang yang terbaik saat dia bertingkah kekanak-kanakan."</em><br>
-  — <strong>Matsuyo Matsuno</strong>, <em>Osomatsu-san</em>
+  <em>"Dunia ini terus maju. Kesenangan semua orang juga (terus) berubah. Karena itu, aku pun juga akan terus mencari sesuatu yang lebih berguna (bagi banyak orang)."</em><br>
+  — <strong>Minosuke</strong>, <em>Ojiisan no Lamp</em>
 </div>
 <!-- QUOTE END -->
 
