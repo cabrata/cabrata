@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk melihat keaslian, kita harus bersikap realistis."</em><br>
-  — <strong>Yusuke Kitagawa</strong>, <em>Persona 5 the Animation</em>
+  <em>"Orang-orang sering melihat ke langit ketika mereka sedang bingung."</em><br>
+  — <strong>Tooru Miyamae</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
