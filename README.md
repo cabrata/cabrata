@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hidup berkat bantuan dari banyak orang. Aku disini karena Ibu ada disini. Aku senang kau menjadi orang tuaku. Aku benar-benar beruntung."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Setelah kematian, kalian akan dikirim ke "surga" atau "neraka"."</em><br>
+  — <strong>Decim</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
