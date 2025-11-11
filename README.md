@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang kau perlihatkan saat ini bukanlah loyalitas ataupun kesetiaan. Tapi sesuatu yang menjijikkan, seperti nafsu seekor anjing ataupun babi yang serakah. Kau hanyalah babi serakah yang hanya mementingkan egomu saja! Babi serakah adalah hal terburuk yang pernah ada di dunia ini!"</em><br>
-  — <strong>Priscilla Barielle</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Jika aku bisa menyelamatkan orang-orang yang ada disini, aku yakin mimpiku pasti ada di jalan Sang Pelindung. Aku akan menjadi Sang Pelindung!"</em><br>
+  — <strong>Sorey</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
