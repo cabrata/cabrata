@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi diriku sendiri, aku akan melakukan apapun yang ingin kulakukan. Itulah alasanku bertarung."</em><br>
-  — <strong>Julis-Alexia von Riessfeld</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Memiliki sifat tempramen boleh saja, tapi kalau kau tak bisa mengendalikannya kau bisa terbakar."</em><br>
+  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
