@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau telah menuntunku. Kau telah memberikan kehidupan bagi boneka sepertiku."</em><br>
-  — <strong>Irisviel von Einzbern</strong>, <em>Fate/Zero</em>
+  <em>"Kau harus bekerja keras agar kau bisa benar-benar berkontribusi bagi perusahaan. Dan setelah perusahaan mengakui kemampuanmu, Kau akan mendapat kenaikan gaji!"</em><br>
+  — <strong>Hajime Shinoda</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
