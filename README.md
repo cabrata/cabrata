@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal terpenting dalam bekerja adalah tidak menyerahkan pekerjaan (kita) pada orang lain."</em><br>
-  — <strong>Francis Scott Key Fitzgerald</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Istirahat sejenak sangatlah penting untuk pekerjaanmu."</em><br>
+  — <strong>Kou Yagami</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
