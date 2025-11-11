@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Justru perselisihan (bisa) terjadi karena mereka semakin akrab."</em><br>
-  — <strong>Quetzalcoatl</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Justru karena ada kesulitan itulah yang membuat jiwa seseorang itu bersinar."</em><br>
+  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
