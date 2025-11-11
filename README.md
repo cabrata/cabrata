@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia ini terus maju. Kesenangan semua orang juga (terus) berubah. Karena itu, aku pun juga akan terus mencari sesuatu yang lebih berguna (bagi banyak orang)."</em><br>
-  — <strong>Minosuke</strong>, <em>Ojiisan no Lamp</em>
+  <em>"Ketika bersama denganmu, segalanya jadi menyenangkan."</em><br>
+  — <strong>Yukiko Asai</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
