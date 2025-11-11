@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ayato, jangan mencoba bertarung sendirian. Kita adalah tim. Kalau kau akan menjagaku, akupun akan menjagamu."</em><br>
-  — <strong>Julis-Alexia von Riessfeld</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Untuk melihat keaslian, kita harus bersikap realistis."</em><br>
+  — <strong>Yusuke Kitagawa</strong>, <em>Persona 5 the Animation</em>
 </div>
 <!-- QUOTE END -->
 
