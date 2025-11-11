@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu sudah tidak perlu berjuang lagi. Menangis juga tidak apa-apa. Karena Mayushii ada di sampingmu."</em><br>
-  — <strong>Mayuri Shiina</strong>, <em>Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero</em>
+  <em>"Entah menang atau kalah itu bukan masalah. Karena bekerja keras menuju tujuan itu sangat menyenangkan.
+Tapi jangan salah, meskipun aku bilang begitu. Aku tidak berniat untuk kalah."</em><br>
+  — <strong>Teppei Kiyoshi</strong>, <em>Kuroko no Basket 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
