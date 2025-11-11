@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang sering melihat ke langit ketika mereka sedang bingung."</em><br>
-  — <strong>Tooru Miyamae</strong>, <em>Seiren</em>
+  <em>"Hal terpenting dalam bekerja adalah tidak menyerahkan pekerjaan (kita) pada orang lain."</em><br>
+  — <strong>Francis Scott Key Fitzgerald</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
