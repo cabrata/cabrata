@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan lupakan kekalahan pahit dan menyedihkan dari Seijou. Tapi, kalian tak perlu mendramatisir perasaan kalah itu.
-Enyahkan perasaan itu dan majulah!"</em><br>
-  — <strong>Keishin Ukai</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Semua orang terlalu banyak pikiran, justru karena situasi yang sulit, kita harus melangkah maju."</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
