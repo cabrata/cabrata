@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak bisa menyukaimu sedikit saja, karena aku sudah menyukaimu sebanyak-banyaknya."</em><br>
-  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Peperangan akan menimbulkan kebencian meski kau menang. Dan rantai kebencian akan berlanjut. Peperangan seharusnya tidak pernah dilakukan."</em><br>
+  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
