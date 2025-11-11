@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli walapun (kita) berada di dalam kekacauan, kita (pasti) bisa menemukan jalan hidup yang indah bagi diri kita sendiri."</em><br>
-  — <strong>Shigeshige Tokugawa</strong>, <em>Gintama°</em>
+  <em>"Apapun logika yang diterapkan, (atau) apapun teori yang dibentuk, Keyakinan (tentang agama) dan makhluk gaib akan terus ada."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
