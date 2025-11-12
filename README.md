@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walaupun kamu tidak punya uang, kamu masih bisa cukup bersenang-senang, asalkan ada cinta."</em><br>
-  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Malam sebelum fajar adalah yang paling gelap. Tapi, jangan menutup matamu. Kalau kau menutup matamu dari kegelapan, kau takkan bisa melihat cahaya dari hari esok yang baru."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
