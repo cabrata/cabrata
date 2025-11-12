@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak tahu sudah seberapa banyak hal yang gagal aku lindungi. Sekarang aku sudah tak punya apa-apa lagi, akan tetapi paling tidak, orang yang ada didepanku harus ku lindungi."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Setiap orang pasti memiliki pandangan yang berbeda atas perbuatanmu. Ada yang menganggap tindakan yang telah kau lakukan itu benar, ada pula yang menganggapnya salah. Biarkan mereka bicara sesukanya, kau tidak perlu mempedulikannya. Karena yang kau lakukan bukanlah suatu hal yang benar ataupun hal yang salah. Kau hanya sedang menjalani masa mudamu."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Hanamonogatari</em>
 </div>
 <!-- QUOTE END -->
 
