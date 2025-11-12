@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bunga Corong Ungu, dalam bahasa bunga berarti "Aku akan mengobati sakitmu"."</em><br>
-  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
+  <em>"Kuusap air mataku, akupun mulai berjuang dan bertarung semampuku. Yang ada dipikiranku hanyalah untuk selalu menang, bertambah kuat, dan terus melangkah maju."</em><br>
+  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
