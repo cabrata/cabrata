@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak bisa memaafkan kau yang telah membuat istriku menangis!"</em><br>
-  — <strong>Hideki Nishimura</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Tulip hitam dalam bahasa bunga artinya bahwa kamu sedang gelisah."</em><br>
+  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
 </div>
 <!-- QUOTE END -->
 
