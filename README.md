@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh menyentuh tubuh (wanita) seberapapun yang kau mau, tapi kau takkan bisa menyentuh hatinya."</em><br>
-  — <strong>Santana</strong>, <em>Canaan</em>
+  <em>"Terkadang memang harus ada perpisahan."</em><br>
+  — <strong>Youhei</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
 </div>
 <!-- QUOTE END -->
 
