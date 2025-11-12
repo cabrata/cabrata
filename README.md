@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau merasa malu, tunjukkan padaku sudah sedewasa apakah dirimu!"</em><br>
-  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist</em>
+  <em>"Bermuka dua? Aku rasa lebih dari itu. Dia sangat terburu-buru mencari apa yang telah dicuri darinya, lalu dia berhenti menolongku. Malahan dia kepikiran alasan yang tidak masuk akal untuk memonta tolong agar aku tak merasa berhutang kepadanya, meskipun aku adalah orang asing. Siapapun yang hidup seperti itu akhirnya akan menyia-nyiakan seluruh hidupnya!"</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
