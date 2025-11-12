@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Universitas adalah tempat dimana kamu bertemu dengan hal-hal yang ingin kamu lakukan."</em><br>
-  — <strong>Tomoko Kawada</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Kalau begitu, jika kau tak lagi menganggapku sebagai ancaman, kau mau berteman denganku kan?"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
