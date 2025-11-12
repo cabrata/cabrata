@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memiliki impian itu membutuhkan tekad untuk menghadapi kenyataan."</em><br>
-  — <strong>Juui</strong>, <em>Gin no Saji</em>
+  <em>"Manusia itu sederhana. Kita akan berusaha jika hasilnya sepadan, dan kita akan berusaha lebih keras lagi jika itu bisa membuat kita lebih baik."</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
