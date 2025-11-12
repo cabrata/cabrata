@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu sederhana. Kita akan berusaha jika hasilnya sepadan, dan kita akan berusaha lebih keras lagi jika itu bisa membuat kita lebih baik."</em><br>
-  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
+  <em>"Dulu kamu bilang padaku kalau pemandangan di Tokyo itu membosankan, kan?
+Aku sendiri tak pernah berpikir seperti itu. Tapi, begitu kau pergi, pemandangan kota (Tokyo) ini mulai membosankan. Mungkin aku menyukai pemandangan di Tokyo karena keberadaanmu."</em><br>
+  — <strong>Kouichi Tanemura</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
