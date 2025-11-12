@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak akan bisa hidup hanya dengan (menggeluti) hobimu saja."</em><br>
-  — <strong>Michiru Hyoudou</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Bisa jatuh cinta pada seseorang itu hal yang membahagiakan."</em><br>
+  — <strong>Hikari Tsutsui</strong>, <em>3D Kanojo: Real Girl</em>
 </div>
 <!-- QUOTE END -->
 
