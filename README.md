@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang membuang dirinya sendiri tidak pantas memandang rendah orang lain."</em><br>
-  — <strong>Touka Scott</strong>, <em>Yuusha ga Shinda!</em>
+  <em>"Mereka yang bekerja keras pasti akan diberikan kesempatan sebagai imbalan."</em><br>
+  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
