@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yaah... ini bukan cara yang buruk untuk mati. Jika aku bisa mati bersama Araragi-senpai, aku tidak bisa berharap lebih dari ini."</em><br>
-  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
+  <em>"Kau tak akan bisa hidup hanya dengan (menggeluti) hobimu saja."</em><br>
+  — <strong>Michiru Hyoudou</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
