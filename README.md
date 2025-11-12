@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat manusia terjatuh dalam kegelapan mereka membutuhkan cahaya. Tak peduli seredup apa pun cahaya itu selama masih ada secercah cahaya akan ada harapan."</em><br>
-  — <strong>Suiryuu</strong>, <em>One Punch Man Season 2</em>
+  <em>"Tanpa rasa ingin tahu dan emosi, kau tidak akan puas dengan hobimu."</em><br>
+  — <strong>Soune</strong>, <em>Kobayashi-san Chi no Maid Dragon S</em>
 </div>
 <!-- QUOTE END -->
 
