@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bermuka dua? Aku rasa lebih dari itu. Dia sangat terburu-buru mencari apa yang telah dicuri darinya, lalu dia berhenti menolongku. Malahan dia kepikiran alasan yang tidak masuk akal untuk memonta tolong agar aku tak merasa berhutang kepadanya, meskipun aku adalah orang asing. Siapapun yang hidup seperti itu akhirnya akan menyia-nyiakan seluruh hidupnya!"</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Bagaimanapun masa lalu atau masa depanmu, itu tidak mengubah fakta bahwa kau sekarang ada di sini."</em><br>
+  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
