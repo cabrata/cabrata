@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kuusap air mataku, akupun mulai berjuang dan bertarung semampuku. Yang ada dipikiranku hanyalah untuk selalu menang, bertambah kuat, dan terus melangkah maju."</em><br>
-  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
+  <em>"Manusia bisa saling berkumpul, saling membantu, dan menyelesaikan sesuatu. Namun peradaban mereka gampang sekali dimusnahkan oleh para naga. Jadi kurasa naga lebih hebat (dari manusia)."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
