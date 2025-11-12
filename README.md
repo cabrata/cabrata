@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pemenang akan mengukir sejarah dan pecundang akan menjadi sejarah."</em><br>
-  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
+  <em>"Nyawa jauh lebih penting daripada misi."</em><br>
+  — <strong>Tengen Uzui</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
 </div>
 <!-- QUOTE END -->
 
