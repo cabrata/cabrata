@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka yang bekerja keras pasti akan diberikan kesempatan sebagai imbalan."</em><br>
-  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Saat tak ada orang di dunia ini yang percaya padamu, bahkan saat kau tak percaya pada dirimu sendiri, aku akan tetap percaya padamu!"</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
