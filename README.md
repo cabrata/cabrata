@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketakutan, penyesalan, keputusasaan. Rasa yang akan jatuh selamanya bersamamu saat kau merangkul semua perasaan negatifmu. Itulah tempat yang disebut kehampaan."</em><br>
-  — <strong>Ginti</strong>, <em>Death Parade</em>
+  <em>"Aku tak tahu sudah seberapa banyak hal yang gagal aku lindungi. Sekarang aku sudah tak punya apa-apa lagi, akan tetapi paling tidak, orang yang ada didepanku harus ku lindungi."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
