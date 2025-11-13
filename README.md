@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagiku, senyum Emilia-tan adalah bintang yang bersinar paling terang di langit malam."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Teman ya,... Dia bisa punya teman, dia punya orang yang menganggap dia berharga. Bagaimana? Hebat kan? Jadi, meskipun dia tidak pergi sekolah, walaupun dia selalu ada di kamarnya, dia adalah kebanggaanku, aku bangga kepadanya."</em><br>
+  — <strong>Masamune Izumi</strong>, <em>Eromanga-sensei</em>
 </div>
 <!-- QUOTE END -->
 
