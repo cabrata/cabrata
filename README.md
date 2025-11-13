@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena tidak meminta tolong bukan berarti tidak ingin ditolong.
-Hanya karena dia tidak bilang cinta bukan berarti dia tidak mencintaimu.
-Siapapun punya hal yang tak bisa dikatakan walaupun ingin mengatakannya."</em><br>
-  — <strong>Meme Oshino</strong>, <em>Nekomonogatari: Kuro</em>
+  <em>"Semua cewek dada besar itu musuh dari cewek dada rata."</em><br>
+  — <strong>Yuika Koga</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
 </div>
 <!-- QUOTE END -->
 
