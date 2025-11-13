@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang bagus kalau bisa menemukan pekerjaan yang sesuai dengan diri kita.
-Tapi kurasa tak masalah kalau kita yang harus menyesuaikan diri dengan pekerjaan."</em><br>
-  — <strong>Shinei Ookawa</strong>, <em>Gin no Saji</em>
+  <em>"Kunang-kunang hidupnya sangat singkat dan lemah, tapi dia bersinar dengan terang. Dag dig dug, seperti jantung yang berdetak. Ini adalah cahaya kehidupan."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
