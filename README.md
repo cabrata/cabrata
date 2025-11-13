@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bila kau pikir bisa membuahkan hasil hanya dengan bekerja keras, berarti kau bodoh."</em><br>
-  — <strong>Tomitte</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
+  <em>"Jika seperti ini terus, hidupmu akan berjalan selambat siput.
+Apakah kau setuju hidupmu seperti itu?"</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
