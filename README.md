@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kita teman?
-Entah mau ke toilet atau kemana pun, kita akan pergi bersama!"</em><br>
-  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!</em>
+  <em>"Kau tidak bisa membawa uang atau benda berharga milikmu setelah meninggal dunia. Bukankah hanya kenangan berharga terhadap seseorang, dan dikenang oleh seseoranglah yang paling berharga kan?"</em><br>
+  — <strong>Ume Sawa</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
