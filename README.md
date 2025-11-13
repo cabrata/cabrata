@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Baru kali ini aku melihat orang mendapat bunga setelah kompetisi. Tidak hanya itu, kau tak mengenal mereka kan?'
-Mereka pasti tidak menyiapkan bunganya, mereka pasti setelah mendengar pertunjukanmu langsung membeli bunga itu untukmu. Ini hari yang tak terlupakan bagi mereka. Mungkin seperti itulah pertunjukanmu."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Semua sejarah itu bohong. Sejarahmu tentu tidak bohong. Apa kebenaran itu benar-benar nyata? Atau apakah itu mutlak? Itu semua hanya khayalan. Dari awal aku tidak pernah percaya pada siapapun. Aku hanya... ingin bertemu denganmu."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
