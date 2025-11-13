@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan laki-laki namanya jika hanya diam saja melihatmu bekerja keras sendirian."</em><br>
-  — <strong>Etsu Kusuda</strong>, <em>Hatsukoi Limited</em>
+  <em>"Mana ada (orang bertarung untuk) menyelamatkan nyawa seseorang hanya karena demi kebaikan. Manusia bertarung demi hasrat mereka."</em><br>
+  — <strong>Wirbel</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
