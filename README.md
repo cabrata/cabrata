@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau ingin melakukan sesuatu yang kau sukai, kau harus memperjuangkan itu dengan belajar lebih baik lagi."</em><br>
-  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji 2nd Season</em>
+  <em>"Bukankah kita teman?
+Entah mau ke toilet atau kemana pun, kita akan pergi bersama!"</em><br>
+  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!</em>
 </div>
 <!-- QUOTE END -->
 
