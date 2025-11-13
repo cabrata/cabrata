@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mana ada (orang bertarung untuk) menyelamatkan nyawa seseorang hanya karena demi kebaikan. Manusia bertarung demi hasrat mereka."</em><br>
-  — <strong>Wirbel</strong>, <em>Sousou no Frieren</em>
+  <em>"Kedamaian adalah hal yang paling indah dan paling sulit (wujudkan)."</em><br>
+  — <strong>Chio Miyamo</strong>, <em>Chio-chan no Tsuugakuro</em>
 </div>
 <!-- QUOTE END -->
 
