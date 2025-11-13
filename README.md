@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan."</em><br>
-  — <strong>Kurumi Ebisuzawa</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Hanya karena tidak meminta tolong bukan berarti tidak ingin ditolong.
+Hanya karena dia tidak bilang cinta bukan berarti dia tidak mencintaimu.
+Siapapun punya hal yang tak bisa dikatakan walaupun ingin mengatakannya."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Nekomonogatari: Kuro</em>
 </div>
 <!-- QUOTE END -->
 
