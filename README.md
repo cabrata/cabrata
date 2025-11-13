@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Asalkan kita masih punya keluarga, itu saja sudah cukup. Mimpiku dari awal hanyalah bisa hidup sampai tua denganmu."</em><br>
-  — <strong>Miyuki Fujioka</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Berbeda denganmu, aku tidak membuat keputusan berdasarkan perasaanku. Mencampurkan cinta dengan pekerjaan adalah ide yang buruk. Begitu kau membuat keputusan, membiarkan perasaanmu pada seseorang mempengaruhi pekerjaanmu itu tidak bisa dibiarkan."</em><br>
+  — <strong>Minko Tsurugi</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
