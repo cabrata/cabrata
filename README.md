@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berbeda denganmu, aku tidak membuat keputusan berdasarkan perasaanku. Mencampurkan cinta dengan pekerjaan adalah ide yang buruk. Begitu kau membuat keputusan, membiarkan perasaanmu pada seseorang mempengaruhi pekerjaanmu itu tidak bisa dibiarkan."</em><br>
-  — <strong>Minko Tsurugi</strong>, <em>Hanasaku Iroha</em>
+  <em>"Bukan laki-laki namanya jika hanya diam saja melihatmu bekerja keras sendirian."</em><br>
+  — <strong>Etsu Kusuda</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
