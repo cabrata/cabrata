@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta sejati adalah cinta yang tak dipengaruhi oleh penampilan. Jika penampilan orang bisa mempengaruhi perasaanmu, maka cintamu itu palsu."</em><br>
-  — <strong>Chika Fujiwara</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Tidak ada hukum yang mengatakan kau tidak boleh menyukai seorang pria hanya karena ia telah memiliki pacar."</em><br>
+  — <strong>Ruri Miyamoto</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
