@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau sudah bertekad, lebih baik kita segera bertindak."</em><br>
-  — <strong>Enri Emmot</strong>, <em>Overlord III</em>
+  <em>"Kesehatan adalah hal yang paling penting dari apapun."</em><br>
+  — <strong>Latifa Fleuranza</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
