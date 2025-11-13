@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya dengan memiliki orang yang dicintai saja dapat membuat pagi yang hampa menjadi indah."</em><br>
-  — <strong>Akira Hiiragi</strong>, <em>KimiKiss Pure Rouge: Love Fighter</em>
+  <em>"Memang bagus kalau bisa menemukan pekerjaan yang sesuai dengan diri kita.
+Tapi kurasa tak masalah kalau kita yang harus menyesuaikan diri dengan pekerjaan."</em><br>
+  — <strong>Shinei Ookawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
