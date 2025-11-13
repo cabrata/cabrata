@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat pertama kali aku melihat gambarmu, ada banyak warna yang terlihat di depanku. Itu seperti membuatku kembali mengingat warna. Aku tak tahu kenapa, tapi bagiku, aku merasa bahwa gambarmu sangat berharga."</em><br>
-  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Jangan melarikan diri dari masalah. Diam saja tidak akan memecahkan masalah. Bersikap sok keren tidak akan menghasilkan apapun. Kau hanya bersikap seakan semuanya baik-baik saja, tapi di mataku kau hanya terlihat seperti anak-anak."</em><br>
+  — <strong>Manami Ogura</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
