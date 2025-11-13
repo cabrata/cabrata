@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pertarungan antar musuh adalah kelemahan yang paling menghibur."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Kau harus membuang tujuan demi tujuanmu.
+Ambisi, keinginan, dendam... Kau harus singkirkan semua tujuan itu demi tujuan sejatimu."</em><br>
+  — <strong>Rinne Higaki</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
