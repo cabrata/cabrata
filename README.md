@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat aku dimintai tolong, sudah pasti aku harus menolongnya, bukan? Karena aku sudah berjanji, aku sudah berjanji kepada kakakku. Meski jari kami sudah berpisah. Tapi janji kami masih tetap ada."</em><br>
-  — <strong>Madoka Takatori</strong>, <em>Shounen Maid</em>
+  <em>"Aku hanya ingin melihatmu membuktikan bahwa kerja keras pasti membawa hasil yang memuaskan."</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
