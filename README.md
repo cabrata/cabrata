@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah jadi kewajiban seorang samurai untuk membalas budi (setiap kebaikan)."</em><br>
-  — <strong>Amidamaru</strong>, <em>Shaman King</em>
+  <em>"Lebih baik lakukan hal yang diinginkan daripada yang diharuskan!"</em><br>
+  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
