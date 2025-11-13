@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melakukan kejahatan, setelah ditangkap mengatakan bahwa iblis telah menghasutnya. Itu adalah alasan yang biasa dikatakan oleh politikus sekarang ini."</em><br>
-  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
+  <em>"Pemenang hanya mendapatkan kepuasan dan kesombongan, tapi kau (yang kalah) mendapatkan sesuatu yang lebih bermakna."</em><br>
+  — <strong>Shouyou Yoshida</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
