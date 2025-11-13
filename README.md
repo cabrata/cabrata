@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang harus kulakukan sebagai yang terlemah adalah mengalahkan yang terkuat."</em><br>
-  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Kau boleh menertawakan tindakan seseorang, kau pun bebas mengatakan apapun tentang mereka. Tapi jangan pernah kau menertawakan perasaan mereka."</em><br>
+  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
 </div>
 <!-- QUOTE END -->
 
