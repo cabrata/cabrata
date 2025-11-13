@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak boleh ragu, untuk negeri ini, untuk pedang ini dan untuk hidupku.
-Pendekar membutuhkan sesuatu untuk dia lindungi. Tanpa itu, dia tidak akan bisa bertarung."</em><br>
-  — <strong>Ginkaku Uneri</strong>, <em>Katanagatari</em>
+  <em>"Kesimpulan yang berbeda datang saat satu fakta dilihat dari dua titik pandang yang berbeda. Saat itu terjadi, itulah waktu untuk menilai dari sudut pandang yang paling benar. Bukan waktu untuk menyimpulkan kesimpulan sendirilah yang benar. Tapi memutuskan bahwa kau tidak benar juga hal yang salah."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
