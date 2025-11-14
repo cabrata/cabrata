@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesetiaanmu sangatlah luar biasa! Jangan pernah kau nodai impian dan sumpah setiamu!"</em><br>
-  — <strong>Archer</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Memakai alasan untuk lari akan membuatmu terlihat menyedihkan."</em><br>
+  — <strong>Hikari Takanashi</strong>, <em>Demi-chan wa Kataritai</em>
 </div>
 <!-- QUOTE END -->
 
