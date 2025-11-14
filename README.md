@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau merasa malu untuk membantunya, tinggal bantu saja mereka di jalan yang tak bisa mereka lihat."</em><br>
-  — <strong>Nozomi Toujou</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Kesempatan takkan menunggu seseorang. Jika kau biarkan kesempatan pergi dengan berkata "Aku belum siap". Maka takkan ada lagi kesempatan seperti itu untukmu."</em><br>
+  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
