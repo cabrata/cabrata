@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski kita hidup dalam peraturan, kita tak bisa menyalamatkan siapapun. Meski aku harus melanggar peraturan, aku takkan membiarkan siapapun menghalangi mimpiku."</em><br>
-  — <strong>Shirou Kotomine</strong>, <em>Fate/Apocrypha</em>
+  <em>"Kau akan menjadi kuat ketika semua orang mengincarmu."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
