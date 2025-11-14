@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak tahu sudah seberapa banyak hal yang gagal aku lindungi. Sekarang aku sudah tak punya apa-apa lagi, akan tetapi paling tidak, orang yang ada didepanku harus ku lindungi."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Masa depan itu sulit ditebak karena gelap gulita seperti jalanan di malam hari."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
