@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kita terus memikirkan apa yang orang lain harapkan, kita tak akan pernah tahu harus bagaimana karena terlalu banyak orang yang berharap pada diri kita. Bukankah lebih mudah jika hanya memikirkan apa yang kita harapkan pada diri sendiri.
-Selanjutnya tinggal berdoa."</em><br>
-  — <strong>Izumi Sakurai</strong>, <em>Nichijou</em>
+  <em>"Seorang pria lebih sering mengungkapkan suatu hal dengan tindakan daripada kata-kata. Jika ada hal yang menyakitkan, mereka tidak ingin merepotkan orang lain. Mereka tidak ingin membuat orang lain khawatir. Karena itu mereka tidak mengatakannya."</em><br>
+  — <strong>Maes Hughes</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
