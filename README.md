@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria lebih sering mengungkapkan suatu hal dengan tindakan daripada kata-kata. Jika ada hal yang menyakitkan, mereka tidak ingin merepotkan orang lain. Mereka tidak ingin membuat orang lain khawatir. Karena itu mereka tidak mengatakannya."</em><br>
-  — <strong>Maes Hughes</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Kau hanya tahu tentang pahitnya ditinggal seorang sendiri. Apakah kau pikir aku juga akan meninggalkanmu? Hal yang seperti itu terjadi padamu, cukup sekali saja seumur hidupmu. (Karena mulai sekarang, ada aku yang takkan pernah meninggalkanmu)"</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
