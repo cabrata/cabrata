@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak bisa berspekulasi berdasarkan masa lalu. Kau tak akan tahu apa yang akan terjadi sampai kau memainkannya."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Hanya karena mereka berteman dengan seorang gadis yang baik, bukan berarti mereka juga baik."</em><br>
+  — <strong>Makoto Sunakawa</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
