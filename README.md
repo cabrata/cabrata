@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau menghentikan langkahmu karena takut dengan masa depan, maka kau takkan mendapatkan apa-apa, takkan ada  hal yang dimulai. Kau hanya akan menghabiskan hidupmu seperti orang yang sudah mati."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Segala sesuatu memiliki kekurangan. Tidak ada yang sempurna, karena itu semua orang ingin menghancurkannya dan menciptakannya kembali."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 4: Garan no Dou</em>
 </div>
 <!-- QUOTE END -->
 
