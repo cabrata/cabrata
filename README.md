@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesempatan takkan menunggu seseorang. Jika kau biarkan kesempatan pergi dengan berkata "Aku belum siap". Maka takkan ada lagi kesempatan seperti itu untukmu."</em><br>
-  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Hari yang baik dimulai dengan kasur yang baik."</em><br>
+  — <strong>Ikta Solork</strong>, <em>Nejimaki Seirei Senki: Tenkyou no Alderamin</em>
 </div>
 <!-- QUOTE END -->
 
