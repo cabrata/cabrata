@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah pemikiran mengenai kita yang tak bisa hidup tanpa perlindungan elves (makhluk lain), itu malah mencela dirimu sendiri?"</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Tak ada cewek yang suka diperlakukan seperti adik."</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
