@@ -5,10 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Misalnya...
-Misal saja aku bisa kembali ke save data seperti dalam sebuah game dan aku bisa mengambil pilihan yang tepat, maka apakah kehidupanku akan berubah...?
-Jawabannya adalah "tidak"."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Cintaku seperti kilauan kembang api. Kilauan kecil yang perlahan meredup.
+Tapi, secercah cahaya kecil masih bersinar di hatiku."</em><br>
+  — <strong>Kazuko Hosogawa</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
