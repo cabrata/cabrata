@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang menggunakan masalah mereka sebagai alat pendorong untuk jadi lebih baik."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Peluklah anak ini, dan berbanggalah layaknya seorang ayah."</em><br>
+  — <strong>Irisviel von Einzbern</strong>, <em>Fate/Zero</em>
 </div>
 <!-- QUOTE END -->
 
