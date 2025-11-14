@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tahukah kamu, bahasa bunga dari mawar putih yang layu adalah "sumpah setia selamanya"."</em><br>
-  — <strong>Alice Lendrott</strong>, <em>Shinigami Bocchan to Kuro Maid</em>
+  <em>"Kesetiaanmu sangatlah luar biasa! Jangan pernah kau nodai impian dan sumpah setiamu!"</em><br>
+  — <strong>Archer</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
