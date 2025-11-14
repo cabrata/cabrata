@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah berpura-pura dapat melihat sesuatu yang tidak bisa kau lihat, atau berpura-pura kau tidak bisa melihat sesuatu yang kau bisa lihat."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Bakemonogatari</em>
+  <em>"Aku tak tahu sudah seberapa banyak hal yang gagal aku lindungi. Sekarang aku sudah tak punya apa-apa lagi, akan tetapi paling tidak, orang yang ada didepanku harus ku lindungi."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
