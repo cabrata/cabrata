@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak bisa melihat apapun, jadi aku tak tahu apa yang ada di depan. Jika aku terus maju, mungkin hasilnya nol, atau mungkin satu, atau bisa jadi sepuluh. Jika aku menyerah sekarang, aku takkan pernah tahu. Itulah kenapa aku ingin terus menjadi school idol."</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Aku akan baik-baik saja kalau kau tidak lari.
+Aku akan baik-baik saja kalau kau menunjukkan jalan untukku.
+Aku akan baik-baik saja kalau kau terus menggenggam tanganku."</em><br>
+  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
