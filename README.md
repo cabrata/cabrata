@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak akan melakukan jika memang tidak harus melakukannya, dan jika harus melakukannya maka akan aku selesaikan dengan cepat."</em><br>
-  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
+  <em>"Tak peduli masalah apa yang kau hadapi, kelak semua itu akan berubah. Saat ada hal yang tak berjalan sesuai dengan kehendakmu, kau tidak boleh menyalahkan dirimu sendiri."</em><br>
+  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
