@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenapa sesuatu yang sangat penting seperti perasaan, hati, dan jiwa adalah sesuatu yang tak bisa dilihat ya?"</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Kau takkan bisa merasa puas jika tidak membebaskan dirimu sendiri."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
