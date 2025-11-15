@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesuatu yang paling diinginkan seseorang pasti dimiliki oleh orang lain.
-Bagi orang yang memilikinya, sesuatu itu dianggap tidak penting.
-Bagi orang yang mendapatkan sesuatu yang paling mereka inginkan itu bagaikan sebuah keajaiban.
-Bahkan seluruh lelucon dan kejadian buruk yang terjadi akan luluh karena keajaiban itu.
-Pada dasarnya dunia ini seperti itu."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Kau dan Dr. Magata adalah orang yang berbeda. Tak perlu berpikir hal yang sama. Lagi pula, bagaimanapun juga manusia tak mungkin bisa saling merasakan perasaan yang sama, tak peduli seberapa dekat mereka. Karena itu, mulai sekarang apa yang ingin kau lakukan, pikirkanlah seorang diri."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
