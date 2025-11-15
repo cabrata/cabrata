@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagaimanapun keadaanya, bukan ide yang bagus ikut campur dengan perasaan seseorang."</em><br>
-  — <strong>Kazuyoshi Usui</strong>, <em>Sket Dance</em>
+  <em>"Pekerjaan seorang detektif itu bukan untuk melumpuhkan orang yang seharusnya dilumpuhkan. Tetapi, menyelamatkan orang yang seharusnya diselamatkan."</em><br>
+  — <strong>Shinya Kougami</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
