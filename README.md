@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dimarahi karena diharapkan bisa menjadi ninja yang hebat. Tidak ada anak yang sesempurna itu."</em><br>
-  — <strong>Shikamaru Nara</strong>, <em>Boruto: Naruto Next Generations</em>
+  <em>"Bila kau pikir bisa membuahkan hasil hanya dengan bekerja keras, berarti kau bodoh."</em><br>
+  — <strong>Tomitte</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
 </div>
 <!-- QUOTE END -->
 
