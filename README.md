@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pahlawan profesional harus selalu menjadi simbol keadilan yang indah."</em><br>
-  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
+  <em>"Kau yang selalu menyalahkan orang lain itulah yang membuatmu tidak bisa berkembang."</em><br>
+  — <strong>Gojou Karasuma</strong>, <em>Gi(a)rlish Number</em>
 </div>
 <!-- QUOTE END -->
 
