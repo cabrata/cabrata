@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah putus Nico-kun. Aku selalu mencintai Nico-kun. Aku sangat mencintainya, sampai aku tidak bisa menahannya. Mungkin karena itulah aku tidak sadar bagaimana perasaannya."</em><br>
-  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
+  <em>"(Apa yang membuatmu mempercayaiku?)
+Aku tak punya dasar, tapi aku mungkin akan tetap mempercayaimu. Aku ingin terus mempercayaimu, karena aku suka padamu."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 2: Satsujin Kousatsu (Zen)</em>
 </div>
 <!-- QUOTE END -->
 
