@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenapa kau bisa percaya pada makhluk hidup lemah seperti manusia? Jawabannya sederhana, aku tak percaya pada umat manusia. Manusia itu rendah, mereka semua adalah makhluk bodoh, termasuk aku. Mereka semua hanyalah sampah. Manusia di dunia ini dan duniaku tak ada bedanya sama sekali. Tapi aku percaya pada potensi umat manusia. Dialah (Shiro) bukti yang kupunya. Manusia berpotensi itu ada. Manusia berpotensi, memiliki harapan, dan fantasi yang dapat menggapai tempat dewa itu sendiri, dan semua itu tersimpan dalam tubuh kecil (nya)."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Entah kau ada di pihak yang membunuh atau di pihak yang menyelamatkan, apapun yang kau harapkan takkan muncul. Tak ada satu pun di dunia ini yang bisa mengisi lubang di hatimu. Kau akan berkelana di dalam kegelapan selamanya. (Meskipun begitu) berpihaklah pada mereka yang menyelamatkan orang-orang. Jika kedua pihak sama saja, maka jadilah orang baik. Selamatkan yang lemah dan lindungi anak-anak yatim piatu. Meski itu tak ada pengaruhnya padamu, tapi itu akan membuatmu jadi manusia yang lebih baik."</em><br>
+  — <strong>Sakunosuke Oda</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
