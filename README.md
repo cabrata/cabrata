@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak bermain sesuai dengan arahan partiturnya hanyalah keegoisan manusia yang sudah menyerah."</em><br>
-  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kamu harus mendapatkan apa yang kamu mau, karena gairah begitu penting dalam cinta."</em><br>
+  — <strong>Hikari Tsuneki</strong>, <em>Seiren</em>
 </div>
 <!-- QUOTE END -->
 
