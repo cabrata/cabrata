@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau dan Dr. Magata adalah orang yang berbeda. Tak perlu berpikir hal yang sama. Lagi pula, bagaimanapun juga manusia tak mungkin bisa saling merasakan perasaan yang sama, tak peduli seberapa dekat mereka. Karena itu, mulai sekarang apa yang ingin kau lakukan, pikirkanlah seorang diri."</em><br>
-  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Lebih dari siapapun di dunia ini, aku sangat mengenalmu. Aku mengenal kebaikan mu. Karena itu, meski seluruh dunia menyalahkanmu, aku berbeda. Sebanyak apapun itu, aku akan selalu berkata bahwa kau adalah orang baik. Kau telah menyelamatkanku."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
