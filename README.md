@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memaksa seseorang untuk melakukan sesuatu yang tidak mereka inginkan tak akan menghasilkan hal yang baik."</em><br>
-  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
+  <em>"Sesulit apapun yang akan terjadi, selama ada dirimu aku bisa terus berjuang."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
