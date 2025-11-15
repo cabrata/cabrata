@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu harus mendapatkan apa yang kamu mau, karena gairah begitu penting dalam cinta."</em><br>
-  — <strong>Hikari Tsuneki</strong>, <em>Seiren</em>
+  <em>"Jangan ditunda lagi, lakukan sekarang.
+Seorang pria tidak akan pernah mencari-cari alasan."</em><br>
+  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
