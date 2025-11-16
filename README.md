@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia ini adalah realita. Realita adalah keadilan! Aku akan memuaskan hidupku didalam realita!"</em><br>
-  — <strong>Yoshiko Tsushima</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Kau hanya tahu tentang pahitnya ditinggal seorang sendiri. Apakah kau pikir aku juga akan meninggalkanmu? Hal yang seperti itu terjadi padamu, cukup sekali saja seumur hidupmu. (Karena mulai sekarang, ada aku yang takkan pernah meninggalkanmu)"</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
