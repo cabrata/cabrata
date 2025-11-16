@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang selalu ingin mengetahui kebenaran, atau lebih tepatnya mereka ingin mempercayai apa yang diketahuinya itu benar. Jadi, kebenaran sebenarnya bukanlah hal yang utama."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Meskipun baju, makanan dan warna kesukaan kami berlima berbeda-beda. Tapi pada akhirnya kami bisa menyatukan perasaan kami."</em><br>
+  — <strong>Yotsuba Nakano</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
