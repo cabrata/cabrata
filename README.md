@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah di planet (Bumi) ini orang mau membantu sesamanya itu hanya karena menginginkan balasan?"</em><br>
-  — <strong>Nino</strong>, <em>Arakawa Under the Bridge</em>
+  <em>"Jika ada sesuatu yang tidak baik, hal pertama yang harus kau lakukan adalah menjauhinya, (dan) jangan menyebarkan rumor (tentang hal itu)."</em><br>
+  — <strong>Mika Shimotsuki</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
