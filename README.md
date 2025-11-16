@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pejudi itu orang terburuk."</em><br>
-  — <strong>Fern</strong>, <em>Sousou no Frieren</em>
+  <em>"Ramalan itu hanya pertanda. Yang menentukan masa depan adalah dirimu sendiri."</em><br>
+  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
