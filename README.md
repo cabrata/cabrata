@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sekolah itu hanya seperti satu akuarium kecil. Di luar sana masih ada lautan dan akuarium lain. Kau bebas memilih (tempatmu)."</em><br>
-  — <strong>Nagi Yoshino</strong>, <em>Jujutsu Kaisen</em>
+  <em>"Melihat masa lalu sama artinya dengan tak bisa hidup di masa sekarang."</em><br>
+  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
