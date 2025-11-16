@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Utarakan saja perasaanmu sesuai dengan alur dan caramu sendiri"</em><br>
-  — <strong>Popura Taneshima</strong>, <em>Working!!!</em>
+  <em>"Pejudi itu orang terburuk."</em><br>
+  — <strong>Fern</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
