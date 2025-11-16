@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang hanya dapat diketahui setelah kau menghadapinya."</em><br>
-  — <strong>Yoshiyuki Nakajima</strong>, <em>Gin no Saji</em>
+  <em>"Kau bisa melakukannya, jika mencobanya."</em><br>
+  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
