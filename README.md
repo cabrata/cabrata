@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk sekali saja, aku ingin menolong orang lain dengan keinginanku sendiri."</em><br>
-  — <strong>Kuro no Saber</strong>, <em>Fate/Apocrypha</em>
+  <em>"Ada hal yang hanya dapat diketahui setelah kau menghadapinya."</em><br>
+  — <strong>Yoshiyuki Nakajima</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
