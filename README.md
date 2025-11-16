@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak peduli di garis dunia mana pun, di waktu kapanpun atau dimanapun, aku selalu menyukaimu."</em><br>
-  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate: Oukoubakko no Poriomania</em>
+  <em>"Semua orang adalah orang bodoh yang tak mau dibilang bodoh oleh orang lain."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
