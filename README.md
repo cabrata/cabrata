@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku terlalu mudah puas dan lengah meski hanya sekali saja, aku akan terjatuh (mulai) dari sini."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Hidup adalah tantangan. Tak ada gunanya hidup jika tak ada lawan yang kuat untuk bermain. Lebih baik jika aku tidak menang."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
