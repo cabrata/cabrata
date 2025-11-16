@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat bisa membuat orang semakin tak berguna rasanya sangat nikmat."</em><br>
-  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>""Manusia itu bodoh". Mungkin ada sedikit kebenaran soal itu.
+Tapi aku suka manusia.
+Kalian bertengkar, kalian marah, kalian menangis.
+Tapi pada akhirnya, kalian selalu tertawa.
+Itulah yang kusuka dari kalian, para manusia."</em><br>
+  — <strong>Housuke</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
