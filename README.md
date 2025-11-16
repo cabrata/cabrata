@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Manusia takkan tahu bahwa diri mereka telah ditipu, tapi (sebaliknya) mereka akan sangat sensitif ketika orang lain yang ditipu."</em><br>
+  — <strong>Hitsujii</strong>, <em>Juuni Taisen</em>
 </div>
 <!-- QUOTE END -->
 
