@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau merasa malu untuk membantunya, tinggal bantu saja mereka di jalan yang tak bisa mereka lihat."</em><br>
-  — <strong>Nozomi Toujou</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Aku tak butuh alasan.
+Saat aku bilang akan kutolong, maka akan kutolong!
+Aku takkan pernah mengkhianati temanku!"</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
