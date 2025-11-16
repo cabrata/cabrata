@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang terjadi kalian harus hidup dengan rasa bangga."</em><br>
-  — <strong>Hisa</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Tugas kami sebagai orang biasa adalah untuk memastikan bahwa potensi yang tak bisa dimengerti itu bisa terwujud."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
