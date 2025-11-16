@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika ada sesuatu yang tidak baik, hal pertama yang harus kau lakukan adalah menjauhinya, (dan) jangan menyebarkan rumor (tentang hal itu)."</em><br>
-  — <strong>Mika Shimotsuki</strong>, <em>Psycho-Pass</em>
+  <em>"Semakin keras kita mencoba untuk menjadi orang yang benar, kebohongan kita akan terus bertambah."</em><br>
+  — <strong>Alicia Crystella</strong>, <em>Isekai Maou to Shoukan Shoujo no Dorei Majutsu</em>
 </div>
 <!-- QUOTE END -->
 
