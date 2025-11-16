@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah anak satan, dan aku tak bisa kabur dari kekuatan ini. Aku selalu takut untuk mengakui kekuatan ini dan menggunakannya. Tapi itu takkan berguna. Ini adalah aku, dan ini juga (anak satan) tetaplah aku. Sampai aku bisa mengakui kekuatan ini, aku takkan bisa melangkah kedepan. Jadi tolong terimalah aku dan kekuatan ini."</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Jika dia belajar sedikit tentang kebahagiaan, dia pasti akan segera melampauiku, meskipun begitu kebahagiaan bukanlah perlombaan. Jika dia melampauiku, nanti giliran aku yang akan belajar darinya. Itulah yang namanya belajar, mengajar, dan saling membantu demi mencapai puncak bersama. Mari belajar bersama. Meskipun kebodohan kita tidak ada batasnya, tapi kita bisa menjadi bijak bersama. Kita bisa mendapat kebahagiaan yang layak bersama."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
