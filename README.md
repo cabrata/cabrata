@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika berada di dalam pertarungan, jangan lengah sampai akhir! Mereka yang lengah pasti akan mati terlebih dahulu."</em><br>
-  — <strong>Izuminokami Kanesada</strong>, <em>Katsugeki/Touken Ranbu</em>
+  <em>"Perasaan yang belakangan ini kurasakan...
+Perasaan yang sejak itu terus tumbuh...
+(Aku ingin tahu) suatu saat, apakah aku bisa menggapaimu..."</em><br>
+  — <strong>Shouta Kazehaya</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
