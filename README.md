@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu terkadang jadi serasa lebih panjang setelah usia kita berkurang."</em><br>
-  — <strong>Eisen</strong>, <em>Sousou no Frieren</em>
+  <em>"Seseorang tak mungkin bisa mendapatkan segalanya. Pasti akan datang hari ketika kita kehilangan. Karena itu majulah terus agar tak ada penyesalan."</em><br>
+  — <strong>Endorsi Jahad</strong>, <em>Kami no Tou</em>
 </div>
 <!-- QUOTE END -->
 
