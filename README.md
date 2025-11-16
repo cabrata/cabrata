@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang Idol dapat melakukan banyak hal. Mereka semua sungguh fantastis."</em><br>
-  — <strong>Anastasia</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Wanita adalah makhluk yang siap tempur."</em><br>
+  — <strong>Yuriko Ochiai</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
