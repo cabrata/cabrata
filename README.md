@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pajak Kebahagiaan. Semua hal yang mendatangkan kebahagiaan itu pasti kena pajak."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Apakah di planet (Bumi) ini orang mau membantu sesamanya itu hanya karena menginginkan balasan?"</em><br>
+  — <strong>Nino</strong>, <em>Arakawa Under the Bridge</em>
 </div>
 <!-- QUOTE END -->
 
