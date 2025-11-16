@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalaupun kau punya impian dan tahu cara menggapainya, itu saja tidaklah cukup."</em><br>
-  — <strong>Shinnosuke Aikawa</strong>, <em>Gin no Saji</em>
+  <em>"Untuk sekali saja, aku ingin menolong orang lain dengan keinginanku sendiri."</em><br>
+  — <strong>Kuro no Saber</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
