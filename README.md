@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kejujuran tidak selalu membawa pada kebaikan."</em><br>
-  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
+  <em>"Kerja keras tak akan mengkhianatimu. Meskipun saat ini, itu akan menghianati mimpimu."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
