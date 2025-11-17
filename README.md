@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup tanpa hal menarik itu tak ada artinya."</em><br>
-  — <strong>Ha Yuri Jahad</strong>, <em>Kami no Tou</em>
+  <em>"Selama ada seorang yang ingin kau temui, maka kau tidak sendiri lagi."</em><br>
+  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou San</em>
 </div>
 <!-- QUOTE END -->
 
