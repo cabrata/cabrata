@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat tak selalu mendatangkan kebahagiaan bagi pemiliknya."</em><br>
-  — <strong>Atsushi Nakajima</strong>, <em>Bungou Stray Dogs</em>
+  <em>"Kau bisa berjuang, tapi kau takkan bisa mengalahkanku. Dunia yang sesungguhnya tak semudah itu."</em><br>
+  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
