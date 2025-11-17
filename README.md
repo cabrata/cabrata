@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau yang selalu menyalahkan orang lain itulah yang membuatmu tidak bisa berkembang."</em><br>
-  — <strong>Gojou Karasuma</strong>, <em>Gi(a)rlish Number</em>
+  <em>"Aku tidak ingin melewatkan tiap detik ataupun tiap meter denganmu. Setiap hari, dari mulai berangkat sampai pulang (sekolah) aku ingin bersama denganmu."</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
