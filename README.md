@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada darimu atau perkataan temanmu yang mempengaruhi hidupku dalam hal apapun, baik bentuk maupun jalannya."</em><br>
-  — <strong>Jinta Yadomi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Meskipun kesunyian ini mulai membuatku nyaman, rasanya detak jantungku ini ingin meninggalkan jarum jam ke dalam debu dan bergegas ke masa depan."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
