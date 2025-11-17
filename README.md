@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang namanya keberuntungan di dunia ini. Aturan, prasyarat, keadaan psikologis, semua itu adalah jumlah faktor tak terlihat yang dikombinasikan menghasilkan ketidakpastian yang tak bisa dihindari."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Masa depan itu sulit ditebak karena gelap gulita seperti jalanan di malam hari."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
