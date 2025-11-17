@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalaupun kau punya impian dan tahu cara menggapainya, itu saja tidaklah cukup."</em><br>
-  — <strong>Shinnosuke Aikawa</strong>, <em>Gin no Saji</em>
+  <em>"Keyakinan seseorang tidak bisa dikekang oleh waktu."</em><br>
+  — <strong>Petelgeuse Romanée-Conti</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
