@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Alasanmu, terwujud dalam pengetahuanmu. Dan pengalamanmu, terwujud dalam kesadaranmu."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Aku tak tahu apa yang terjadi, tapi aku tahu apa yang harus ku lakukan."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
