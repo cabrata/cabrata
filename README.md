@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan ketakutan! Jika kita jatuh, jatuhlah ke depan!"</em><br>
-  — <strong>Yuu Nishinoya</strong>, <em>Haikyuu!!</em>
+  <em>"Daripada menyesal karena terlambat, lebih baik serius dari sekarang. Kita harus meneguhkan hati dan mencobanya. Jika tidak berhasil, baru kita segera berhenti."</em><br>
+  — <strong>Tsurayuki Rokuonji</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
