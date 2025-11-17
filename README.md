@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masa depan itu sulit ditebak karena gelap gulita seperti jalanan di malam hari."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Pikirkanlah sesuatu yang mungkin membuatmu tertarik, mungkin dengan merendam jari kakimu? Aku yakin jika dunia yang baru akan datang menyambutmu."</em><br>
+  — <strong>Producer</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
