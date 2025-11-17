@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku mungkin pria yang kikuk. Tapi ketika sudah menentukan satu hal, maka akan kulakukan sampai akhir."</em><br>
-  — <strong>Fudou Aikawa</strong>, <em>Koi wa Sekai Seifuku no Ato de</em>
+  <em>"Semua laki-laki itu bodoh dan cemburuan.
+Begitu pula para perempuan bodoh yang bahagia ketika melihat laki-laki sedang cemburu."</em><br>
+  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
 </div>
 <!-- QUOTE END -->
 
