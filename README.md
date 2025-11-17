@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bergaul dengan pecundang, akan membuatmu menjadi pecundang juga."</em><br>
-  — <strong>Takaya Kurisu</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Meskipun kita tidak bisa bahagia, (tapi) kita beruntung karena masih memiliki banyak waktu. Waktu untuk menyendiri, waktu untuk berpikir, dan waktu untuk hidup."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
