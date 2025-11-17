@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagiku setiap hari adalah perayaan. Perayaan untuk dunia ini dan dirimu."</em><br>
-  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Kalaupun kau punya impian dan tahu cara menggapainya, itu saja tidaklah cukup."</em><br>
+  — <strong>Shinnosuke Aikawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
