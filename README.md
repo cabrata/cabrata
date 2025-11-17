@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang kita harus menggunakan kemampuan terbaik agar kemampuan kita tidak menumpul."</em><br>
-  — <strong>Kino</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Aku adalah Sang Ahli Pedang. Aku memang tak mengerti alasannya, tapi sekarang aku tahu. Penggenggam pedang untuk melindungi seseorang. Sepertinya alasan itu cocok untukku."</em><br>
+  — <strong>Theresia van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
