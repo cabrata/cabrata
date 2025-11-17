@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua laki-laki itu bodoh dan cemburuan.
-Begitu pula para perempuan bodoh yang bahagia ketika melihat laki-laki sedang cemburu."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"(Hidup itu seperti membuat origami)Dalam origami dengan membuat lipatan-lipatan, jika pembentukan terakhir berjalan dengan lancar hasilnya akan sangat indah. Kau membuat lipatan, lalu mengembalikan lipatan seperti semula dan membuat lipatan lainnya. Mungkin rasanya seperti mengulangi hal yang sama terus-menerus dan tak ada hasil apapun. Tapi aku yakin pengalaman itu, lipatan-lipatan itu akan menjadi sebuah origami yang indah yang hanya bisa dibuat olehmu."</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
