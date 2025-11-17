@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun peringkat kami yang paling bawah,
-Meskipun kami tak bisa menggunakan sihir,
-Kakek percaya kami bisa mengalahkan ras lain.
-Aku ingin membuktikan kalau yang dipercayai kakekku itu benar."</em><br>
-  — <strong>Stephanie Dola</strong>, <em>No Game No Life</em>
+  <em>"Dunia ini adalah tanah kosong. Di mana yang tidak bersalah akan dilahap. Di mana seseorang tidak bisa bertahan hidup hanya dengan melakukan hal yang disenangi saja. Hanya mereka yang membakar ambisi dalam hati merekalah yang akan bisa bersaing untuk impian mereka di tanah kosong yang kejam ini!."</em><br>
+  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
