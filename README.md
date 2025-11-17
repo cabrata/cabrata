@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seaneh apapun peristiwa yang terjadi, jika itu terjadi yang kedua kalinya maka akan terlihat biasa saja. (Jadi) tak perlu dipikirkan, biarkan saja. Itulah prinsipku"</em><br>
-  — <strong>Tom Tanaka</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Kau yang selalu menyalahkan orang lain itulah yang membuatmu tidak bisa berkembang."</em><br>
+  — <strong>Gojou Karasuma</strong>, <em>Gi(a)rlish Number</em>
 </div>
 <!-- QUOTE END -->
 
