@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Informasinya tidak kredibel jika sumbernya tidak jelas."</em><br>
-  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
+  <em>"Bakat tak selalu mendatangkan kebahagiaan bagi pemiliknya."</em><br>
+  — <strong>Atsushi Nakajima</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
