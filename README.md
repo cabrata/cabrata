@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kebetulan terjadi berulang kali, orang-orang mulai mengasumsikannya pada hal-hal tahayul seperti nasib atau sebagainya...
-Tapi, selama kemungkinannya tidak nol, apapun bisa saja terjadi. Pada dasarnya, tahayul merupakan sebuah lambang dari kebodohan."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Ditegur bukanlah hal yang buruk. Itu bukti kalau seseorang sedang memperhatikan kita."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
