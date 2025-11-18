@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keadilan yang tak membuahkan hasil itu hanya omong kosong."</em><br>
-  — <strong>Ayase Ayatsuji</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Tidak ada manusia yang lahir karena keinginannya sendiri."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
