@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kedamaian yang dia rasakan saat kematian menjemputnya membuatku sedikit iri."</em><br>
-  — <strong>Chise Hatori</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Menyakitkan sekali..., meskipun aku berada sedekat ini denganmu, tapi aku tak pernah bisa meraihmu."</em><br>
+  — <strong>Shigemi Kubota</strong>, <em>Sakamoto desu ga?</em>
 </div>
 <!-- QUOTE END -->
 
