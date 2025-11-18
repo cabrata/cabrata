@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Preman dan politikus itu mempedulikan imej mereka lebih dari apapun."</em><br>
-  — <strong>Ekubo</strong>, <em>Mob Psycho 100</em>
+  <em>"Cinta datang dalam berbagai bentuk. Mungkin memang tidak semuanya menyenangkan, tapi tetap saja (cinta) itu indah."</em><br>
+  — <strong>Mitsuki Shijou</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
