@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua hanya menari di atas telapak tangan Tuhan."</em><br>
-  — <strong>Otoko</strong>, <em>Konohana Kitan</em>
+  <em>"Ketika berada di dalam pertarungan, jangan lengah sampai akhir! Mereka yang lengah pasti akan mati terlebih dahulu."</em><br>
+  — <strong>Izuminokami Kanesada</strong>, <em>Katsugeki/Touken Ranbu</em>
 </div>
 <!-- QUOTE END -->
 
