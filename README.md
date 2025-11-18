@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin lama orang merencanakan sesuatu, semakin sedikit hal yang sesuai harapan."</em><br>
-  — <strong>Dio Brando</strong>, <em>JoJo no Kimyou na Bouken</em>
+  <em>"Jika ada yang tertinggal, maka akan ada yang menariknya. Jika ada yang lelah, akan ada yang membantunya. Kita semua kadang kebingungan dan ragu. Tapi kita tetap maju. Jadi aku yakin, kita pasti bisa!"</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
