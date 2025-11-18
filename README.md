@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus mengatakan apa yang kau rasakan sejujurnya demi (kebaikan) dirimu sendiri."</em><br>
-  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
+  <em>"Mati bukanlah pilihan yang tepat. Aku ingin meminta maaf kepada yang lain. Aku ingin membantumu untuk hidup."</em><br>
+  — <strong>Shouya Ishida</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
