@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Syarat pertama menjadi pahlawan tidaklah perlu benar, tapi kuat. Itulah mengapa pahlawan selalu menang."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Nisemonogatari</em>
+  <em>"Preman dan politikus itu mempedulikan imej mereka lebih dari apapun."</em><br>
+  — <strong>Ekubo</strong>, <em>Mob Psycho 100</em>
 </div>
 <!-- QUOTE END -->
 
