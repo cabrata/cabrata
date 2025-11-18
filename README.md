@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau bisa melanggar aturan di kota, artinya orang-orang tidak memperhatikan sekitarnya. Kota seperti itu mudah untuk menjadi aksi kejahatan seperti pencurian. Sebaliknya, bila di kota banyak orang yang saling tegur sapa, artinya kewaspadaan penduduk sekitar tinggi. Penjahat pun tak ingin melakukan aksinya di kota itu."</em><br>
-  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Yang paling penting bagiku adalah kehangatan genggaman tanganmu, senyumanmu yang imut dan masa depan yang akan kita bangun bersama."</em><br>
+  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
