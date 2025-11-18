@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senapan tidak akan mengkhianatimu."</em><br>
-  — <strong>Pitohui</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
+  <em>"Peran orang dewasa adalah memastikan anak-anak dapat melakukan semua hal yang ingin mereka lakukan."</em><br>
+  — <strong>Willem Kmetsch</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
