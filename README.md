@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia ini adalah tanah kosong. Di mana yang tidak bersalah akan dilahap. Di mana seseorang tidak bisa bertahan hidup hanya dengan melakukan hal yang disenangi saja. Hanya mereka yang membakar ambisi dalam hati merekalah yang akan bisa bersaing untuk impian mereka di tanah kosong yang kejam ini!."</em><br>
-  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Sejujurnya, aku dari dulu sedikit tertarik padamu. Setelah mengobrol denganmu secara langsung, ketertarikan itu semakin kuat sekarang."</em><br>
+  — <strong>Sylvia Lyyneheym</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
