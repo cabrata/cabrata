@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku pertemanan jauh lebih bermakna daripada kata-kata dan logika."</em><br>
-  — <strong>Tomohiro Nagatsu</strong>, <em>Koe no Katachi</em>
+  <em>"Kedamaian yang dia rasakan saat kematian menjemputnya membuatku sedikit iri."</em><br>
+  — <strong>Chise Hatori</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
