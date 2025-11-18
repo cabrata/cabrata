@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kita berbicara, lihatlah ke depan untuk menghapus seluruh waktu yang kau habiskan untuk melihat masa lalu!"</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Untuk bertahan hidup, terkadang kau harus menghadapi hal-hal yang sulit. Tapi setelah kau merasakan hal itu, kau akan memperolah keberanian untuk melangkah maju."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
