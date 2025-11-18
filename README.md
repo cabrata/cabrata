@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang membual tentang kepribadian, biasanya orang itu tidak punya kepribadian."</em><br>
-  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Hari (pernikahan) ini adalah hari di mana seorang wanita terlihat paling cantik selama hidupnya."</em><br>
+  — <strong>Tomoe Wajima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
