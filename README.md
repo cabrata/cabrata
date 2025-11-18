@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada beberapa hal yang tak bisa dengan mudah diperhitungkan. Itulah perbedaan level pengalaman kita. Aku sudah hidup lebih lama darimu, dan mengetahui sedikit lebih banyak pengetahuan darimu. Aku menjadi seorang guru karena aku ingin berbagi pengalaman itu dengan kalian semua. Jika kalian tak belajar dari pengalamanku dari kelas ini, kalian tak akan pernah bisa mengalahkanku."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Kalau bisa melanggar aturan di kota, artinya orang-orang tidak memperhatikan sekitarnya. Kota seperti itu mudah untuk menjadi aksi kejahatan seperti pencurian. Sebaliknya, bila di kota banyak orang yang saling tegur sapa, artinya kewaspadaan penduduk sekitar tinggi. Penjahat pun tak ingin melakukan aksinya di kota itu."</em><br>
+  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
