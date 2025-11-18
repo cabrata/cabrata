@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan menjadi pria terhebat di dunia yang akan membuat orang tersenyum dengan kue (buatanku)."</em><br>
-  — <strong>Kouki Ichinose</strong>, <em>Ore Monogatari!!</em>
+  <em>"Bukankah kau mengayunkan pedang untuk melindungi sesuatu? Ksatria adalah seseorang yang wajib melindungi orang lain."</em><br>
+  — <strong>Theresia van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
