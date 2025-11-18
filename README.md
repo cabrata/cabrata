@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Belajar terus kayak orang bodoh saja."</em><br>
-  — <strong>Nino Nakano</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Senapan tidak akan mengkhianatimu."</em><br>
+  — <strong>Pitohui</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
 </div>
 <!-- QUOTE END -->
 
