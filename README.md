@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hari (pernikahan) ini adalah hari di mana seorang wanita terlihat paling cantik selama hidupnya."</em><br>
-  — <strong>Tomoe Wajima</strong>, <em>Hanasaku Iroha</em>
+  <em>"(Berbicara mengenai koro-sensei) Dia menulis pertanyaan individual, dengan mempertimbangkan soal yang murid kuasai.
+Dia memiliki kecerdasan dan kecepatan luar biasa, makhluk berbahaya inilah yang akan menghancurkan bumi.
+Dan kemampuan mengajarnya mendekati sempurna."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
