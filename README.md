@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di balik pintu, kehidupanmu telah menantimu. Karena itu, kau bisa bersikap jujur saat berada di sini.
-Mungkin itu lah kenapa suasana bar dibuat seperti ini."</em><br>
-  — <strong>Hitomi Mishima</strong>, <em>Hinamatsuri</em>
+  <em>"Keteguhan dan kepasrahan adalah hal yang sama.
+Keduanya merupakan keputusan untuk mengorbankan segalanya demi mencapai tujuan."</em><br>
+  — <strong>Limeskin</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
