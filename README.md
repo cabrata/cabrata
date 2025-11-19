@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang adalah orang bodoh yang tak mau dibilang bodoh oleh orang lain."</em><br>
-  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Kau boleh menyentuh tubuh (wanita) seberapapun yang kau mau, tapi kau takkan bisa menyentuh hatinya."</em><br>
+  — <strong>Santana</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
