@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lelucon itu menarik, tapi ada batasnya. Jika mengarah menuju kesalahpahaman, maka akan menjadi kebohongan."</em><br>
-  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
+  <em>"Mencegah agar tidak terulang penyesalan yang sama adalah nilai dari sebuah penyesalan."</em><br>
+  — <strong>Mitsuyoshi Tada</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
