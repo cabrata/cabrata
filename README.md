@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan terlalu memikirkan hal-hal yang tak bisa kau lakukan.
-Lakukan saja apa yang bisa kau lakukan."</em><br>
-  — <strong>Zange Natsume</strong>, <em>Inu x Boku SS</em>
+  <em>"Aku tidak bisa berjanji. (Karena) setiap bangun pagi, aku pasti memikirkan "apakah aku yang kemarin dan aku yang hari ini adalah orang yang sama?"."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
