@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bilang akan membuktikan bahwa ia tak salah membesarkanmu. Jadi buktikanlah!"</em><br>
-  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Aku selalu ingin mengatakan kalau aku bersyukur bisa berjumpa denganmu. Ketika aku melihat wajahmu, aku jadi lebih bersemangat. Kata-katamu selalu menginspirasiku hingga tanpa sadar aku selalu memperhatikanmu. Hatiku selalu berdetak kencang ketika kau memujiku. Setiap kali bicara denganmu aku selalu berpikir bisa berusaha lebih keras (pada banyak hal). Terima kasih telah membuatku lebih bersemangat. Aku masih bisa bertahan sampai saat ini karena aku mencintaimu."</em><br>
+  — <strong>Nanami Aoyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
