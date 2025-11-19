@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk melihat keaslian, kita harus bersikap realistis."</em><br>
-  — <strong>Yusuke Kitagawa</strong>, <em>Persona 5 the Animation</em>
+  <em>"Demi menemukan kebenaran di balik kematian seseorang, tentu wajar jika kita juga harus mempertaruhkan nyawa kita."</em><br>
+  — <strong>Shinya Kougami</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
