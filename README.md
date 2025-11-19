@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan ditunda lagi, lakukan sekarang.
-Seorang pria tidak akan pernah mencari-cari alasan."</em><br>
-  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Cara bagi yang lemah untuk tetap menjadi yang lemah tapi tetap dapat mengalahkan yang kuat. Cara untuk menjadi dirimu sendiri, tapi melebihi batasmu. Untuk bisa terbang dilangit, meski kau tak bisa terbang. Dia selalu menemukan caranya, dalam keputusasaan, penderitaan dan kegelapan."</em><br>
+  — <strong>Chlammy Zell</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
