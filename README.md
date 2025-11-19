@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada macam-macam desain untuk bra. Tapi, pada akhirnya yang paling penting adalah yang ada di dalamnya."</em><br>
-  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
+  <em>"Jika kau memilih (kegiatan) hanya berdasarkan kemampuanmu, kau takkan pernah memulai apapun. Yang terpenting adalah ketertarikanmu."</em><br>
+  — <strong>Ryuujirou Kotobuki</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
