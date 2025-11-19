@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan lembut dan baik yang menyukai anak-anak tidak mungkin jadi polisi."</em><br>
-  — <strong>Seiko Fuji</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Ketika berada di dalam pertarungan, jangan lengah sampai akhir! Mereka yang lengah pasti akan mati terlebih dahulu."</em><br>
+  — <strong>Izuminokami Kanesada</strong>, <em>Katsugeki/Touken Ranbu</em>
 </div>
 <!-- QUOTE END -->
 
