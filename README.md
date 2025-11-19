@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhentilah berkecil hati gara-gara kesalahpahaman."</em><br>
-  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Di dunia ini ada banyak hal yang takkan berubah meski kita memikirkannya."</em><br>
+  — <strong>Ichiko Rokujou</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
