@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekuatan sejati adalah kekuatan yang dapat mengendalikan lingkungan dan jiwa mereka yang lemah, lalu membuat mereka melayanimu tanpa mereka sadari."</em><br>
-  — <strong>Aryabahta</strong>, <em>Taboo Tattoo</em>
+  <em>"Tak peduli seberapa erat ikatanmu dengan orang lain, waktu akan memisahkanmu dengan mereka."</em><br>
+  — <strong>Shinobu Oshino</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
