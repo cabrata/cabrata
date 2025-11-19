@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu menyedihkan. Mereka selalu menginginkan apa yang tidak bisa dimiliki, (dan) selalu ingin meraih apa yang tak bisa diraih."</em><br>
-  — <strong>Kamui</strong>, <em>Gintama</em>
+  <em>"Aku akan belajar banyak dan menggambar dunia yang ingin kamu lihat."</em><br>
+  — <strong>Aki Shino</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
