@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tujuan perbuatan baik dan perbuatan buruk itu sebenarnya sama. Kedua-duanya adalah tindakan seseorang untuk menutupi kekurangannya."</em><br>
-  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Melarikan diri tidak akan ada artinya. Kau hanya bisa bergerak maju."</em><br>
+  — <strong>Mari Ohara</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
