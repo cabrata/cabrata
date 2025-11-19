@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan belajar banyak dan menggambar dunia yang ingin kamu lihat."</em><br>
-  — <strong>Aki Shino</strong>, <em>Bokutachi no Remake</em>
+  <em>"Bukankah kita sepupu?
+Masalahku adalah masalahmu. Bajumu adalah bajuku (juga).
+Bukankah kita harusnya saling membantu?"</em><br>
+  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
