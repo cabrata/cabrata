@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bukan orang bodoh yang suka menyalahkan orang lain."</em><br>
-  — <strong>Kanami Ibuki</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Apa yang akan terjadi jika kita hanya mendapatkan hal-hal yang baik?
+Kita akan berharap besok lebih baik dari hari ini dan lusa lebih baik dari besok.
+Kita akan terus berharap untuk menjadi lebih baik.
+Tapi, pada akhirnya apa yang akan terjadi?
+Pada akhirnya kita tidak akan pernah bisa merasa puas."</em><br>
+  — <strong>Holo</strong>, <em>Ookami to Koushinryou II</em>
 </div>
 <!-- QUOTE END -->
 
