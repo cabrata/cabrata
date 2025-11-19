@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senapan tidak akan mengkhianatimu."</em><br>
-  — <strong>Pitohui</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
+  <em>"Bila kau pikir bisa membuahkan hasil hanya dengan bekerja keras, berarti kau bodoh."</em><br>
+  — <strong>Tomitte</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
 </div>
 <!-- QUOTE END -->
 
