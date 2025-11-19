@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria lebih sering mengungkapkan suatu hal dengan tindakan daripada kata-kata. Jika ada hal yang menyakitkan, mereka tidak ingin merepotkan orang lain. Mereka tidak ingin membuat orang lain khawatir. Karena itu mereka tidak mengatakannya."</em><br>
-  — <strong>Maes Hughes</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Akan aku beri tahu sesuatu hal yang bagus...
+Cara agar tidak kalah adalah dengan tidak bertanding."</em><br>
+  — <strong>Manabu Sakuma</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
