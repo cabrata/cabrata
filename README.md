@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh kalah di permainan ataupun di pertandaingan.
-Tapi kalau kau tidak kalah dengan dirimu sendiri, itu bukan kekalahan."</em><br>
-  — <strong>Karen Araragi</strong>, <em>Nisemonogatari</em>
+  <em>"Jangan terlalu memikirkan hal-hal yang tak bisa kau lakukan.
+Lakukan saja apa yang bisa kau lakukan."</em><br>
+  — <strong>Zange Natsume</strong>, <em>Inu x Boku SS</em>
 </div>
 <!-- QUOTE END -->
 
