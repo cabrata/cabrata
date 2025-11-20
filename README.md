@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau ingin melindungi seseorang yang berharga bagimu, maka aku akan berada di pihakmu."</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
+  <em>"Jangan pikir semua orang melihat dunia yang sama seperti yang kau lihat!"</em><br>
+  — <strong>Ichiya Suzaku</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
