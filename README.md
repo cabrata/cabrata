@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang akan lebih puas jika mendengarkan kata terima kasih daripada kata maaf. Aku melakukannya karena aku ingin menolongmu, dan bukan untuk mendapatkan kata maaf."</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Seorang pahlawan profesional harus selalu menjadi simbol keadilan yang indah."</em><br>
+  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
