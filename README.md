@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak hidup untuk membuat semua orang menyukaiku."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Tomoya-kun.., seperti inikah aku yang kau harapkan? seperti dalam anime, game dan dalam light novel.
+Apakah gadis idealmu itu yang berbicara seperti ini? yang bergerak seperti ini? dan jatuh cinta seperti ini?"</em><br>
+  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
