@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan terlalu memikirkan hal-hal yang tak bisa kau lakukan.
-Lakukan saja apa yang bisa kau lakukan."</em><br>
-  — <strong>Zange Natsume</strong>, <em>Inu x Boku SS</em>
+  <em>"Yakinlah pada dirimu sendiri! Semuanya akan baik baik saja! Semakin keras kau berusaha, kau pasti akan semakin beruntung!"</em><br>
+  — <strong>Miyano</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
 </div>
 <!-- QUOTE END -->
 
