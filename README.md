@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama kau (masih) hidup, masa depan akan tetap ada. Entah nantinya akan berwarna seperti mawar atau lumpur, tapi jika tidak memiliki masa depan maka jalan (hidup) tak akan terhubung."</em><br>
-  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
+  <em>"Meraih kebenaran yang ada di depan mata lebih baik daripada meraih ideologi yang tak dapat diraih."</em><br>
+  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
