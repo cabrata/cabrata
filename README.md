@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah tantangan. Tak ada gunanya hidup jika tak ada lawan yang kuat untuk bermain. Lebih baik jika aku tidak menang."</em><br>
-  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
+  <em>"Pahlawan itu tidak ada.
+Dalam dunia nyata, mereka yang beradaptasi dengan kenyataan yang akan menang."</em><br>
+  — <strong>Ryuuichi Kazama</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
