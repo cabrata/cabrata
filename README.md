@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku siap melakukan apapun untuk menjadi kuat. Tapi sedikitpun aku tak bisa membayangkan mampu melampaui kekuatan guru."</em><br>
-  — <strong>Genos</strong>, <em>One Punch Man</em>
+  <em>"Kalau kau memang merasa khawatir, peganglah tanganku."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
