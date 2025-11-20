@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Naskah bukanlah produk jadi. Kalau tujuannya hanya untuk dibaca, lebih baik buat novel saja."</em><br>
-  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
+  <em>"Saya sangat senang bahwa (hidup di) dunia ini tidak mudah."</em><br>
+  — <strong>Nadeko Sengoku</strong>, <em>Monogatari Series: Off & Monster Season</em>
 </div>
 <!-- QUOTE END -->
 
