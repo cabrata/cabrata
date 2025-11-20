@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Dalam permainan) Pengetahuan bisa mengubah kemungkinan 1,92% menjadi 100%. Dengan kata lain, orang yang memiliki pengetahuan memiliki kemenangan yang tak tergoyahkan."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Kita adalah teman dipihak yang lemah. Kita bukan dipihak musuh yang lebih banyak bicara sedikit bekerja."</em><br>
+  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
