@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Agar dapat membaur dengan orang-orang di sekitar, aku bertingkah layaknya seorang anak yang baik dimata orang lain."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Hidup adalah tantangan. Tak ada gunanya hidup jika tak ada lawan yang kuat untuk bermain. Lebih baik jika aku tidak menang."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
