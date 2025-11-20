@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa pun yang terjadi, tetap junjung harga dirimu. Jaga tata krama, bantu yang lemah, dan jauhi kejahatan."</em><br>
-  — <strong>Kaito Ayatsuji</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Jika kau tak punya kekuatan, kau masih bisa berjuang dan berharap untuk meraih tujuanmu.
+Itu adalah prinsip yang di pegang teroris. ingat baik-baik."</em><br>
+  — <strong>Minene Uryuu</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
