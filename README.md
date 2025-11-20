@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak itu memang yang terbaik saat dia bertingkah kekanak-kanakan."</em><br>
-  — <strong>Matsuyo Matsuno</strong>, <em>Osomatsu-san</em>
+  <em>"Impian dan harapan itu hal yang berbeda. Melihat kenyataan, menganalisis dan bertarung sekuat tenaga lah yang dapat membuka jalan harapan kita."</em><br>
+  — <strong>Berserker</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
