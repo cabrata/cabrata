@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya orang bodoh yang ingin membantu orang lain tapi malah lupa dengan bantuannya."</em><br>
-  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Aku tak perlu menjadi seorang tuan putri, asalkan bisa menjadi istrimu itu saja sudah cukup."</em><br>
+  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
