@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya duduk membicarakan mimpi kita, takkan membuatnya nyata."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Membunuh manusia tak ada bedanya dengan membunuh binatang."</em><br>
+  — <strong>Inounoshishi</strong>, <em>Juuni Taisen</em>
 </div>
 <!-- QUOTE END -->
 
