@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak perlu menjadi seorang tuan putri, asalkan bisa menjadi istrimu itu saja sudah cukup."</em><br>
-  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Semua orang diciptakan berbeda!"</em><br>
+  — <strong>Izuku Midoriya</strong>, <em>Boku no Hero Academia</em>
 </div>
 <!-- QUOTE END -->
 
