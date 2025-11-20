@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau takkan bisa maju kalau kau masih takut mengotori tanganmu sendiri."</em><br>
-  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Ayato, jangan mencoba bertarung sendirian. Kita adalah tim. Kalau kau akan menjagaku, akupun akan menjagamu."</em><br>
+  — <strong>Julis-Alexia von Riessfeld</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
