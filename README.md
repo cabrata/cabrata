@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wujud terakhir dari sains adalah Tuhan dan Kematian. Keduanya ada dan tidak bisa dikalahkan dengan sains. Itulah kenapa kita menuju keduanya."</em><br>
-  — <strong>Motojirou Kajii</strong>, <em>Bungou Stray Dogs</em>
+  <em>"Dalam sebuah pertandingan, kau harus kuat agar dapat menikmati pertandingan itu."</em><br>
+  — <strong>Tadashi Yamaguchi</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
