@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menjadi "orang dewasa" itu tidak selalu mengesankan. Terkadang "dewasa" itu hanya penampilan luarnya saja. Mereka (hanya) ingin terlihat mengagumkan di depan masyarakat, (dan) ingin dihormati oleh anak-anak."</em><br>
-  — <strong>Sakie Satou</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Jangan berjanji jika tidak bisa menepatinya!"</em><br>
+  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
