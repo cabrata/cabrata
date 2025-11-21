@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siluman tak hanya memangsa manusia, terkadang mereka juga menyesatkan hati manusia dengan menawarkan kekuatannya. Dengan kekuatan yang melebihi akal sehat, mereka memberikan sesuatu pada manusia dan sebagai imbalannya, mereka merebut sesuatu dari manusia."</em><br>
-  — <strong>Jukai</strong>, <em>Dororo</em>
+  <em>"Kau boleh kalah di permainan ataupun di pertandaingan.
+Tapi kalau kau tidak kalah dengan dirimu sendiri, itu bukan kekalahan."</em><br>
+  — <strong>Karen Araragi</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
