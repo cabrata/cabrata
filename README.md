@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika filosofi pendidikan di sekolah Anda menginjak-injak perasaan anak, tampaknya saya memilih sekolah yang salah."</em><br>
-  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
+  <em>"Dinginkan oleh laki-laki, tidak ada yang lebih nikmat dibandingkan perasaan itu."</em><br>
+  — <strong>Akane Minagawa</strong>, <em>Kuzu no Honkai</em>
 </div>
 <!-- QUOTE END -->
 
