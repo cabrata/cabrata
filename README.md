@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau hanya tahu tentang pahitnya ditinggal seorang sendiri. Apakah kau pikir aku juga akan meninggalkanmu? Hal yang seperti itu terjadi padamu, cukup sekali saja seumur hidupmu. (Karena mulai sekarang, ada aku yang takkan pernah meninggalkanmu)"</em><br>
-  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
+  <em>"Siluman tak hanya memangsa manusia, terkadang mereka juga menyesatkan hati manusia dengan menawarkan kekuatannya. Dengan kekuatan yang melebihi akal sehat, mereka memberikan sesuatu pada manusia dan sebagai imbalannya, mereka merebut sesuatu dari manusia."</em><br>
+  — <strong>Jukai</strong>, <em>Dororo</em>
 </div>
 <!-- QUOTE END -->
 
