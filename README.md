@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidur itu sangat penting. Kurang tidur bisa berdampak buruk pada pekerjaan, dan kesehatanmu. Tidur di kursi bisa menghilangkan rasa penatmu untuk sementara, tapi tidak baik untuk punggungmu."</em><br>
-  — <strong>Umiko Ahagon</strong>, <em>New Game!!</em>
+  <em>"Melarikan diri tidak akan ada artinya. Kau hanya bisa bergerak maju."</em><br>
+  — <strong>Mari Ohara</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
