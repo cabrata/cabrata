@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus hidup, hiduplah dengan bebas. Dari dalam hatiku, aku mencintaimu."</em><br>
-  — <strong>Gilbert Bougainvillea</strong>, <em>Violet Evergarden</em>
+  <em>"Akan terasa pedih untuk menjaga ataupun melepaskan sesuatu yang tak bisa kau dapatkan kembali.
+Jika kedua-duanya akan terasa pedih, aku lebih baik menderita untuk mempertahankannya."</em><br>
+  — <strong>Tae Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
