@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pria idaman itu seperti apa?
-Wajahnya? Hartanya?
-Bagiku, pria idaman itu adalah seorang yang mau untuk hidup bersama."</em><br>
-  — <strong>Charlotte Abelfreyja Drossel</strong>, <em>Violet Evergarden</em>
+  <em>"Justru karena ada kesulitan itulah yang membuat jiwa seseorang itu bersinar."</em><br>
+  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
