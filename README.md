@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berjanji jika tidak bisa menepatinya!"</em><br>
-  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Memanjakan anak adalah bagian dari pekerjaan seorang ibu."</em><br>
+  — <strong>Shizu Tanbabashi</strong>, <em>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</em>
 </div>
 <!-- QUOTE END -->
 
