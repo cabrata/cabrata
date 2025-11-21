@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahasa bunga dari mawar merah adalah semangat dalam menghadapi tantangan."</em><br>
-  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
+  <em>"Pemenang hanya mendapatkan kepuasan dan kesombongan, tapi kau (yang kalah) mendapatkan sesuatu yang lebih bermakna."</em><br>
+  — <strong>Shouyou Yoshida</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
