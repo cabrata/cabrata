@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam sebuah pertandingan, kau harus kuat agar dapat menikmati pertandingan itu."</em><br>
-  — <strong>Tadashi Yamaguchi</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Senapan tidak akan mengkhianatimu."</em><br>
+  — <strong>Pitohui</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
 </div>
 <!-- QUOTE END -->
 
