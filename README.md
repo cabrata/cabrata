@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Guru dansa kami selalu bilang bukan berdansa dengan tersenyum. Tapi guru ingin kami tersenyum dengan sendirinya saat sedang berdansa, karena dansa adalah sesuatu yang harus dinikmati dari dalam hati. Karena itu adalah sesuatu yang akan menyinari hidup kami."</em><br>
-  — <strong>Akira Koumoto</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Rahasia menjadi koki yang hebat adalah bertemu dengan seorang wanita yang membuatmu ingin memberikan semua masakanmu padanya."</em><br>
+  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
