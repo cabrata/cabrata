@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memanjakan anak adalah bagian dari pekerjaan seorang ibu."</em><br>
-  — <strong>Shizu Tanbabashi</strong>, <em>Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.</em>
+  <em>"Ketika kalian menatap ke dalam pintu neraka, maka pintu neraka juga sedang menatap kalian."</em><br>
+  — <strong>Mephisto Pheles</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
