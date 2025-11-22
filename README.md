@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku diam saja, harapan tidak akan bisa jadi kenyataan."</em><br>
-  — <strong>Varma</strong>, <em>Taboo Tattoo</em>
+  <em>"Saat tidak ada lagi kebohongan, kenyataan akan serasa sangat membosankan."</em><br>
+  — <strong>Rei Matsumoto</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
