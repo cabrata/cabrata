@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan (muram dengan) memandang ke bawah. Saat matamu muram, jiwamu akan semakin gelap. Artinya, masa depan akan tertutup untukmu dan kau pun akan kehilangan alasan untuk hidup. Saat kau melakukan apa yang kau anggap benar, kenapa kau malah menundukkan kepalamu seperti itu? Tegakkan kepalamu, tatap ke depan dan raihlah (sesuatu yang kau perjuangkan) dengan tanganmu."</em><br>
-  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku (orang yang) lemah, bodoh, punya tatapan mata yang jelek dan tak bisa membaca situasi. Tapi aku tetap menjalani hidupku tanpa mempedulikan penilaian orang terhadapku. Selama kita bisa saling bersandar satu sama lain dan terus melangkah maju, itu saja sudah cukup. Saling bergantung satu sama lain sambil tertawa bersama..., mari kita membicarakan hari esok untuk masa depan (bersama)."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
