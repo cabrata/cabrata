@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu tidak usah mencemaskannya. Apapun yang kamu rasakan tinggal lepaskan saja. Aku tidak berpikir kita akan bisa mulai dari nol ke seratus dengan cepat. Tapi mungkin kita bisa mendapat satu. Aku ingin melihat jika kita bisa melakukannya juga."</em><br>
-  — <strong>Riko Sakurauchi</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Jika kau merasa berat berjalan sendirian, aku akan membantumu. Mari berjalan dengan saling mendukung dan berbagi beban bersama. Bukankah itu yang kau katakan padaku pagi itu? Tunjukkan padaku seberapa keren dirimu, Subaru-kun."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
