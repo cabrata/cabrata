@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kita terus memikirkan apa yang orang lain harapkan, kita tak akan pernah tahu harus bagaimana karena terlalu banyak orang yang berharap pada diri kita. Bukankah lebih mudah jika hanya memikirkan apa yang kita harapkan pada diri sendiri.
-Selanjutnya tinggal berdoa."</em><br>
-  — <strong>Izumi Sakurai</strong>, <em>Nichijou</em>
+  <em>"Jangan (muram dengan) memandang ke bawah. Saat matamu muram, jiwamu akan semakin gelap. Artinya, masa depan akan tertutup untukmu dan kau pun akan kehilangan alasan untuk hidup. Saat kau melakukan apa yang kau anggap benar, kenapa kau malah menundukkan kepalamu seperti itu? Tegakkan kepalamu, tatap ke depan dan raihlah (sesuatu yang kau perjuangkan) dengan tanganmu."</em><br>
+  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
