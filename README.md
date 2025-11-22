@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Uang hanya akan membawa masalah, entah kau memilikinya atau tidak."</em><br>
-  — <strong>Yuuta Shindou</strong>, <em>WWW.Working!!</em>
+  <em>"Besok kami akan datang lagi (mengunjungimu). Meskipun terlihat merepotkanmu, tapi demi orang yang kami sayangi, itu adalah bentuk kepedulian kami."</em><br>
+  — <strong>Tsubasa Hanekawa</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
