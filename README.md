@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan menikah dengan orang lain (selain dirimu). Aku telah berdoa agar bisa bersamamu untuk selamanya."</em><br>
-  — <strong>Sae Nakata</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Anak muda kadang terobsesi pada kesempurnaan.
+Aku juga pernah begitu.
+Tapi suatu saat nanti, kau pasti akan percaya pada jalanmu sendiri.
+Seperti yang kulakukan.
+Karena itu, tenang saja, tak apa kalau kau cemas."</em><br>
+  — <strong>Shirosaki</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
