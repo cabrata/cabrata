@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci pria yang diam saja melihat seorang wanita tersakiti."</em><br>
-  — <strong>Sen Yarizui</strong>, <em>Ben-To</em>
+  <em>"Rasa sakit ini adalah bukti kalau aku hidup.Karena ada rasa sakit, maka ada rasa senang.Itulah arti menjadi manusia."</em><br>
+  — <strong>Bruford</strong>, <em>JoJo no Kimyou na Bouken</em>
 </div>
 <!-- QUOTE END -->
 
