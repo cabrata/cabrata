@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau ini benar-benar menarik. Kau selalu melihat di balik tindakan dan perkataan seseorang. Aku suka dengan (cara pikirmu) itu."</em><br>
-  — <strong>Haruno Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Dia takkan membiarkan apapun menghalanginya setelah dia menemukan hal yang paling diinginkannya, hal yang menurutnya paling menarik dia akan mengejar hal itu tanpa ragu. Itu adalah hal yang hanya bisa dilakukan oleh Honoka."</em><br>
+  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
