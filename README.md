@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tanpa adanya perkelahian dan perselisihan, maka kalian belum benar-benar menjadi teman.
-Seperti kata pepatah "Jika kau terus mengambil jalan yang aman, maka suatu saat nanti kau akan kehilangan hal yang sangat berharga bagimu"."</em><br>
-  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect</em>
+  <em>"Saat ada seseorang yang ingin menegakkan keadilannya, maka (di lain sisi) pasti ada orang lain yang akan kehilangan keadilan mereka. Karena itu pahlawan memanglah egois. Pahlawan yang tak memiliki kemampuan tapi ingin bertarung dan menyelamatkan banyak orang tanpa mengandalkan kekuatan itu (hanyalah) orang arogan. Tapi jika orang bodoh seperti itu memang ada, mereka hanya akan jadi pengganggu saja. Apa yang diperlukan oleh pahlawan sebenarnya adalah kekuatan untuk mewujudkan ideologinya menjadi nyata dan keteguhan hati untuk memaksakan keadilan yang diyakininya pada orang lain."</em><br>
+  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
