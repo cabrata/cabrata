@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengambil resiko itu hal yang membosankan. Tapi memiliki keuntungan besar juga membosankan."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Cinta itu seperti bela diri! Menyerang adalah pertahanan terbaik"</em><br>
+  — <strong>Kozue Takanashi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
