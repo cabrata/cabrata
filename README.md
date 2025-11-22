@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau aku merasa kesakitan hanya karena hal seperti ini, aku tak pantas menjadi pengawal Tuan Putri!"</em><br>
-  — <strong>Seishirou Tsugumi</strong>, <em>Nisekoi</em>
+  <em>"(Di dunia ini) tak ada orang yang baik ataupun orang buruk, karena itu kau tak bisa membandingkan keduanya."</em><br>
+  — <strong>Maiko Fujishima</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
