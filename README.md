@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah berpura-pura dapat melihat sesuatu yang tidak bisa kau lihat, atau berpura-pura kau tidak bisa melihat sesuatu yang kau bisa lihat."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Bakemonogatari</em>
+  <em>"Kau ini benar-benar menarik. Kau selalu melihat di balik tindakan dan perkataan seseorang. Aku suka dengan (cara pikirmu) itu."</em><br>
+  — <strong>Haruno Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
