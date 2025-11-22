@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengatakan hal bodoh bisa membuatmu bodoh."</em><br>
-  — <strong>Mai Sakurajima</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Saputangan yang tak dipakai sangatlah menyedihkan. Terutama saputangan yang tak bisa mengusap air mata."</em><br>
+  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
 </div>
 <!-- QUOTE END -->
 
