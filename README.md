@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Besok kami akan datang lagi (mengunjungimu). Meskipun terlihat merepotkanmu, tapi demi orang yang kami sayangi, itu adalah bentuk kepedulian kami."</em><br>
-  — <strong>Tsubasa Hanekawa</strong>, <em>Owarimonogatari</em>
+  <em>"Setelah kematian, kalian akan dikirim ke "surga" atau "neraka"."</em><br>
+  — <strong>Decim</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
