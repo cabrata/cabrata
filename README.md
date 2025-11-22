@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan macam apa yang membuatmu dibenci orang-orang kalau semakin giat? (Polisi)"</em><br>
-  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Jika kita hanya melihat ke atas terus, kita akan kehilangan pijakan."</em><br>
+  — <strong>Keishin Ukai</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
