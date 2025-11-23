@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami bicara basa-basi seperti biasanya sambil terkadang menengok kebelakang, terkadang membuat kesalahan, dan terkadang kehilangan arah. Tetapi, kami terus melangkah maju dengan teguh."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Jangan biarkan orang lain menentukan nilai dirimu."</em><br>
+  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
 </div>
 <!-- QUOTE END -->
 
