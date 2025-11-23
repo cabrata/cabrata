@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pemenang hanya mendapatkan kepuasan dan kesombongan, tapi kau (yang kalah) mendapatkan sesuatu yang lebih bermakna."</em><br>
-  — <strong>Shouyou Yoshida</strong>, <em>Gintama°</em>
+  <em>"Menurutku semua laki-laki menginginkan kelembutan dari seorang wanita yang baik."</em><br>
+  — <strong>Haruto Fuwa</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
