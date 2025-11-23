@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pernah membuat kesalahan. Sekarang, bagaimana cara untuk menutupi kesalahan tersebut, itulah yang harus dipikirkan!"</em><br>
-  — <strong>Ainz Ooal Gown</strong>, <em>Overlord</em>
+  <em>"Saat aku masih kecil, aku bercita-cita ingin menjadi seorang pahlawan.
+Tapi aku ingin jadi pahlawan yang menghempaskan penjahat kurang ajar (sepertimu) dengan satu pukulan !"</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
