@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dengan orang yang bahagia. Melihat mereka saja membuatku merasa bahagia.
-(Tapi) yang kubenci adalah mereka yang tidak tahu alasan kebahagiaan mereka.
-Mereka yang tak peduli kenapa mereka bahagia."</em><br>
-  — <strong>Sodachi Oikura</strong>, <em>Owarimonogatari</em>
+  <em>"Membunuh manusia tak ada bedanya dengan membunuh binatang."</em><br>
+  — <strong>Inounoshishi</strong>, <em>Juuni Taisen</em>
 </div>
 <!-- QUOTE END -->
 
