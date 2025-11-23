@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengarlah, Rin. Kalau terus begini, kau akan selalu sendirian. Gunakanlah kekuatanmu untuk orang lain, untuk tujuan yang lebih mulia. Aku ingin kau menjadi laki-laki yang keren dengan banyak teman, dan disukai oleh para gadis!"</em><br>
-  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist</em>
+  <em>"Kami bicara basa-basi seperti biasanya sambil terkadang menengok kebelakang, terkadang membuat kesalahan, dan terkadang kehilangan arah. Tetapi, kami terus melangkah maju dengan teguh."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
