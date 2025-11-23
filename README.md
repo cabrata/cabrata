@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami tidak seperti manusia yang takut akan kematian. Karena kami sudah hidup cukup lama dan tidak meninggalkan penyesalan."</em><br>
-  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Aku suka dengan orang yang bahagia. Melihat mereka saja membuatku merasa bahagia.
+(Tapi) yang kubenci adalah mereka yang tidak tahu alasan kebahagiaan mereka.
+Mereka yang tak peduli kenapa mereka bahagia."</em><br>
+  — <strong>Sodachi Oikura</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
