@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin punya cinta yang begitu panas hingga bisa melelehkan lereng salju."</em><br>
-  — <strong>Roman Saotome</strong>, <em>Sket Dance</em>
+  <em>"Bagiku, hal yang paling berharga di dunia ini adalah anakku."</em><br>
+  — <strong>Sachiko Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
