@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau memang merasa khawatir, peganglah tanganku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku ingin punya cinta yang begitu panas hingga bisa melelehkan lereng salju."</em><br>
+  — <strong>Roman Saotome</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
