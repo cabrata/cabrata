@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bersyukur karena laut berwarna biru. Aku pun bersyukur karena langit pun biru. Warna yang telah kamu berikan, masa depanku penuh dengan warna."</em><br>
-  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Kuperingatkan kau! Jangan pernah ragu-ragu! Ayah tidak pernah membesarkanmu supaya jadi seorang pengecut!
+Tapi, ini adalah kehidupanmu. (Jadi) hiduplah dengan jalan yang kau pilih."</em><br>
+  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
