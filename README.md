@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan terlalu memaksakan diri, istirahatlah dulu.
-Menjaga kesehatan itu juga bagian dari pekerjaan."</em><br>
-  — <strong>Ibu Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Kutukan dan berkah itu pada dasarnya sama, tergantung bagaimana kita menerimanya."</em><br>
+  — <strong>Rahab</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
