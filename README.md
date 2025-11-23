@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin lama orang merencanakan sesuatu, semakin sedikit hal yang sesuai harapan."</em><br>
-  — <strong>Dio Brando</strong>, <em>JoJo no Kimyou na Bouken</em>
+  <em>"Ayo kita bersama selamanya mulai dari sekarang!"</em><br>
+  — <strong>Fuuka Akitsuki</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
