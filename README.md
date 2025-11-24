@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua sejarah itu bohong. Sejarahmu tentu tidak bohong. Apa kebenaran itu benar-benar nyata? Atau apakah itu mutlak? Itu semua hanya khayalan. Dari awal aku tidak pernah percaya pada siapapun. Aku hanya... ingin bertemu denganmu."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Siapapun pasti memiliki masalah dalam hidupnya. Kita semua sama. Karena itu, kamu harus menerima hal buruk sekalipun agar dapat melangkah ke depan."</em><br>
+  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
