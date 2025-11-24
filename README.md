@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama kau (masih) hidup, masa depan akan tetap ada. Entah nantinya akan berwarna seperti mawar atau lumpur, tapi jika tidak memiliki masa depan maka jalan (hidup) tak akan terhubung."</em><br>
-  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
+  <em>"Kau sangat baik, pekerja keras, dan selalu berusaha yang terbaik, dan juga, dadamu lebih besar dari dadanya! Jika tidak ada kau, aku pasti sudah mati digigit anjing-anjing itu. Aku selamat karena kau ada di sana. Dan sekarang, aku masih hidup! Bukan hanya karena kakakmu, tapi karena kau juga."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
