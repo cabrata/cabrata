@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan sempurna di rumah itu memang sulit untuk didapatkan."</em><br>
-  — <strong>Shinji Tokita</strong>, <em>Grand Blue</em>
+  <em>"Dewa itu bisa ada di mana pun, bisa juga tidak ada di mana pun."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
