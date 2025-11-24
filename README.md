@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejujurnya, aku bangga padamu. Ini adalah kemenangan untuk kerja keras."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Anjing dan kucing punya kemampuan untuk menganalisa kekuatan musuhnya. (Maka dari itu) Hewan menghindari pertarungan yang tak bisa mereka menangkan."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
