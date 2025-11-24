@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dimanapun kau berada, kau selalu menjadi keluargaku yang berharga."</em><br>
-  — <strong>Yuri Takanashi</strong>, <em>Papa no Iukoto wo Kikinasai!</em>
+  <em>"Kau bilang aku memanipulasi pembaca dengan teknikku, 'kan? Itu adalah kata-kata pujian yang hebat untuk seorang penulis."</em><br>
+  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
