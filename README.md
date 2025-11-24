@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang tua manapun akan lega bila anaknya kembali ke rumah."</em><br>
-  — <strong>Ichiya Suzaku</strong>, <em>Qualidea Code</em>
+  <em>"Hanya manusia saja yang membutuhkan waktu untuk menjadi dewasa."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
