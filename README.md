@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua yang kau katakan dan lakukan berkilauan dan bersinar terang. Itu terlalu silau untukku dan akhirnya ku menutup mata."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Bola voli adalah olahraga yang mengutamakan tinggi badan. Semakin tinggi tubuh seseorang, maka dia akan semakin kuat. Mengasah kekuatan para pemain untuk semakin berkembang, dan juga menemukan cara baru untuk bertarung. Karena itulah hari ini banyak sekali variasi serangan dan pertahanan. Ada banyak makna dari sebuah "kekuatan"."</em><br>
+  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
