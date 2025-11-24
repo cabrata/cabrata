@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Belajar itu memang sulit. Sampai sekarang aku pun masih gak suka belajar. Walapun sulit, tapi berjuang bersama teman-teman untuk menggapai tujuan itu cukup menyenangkan."</em><br>
-  — <strong>Uruka Takemoto</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
+  <em>"Aku takkan pernah menjadi seorang Yakuza! Aku ingin lulus dari universitas yang terkenal, dan mendapatkan pekerjaan, dan berjalan santai sambil menengok keatas melihat matahari bersinar."</em><br>
+  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
