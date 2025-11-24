@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang terlalu memusingkan peringkat seseorang itu sama sekali tidak spesial."</em><br>
-  — <strong>Kasumi Chigusa</strong>, <em>Qualidea Code</em>
+  <em>"Selama kau (masih) hidup, masa depan akan tetap ada. Entah nantinya akan berwarna seperti mawar atau lumpur, tapi jika tidak memiliki masa depan maka jalan (hidup) tak akan terhubung."</em><br>
+  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
