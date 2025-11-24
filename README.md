@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bersyukur bisa bertemu denganmu. Kamu telah menyembuhkan lukaku, kamu memberi makanan hangat untukku, kamu telah memberi tujuan hidup untukku."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Ayato, jangan mencoba bertarung sendirian. Kita adalah tim. Kalau kau akan menjagaku, akupun akan menjagamu."</em><br>
+  — <strong>Julis-Alexia von Riessfeld</strong>, <em>Gakusen Toshi Asterisk</em>
 </div>
 <!-- QUOTE END -->
 
