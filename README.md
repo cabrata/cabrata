@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"[Bagaimana caranya agar mati?]Mudah saja, "Teruslah Hidup". (Karena) semua makhluk hidup suatu saat pasti akan mati."</em><br>
-  — <strong>Sou</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Rasa puas seseorang setelah menyelamatkan sesuatu hanyalah kasalahpahaman otak. Karena menyelamatkan seseorang tidak (sama dengan) menyelamatkan diri sendiri. Meskipun kau merasa menyelamatkan seseorang, sebenarnya kau tak pernah tahu apa benar orang tersebut telah terselamatkan."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
