@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerinduan mencengkeram orang lebih kuat daripada racun, dan lebih dalam daripada penyakit."</em><br>
-  — <strong>Lyza</strong>, <em>Made in Abyss</em>
+  <em>"Cinta sejati adalah cinta yang tak dipengaruhi oleh penampilan. Jika penampilan orang bisa mempengaruhi perasaanmu, maka cintamu itu palsu."</em><br>
+  — <strong>Chika Fujiwara</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
