@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kedamaian adalah hal yang paling indah dan paling sulit (wujudkan)."</em><br>
-  — <strong>Chio Miyamo</strong>, <em>Chio-chan no Tsuugakuro</em>
+  <em>"Melihatnya bekerja keras untuk membenciku, entah mengapa agak menyenangkan."</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
