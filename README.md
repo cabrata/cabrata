@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di mana ada pertemuan, pasti ada perpisahan."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
+  <em>"Dalam bahasa bunga, bunga Casablanca menandakan cinta yang luhur, kebaikan, dan kemuliaan. Warna-warna cerah membuatnya terlihat cocok sebagai hadiah untuk pengantin."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
