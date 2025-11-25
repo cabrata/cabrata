@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta adalah rumah cermin, itu hanya lah ilusi."</em><br>
-  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"(Ketika anak kecil melakukan kesalahan) Tidak ada yang perlu dimarahi. Dan tidak ada yang perlu ditertawakan."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
