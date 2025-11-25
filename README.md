@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada yang bilang jika seorang pria sedang terpojok, mereka akan menunjukkan kemampuan mereka sepuluh kali lebih hebat dari biasanya."</em><br>
-  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Setiap orang pasti memiliki pandangan yang berbeda atas perbuatanmu. Ada yang menganggap tindakan yang telah kau lakukan itu benar, ada pula yang menganggapnya salah. Biarkan mereka bicara sesukanya, kau tidak perlu mempedulikannya. Karena yang kau lakukan bukanlah suatu hal yang benar ataupun hal yang salah. Kau hanya sedang menjalani masa mudamu."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Hanamonogatari</em>
 </div>
 <!-- QUOTE END -->
 
