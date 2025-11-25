@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa yang akan terjadi jika kita hanya mendapatkan hal-hal yang baik?
-Kita akan berharap besok lebih baik dari hari ini dan lusa lebih baik dari besok.
-Kita akan terus berharap untuk menjadi lebih baik.
-Tapi, pada akhirnya apa yang akan terjadi?
-Pada akhirnya kita tidak akan pernah bisa merasa puas."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou II</em>
+  <em>"Jika kau merasa berat berjalan sendirian, aku akan membantumu. Mari berjalan dengan saling mendukung dan berbagi beban bersama. Bukankah itu yang kau katakan padaku pagi itu? Tunjukkan padaku seberapa keren dirimu, Subaru-kun."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
