@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihatnya bekerja keras untuk membenciku, entah mengapa agak menyenangkan."</em><br>
-  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Kau sangat menyukai ayahku bukan? Itulah mengapa kau sedih saat dia mati. Aku pun demikian, ayo kita berteman."</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
