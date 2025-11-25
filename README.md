@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sekalipun jika kita menang hari ini, tidak berarti kita juga bisa memenangkan pertarungan selanjutnya."</em><br>
-  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
+  <em>"Percaya pada orang lain, saling membantu dan saling mendukung adalah hal yang paling tepat untuk dilakukan.
+Tapi itu hanya idealistis. Kenyataannya orang-orang tidak seperti itu.
+Jadi aku tidak ingin menyuruhmu bergantung pada orang lain."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
