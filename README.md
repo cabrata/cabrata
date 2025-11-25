@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah melihat kebenaran dipalsukan di depan mata dan menyaksikan keputusan konyol yang diambil, aku pun tak tahan lagi. Sesuatu di dalam diriku hancur."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Kita telah berjanji untuk selalu bersama. Janji itulah yang membuatku merasa damai.
+Aku sadar betapa dirinya sangat berarti bagiku. Mengingatnya (saja) membuatku senang.
+Aku telah mengatakan akan membuatnya bahagia. Mengatakan hal itu membuatku merasa puas.
+Dia telah memberikan banyak hal yang tak kusangka akan kumiliki."</em><br>
+  — <strong>Willem Kmetsch</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
