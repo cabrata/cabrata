@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Otaku yang bersikap normal benar-benar membuat kesal."</em><br>
-  — <strong>Hanako Koyanagi</strong>, <em>Wotaku ni Koi wa Muzukashii</em>
+  <em>"Ada hukum berarti ada pelanggaran."</em><br>
+  — <strong>Masakazu Masaki</strong>, <em>Eve no Jikan</em>
 </div>
 <!-- QUOTE END -->
 
