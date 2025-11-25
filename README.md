@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah melihat kebenaran dipalsukan di depan mata dan menyaksikan keputusan konyol yang diambil, aku pun tak tahan lagi. Sesuatu di dalam diriku hancur."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Agar kejadian tragis di masa lalu tidak terulang kembali, akupun bercita-cita untuk menjadi seorang pahlawan."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
