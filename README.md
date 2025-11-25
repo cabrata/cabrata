@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cintaku seperti kilauan kembang api. Kilauan kecil yang perlahan meredup.
-Tapi, secercah cahaya kecil masih bersinar di hatiku."</em><br>
-  — <strong>Kazuko Hosogawa</strong>, <em>Tsurezure Children</em>
+  <em>"Mungkin tak banyak orang yang tahu kalau sebenarnya aku tipe orang yang tak begitu peduli dengan penampilanku. Karena menurutku yang lebih penting adalah apa yang keluar dari dalam diriku."</em><br>
+  — <strong>Karen Tendou</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
