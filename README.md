@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Uang, kebanggaan, patriotisme, bahkan kematian pun fiksi. Semua yang ada di masa depanmu adalah kekosongan. Dan yang bisa kau lakukan adalah kemampuanmu beradaptasi terhadap segala sesuatu, dan secara langsung memutuskan apa yang terbaik."</em><br>
-  — <strong>Yuuki</strong>, <em>Joker Game</em>
+  <em>"Selama ini aku telah menghabiskan waktu hidupku untuk berbohong. Setidaknya mulai dari sekarang, aku akan berusaha untuk jujur pada diriku sendiri."</em><br>
+  — <strong>Cagliostro</strong>, <em>Senki Zesshou Symphogear AXZ</em>
 </div>
 <!-- QUOTE END -->
 
