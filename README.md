@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada kutukan yang lebih kuat dari cinta."</em><br>
-  — <strong>Satoru Gojou</strong>, <em>Jujutsu Kaisen 0 Movie</em>
+  <em>"Temanku akan menang meski kutinggalkan mereka!"</em><br>
+  — <strong>Akiteru Tsukishima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
