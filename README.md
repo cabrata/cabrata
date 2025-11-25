@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan jika kata-kata itu bohong, perasaanku tidaklah bohong."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Bagiku setiap hari adalah perayaan. Perayaan untuk dunia ini dan dirimu."</em><br>
+  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
