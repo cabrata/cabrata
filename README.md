@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teruslah berlatih, dan kau pasti bisa melampauinya."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Cintaku seperti kilauan kembang api. Kilauan kecil yang perlahan meredup.
+Tapi, secercah cahaya kecil masih bersinar di hatiku."</em><br>
+  — <strong>Kazuko Hosogawa</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
