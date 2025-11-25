@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli walapun (kita) berada di dalam kekacauan, kita (pasti) bisa menemukan jalan hidup yang indah bagi diri kita sendiri."</em><br>
-  — <strong>Shigeshige Tokugawa</strong>, <em>Gintama°</em>
+  <em>"Tak ada kutukan yang lebih kuat dari cinta."</em><br>
+  — <strong>Satoru Gojou</strong>, <em>Jujutsu Kaisen 0 Movie</em>
 </div>
 <!-- QUOTE END -->
 
