@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Temanku akan menang meski kutinggalkan mereka!"</em><br>
-  — <strong>Akiteru Tsukishima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Memiliki impian itu membutuhkan tekad untuk menghadapi kenyataan."</em><br>
+  — <strong>Juui</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
