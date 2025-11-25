@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Ketika anak kecil melakukan kesalahan) Tidak ada yang perlu dimarahi. Dan tidak ada yang perlu ditertawakan."</em><br>
-  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
+  <em>"Yang kau perlihatkan saat ini bukanlah loyalitas ataupun kesetiaan. Tapi sesuatu yang menjijikkan, seperti nafsu seekor anjing ataupun babi yang serakah. Kau hanyalah babi serakah yang hanya mementingkan egomu saja! Babi serakah adalah hal terburuk yang pernah ada di dunia ini!"</em><br>
+  — <strong>Priscilla Barielle</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
