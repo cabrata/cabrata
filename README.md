@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Takut adalah perasaan yang penting, tetapi jangan sampai terikat oleh perasaan itu. Jika tubuhmu tak mampu menanganinya, gunakan hatimu untuk mengalahkan rasa takut. Ada kalanya hati melebihi kekuatan tubuh."</em><br>
-  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
+  <em>"Aku ingin hidup tanpa meninggalkan sesuatu yang belum terselesaikan."</em><br>
+  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
