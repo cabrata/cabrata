@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bilang saat kau menemukan sesuatu yang tidak bisa diatasi dengan pengalaman dan pengetahuanmu, maka kau akan berubah."</em><br>
-  — <strong>Seinen Shounin</strong>, <em>Maoyuu Maou Yuusha</em>
+  <em>"Aku takkan memaafkan Satan, atau iblis-iblis yang lain! Khususnya putra dari Satan! Aku akan membunuhmu meskipun harus mengorbankan nyawaku!"</em><br>
+  — <strong>Igor Neuhaus</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
