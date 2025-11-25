@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada banyak hal yang tak bisa diselesaikan hanya dengan mengandalkan kata-kata saja."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Kau bilang akan membuktikan bahwa ia tak salah membesarkanmu. Jadi buktikanlah!"</em><br>
+  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
