@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang tak ada yang menyadari kalau dirinya berbakat. Karena itulah, kita semua terus berjuang meningkatkan kemampuan kita. Saat kita berjuang meningkatkan kemampuan kita, kita sadar bahwa orang disekitar kita juga semakin meningkat dan kita jadi semakin termotivasi. Kurasa teman dapat dijadikan sebagai rival."</em><br>
-  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Saat kamu memuji sihirku, aku sangat senang. Kamu menyukai sesuatu yang sangat kubenci. Kamu menerima semuanya dariku. Hanya dengan bersamamu, aku merasa senang. Terima kasih karena telah memberikan sihir berharga untuk masa depanku."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
