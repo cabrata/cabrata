@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang membutuhkan sandaran hati tidak hanya anak kecil."</em><br>
-  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
+  <em>"Setelah melihat kebenaran dipalsukan di depan mata dan menyaksikan keputusan konyol yang diambil, aku pun tak tahan lagi. Sesuatu di dalam diriku hancur."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
