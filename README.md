@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin hidup tanpa meninggalkan sesuatu yang belum terselesaikan."</em><br>
-  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Kita adalah anak muda yang masih berkembang. Ikatan pertemanan adalah harta karun paling berharga."</em><br>
+  — <strong>Tomomichi Motoyama</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
