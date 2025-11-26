@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Daripada meninggalkan kenangan yang menyedihkan, lebih baik meninggalkan kenangan yang menyenangkan, membahagiakan, dan penuh dengan senyuman."</em><br>
-  — <strong>Kaede Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Jangan mengatakan pada orang lain mengenai apa yang sedang kau pikirkan."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
