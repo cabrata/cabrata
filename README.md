@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang akan lebih puas jika mendengarkan kata terima kasih daripada kata maaf. Aku melakukannya karena aku ingin menolongmu, dan bukan untuk mendapatkan kata maaf."</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Tiba lima menit sebelum jam yang ditentukan, merupakan aturan dasar di masyarakat."</em><br>
+  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
