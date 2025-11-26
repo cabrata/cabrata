@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan berada di sisimu. Mekipun aku pacarmu yang tidak bisa apa-apa dan hanya seperti sampah, tapi cintaku (padamu) melebihi siapapun. Aku akan melakukan yang bisa kulakukan."</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Bergaul dengan pecundang, akan membuatmu menjadi pecundang juga."</em><br>
+  — <strong>Takaya Kurisu</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
