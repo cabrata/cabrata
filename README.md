@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan memaksakan diri dan menjalani hidup dengan senang-senang."</em><br>
-  — <strong>Red</strong>, <em>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</em>
+  <em>"Hubungan antara manusia tidak harus diukur berdasarkan lamanya waktu (yang mereka habiskan bersama)."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
