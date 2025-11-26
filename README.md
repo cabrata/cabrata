@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau sudah menyerah dari awal, meski kau bisa menang, kau tidak akan bisa menang."</em><br>
-  — <strong>Chihiro Komiya</strong>, <em>Shounen Maid</em>
+  <em>"Seseorang dapat berubah karena jatuh cinta."</em><br>
+  — <strong>Chiaki Uchimura</strong>, <em>Tsurezure Children</em>
 </div>
 <!-- QUOTE END -->
 
