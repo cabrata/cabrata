@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Penipuan adalah kejahatan sosial yang bukan hanya menimbulkan kerugian pada seorang individu, tetapi juga memiliki efek domino (pada orang lain)."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Supaya diriku diakui oleh ayahku, aku juga harus bisa menjadi orang yang bisa diandalkan! Aku juga akan menjadi orang baik."</em><br>
+  — <strong>Miyako Otori</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
