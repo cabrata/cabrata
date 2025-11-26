@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengingat masa lalu hanya akan membuatmu menyesal sampai ingin mati.
-Memikirkan masa depan hanya akan membuatmu ragu.
-Jadi, memikirkan tentang sekarang adalah hal yang terbaik."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Aku tak bisa mengambil resiko kegagalan dengan melakukan pekerjaan yang bukan bagianku. Tapi, tidak ada kemenangan yang tanpa resiko."</em><br>
+  — <strong>Koushi Sugawara</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
