@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Daripada menyesal karena terlambat, lebih baik serius dari sekarang. Kita harus meneguhkan hati dan mencobanya. Jika tidak berhasil, baru kita segera berhenti."</em><br>
-  — <strong>Tsurayuki Rokuonji</strong>, <em>Bokutachi no Remake</em>
+  <em>"Penipuan adalah kejahatan sosial yang bukan hanya menimbulkan kerugian pada seorang individu, tetapi juga memiliki efek domino (pada orang lain)."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
