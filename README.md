@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bilang "Kebalikan dari dicintai itu bukanlah dibenci, tapi diabaikan"."</em><br>
-  — <strong>Retto Enjou</strong>, <em>Dokyuu H* HxEros</em>
+  <em>"Kalau kau punya waktu untuk bicara omong kosong, (lebih baik) lakukan semua yang kau bisa untuk bertahan hidup."</em><br>
+  — <strong>Tanya Degurechaff</strong>, <em>Youjo Senki</em>
 </div>
 <!-- QUOTE END -->
 
