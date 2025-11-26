@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau punya waktu untuk bicara omong kosong, (lebih baik) lakukan semua yang kau bisa untuk bertahan hidup."</em><br>
-  — <strong>Tanya Degurechaff</strong>, <em>Youjo Senki</em>
+  <em>"Sejujurnya, aku dari dulu sedikit tertarik padamu. Setelah mengobrol denganmu secara langsung, ketertarikan itu semakin kuat sekarang."</em><br>
+  — <strong>Sylvia Lyyneheym</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
