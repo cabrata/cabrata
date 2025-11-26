@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perpisahan itu seperti halnya salah satu sisi koin. Kau tidak bisa berpisah sebelum memulai sapaan."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Sket Dance</em>
+  <em>"Meskipun cahaya kembang api akan menghilang, tapi kenangannya akan terus terjaga."</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
