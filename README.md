@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wajar kalau siswa SMP itu (masih) anak-anak, masalahnya mereka tidak sadar kalau mereka anak-anak. Meskipun begitu masih lebih baik daripada orang dewasa yang tidak menganggap dirinya dewasa."</em><br>
-  — <strong>Mayoi Hachikuji</strong>, <em>Nisemonogatari</em>
+  <em>"Melihat masa lalu sama artinya dengan tak bisa hidup di masa sekarang."</em><br>
+  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
