@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa kalau aku terus mengatakan (tentang impianku), itu benar-benar akan terwujud."</em><br>
-  — <strong>Airi Katagiri</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Mengingat masa lalu hanya akan membuatmu menyesal sampai ingin mati.
+Memikirkan masa depan hanya akan membuatmu ragu.
+Jadi, memikirkan tentang sekarang adalah hal yang terbaik."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
