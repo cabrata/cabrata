@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ninja yang menampung seluruh kebencian dan melindungi desa dari balik bayangan. Kurasa, dialah Hokage (Pemimpin) yang sebenarnya."</em><br>
-  — <strong>Sasuke Uchiha</strong>, <em>Naruto Shippuden</em>
+  <em>"Tahukah kamu, bahasa bunga dari mawar putih yang layu adalah "sumpah setia selamanya"."</em><br>
+  — <strong>Alice Lendrott</strong>, <em>Shinigami Bocchan to Kuro Maid</em>
 </div>
 <!-- QUOTE END -->
 
