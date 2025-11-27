@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun tak ada yang bisa menebak apa yang akan terjadi di kehidupan ini. Tapi selama kita yakin dengan langkah kaki kita, jalan menuju kebenaran pasti akan muncul."</em><br>
-  — <strong>Iori Nagase</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Tak masalah kabur untuk tetap hidup. Karena kau bukan hewan ternak yang tak punya tempat untuk melarikan diri."</em><br>
+  — <strong>Kouchou</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
