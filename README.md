@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tentara dari dahulu hingga kini. Aku bersiap untuk mengorbankan diri jika dibutuhkan. Namun menolak menjadi bidak catur yang digunakan, selesai dan dibuang."</em><br>
-  — <strong>Sakuma</strong>, <em>Joker Game</em>
+  <em>"Takut dikhianati, lebih buruk dari pengkhianatan!"</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
