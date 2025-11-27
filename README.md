@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pertanyaan: apa maksud dari "percaya"?
-Jawaban: tidak keberatan meskipun dikhianati, tidak menyesal meskipun dikhianati."</em><br>
-  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Untuk diriku yang ada di sepuluh tahun yang lalu...
+Kau memiliki banyak kesenangan dan kebahagian yang sedang menantimu. Semoga kau menyadari kebahagiaan itu, semoga kau tak melepaskan kebahagiaan itu."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
