@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pahlawan profesional harus selalu menjadi simbol keadilan yang indah."</em><br>
-  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
+  <em>"Kita tak boleh depresi hanya karena sesuatu, seperti cuma ditolak!"</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
