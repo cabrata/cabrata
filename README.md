@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang selalu ingin mengetahui kebenaran, atau lebih tepatnya mereka ingin mempercayai apa yang diketahuinya itu benar. Jadi, kebenaran sebenarnya bukanlah hal yang utama."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Jangan melarikan diri dari masalah. Diam saja tidak akan memecahkan masalah. Bersikap sok keren tidak akan menghasilkan apapun. Kau hanya bersikap seakan semuanya baik-baik saja, tapi di mataku kau hanya terlihat seperti anak-anak."</em><br>
+  — <strong>Manami Ogura</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
