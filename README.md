@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk diriku yang ada di sepuluh tahun yang lalu...
-Kau memiliki banyak kesenangan dan kebahagian yang sedang menantimu. Semoga kau menyadari kebahagiaan itu, semoga kau tak melepaskan kebahagiaan itu."</em><br>
-  — <strong>Naho Takamiya</strong>, <em>Orange</em>
+  <em>"Pemenang akan mengukir sejarah dan pecundang akan menjadi sejarah."</em><br>
+  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
