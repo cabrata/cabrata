@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perpisahan itu memang menyedihkan, tapi itu tidak berarti bahwa kita takkan bertemu lagi."</em><br>
-  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
+  <em>"Teman yang saling mengerti satu sama lain lewat berbagi hobi adalah teman yang sangat berharga."</em><br>
+  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
 </div>
 <!-- QUOTE END -->
 
