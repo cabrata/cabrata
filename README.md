@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sekali lagi dia berdiri tegak dan membuka pintunya. Di balik pintunya adalah dunia tak sempurna dan juga (dunia yang) sedikit kejam. Dia berjuang untuk belajar mencintai dunia itu. Aku sangat mencintai dia yang seperti itu."</em><br>
-  — <strong>Daru</strong>, <em>Kanojo to Kanojo no Neko: Everything Flows</em>
+  <em>"Orang-orang selalu ingin mengetahui kebenaran, atau lebih tepatnya mereka ingin mempercayai apa yang diketahuinya itu benar. Jadi, kebenaran sebenarnya bukanlah hal yang utama."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
