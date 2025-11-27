@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu-waktu tanpa dirimu sungguh membuatku sangat kesepian. Hanya sosokmulah yang dapat meniupkan hawa kehidupan dalam tubuhku."</em><br>
-  — <strong>Soushi Miketsukami</strong>, <em>Inu x Boku SS</em>
+  <em>"Tak peduli berapa banyak kau mengulanginya, perasaan seseorang takkan berubah. Kebohongan takkan menjadi kenyataan, dan kenyataan takkan menjadi kebohongan."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
