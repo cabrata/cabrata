@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teror dalam arti sebenarnya bukanlah ketakutan dalam keadaan statis, tapi dinamis. Itu terjadi di saat harapan seketika berubah menjadi keputusasaan."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Zero</em>
+  <em>"Uang tidak bisa membeli perasaan seseorang."</em><br>
+  — <strong>Yuuta Shindou</strong>, <em>WWW.Working!!</em>
 </div>
 <!-- QUOTE END -->
 
