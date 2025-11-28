@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada perdebatan kenapa alien tidak menginvasi Bumi padahal mereka maju dalam hal sains dan teknologi. Mereka tidak bisa (menyerang) karena ada siluman (di Bumi). Siluman dan setan melindungi Bumi dari invasi alien."</em><br>
-  — <strong>Ken Takakura</strong>, <em>Dandadan</em>
+  <em>"Masa muda itu seperti itu. Meskipun kau kesulitan atau tersesat, akan ada peluang untuk mencari tantangan baru dan menciptakan hal baru."</em><br>
+  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
