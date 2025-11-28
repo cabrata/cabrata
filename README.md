@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena kalian kembar, hal yang dapat kamu lakukan pasti bisa dilakukan oleh keempat saudarimu. Sebaliknya, hal yang dapat dilakukan oleh keempat saudarimu, pasti bisa dilakukan olehmu."</em><br>
-  — <strong>Fuutarou Uesugi</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Jangan melarikan diri dari masalah. Diam saja tidak akan memecahkan masalah. Bersikap sok keren tidak akan menghasilkan apapun. Kau hanya bersikap seakan semuanya baik-baik saja, tapi di mataku kau hanya terlihat seperti anak-anak."</em><br>
+  — <strong>Manami Ogura</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
