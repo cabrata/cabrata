@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada kalanya, seorang pria memfokuskan diri mereka pada pekerjaan untuk melupakan suatu hal (yang ingin mereka lupakan)."</em><br>
-  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
+  <em>"Aku berharap kalian dapat menunjukkan pada dunia bahwa ada hal yang lebih penting daripada gelar atau pun kekuasaan."</em><br>
+  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
