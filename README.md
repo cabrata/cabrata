@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu hal yang berubah tidak selalu hal buruk."</em><br>
-  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
+  <em>"Orang yang dapat berdiri di puncak adalah mereka yang memiliki kapasitas untuk menerima kejahatan dan kebaikan secara bersamaan. Orang yang melihat semuanya dengan pola pikir hitam dan putih saja takkan bisa maju selangkah pun."</em><br>
+  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
 </div>
 <!-- QUOTE END -->
 
