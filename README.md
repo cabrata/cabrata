@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pembunuhan yang dilakukan dengan menyusup, akan lebih fleksibel jika targetnya sedang gelisah.
-Karena aku berhadapan dengan makhluk tak dikenal, maka cara terbaik adalah bunuh dia segera sebelum dia curiga."</em><br>
-  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Bersepeda itu sangat menyenangkan! Melesat menembus angin dengan mengandalkan tenaga kakiku sendiri, rasanya enak!"</em><br>
+  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
