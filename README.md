@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masa muda itu seperti itu. Meskipun kau kesulitan atau tersesat, akan ada peluang untuk mencari tantangan baru dan menciptakan hal baru."</em><br>
-  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Jangan menilai orang dari satu sudut pandang. Kamu harus melihat dari berbagai sudut pandang."</em><br>
+  — <strong>Tetsuo Takahashi</strong>, <em>Demi-chan wa Kataritai</em>
 </div>
 <!-- QUOTE END -->
 
