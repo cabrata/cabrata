@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenapa kau bisa percaya pada makhluk hidup lemah seperti manusia? Jawabannya sederhana, aku tak percaya pada umat manusia. Manusia itu rendah, mereka semua adalah makhluk bodoh, termasuk aku. Mereka semua hanyalah sampah. Manusia di dunia ini dan duniaku tak ada bedanya sama sekali. Tapi aku percaya pada potensi umat manusia. Dialah (Shiro) bukti yang kupunya. Manusia berpotensi itu ada. Manusia berpotensi, memiliki harapan, dan fantasi yang dapat menggapai tempat dewa itu sendiri, dan semua itu tersimpan dalam tubuh kecil (nya)."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Masa muda itu seperti itu. Meskipun kau kesulitan atau tersesat, akan ada peluang untuk mencari tantangan baru dan menciptakan hal baru."</em><br>
+  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
