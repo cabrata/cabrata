@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau selalu gampang ikut campur urusan orang lain, seperti orang yang tak bisa menahan kakinya dan langsung masuk tanpa permisi."</em><br>
-  — <strong>Chiriko Tsurumi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Semua yang indah (pasti) ada akhirnya. Keabadian itu tidak ada, meskipun menyedihkan tapi aku pikir lebih baik begitu."</em><br>
+  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
