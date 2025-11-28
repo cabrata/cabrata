@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dimanjakan dan memanjakan kakak adalah hak khusus seorang adik."</em><br>
-  — <strong>Mizuha Kiryuu</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
+  <em>"Jangan terlalu memikirkan hal-hal yang tak bisa kau lakukan.
+Lakukan saja apa yang bisa kau lakukan."</em><br>
+  — <strong>Zange Natsume</strong>, <em>Inu x Boku SS</em>
 </div>
 <!-- QUOTE END -->
 
