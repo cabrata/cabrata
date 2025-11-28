@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hati bukanlah sesuatu yang bisa dimengerti hanya dengan memikirkannya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Jika kau membuka hatimu untuknya, sejauh apapun kalian terpisah, kau pasti bisa mendengar suaranya."</em><br>
+  — <strong>Lailah</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
