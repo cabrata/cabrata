@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau tak punya kekuatan, kau masih bisa berjuang dan berharap untuk meraih tujuanmu.
-Itu adalah prinsip yang di pegang teroris. ingat baik-baik."</em><br>
-  — <strong>Minene Uryuu</strong>, <em>Mirai Nikki</em>
+  <em>"Aku tak peduli apa yang akan kalian katakan atau pikirkan. Aku bukanlah anak iblis. Ayahku hanya satu, tidak lain dan tidak bukan adalah pria itu!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
