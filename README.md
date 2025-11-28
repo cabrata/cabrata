@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau membagi suara (musik) itu ke orang - orang, saat suara (musik) mu itu mencapai orang - orang, saat hatimu bersatu, kurasa musik melampaui kata - kata."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Ada kalanya, seorang pria memfokuskan diri mereka pada pekerjaan untuk melupakan suatu hal (yang ingin mereka lupakan)."</em><br>
+  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
