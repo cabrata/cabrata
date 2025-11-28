@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senyumlah saat sedang dalam masalah."</em><br>
-  — <strong>Canaria Utara</strong>, <em>Qualidea Code</em>
+  <em>"Malam hari bisa mengubah cara pandang seseorang secara drastis."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
