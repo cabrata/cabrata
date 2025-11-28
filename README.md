@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""</em><br>
-  — <strong>Masafumi Akagi</strong>, <em>Tsurezure Children</em>
+  <em>"Senyumlah saat sedang dalam masalah."</em><br>
+  — <strong>Canaria Utara</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
