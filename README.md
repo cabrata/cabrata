@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebodohan yang ekstrem itu bisa dijual. Kalau ingin bodoh, lakukan sampai level yang tak bisa dijangkau orang lain."</em><br>
-  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
+  <em>"Jika kau memiliki kehormatan, (berarti) kau memiliki keberanian."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Kizumonogatari I: Tekketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
