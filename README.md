@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan yang belakangan ini kurasakan...
-Perasaan yang sejak itu terus tumbuh...
-(Aku ingin tahu) suatu saat, apakah aku bisa menggapaimu..."</em><br>
-  — <strong>Shouta Kazehaya</strong>, <em>Kimi ni Todoke</em>
+  <em>"Semua orang sudah tau bahwa (seorang) koki yang banyak bicara di dapur itu, tidak punya kemampuan!"</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
