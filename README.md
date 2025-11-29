@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada orang yang bisa dengan cepat menemukan jalan hidupnya, ada juga orang yang mulai dengan memanjat tinggi baru menemukan jalannya. Tidak apa kalau mengambil jalan pintas, atau pun tersesat di jalan yang salah. (Karena) mereka berhak melakukan itu."</em><br>
-  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Aku merasakan perubahan. Aku yang dulunya tidak tertarik dengan orang lain tanpa kusadari, aku berubah karena dia. Kalau disesuaikan, mungkin aku memilih untuk mengubah diriku. Aku memilih untuk memungut catatan penyakitnya. Aku memilih untuk menemaninya. Lalu, aku memilih untuk berjalan bersamanya."</em><br>
+  — <strong>Haruki Shiga</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
 
