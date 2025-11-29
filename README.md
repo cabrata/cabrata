@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Belajar dan pembunuhan itu sama.Kegunaannya ditentukan oleh pembelajaran dasar."</em><br>
-  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Bukankah kita sepupu?
+Masalahku adalah masalahmu. Bajumu adalah bajuku (juga).
+Bukankah kita harusnya saling membantu?"</em><br>
+  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
