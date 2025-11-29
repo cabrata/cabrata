@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku memiliki kewajiban untuk mengawasi jalannya tindak lanjut laporanku."</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Kau harus menunggu sampai tenang.
+Kata-kataku itu tidak ada artinya.
+Kaulah orang yang bisa mengatasi masa lalumu sendiri."</em><br>
+  — <strong>Kasuka Heiwajima</strong>, <em>Durarara!!x2 Ten</em>
 </div>
 <!-- QUOTE END -->
 
