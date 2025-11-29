@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanyalah sampah anak tentara bayaran. Aku bodoh dan tak memiliki fisik yang baik. Kekuatan sihirku pun hanya selevel bayi. Namun, tak peduli apa kata orang-orang, aku tak membenci diriku sendiri. Karena akulah yang tahu nilai dari diriku sendiri."</em><br>
-  — <strong>Touka Scott</strong>, <em>Yuusha ga Shinda!</em>
+  <em>"Waktu terus berjalan, bagi Watari maupun Kausei. Meski mereka takut, terluka, meski mereka tak bisa melihat ke depan, mereka masih mencari sesuatu (jalan menuju cita - citanya). Mereka mengambil langkah demi langkah untuk mengumpulkan keberanian, mereka saling menginspirasi, saling mendukung, lalu mereka mencoba untuk maju. Hanya aku yang tak mengambil langkah (untuk mencapai keinginanku). Hanya aku yang waktunya berhenti."</em><br>
+  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
