@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mahkota seorang pemimpin bukanlah benda yang berada di atas kepala. Tapi sesuatu yang ada di dalam hati semua orang."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Aku adalah pedangmu, tidak peduli sekeras apapun rintangannya aku akan selalu mengikutimu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
