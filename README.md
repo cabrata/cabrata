@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginan semua manusia adalah (ingin) dicintai dan dipuji."</em><br>
-  — <strong>Hosokawa</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Terkadang memang harus ada perpisahan."</em><br>
+  — <strong>Youhei</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
 </div>
 <!-- QUOTE END -->
 
