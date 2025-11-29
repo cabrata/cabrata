@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah seorang koki. Seorang koki tidak boleh lari dari dapur!"</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Kuharap ada rumus untuk memahami perasaan wanita."</em><br>
+  — <strong>Keiki Kiryuu</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
 </div>
 <!-- QUOTE END -->
 
