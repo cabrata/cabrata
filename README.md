@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Musuh dari musuhku tak harus menjadi sekutuku."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: First Order</em>
+  <em>"Semua orang percaya padaku. Aku takkan membiarkan mereka semua menjadi korban."</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
