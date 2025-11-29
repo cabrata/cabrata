@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan mengatakan pada orang lain mengenai apa yang sedang kau pikirkan."</em><br>
-  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Bukan masalah benci atau tidaknya. Ibuku adalah Ibuku, takkan pernah berubah. Apapun yang terjadi, dialah yang melahirkanku."</em><br>
+  — <strong>Asuka Tanaka</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
