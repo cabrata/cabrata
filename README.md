@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Maafkan aku... Maafkan aku (karena) tak bisa menjadi gadis yang mengangis di pelukanmu. Maafkan aku yang memilih mengejar impianku daripada cintaku. Maafkan aku karena aku akan selalu mencintaimu."</em><br>
-  — <strong>Sayuka</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Seluruh tubuhku telah berlumuran darah. Karena aku, puluhan ribu orang telah kehilangan nyawanya. Aku tak pantas hidup bahagia."</em><br>
+  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
