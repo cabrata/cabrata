@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mustahil menyelamatkan semua orang. Menyelamatkan banyak orang harus dibayar dengan menghancurkan sebagian kecil orang lainnya."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Saat kau jatuh cinta, dia akan terlihat berkilauan di matamu. Karena itulah saat orang jatuh cinta dia menjadi buta"</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
