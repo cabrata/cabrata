@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena sudah tidak ada waktu, maka menyerah? Sebalinya kan?
-Karena tidak ada waktu, kita tak boleh buang-buang waktu lagi."</em><br>
-  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
+  <em>"Makhluk hidup tidak boleh iri pada mereka yang telah mati."</em><br>
+  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
