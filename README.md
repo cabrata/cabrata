@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak perlu sebuah alasan untuk menyukaimu. Ketika kusadari, aku sudah menyukaimu."</em><br>
-  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Gadis perpustakaan (baca: kutu buku) mungkin terlihat sangat tenang, tapi di dalam kepalanya mereka sangat berpikir keras. Sama sekali berbeda dengan orang yang berisik tapi isi kepalanya kosong. Inilah perbedaan pesona dari gadis perpustakaan."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
