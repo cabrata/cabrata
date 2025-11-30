@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus menunggu sampai tenang.
-Kata-kataku itu tidak ada artinya.
-Kaulah orang yang bisa mengatasi masa lalumu sendiri."</em><br>
-  — <strong>Kasuka Heiwajima</strong>, <em>Durarara!!x2 Ten</em>
+  <em>"Kau adalah satu-satunya orang yang dapat menyelamatkan dirimu sendiri."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
