@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik kau periksa motormu sebelum mengendarainya, tapi yang lebih penting lagi, periksalah pria sebelum menaikinya."</em><br>
-  — <strong>Baita</strong>, <em>Bakuon!!</em>
+  <em>"Bangun dan melangkahlah. Teruslah berjalan maju. Bukankah kau memiliki dua kaki yang (dapat berjalan dengan) baik kan?. Kau tak membutuhkan pegangan apapun."</em><br>
+  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
