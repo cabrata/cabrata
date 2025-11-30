@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada jarak jutaan tahun cahaya yang memisahkan antara "suka" dan "tidak suka"."</em><br>
-  — <strong>Nao Kashiwagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Saat kamu memuji sihirku, aku sangat senang. Kamu menyukai sesuatu yang sangat kubenci. Kamu menerima semuanya dariku. Hanya dengan bersamamu, aku merasa senang. Terima kasih karena telah memberikan sihir berharga untuk masa depanku."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
