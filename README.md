@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami (berdua) yang telah terluka saling mengharapkan hal yang sama.
-Jika besok kau mati, maka aku tidak keberatan jika besok hidupku juga berakhir.
-Jika hari ini kau tetap hidup, aku pun juga akan hidup."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
+  <em>"Kampanye itu hanyalah tindakan mengemis suara."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
