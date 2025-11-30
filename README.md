@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin melihat senyuman semua orang."</em><br>
-  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Aku tak perlu sebuah alasan untuk menyukaimu. Ketika kusadari, aku sudah menyukaimu."</em><br>
+  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
