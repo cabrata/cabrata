@@ -5,7 +5,7 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku mendengarkan semua lagu mereka. Aku melihat video mereka setiap hari dan menghapal lagunya. Lalu aku berpikir, aku juga ingin melakukannya bersama teman-temanku. Aku ingin memiliki tujuan yang sama seperti mereka. Aku juga ingin bersinar!"</em><br>
+  <em>"Dengan seluruh tubuh dan hati kita! Kita tak boleh mundur! Kita harus jujur pada perasaan masing-masing. Aku ingin mengubah nol menjadi satu."</em><br>
   — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
