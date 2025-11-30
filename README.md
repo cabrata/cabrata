@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kita sepupu?
-Masalahku adalah masalahmu. Bajumu adalah bajuku (juga).
-Bukankah kita harusnya saling membantu?"</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Saudara akan selalu memberikan bantuan kapanpun kan?"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
