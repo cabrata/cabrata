@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Gaya hidupku adalah makan makanan favorit kapan pun yang aku mau."</em><br>
-  — <strong>Anna Yamada</strong>, <em>Boku no Kokoro no Yabai Yatsu</em>
+  <em>"Manusia itu dari awal sudah jenius, kemudian sedikit demi sedikit mulai menjadi bodoh. Karena mereka menjadi bodoh, mereka mulai bekerja dan mulai saling berkomunikasi."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
