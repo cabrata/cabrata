@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli mereka kuat atau lemah, intinya adalah apakah kita menang atau kalah, dan jika kita kalah, kita tidak akan berdiri lagi di lapangan."</em><br>
-  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!!</em>
+  <em>"Pemandangan yang kau lihat dari tempat tinggi akan terlihat sangat menakjubkan, tak peduli walau pemandangannya biasa saja."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
