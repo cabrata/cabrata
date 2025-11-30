@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senang sekali ketika bersama dengan semuanya. Tapi ketika dia ada di sana jadi lebih menyenangkan. Ketika bersama dengannya jantungku berdebar-debar. Aku ingin lebih lama lagi bersama dengannya."</em><br>
-  — <strong>Anna Kobayakawa</strong>, <em>Nijiiro Days</em>
+  <em>"Kalau cuma aku saja, aku yakin akan mengacaukan (semua) nya. Tapi "tanpa nama" lain lagi ceritanya. Kalau aku membuat kesalahan, ada Shiro disana (yang akan membantuku). Itulah cara "tanpa nama" agar selalu menang."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
