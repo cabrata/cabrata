@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu dari awal sudah jenius, kemudian sedikit demi sedikit mulai menjadi bodoh. Karena mereka menjadi bodoh, mereka mulai bekerja dan mulai saling berkomunikasi."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Ada banyak hal yang memiliki nilai karena hal tersebut tidak berguna."</em><br>
+  — <strong>Shoutarou Tatewaki</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
