@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada banyak hal yang takkan berubah meski kita memikirkannya."</em><br>
-  — <strong>Ichiko Rokujou</strong>, <em>Kakushigoto</em>
+  <em>"Pria idaman itu seperti apa?
+Wajahnya? Hartanya?
+Bagiku, pria idaman itu adalah seorang yang mau untuk hidup bersama."</em><br>
+  — <strong>Charlotte Abelfreyja Drossel</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
