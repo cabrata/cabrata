@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada banyak hal yang memiliki nilai karena hal tersebut tidak berguna."</em><br>
-  — <strong>Shoutarou Tatewaki</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Kita harus meraih surga dan tetap menjaga langkah kaki kita tetap selalu berada di atas tanah."</em><br>
+  — <strong>Tatsuya Shiba</strong>, <em>Mahouka Koukou no Rettousei</em>
 </div>
 <!-- QUOTE END -->
 
