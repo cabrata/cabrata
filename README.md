@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pilihan benar atau salah itu tak ada hubungannya denganku. Aku hanya melakukan apa yang ingin kulakukan. Tentu saja aku akan menerima konsekuensinya."</em><br>
-  — <strong>Aka no Saber</strong>, <em>Fate/Apocrypha</em>
+  <em>"Meskipun semua orang menyalahkannya, atau bahkan jika dirinya juga menyalahkan dirinya sendiri, aku akan menggenggam tangannya dan membawanya ke tempat yang terang."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
