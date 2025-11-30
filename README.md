@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau menjadi idola profesional mungkin kami takkan bisa. Tapi, kalau menjadi idola sekolah, selama kami punya motivasi dan tujuan untuk diraih, kami akan terus mencoba dan kami pasti bisa!"</em><br>
-  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Hiduplah seperti biasanya. Memang tidak mudah. Tapi kau punya banyak waktu yang terbentang luas di depanmu."</em><br>
+  — <strong>Ginko</strong>, <em>Mushishi</em>
 </div>
 <!-- QUOTE END -->
 
