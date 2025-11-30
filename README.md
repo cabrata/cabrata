@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pastikan kamu percaya dengan apa yang kamu lakukan. Semua ini adalah jalan yang kamu pilih. Hanya saja, jangan lupakan semua orang yang sudah mendukungmu."</em><br>
-  — <strong>Fumi Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Jika seperti ini terus, hidupmu akan berjalan selambat siput.
+Apakah kau setuju hidupmu seperti itu?"</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
