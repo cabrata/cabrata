@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kampanye itu hanyalah tindakan mengemis suara."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Daripada meninggalkan kenangan yang menyedihkan, lebih baik meninggalkan kenangan yang menyenangkan, membahagiakan, dan penuh dengan senyuman."</em><br>
+  — <strong>Kaede Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
