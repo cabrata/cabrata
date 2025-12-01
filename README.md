@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rasanya mendebarkan saat kau berpikir bahwa setiap orang memiliki rahasia masing-masing."</em><br>
-  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
+  <em>"Tak peduli apa yang kau lempar padaku, dengan satu hentakan. Aku akan mengembalikannya dua kali lipat lebih baik."</em><br>
+  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
