@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika dengan bertarung bisa melindungi senyuman seseorang, maka itu saja sudah cukup memberi alasan untukku melakukannya."</em><br>
-  — <strong>Hayato Kisaragi</strong>, <em>Hundred</em>
+  <em>"Kuharap ada rumus untuk memahami perasaan wanita."</em><br>
+  — <strong>Keiki Kiryuu</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
 </div>
 <!-- QUOTE END -->
 
