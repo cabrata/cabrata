@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"("Cinta" itu seperti apa?)
-Perasaan di saat kamu selalu memikirkan dan memimpikan tentang dia. Saat tidak berhasil menarik perhatiannya kamu pun merasa murung. Kamu juga tidak bisa menatapnya langsung karena malu. Lalu, disaat kamu mengetahui kekurangan dalam dirinya, tapi entah kenapa kamu tetap ingin mengetahui lebih banyak tentang dia."</em><br>
-  — <strong>Inari Fushimi</strong>, <em>Inari, Konkon, Koi Iroha.</em>
+  <em>"Wanita adalah penemuan alam yang berada di tingkatan paling atas. Pria harus mengikuti wanita untuk memenuhi perintah alam dengan cara yang paling ekonomis."</em><br>
+  — <strong>Ernesta Kühne</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
