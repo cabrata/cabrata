@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencoba untuk tidak menyakiti seseorang adalah hal yang mustahil. Hanya dengan hidup saja, terkadang tanpa disadari seseorang bisa menyakiti orang lain. Meski hidup atau mati, manusia akan selalu menyakiti seseorang. Jika terlibat, kau akan menyakiti seseorang, tapi jika kau tidak terlibat mungkin kau juga akan menyakiti seseorang."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Cinta sejati adalah cinta yang tak dipengaruhi oleh penampilan. Jika penampilan orang bisa mempengaruhi perasaanmu, maka cintamu itu palsu."</em><br>
+  — <strong>Chika Fujiwara</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
