@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dengan orang yang bahagia. Melihat mereka saja membuatku merasa bahagia.
-(Tapi) yang kubenci adalah mereka yang tidak tahu alasan kebahagiaan mereka.
-Mereka yang tak peduli kenapa mereka bahagia."</em><br>
-  — <strong>Sodachi Oikura</strong>, <em>Owarimonogatari</em>
+  <em>"Jika kau keturunan keluarga yang terpandang di masyarakat sekitarmu, bagaimanapun kau harus menghindari semua aktivitas yang dianggap tabu oleh mata masyarakat."</em><br>
+  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
