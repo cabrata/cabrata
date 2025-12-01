@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Preman dan politikus itu mempedulikan imej mereka lebih dari apapun."</em><br>
-  — <strong>Ekubo</strong>, <em>Mob Psycho 100</em>
+  <em>"Ada hal yang tak pernah bisa dilihat sebelum melangkah. Karena itu, aku melangkah tanpa rasa takut."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
