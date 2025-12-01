@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan lari, hadapilah!. Kalau punya hal yang ingin kamu kejar dengan serius, kenapa kau tidak memakainya sebagai senjata untuk bertarung."</em><br>
-  — <strong>Eiko Kawasegawa</strong>, <em>Bokutachi no Remake</em>
+  <em>"Kita tak boleh depresi hanya karena sesuatu, seperti cuma ditolak!"</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
