@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah sejak kapan aku berusaha untuk melupakan masa laluku dan memulai hidup baru."</em><br>
-  — <strong>Konjiki no Yami</strong>, <em>To LOVE-Ru Darkness</em>
+  <em>"Tidur itu sangat penting. Kurang tidur bisa berdampak buruk pada pekerjaan, dan kesehatanmu. Tidur di kursi bisa menghilangkan rasa penatmu untuk sementara, tapi tidak baik untuk punggungmu."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!!</em>
 </div>
 <!-- QUOTE END -->
 
