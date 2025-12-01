@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin keras kita mencoba untuk menjadi orang yang benar, kebohongan kita akan terus bertambah."</em><br>
-  — <strong>Alicia Crystella</strong>, <em>Isekai Maou to Shoukan Shoujo no Dorei Majutsu</em>
+  <em>"Entah sejak kapan aku berusaha untuk melupakan masa laluku dan memulai hidup baru."</em><br>
+  — <strong>Konjiki no Yami</strong>, <em>To LOVE-Ru Darkness</em>
 </div>
 <!-- QUOTE END -->
 
