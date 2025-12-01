@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah rangkaian dari pilihan yang kita buat. Kau harus melihat sejauh mana pilihan naifmu itu akan membawamu."</em><br>
-  — <strong>Abuto</strong>, <em>Gintama</em>
+  <em>"Jika dengan bertarung bisa melindungi senyuman seseorang, maka itu saja sudah cukup memberi alasan untukku melakukannya."</em><br>
+  — <strong>Hayato Kisaragi</strong>, <em>Hundred</em>
 </div>
 <!-- QUOTE END -->
 
