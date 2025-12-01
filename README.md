@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sekarang alasan terbesarku bermain adalah mencoba untuk membuatmu dan juga tim kita menjadi yang terbaik di jepang."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Preman dan politikus itu mempedulikan imej mereka lebih dari apapun."</em><br>
+  — <strong>Ekubo</strong>, <em>Mob Psycho 100</em>
 </div>
 <!-- QUOTE END -->
 
