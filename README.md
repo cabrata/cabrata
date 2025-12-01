@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ingin memahami semua orang adalah keinginan yang munafik, bodoh dan angkuh. Benar-benar sangat menyedihkan dan memuakkan. Aku merasa jijik pada diriku sendiri yang menginginkan hal semacam itu. Namun, jika kita memikirkan hal yang sama... Kita bisa membiarkan keinginan yang angkuh itu. Jika hubungan seperti itu memang ada... Meskipun aku tahu kalau semua itu memang tidak mungkin... (Meskipun) aku tahu kalau semua itu tidak bisa kuraih... Meskipun begitu... aku menginginkan hal yang nyata."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Perasaan yang belakangan ini kurasakan...
+Perasaan yang sejak itu terus tumbuh...
+(Aku ingin tahu) suatu saat, apakah aku bisa menggapaimu..."</em><br>
+  — <strong>Shouta Kazehaya</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
