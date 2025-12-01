@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan yang belakangan ini kurasakan...
-Perasaan yang sejak itu terus tumbuh...
-(Aku ingin tahu) suatu saat, apakah aku bisa menggapaimu..."</em><br>
-  — <strong>Shouta Kazehaya</strong>, <em>Kimi ni Todoke</em>
+  <em>"Mulai sekarang, apapun yang terjadi... aku akan terus menjadi temanmu! Kita.... kita akan selalu menjadi teman, kan?"</em><br>
+  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
