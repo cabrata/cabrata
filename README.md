@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam menjalani hidup, kalian pasti akan menemui situasi di mana pendapat kalian bertentangan dengan pendapat masyarakat.
-Saat itu terjadi, jangan menyalahkan masyarakat. Jangan menolak pendapat masyarakat umum. Karena hal itu hanya akan menyia-nyiakan waktu kalian.Saat itu terjadi, cukup katakan "beginilah hidup!". Hadapilah rasa putus asa itu. Setelah berhasil menghadapinya, pikirkanlah (kembali) jika masyarakat menentang keras pendapat kalian, bagaimana sikap kalian menanggapi pertentangan tersebut."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Ada orang yang bisa dengan cepat menemukan jalan hidupnya, ada juga orang yang mulai dengan memanjat tinggi baru menemukan jalannya. Tidak apa kalau mengambil jalan pintas, atau pun tersesat di jalan yang salah. (Karena) mereka berhak melakukan itu."</em><br>
+  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
