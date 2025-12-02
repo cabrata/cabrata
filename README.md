@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bertemu denganmu dan melukis bersamamu benar-benar menyenangkan.
-Kata-kata dan senyum terakhir yang kamu berikan tak akan kulupakan seumur hidupku. Karena itu, tetaplah tersenyum seperti itu selamanya."</em><br>
-  — <strong>Yukito Renjou</strong>, <em>Hatsukoi Limited</em>
+  <em>"(Ketika anak kecil melakukan kesalahan) Tidak ada yang perlu dimarahi. Dan tidak ada yang perlu ditertawakan."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
