@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ini adalah aturan yang ku buat sendiri. Kalau tidak bisa mengikuti aturanku sendiri, tidak ada artinya aku menjadi diriku."</em><br>
-  — <strong>Nanana Ryuugajou</strong>, <em>Ryuugajou Nanana no Maizoukin</em>
+  <em>"Aku tak akan berpura-pura mengerti tentang penderitaanmu, tapi aku tak akan menyerah menjadikanmu temanku."</em><br>
+  — <strong>Takeru Kusanagi</strong>, <em>Taimadou Gakuen 35 Shiken Shoutai</em>
 </div>
 <!-- QUOTE END -->
 
