@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki yang tetap perjaka sampai umur 30 disebut dengan "Tangan Tuhan"."</em><br>
-  — <strong>Shinpachi Shimura</strong>, <em>Gintama</em>
+  <em>"Seorang gadis akan merasa senang jika diperlakukan secara lembut."</em><br>
+  — <strong>Rory Mercury</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
 </div>
 <!-- QUOTE END -->
 
