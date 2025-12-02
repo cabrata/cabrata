@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin di hadapanmu cuma ada jalan yang kelam. Tapi kamu harus tetap yakin dan melangkah maju. Percayalah kalau bintang-bintang akan menerangi jalanmu, walupun cuma sekilas."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kesempatan takkan menunggu seseorang. Jika kau biarkan kesempatan pergi dengan berkata "Aku belum siap". Maka takkan ada lagi kesempatan seperti itu untukmu."</em><br>
+  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
