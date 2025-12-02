@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh menyentuh tubuh (wanita) seberapapun yang kau mau, tapi kau takkan bisa menyentuh hatinya."</em><br>
-  — <strong>Santana</strong>, <em>Canaan</em>
+  <em>"Aku tak peduli apa kata orang tuaku, aku akan tetap menggambar manga meski mereka tak mengakuiku."</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
