@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan berpura-pura mengerti tentang penderitaanmu, tapi aku tak akan menyerah menjadikanmu temanku."</em><br>
-  — <strong>Takeru Kusanagi</strong>, <em>Taimadou Gakuen 35 Shiken Shoutai</em>
+  <em>"Kita tidak hanya mencoba, tapi kita akan jadi yang terbaik."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
