@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan sekecil apapun membutuhkan keseriusan."</em><br>
-  — <strong>Produser Inugane</strong>, <em>Back Street Girls: Gokudolls</em>
+  <em>"Belajar terus kayak orang bodoh saja."</em><br>
+  — <strong>Nino Nakano</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
