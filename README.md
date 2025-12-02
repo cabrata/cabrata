@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada saat dimana kita harus tetap bertarung meskipun kita tahu pasti akan kalah."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Bahkan jika kata-kata itu bohong, perasaanku tidaklah bohong."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
