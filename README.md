@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang kau akan melihat sesuatu saat memejamkan mata."</em><br>
-  — <strong>Arthur Boyle</strong>, <em>Enen no Shouboutai</em>
+  <em>"Aku ingin membuat lebih banyak kenangan bersamamu. Aku tidak ingin kamu pergi ke Inggris.
+Haruka, aku mencintaimu! Aku sangat mencintaimu! Tolong menikahlah denganku!
+Mari (kita hidup) bahagia bersama!"</em><br>
+  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
