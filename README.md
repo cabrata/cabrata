@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian mudah sekali menyerah. Jika kalian ingin menangis, lakukanlah setelah (kalian) bekerja keras!"</em><br>
-  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Kedamaian adalah hal yang paling indah dan paling sulit (wujudkan)."</em><br>
+  — <strong>Chio Miyamo</strong>, <em>Chio-chan no Tsuugakuro</em>
 </div>
 <!-- QUOTE END -->
 
