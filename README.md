@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat seorang anak telah menyadari kerja keras (orang tua) mereka, (saat) itulah tanda selesainya tugas orang tua."</em><br>
-  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Meskipun kita tidak bisa bahagia, (tapi) kita beruntung karena masih memiliki banyak waktu. Waktu untuk menyendiri, waktu untuk berpikir, dan waktu untuk hidup."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
