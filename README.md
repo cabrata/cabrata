@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika bersama denganmu, segalanya jadi menyenangkan."</em><br>
-  — <strong>Yukiko Asai</strong>, <em>Nijiiro Days</em>
+  <em>"Manusia cenderung belajar pada kekalahan daripada kemenangan."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Zoku Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
