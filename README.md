@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau melakukan sesuatu yang akan melukaiku, aku akan mengerahkan seluruh kekuatanku untuk menghentikannya."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Ini adalah aturan yang ku buat sendiri. Kalau tidak bisa mengikuti aturanku sendiri, tidak ada artinya aku menjadi diriku."</em><br>
+  — <strong>Nanana Ryuugajou</strong>, <em>Ryuugajou Nanana no Maizoukin</em>
 </div>
 <!-- QUOTE END -->
 
