@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia telah menolong diriku yang tak memiliki tujuan hidup. Meskipun dia orang jahat, aku tak bisa jauh dari sisinya."</em><br>
-  — <strong>Aku</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Ayo kita bersama selamanya mulai dari sekarang!"</em><br>
+  — <strong>Fuuka Akitsuki</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
