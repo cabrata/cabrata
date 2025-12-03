@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang seniman harus selalu mengungkapkan apa yang dipikirkannya dan bergelut dengan akal sehatnya."</em><br>
-  — <strong>Hiromichi Kudou</strong>, <em>Photokano</em>
+  <em>"Manusia itu bergerak sesuai kata hati. Jadi hatimu akan semakin kuat."</em><br>
+  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba</em>
 </div>
 <!-- QUOTE END -->
 
