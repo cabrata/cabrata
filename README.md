@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat bangun pagi, saat tidur pada malam hari, saat berangkat sekolah, saat berpakaian, saat menangis dan saat tertawa itu semua karena Mitsuo. Tanpa Mitsuo, tak ada yang bisa kulakukan, tidak ada artinya aku hidup."</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Ingatan dari 10 tahun yang lalu... seorang laki-laki yang dulu menjadi ayahku berkata "Meskipun sejak awal, aku adalah kesalahan. Tapi jalan yang aku pilih bukanlah kesalahan"."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
