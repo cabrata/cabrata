@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejak awal kita memang tidak mungkin memahami apa yang dipikirkan orang lain. Bahkan jika kita memikirkan hal yang sama."</em><br>
-  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Setiap orang memiliki langkah mereka sendiri."</em><br>
+  — <strong>Miwako Tomobe</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
