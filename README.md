@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tingkatkan kekuatanmu dengan bekerjasama dengan yang lainnya. Dan terus kembangkan kemampuanmu."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Jika dibilang jangan lakukan maka lakukanlah, Jika itu rahasia maka cari tahu."</em><br>
+  — <strong>Mikan Akemi</strong>, <em>Jitsu wa Watashi wa</em>
 </div>
 <!-- QUOTE END -->
 
