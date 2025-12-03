@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa ini cemburu? Cemburu. Cemburu? Senangnya, Soalnya perasaan ini, rasa sakit ini terlahir karena kau mencintai Shio-chan kan? Perasaan pertamaku."</em><br>
-  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
+  <em>"Bagiku atau pun bagi orang lain, sahabat terbaik adalah diri sendiri."</em><br>
+  — <strong>Akane Sonoyama</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
