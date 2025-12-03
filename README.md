@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Shinichi, aku tak memiliki perasaan manusia. Jadi membunuh spesiesku sendiri tak berpengaruh sama sekali denganku. Tapi bagaimana kalau kau ada di posisiku?"</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Jika kau keturunan keluarga yang terpandang di masyarakat sekitarmu, bagaimanapun kau harus menghindari semua aktivitas yang dianggap tabu oleh mata masyarakat."</em><br>
+  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
