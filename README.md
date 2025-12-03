@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tugas seorang wanita yang sebenarnya adalah melindungi harga diri seorang pria."</em><br>
-  — <strong>Saeko Busujima</strong>, <em>Highschool of the Dead</em>
+  <em>"Catur adalah permainan informasi dua pemain yang berbasis hitungan matematis.
+Dalam permainan ini tak ada yang namanya "keberuntungan"."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
