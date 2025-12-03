@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika cintamu tidak terbalas, kau harus segera move on darinya."</em><br>
-  — <strong>Izumi Takanashi</strong>, <em>Working!!!</em>
+  <em>"Ketika aku bergantung pada orang lain, pada akhirnya aku hanya akan tersakiti.
+Dari awal seharusnya aku tak bergantung pada siapapun."</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
