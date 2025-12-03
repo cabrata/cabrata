@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika aku bergantung pada orang lain, pada akhirnya aku hanya akan tersakiti.
-Dari awal seharusnya aku tak bergantung pada siapapun."</em><br>
-  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Sejak awal kita memang tidak mungkin memahami apa yang dipikirkan orang lain. Bahkan jika kita memikirkan hal yang sama."</em><br>
+  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
