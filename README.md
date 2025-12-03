@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Baru kali ini aku melihat orang mendapat bunga setelah kompetisi. Tidak hanya itu, kau tak mengenal mereka kan?'
-Mereka pasti tidak menyiapkan bunganya, mereka pasti setelah mendengar pertunjukanmu langsung membeli bunga itu untukmu. Ini hari yang tak terlupakan bagi mereka. Mungkin seperti itulah pertunjukanmu."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Saat bangun pagi, saat tidur pada malam hari, saat berangkat sekolah, saat berpakaian, saat menangis dan saat tertawa itu semua karena Mitsuo. Tanpa Mitsuo, tak ada yang bisa kulakukan, tidak ada artinya aku hidup."</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
