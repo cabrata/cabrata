@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan terasa pedih untuk menjaga ataupun melepaskan sesuatu yang tak bisa kau dapatkan kembali.
-Jika kedua-duanya akan terasa pedih, aku lebih baik menderita untuk mempertahankannya."</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Selama ada seorang yang ingin kau temui, maka kau tidak sendiri lagi."</em><br>
+  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou San</em>
 </div>
 <!-- QUOTE END -->
 
