@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejak kecil, aku selalu membayangkan pemandangan indah yang ada di mana-mana. Pemandangan yang selalu aku lihat dan tak terhitung dalam mimpiku. Tapi aku belum pernah kesana. Mereka mengatakan itu adalah efek samping dari Antifeminas milik Inglobe yang ada pada diriku. Tapi aku tak peduli dengan penyebab itu, Aku hanya ingin mencari sesuatu. Karena itu aku melakukan perjalanan."</em><br>
-  — <strong>Ichika Takatsuki</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Kita tidak akan bisa berbuat apa-apa jika kita terpisah. (Tapi) ketika seseorang bertemu dengan yang lainnya (semua akan berubah).Sekarang, di suatu tempat mungkin sedang terjadi suatu pertemuan yang dapat mengubah dunia. Mungkin hal itu terjadi di suatu negara yang sangat jauh. Mungkin juga berada di sisi planet ini. Atau mungkin itu berada di klub voli kecil, di sebuah SMA biasa, di sebuah negara kepulauan kecil di timur.Kupikir pertemuan itu terjadi di sini, di Karasuno. Aku tahu aku tak bisa membuktikan apa yang kukatakan, tapi aku sangat yakin. Aku yakin mulai dari sekarang kalian akan menjadi lebih kuat lagi!"</em><br>
+  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
