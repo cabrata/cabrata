@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada hukum yang mengatakan kau tidak boleh menyukai seorang pria hanya karena ia telah memiliki pacar."</em><br>
-  — <strong>Ruri Miyamoto</strong>, <em>Nisekoi</em>
+  <em>"Aku mencari yang kuat dan cukup ambisius.
+Kau harus melakukan lebih baik dari sekedar "memainkan pertadingan pertamaku" atau "melakukan yang terbaik"."</em><br>
+  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
