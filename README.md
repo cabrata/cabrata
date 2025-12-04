@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pastikan kamu percaya dengan apa yang kamu lakukan. Semua ini adalah jalan yang kamu pilih. Hanya saja, jangan lupakan semua orang yang sudah mendukungmu."</em><br>
-  — <strong>Fumi Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Daripada menyesal karena terlambat, lebih baik serius dari sekarang. Kita harus meneguhkan hati dan mencobanya. Jika tidak berhasil, baru kita segera berhenti."</em><br>
+  — <strong>Tsurayuki Rokuonji</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
