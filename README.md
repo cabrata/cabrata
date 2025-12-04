@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku mencari yang kuat dan cukup ambisius.
-Kau harus melakukan lebih baik dari sekedar "memainkan pertadingan pertamaku" atau "melakukan yang terbaik"."</em><br>
-  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
+  <em>"Saling mencintai itu adalah keajaiban yang membahagiakan."</em><br>
+  — <strong>Hikari Tsutsui</strong>, <em>3D Kanojo: Real Girl</em>
 </div>
 <!-- QUOTE END -->
 
