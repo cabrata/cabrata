@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berdasarkan pamanku, ada syarat untuk menjadi seorang seniman manga. Dalam sekolah angan-angan Taro Kawaguchi, tiga syarat untuk menjadi seniman manga, jika kau bukanlah seorang jenius.
-1. kebanggaan, berpikirlah kau lebih baik daripada orang lain
-2. kerja keras
-3. keberuntungan"</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Tak peduli di manapun, tak peduli seberapa takut dirimu, matahari akan selalu ada. Mataharimu mungkin terkadang tertutup mendung. Meskipun begitu, jika kau terus melihat langit, lama-kelamaan mendung pasti akan hilang. Karena itu kita tak boleh melupakan hal itu. Kita tak boleh berhenti melihat langit. Berdirilah dengan tegap, lihatlah surga, dan lanjutkanlah hidupmu."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
