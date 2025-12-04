@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan terlalu memaksakan diri, istirahatlah dulu.
-Menjaga kesehatan itu juga bagian dari pekerjaan."</em><br>
-  — <strong>Ibu Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Mengejar mimpi yang tak bisa digapai hanya akan menghancurkan diri sendiri."</em><br>
+  — <strong>Evileye</strong>, <em>Overlord II</em>
 </div>
 <!-- QUOTE END -->
 
