@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak muda kadang terobsesi pada kesempurnaan.
-Aku juga pernah begitu.
-Tapi suatu saat nanti, kau pasti akan percaya pada jalanmu sendiri.
-Seperti yang kulakukan.
-Karena itu, tenang saja, tak apa kalau kau cemas."</em><br>
-  — <strong>Shirosaki</strong>, <em>Bokura wa Minna Kawaisou</em>
+  <em>"Mereka (para petani) bekerja bukan berdasarkan waktu, tetapi berdasarkan suasana.Mereka bangun saat suasana pagi dan mencabut rumput saat suasana sore. Mereka menyambut tunas tanaman saat suasana musim semi dan berharap tumbuh kembang saat suasana musim panas. Mereka merayakan hasil panen saat suasana musim gugur dan menantikan suasana musim semi saat musim dingin."</em><br>
+  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
 </div>
 <!-- QUOTE END -->
 
