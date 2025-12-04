@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bisa melihat senyuman manismu setiap hari, sudah termasuk imbalan paling sempurna buatku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Break Time</em>
+  <em>"Kalau masih ada jalan untuk mundur itu namanya bukan perjalanan. Saat kau berada di titik dimana kau tak bisa kembali, saat itulah perjalananmu dimulai."</em><br>
+  — <strong>Hinata Miyake</strong>, <em>Sora yori mo Tooi Basho</em>
 </div>
 <!-- QUOTE END -->
 
