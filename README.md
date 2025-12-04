@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia memang lebih kuat dariku, tapi itu bukan alasan untuk tidak mencemaskannya. Apapun yang kami lakukan, dia selalu lebih baik dariku. Tapi, aku adalah kakaknya. Aku takkan pernah goyah dari posisi itu."</em><br>
-  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Terkadang kesalahan kecil dapat menyebabkan kesalahan yang lebih besar."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
