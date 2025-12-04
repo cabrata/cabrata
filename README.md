@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mana ada (orang bertarung untuk) menyelamatkan nyawa seseorang hanya karena demi kebaikan. Manusia bertarung demi hasrat mereka."</em><br>
-  — <strong>Wirbel</strong>, <em>Sousou no Frieren</em>
+  <em>"Laki-laki itu makhluk yang tidak terlalu memikirkan hal-hal kecil seperti ulang tahun atau hari peringatan."</em><br>
+  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
