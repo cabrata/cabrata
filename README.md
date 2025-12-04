@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak ingin menyimpan dendam dengan masa lalu, lebih baik memaafkan dan melangkah maju."</em><br>
-  — <strong>Iori Nagase</strong>, <em>Kokoro Connect</em>
+  <em>"Jika manusia memiliki keinginan, mereka bisa saja menjadi malaikat atau pun iblis."</em><br>
+  — <strong>Rika Suzuki</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
