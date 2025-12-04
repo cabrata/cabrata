@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pemimpin tidak perlu menunjukkan kekuatannya untuk membuat temannya patuh. Kekuatan hanya perlu digunakan untuk melindungi temannya."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Jangan terlalu memaksakan diri, istirahatlah dulu.
+Menjaga kesehatan itu juga bagian dari pekerjaan."</em><br>
+  — <strong>Ibu Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
