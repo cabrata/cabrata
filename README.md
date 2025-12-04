@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tidak akan bisa berbuat apa-apa jika kita terpisah. (Tapi) ketika seseorang bertemu dengan yang lainnya (semua akan berubah).Sekarang, di suatu tempat mungkin sedang terjadi suatu pertemuan yang dapat mengubah dunia. Mungkin hal itu terjadi di suatu negara yang sangat jauh. Mungkin juga berada di sisi planet ini. Atau mungkin itu berada di klub voli kecil, di sebuah SMA biasa, di sebuah negara kepulauan kecil di timur.Kupikir pertemuan itu terjadi di sini, di Karasuno. Aku tahu aku tak bisa membuktikan apa yang kukatakan, tapi aku sangat yakin. Aku yakin mulai dari sekarang kalian akan menjadi lebih kuat lagi!"</em><br>
-  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!!</em>
+  <em>"Berdasarkan pamanku, ada syarat untuk menjadi seorang seniman manga. Dalam sekolah angan-angan Taro Kawaguchi, tiga syarat untuk menjadi seniman manga, jika kau bukanlah seorang jenius.
+1. kebanggaan, berpikirlah kau lebih baik daripada orang lain
+2. kerja keras
+3. keberuntungan"</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
