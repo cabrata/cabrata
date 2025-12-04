@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengejar mimpi yang tak bisa digapai hanya akan menghancurkan diri sendiri."</em><br>
-  — <strong>Evileye</strong>, <em>Overlord II</em>
+  <em>"Kita sadar bahwa kita tidak bisa bebas. Karena bebas itu hanyalah perasaan yang kosong dan sunyi. Dan demi alasan itu, kita menginginkan kebebasan. Layaknya harta karun di dalam (cerita) novel petualangan yang tak bisa didapatkan oleh siapa pun. Hidup berarti selalu terpenjara oleh sesuatu."</em><br>
+  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
