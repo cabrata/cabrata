@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejak kecil, aku adalah gadis pendiam yang suka menyendiri. Aku tak pandai olahraga, dan selalu jadi anak bawang di sekolah. Jadi aku terbiasa bermain sendirian, dan jatuh cinta pada membaca. Tanpa sadar, perpustakan seakan menjadi rumahku, dan imajinasiku jadi berkembang karena membaca buku-buku disana. Setelah selesai membaca sebuah buku, aku akan merasakan kehampaan, tapi aku yakin selama aku punya buku, aku akan baik baik saja."</em><br>
-  — <strong>Hanamaru Kunikida</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Sayang sekali hubungan kalian berdua harus berakhir seperti ini. Tapi kalian tidak boleh saling membenci.
+Karena cinta telah membuat kalian jadi orang yang lebih baik. Karena itu kalian harus saling berterima kasih.
+Dan mulai saat ini, kalian berdua bisa menjadi teman yang baik bukan?"</em><br>
+  — <strong>Kazuyoshi Usui</strong>, <em>SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi</em>
 </div>
 <!-- QUOTE END -->
 
