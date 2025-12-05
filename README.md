@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berkecil hati (karena ditolak). Perempuan itu ada banyak, sebanyak bintang di langit yang sulit di jangkau."</em><br>
-  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan</em>
+  <em>"Warna yang gelap dan warna yang cerah. Semua itu membentuk dirimu. Tidak perlu dihapus. Di masa depan, tetaplah tersenyum."</em><br>
+  — <strong>Yuito Aoi</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
