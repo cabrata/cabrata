@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau memang benar bahwa ada Sang Pencipta, pasti Dia yang membuat dunia yang besar ini. Karena (besarnya dunia yang diciptakanNya) itu, membuat manusia kecil yang penakut menjadi kesulitan (untuk hidup). Di dunia yang luas ini, kita bahkan tidak bisa mengukur jarak antara manusia. Meskipun ada enam milyar orang, tapi semuanya (hidup) sendirian. Semua orang terus mencari, seorang (pendamping) yang tak butuh jarak (untuk hidup bersama)."</em><br>
-  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge</em>
+  <em>"Aku selalu ingin mengatakan kalau aku bersyukur bisa berjumpa denganmu. Ketika aku melihat wajahmu, aku jadi lebih bersemangat. Kata-katamu selalu menginspirasiku hingga tanpa sadar aku selalu memperhatikanmu. Hatiku selalu berdetak kencang ketika kau memujiku. Setiap kali bicara denganmu aku selalu berpikir bisa berusaha lebih keras (pada banyak hal). Terima kasih telah membuatku lebih bersemangat. Aku masih bisa bertahan sampai saat ini karena aku mencintaimu."</em><br>
+  — <strong>Nanami Aoyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
