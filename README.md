@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senyumlah saat sedang dalam masalah."</em><br>
-  — <strong>Canaria Utara</strong>, <em>Qualidea Code</em>
+  <em>"Kau tak perlu mencari-cari alasan. Lakukan saja apa yang benar-benar ingin kau lakukan. Bukankah begitu caranya kita mulai melakukan sesuatu yang benar-benar kita inginkan?"</em><br>
+  — <strong>Nozomi Toujou</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
