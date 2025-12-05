@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pedansa adalah makhluk yang suka menjadi pusat perhatian."</em><br>
-  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Jika aku diam saja, harapan tidak akan bisa jadi kenyataan."</em><br>
+  — <strong>Varma</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
