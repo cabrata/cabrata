@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian akan dapat terus maju dengan berpegang pada penderitaan.
-Jaga teman kalian saat ini. (Karena) jika mereka mati, mereka takkan kembali."</em><br>
-  — <strong>Shinohara</strong>, <em>Hai to Gensou no Grimgar</em>
+  <em>"Sebuah pelajaran tanpa rasa sakit tidak akan ada artinya. Karena manusia tidak akan bisa mendapatkan apapun tanpa mengorbankan sesuatu. Tapi ketika mereka mampu mengatasi hal itu, manusia akan mendapatkan hati baja yang tak akan kalah dari apapun."</em><br>
+  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
