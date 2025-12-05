@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesedih apapun suatu ingatan, setelah diceritakan semuanya hanya akan jadi suatu cerita."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Kalian akan dapat terus maju dengan berpegang pada penderitaan.
+Jaga teman kalian saat ini. (Karena) jika mereka mati, mereka takkan kembali."</em><br>
+  — <strong>Shinohara</strong>, <em>Hai to Gensou no Grimgar</em>
 </div>
 <!-- QUOTE END -->
 
