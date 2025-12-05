@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena seseorang mengatakan sesuatu yang tidak kau sukai, bukan berarti mereka tidak menyukaimu."</em><br>
-  — <strong>Hyougo Otoo</strong>, <em>Working!!!</em>
+  <em>"Ide tanpa idealisme itu tidak ada artinya."</em><br>
+  — <strong>Miko Iino</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
