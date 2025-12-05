@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bukannya tak bisa bermain, kau hanya tak ingin bermain.
- "Aku tidak bisa mendengar suara piano..." Kau mengatakan itu hanya untuk melarikan diri."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Persahabatan itu adalah tempat saling berbagi rasa sakit."</em><br>
+  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
