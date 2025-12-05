@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau hari libur adalah hari untuk bersenang-senang, maka kita harus bersenang-senang bersama."</em><br>
-  — <strong>Anzu</strong>, <em>Hinamatsuri</em>
+  <em>"Namaku adalah Nasa Yuzaki, seorang yang lebih cepat dari Nasa, seorang yang akan mencapai kecepatan cahaya."</em><br>
+  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
