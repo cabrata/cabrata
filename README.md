@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada baiknya kalau bisa terbuka dengan orang lain."</em><br>
-  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Walaupun kita berdua ragu-ragu, dia (Honoka) selalu berhasil membuat kita melakukan sesuatu."</em><br>
+  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
