@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau memiliki kehormatan, (berarti) kau memiliki keberanian."</em><br>
-  — <strong>Meme Oshino</strong>, <em>Kizumonogatari I: Tekketsu-hen</em>
+  <em>"Pedansa adalah makhluk yang suka menjadi pusat perhatian."</em><br>
+  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
 </div>
 <!-- QUOTE END -->
 
