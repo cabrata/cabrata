@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Semua) alasan selalu sederhana. Kita hidup di dunia yang sangat sederhana. Di mana saat kita menarik pelatuk, musuh pun akan mati."</em><br>
-  — <strong>Riza Hawkeye</strong>, <em>Fullmetal Alchemist: Brotherhood Specials</em>
+  <em>"Seorang pria yang kalah oleh kesedihan dalam hidupnya itu sama seperti seorang yang sedang menunggu ajalnya."</em><br>
+  — <strong>Joutarou Kawasumi</strong>, <em>Inu x Boku SS</em>
 </div>
 <!-- QUOTE END -->
 
