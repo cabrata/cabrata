@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku pertemanan jauh lebih bermakna daripada kata-kata dan logika."</em><br>
-  — <strong>Tomohiro Nagatsu</strong>, <em>Koe no Katachi</em>
+  <em>"Hanya karena tidak beruntung bukan berarti harus menderita.
+Hanya karena tidak menyenangkan bukan berarti harus membenci.
+Apa pun yang terjadi padamu, tetaplah bahagia."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Nekomonogatari: Kuro</em>
 </div>
 <!-- QUOTE END -->
 
