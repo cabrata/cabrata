@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Beranggapan bahwa semua itu salahmu adalah pemikiran yang tak berguna. Setiap orang pasti memiliki keterbatasan."</em><br>
-  — <strong>Sachiko Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Takkan ada orang yang senang jika kau hanya mementingkan tujuanmu saja. Inti dari sebuah negosiasi adalah mendengarkan persyaratan dari kedua belah pihak."</em><br>
+  — <strong>Anastasia Hoshin</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
