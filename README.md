@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyusun waktu untuk para creator adalah pekerjaan seorang produser."</em><br>
-  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Kau adalah bunga yang mekar dihatiku."</em><br>
+  — <strong>Santana</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
