@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bodoh akan menghabiskan uangnya untuk hal yang tidak penting.
-Orang bijak akan menghabiskan uangnya untuk hal yang baik untuk dirinya.
-Baik buruknya orang dapat dinilai dari cara dia menghabiskan uangnya."</em><br>
-  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Aku tidak mau mengorbankan apapun atau menyeret siapapun hanya untuk menang."</em><br>
+  — <strong>Makoto Tsukimoto</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
