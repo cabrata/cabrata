@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku memang tidak bisa diandalkan dan tidak bisa melakukan apapun. Tapi aku ada di sini. Aku akan selalu berada di sisimu."</em><br>
-  — <strong>Banri Tada</strong>, <em>Golden Time</em>
+  <em>"Kalau kau terus berusaha tanpa menyerah, aku yakin hal yang baik akan terjadi"</em><br>
+  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
