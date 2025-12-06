@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan asal ambil keputusan penting yang bisa mengubah arah hidupmu hanya karena dirimu mengantuk atau bosan."</em><br>
-  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Untuk membuat sesuatu yang dapat menarik perasaan user, pertama kau harus membuat sesuatu yang dapat menarik hatimu sendiri. Kau tidak bisa menggerakkan hati sesorang jika kau tak bisa menggerakkan hatimu sendiri."</em><br>
+  — <strong>Kazuki Fujisawa</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
