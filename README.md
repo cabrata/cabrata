@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak bisa menilai naskah game itu bagus atau jelek jika belum membacanya di dalam game."</em><br>
-  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Memang benar mungkin tidak ada bunga yang bisa mekar selamanya. Mungkin juga bunga itu akan mudah layu. Tapi, walaupun bunga itu layu, saat musim telah berganti bunga itu akan mekar kembali."</em><br>
+  — <strong>Tsukuyo</strong>, <em>Gintama°: Aizome Kaori-hen</em>
 </div>
 <!-- QUOTE END -->
 
