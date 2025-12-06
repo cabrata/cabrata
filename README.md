@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami tidak seperti manusia yang takut akan kematian. Karena kami sudah hidup cukup lama dan tidak meninggalkan penyesalan."</em><br>
-  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Penampilan seseorang tergantung pada dua hal, ekspresi dan postur tubuh."</em><br>
+  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
 </div>
 <!-- QUOTE END -->
 
