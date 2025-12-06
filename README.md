@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika dia berbicara seperti itu (sangat percaya diri), dia tidak akan membiarkan tembakannya meleset. (Maka) Serahkan penyerangan padanya. Kau hanya harus bertahan seperti hidupmu bergantung padanya."</em><br>
-  — <strong>Shun Izuki</strong>, <em>Kuroko no Basket</em>
+  <em>"Kami tidak peduli tentang mimpimu! kami hanya ingin melindungi teman-teman kamu, dan dunia kami apapun yang terjadi!"</em><br>
+  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
