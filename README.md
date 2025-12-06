@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Takkan ada orang yang senang jika kau hanya mementingkan tujuanmu saja. Inti dari sebuah negosiasi adalah mendengarkan persyaratan dari kedua belah pihak."</em><br>
-  — <strong>Anastasia Hoshin</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku merasa ibu sangat hebat. Meskipun ibu guru masih muda, (tapi) sudah punya pekerjaan tetap dan menjadi guru yang baik. Aku sangat menghormatinya."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
