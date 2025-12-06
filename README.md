@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Postur tubuh menentukan bagaimana orang lain melihatmu."</em><br>
-  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Jangan terlalu memaksakan diri, istirahatlah dulu.
+Menjaga kesehatan itu juga bagian dari pekerjaan."</em><br>
+  — <strong>Ibu Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
