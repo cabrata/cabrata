@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kadang-kadang lembut, terkadang kasar, begitulah gejolak hati wanita."</em><br>
-  — <strong>You Satou</strong>, <em>Ben-To</em>
+  <em>"Aku tak ingin menyimpan dendam dengan masa lalu, lebih baik memaafkan dan melangkah maju."</em><br>
+  — <strong>Iori Nagase</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
