@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Berbuatlah demi orang lain. Korbankan diri sendiri demi itu". Aku dibesarkan dengan (memegang) prinsip seperti itu."</em><br>
-  — <strong>Tsukasa Jinguuji</strong>, <em>Fantasy Bishoujo Juniku Ojisan to</em>
+  <em>"Saat kamu memuji sihirku, aku sangat senang. Kamu menyukai sesuatu yang sangat kubenci. Kamu menerima semuanya dariku. Hanya dengan bersamamu, aku merasa senang. Terima kasih karena telah memberikan sihir berharga untuk masa depanku."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
