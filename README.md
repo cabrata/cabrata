@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengajarimu seni pedang akan membuatmu jadi lebih kuat. Tapi berlatih hanya untuk menjadi kuat itu tak ada artinya."</em><br>
-  — <strong>Wilhelm van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku memang tidak bisa diandalkan dan tidak bisa melakukan apapun. Tapi aku ada di sini. Aku akan selalu berada di sisimu."</em><br>
+  — <strong>Banri Tada</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
