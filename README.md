@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebebasan adalah sesuatu yang tidak terikat oleh harapan orang lain, dan hanya mengikuti kata hati sendiri."</em><br>
-  — <strong>Serge</strong>, <em>Fate/Apocrypha</em>
+  <em>"Dimarahi karena diharapkan bisa menjadi ninja yang hebat. Tidak ada anak yang sesempurna itu."</em><br>
+  — <strong>Shikamaru Nara</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
