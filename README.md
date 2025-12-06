@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dimarahi karena diharapkan bisa menjadi ninja yang hebat. Tidak ada anak yang sesempurna itu."</em><br>
-  — <strong>Shikamaru Nara</strong>, <em>Boruto: Naruto Next Generations</em>
+  <em>"Kamu harus lebih sopan terhap gurumu!"</em><br>
+  — <strong>Beatrice</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
