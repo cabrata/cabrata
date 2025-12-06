@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sepertinya suasana hatimu masih belum sembuh... tapi perasaanmu itu terlihat bagaikan berlian yang berkilau di antara berlian-berlian yang lain."</em><br>
-  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Aku tak ingin memperihatkan sisi bodohku. Kalau mau memperlihatkan, tentu harus memperlihatkan sisi kerenku."</em><br>
+  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
