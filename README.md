@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang yang bertindak melawan keinginannya sendiri menurutku orang yang menarik."</em><br>
-  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Mengajarimu seni pedang akan membuatmu jadi lebih kuat. Tapi berlatih hanya untuk menjadi kuat itu tak ada artinya."</em><br>
+  — <strong>Wilhelm van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
