@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencoba mendapatkan semua hal yang terbaik adalah prinsip keadilanku."</em><br>
-  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Tidak ada gadis yang membuat seseorang repot."</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
