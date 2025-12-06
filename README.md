@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah pedangmu. Kemanapun kamu pergi aku akan selalu mengikutimu."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Ketika dia berbicara seperti itu (sangat percaya diri), dia tidak akan membiarkan tembakannya meleset. (Maka) Serahkan penyerangan padanya. Kau hanya harus bertahan seperti hidupmu bergantung padanya."</em><br>
+  — <strong>Shun Izuki</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
