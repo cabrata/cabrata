@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teruslah hidup untuk melihat akhir dari dunia ini, untuk mengetahui maksud mengapa dunia ini dilahirkan, untuk mengetahui maksud mengapa gadis lemah sepertiku bisa ada di sini, dan juga untuk mengetahui arti dari pertemuan kita."</em><br>
-  — <strong>Sachi</strong>, <em>Sword Art Online</em>
+  <em>"Berjuanglah sekeras mungkin. Kerahkan seluruh pikiran dan hatimu untuk mencari jalan keluar bersama dengan mereka. Biarkan hatimu yang telah mengering dan layu itu sekali lagi bermekaran."</em><br>
+  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
