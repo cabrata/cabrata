@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memang menempa besi (untuk membuat pedang), tapi (kita menempa besi) dengan seluruh jiwa kita.
-Tempalah hatimu supaya tajam seperti menempa besi itu. Jadilah orang yang ramah. Itulah keindahan hidup. Jika kau jadi orang baik, orang-orang akan menggunakan pedangmu dengan baik."</em><br>
-  — <strong>Jintetsu Murata</strong>, <em>Gintama</em>
+  <em>"Keinginan sejati dari kakak laki-laki adalah melihat setiap detail tubuh adik perempuannya. Barang kotor dan tak berguna seperti pakaian dalam hanya akan menghalangi kesucian tubuh adik perempuan yang indah."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
