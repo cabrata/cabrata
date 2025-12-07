@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apapun yang terjadi, aku akan selalu denganmu."</em><br>
-  — <strong>Yuno Gasai</strong>, <em>Mirai Nikki</em>
+  <em>"Aku bukan orang bodoh yang suka menyalahkan orang lain."</em><br>
+  — <strong>Kanami Ibuki</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
