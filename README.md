@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenapa sesuatu yang sangat penting seperti perasaan, hati, dan jiwa adalah sesuatu yang tak bisa dilihat ya?"</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Saat kau memiliki masalah, kau harus bersandar pada orang lain. Aku yakin akan ada orang lain yang akan membantumu."</em><br>
+  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
