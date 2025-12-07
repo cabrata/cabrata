@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencoba untuk tidak menyakiti seseorang adalah hal yang mustahil. Hanya dengan hidup saja, terkadang tanpa disadari seseorang bisa menyakiti orang lain. Meski hidup atau mati, manusia akan selalu menyakiti seseorang. Jika terlibat, kau akan menyakiti seseorang, tapi jika kau tidak terlibat mungkin kau juga akan menyakiti seseorang."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Ketika kau memiliki orang yang kau cintai, kau akan menjadi lebih kuat. Berkat Tetsurou, aku juga sudah berubah. Paling tidak aku sudah mencoba untuk menjadi lebih berani dan lebih kuat."</em><br>
+  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
