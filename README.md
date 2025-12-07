@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidupku yang membosankan ternyata dapat berguna juga."</em><br>
-  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji 2nd Season</em>
+  <em>"Tak peduli apapun yang terjadi, aku akan selalu denganmu."</em><br>
+  — <strong>Yuno Gasai</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
