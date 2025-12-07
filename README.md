@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejujurnya, aku masih bingung...
-Tapi hatiku akhirnya sudah tenang."</em><br>
-  — <strong>Homura</strong>, <em>Sekirei: Pure Engagement</em>
+  <em>"Menggunakan internet itu seperti menggunakan pisau untuk memasak atau menggunakan kertas untuk menulis. Pada dasarnya itu bukan tentang baik atau buruk. Karena keberadaan internet, maka kita (tinggal) menerimanya dan menggunakannya."</em><br>
+  — <strong>Akane Tsunemori</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
