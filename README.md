@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena tidak meminta tolong bukan berarti tidak ingin ditolong.
-Hanya karena dia tidak bilang cinta bukan berarti dia tidak mencintaimu.
-Siapapun punya hal yang tak bisa dikatakan walaupun ingin mengatakannya."</em><br>
-  — <strong>Meme Oshino</strong>, <em>Nekomonogatari: Kuro</em>
+  <em>"Kalau bisa melanggar aturan di kota, artinya orang-orang tidak memperhatikan sekitarnya. Kota seperti itu mudah untuk menjadi aksi kejahatan seperti pencurian. Sebaliknya, bila di kota banyak orang yang saling tegur sapa, artinya kewaspadaan penduduk sekitar tinggi. Penjahat pun tak ingin melakukan aksinya di kota itu."</em><br>
+  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
