@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebaikan absolut itu lebih merepotkan daripada kejahatan."</em><br>
-  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Meskipun di depan hanya akan ada jalan buntu ataupun keputusasaan, tapi setidaknya kami ingin berjalan di jalan yang kami pilih."</em><br>
+  — <strong>Sieg</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
