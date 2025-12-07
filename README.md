@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak peduli! Selama aku bisa terus bersama dengan dirimu, bagiku sudah cukup. Tidak, bahkan itulah yang aku inginkan!"</em><br>
-  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
+  <em>"Hidupku yang membosankan ternyata dapat berguna juga."</em><br>
+  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
