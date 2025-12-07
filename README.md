@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginan sejati dari kakak laki-laki adalah melihat setiap detail tubuh adik perempuannya. Barang kotor dan tak berguna seperti pakaian dalam hanya akan menghalangi kesucian tubuh adik perempuan yang indah."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Aku tidak peduli! Selama aku bisa terus bersama dengan dirimu, bagiku sudah cukup. Tidak, bahkan itulah yang aku inginkan!"</em><br>
+  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
