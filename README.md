@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan bergantung pada seseorang untuk menyelamatkan diri."</em><br>
-  — <strong>Yoshitake Tanaka</strong>, <em>Danshi Koukousei no Nichijou</em>
+  <em>"Dalam keadaan segenting apapun, bertaruh adalah caraku untuk menyelesaikannya."</em><br>
+  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
