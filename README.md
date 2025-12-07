@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Asalkan kita masih punya keluarga, itu saja sudah cukup. Mimpiku dari awal hanyalah bisa hidup sampai tua denganmu."</em><br>
-  — <strong>Miyuki Fujioka</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Kau tak perlu mencari-cari alasan. Lakukan saja apa yang benar-benar ingin kau lakukan. Bukankah begitu caranya kita mulai melakukan sesuatu yang benar-benar kita inginkan?"</em><br>
+  — <strong>Nozomi Toujou</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
