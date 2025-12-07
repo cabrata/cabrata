@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Asalkan kebenciannya padaku bisa membuatnya mencintai dirinya sendiri, kurasa itu lebih baik."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Sejujurnya, aku masih bingung...
+Tapi hatiku akhirnya sudah tenang."</em><br>
+  — <strong>Homura</strong>, <em>Sekirei: Pure Engagement</em>
 </div>
 <!-- QUOTE END -->
 
