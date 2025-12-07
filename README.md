@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lupakan orang yang meninggalkanmu, dan persiapkan dirimu untuk cinta yang baru. Itulah yang harus dilakukan dalam menjalani cinta."</em><br>
-  — <strong>Kagura</strong>, <em>Gintama</em>
+  <em>"Aku telah putus Nico-kun. Aku selalu mencintai Nico-kun. Aku sangat mencintainya, sampai aku tidak bisa menahannya. Mungkin karena itulah aku tidak sadar bagaimana perasaannya."</em><br>
+  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
