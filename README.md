@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki yang tetap perjaka sampai umur 30 disebut dengan "Tangan Tuhan"."</em><br>
-  — <strong>Shinpachi Shimura</strong>, <em>Gintama</em>
+  <em>"Saat wanita menunjukkan kelemahannya, saat itulah pria bertindak. Tolong berhati-hatilah."</em><br>
+  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
