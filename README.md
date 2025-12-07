@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Asalkan itu menarik, kebohongan juga tak masalah."</em><br>
-  — <strong>Manako Jouten</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
+  <em>"Melakukan yang terbaik, berjuang dengan segala apa yang kubisa untuk berbohong. Karena bagitu, kebohongan adalah cinta. Dengan kata lain, berbohong adalah caraku untuk mengungkapkan rasa cinta."</em><br>
+  — <strong>Ai Hoshino</strong>, <em>[Oshi no Ko]</em>
 </div>
 <!-- QUOTE END -->
 
