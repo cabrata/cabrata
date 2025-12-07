@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah perjalanan tanpa akhir. Untuk melihat sesuatu yang baru, kau harus membuka jalanmu sendiri."</em><br>
-  — <strong>King</strong>, <em>One Punch Man Season 2</em>
+  <em>"Menurutku, satu-satunya masa di mana orang menjadi berharga adalah ketika mereka bertindak sesuai dengan keinginan mereka sendiri."</em><br>
+  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
