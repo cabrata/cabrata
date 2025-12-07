@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau bukan karena panas yang sampai ke kepalaku ini, aku takkan repot-repot sampai pergi ke kebun binatang bodoh yang disebut "sekolah"."</em><br>
-  — <strong>Jinta Yadomi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Dengan berpihak pada seseorang, kau harus bermusuhan dengan pihak lain."</em><br>
+  — <strong>Kirei Kotomine</strong>, <em>Fate/stay night Movie: Heaven's Feel - I. Presage Flower</em>
 </div>
 <!-- QUOTE END -->
 
