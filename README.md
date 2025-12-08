@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau ada gadis cantik yang sedang kesulitan, pria baik (pasti) akan menyelamatkannya."</em><br>
-  — <strong>Rita Ainsworth</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Bakat memang penting, tapi aku (lebih) cemburu dengan orang yang punya tujuan hidup."</em><br>
+  — <strong>Atomu Kai</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
