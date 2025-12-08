@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu makhluk yang dangkal. Mereka hanya melihat (orang lain) berdasarkan gosip yang beredar di permukaan."</em><br>
-  — <strong>Becky Blackbell</strong>, <em>Spy x Family</em>
+  <em>"Kemakmuran yang sesungguhnya adalah bebas dari kekayaan dan barang-barang."</em><br>
+  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
