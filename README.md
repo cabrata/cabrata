@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencari majalah P*o di kamar anak laki-laki adalah bagian dari jati diri orang Jepang."</em><br>
-  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
+  <em>""Violet", saat kau dewasa nanti, kau pasti akan menjadi gadis yang cocok dengan nama itu. Kau bukanlah sebuah alat, tapi seorang yang pantas memiliki nama itu (Violet)."</em><br>
+  — <strong>Gilbert Bougainvillea</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
