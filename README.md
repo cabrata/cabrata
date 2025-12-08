@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Telanjang adalah fashion terbaik."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Jangan pernah berpikiran buruk kepada manusia."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
