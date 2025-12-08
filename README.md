@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun logika yang diterapkan, (atau) apapun teori yang dibentuk, Keyakinan (tentang agama) dan makhluk gaib akan terus ada."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
+  <em>"Membunuh manusia tak ada bedanya dengan membunuh binatang."</em><br>
+  — <strong>Inounoshishi</strong>, <em>Juuni Taisen</em>
 </div>
 <!-- QUOTE END -->
 
