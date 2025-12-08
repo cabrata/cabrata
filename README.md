@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin aku menikmati kesenangan, semakin sakit rasanya ketika harus berpisah."</em><br>
-  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
+  <em>"Saling menerima cinta satu sama lain adalah hal yang wajar. Jika dunia melarangnya, aku akan mengubah dunia ini meskipun harus menghancurkannya."</em><br>
+  — <strong>Theo Cornaro</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
