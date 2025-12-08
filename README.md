@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena ada kesediahan, maka ada kesenangan."</em><br>
-  — <strong>Kanna Tanigawa</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Seseorang tidak akan berjuang sekeras itu jika dia tidak menyukainya."</em><br>
+  — <strong>Keiko Ayano</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
