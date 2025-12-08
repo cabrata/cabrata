@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan terus mengatakannya!
-Jangan pernah berhenti membuat game, jangan berhenti berkarya.
-Kau tidak boleh menyerah mengejar impianmu."</em><br>
-  — <strong>Iori Hashima</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Tidak ada kata terlalu cepat untuk sebuah persiapan."</em><br>
+  — <strong>Fumi Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
