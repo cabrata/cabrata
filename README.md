@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menabung itu hal bagus, tapi melakukan sesuatu yang berkesan juga bagus."</em><br>
-  — <strong>Rin Tooyama</strong>, <em>New Game!</em>
+  <em>"Manusia itu makhluk yang dangkal. Mereka hanya melihat (orang lain) berdasarkan gosip yang beredar di permukaan."</em><br>
+  — <strong>Becky Blackbell</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
