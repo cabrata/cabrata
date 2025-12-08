@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah itu orang suci ataupun pendosa, semua orang punya hak untuk menegakkan keadilan mereka. Menolak keadilan mereka dan membunuhnya adalah hal tabu bagiku."</em><br>
-  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
+  <em>"Barang jadul tak akan berguna saat dibutuhkan dengan segera."</em><br>
+  — <strong>Minosuke</strong>, <em>Ojiisan no Lamp</em>
 </div>
 <!-- QUOTE END -->
 
