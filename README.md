@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak peduli! Selama aku bisa terus bersama dengan dirimu, bagiku sudah cukup. Tidak, bahkan itulah yang aku inginkan!"</em><br>
-  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
+  <em>"Bagi seorang pria, ada kalanya memukul seseorang itu rasanya lebih sakit daripada terkena pukulan."</em><br>
+  — <strong>Tooru Asagiri</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
