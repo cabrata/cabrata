@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tahukah kamu?Jarak cakrawala yang bisa dilihat dengan mata telanjang adalah empat kilometer."</em><br>
-  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Mencegah agar tidak terulang penyesalan yang sama adalah nilai dari sebuah penyesalan."</em><br>
+  — <strong>Mitsuyoshi Tada</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
