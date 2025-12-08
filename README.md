@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah berpikiran buruk kepada manusia."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Pada akhirnya, menepati janji adalah jalan yang paling singkat untuk mendapatkan hasil."</em><br>
+  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
