@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Belajar dan pembunuhan itu sama.Kegunaannya ditentukan oleh pembelajaran dasar."</em><br>
-  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Aku akan terus mengatakannya!
+Jangan pernah berhenti membuat game, jangan berhenti berkarya.
+Kau tidak boleh menyerah mengejar impianmu."</em><br>
+  — <strong>Iori Hashima</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
