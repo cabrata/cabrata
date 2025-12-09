@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Shio-chan, aku harap kau masih mencintaiku ketika kita dilahirkan kembali. Aku minta maaf,... dan terima kasih."</em><br>
-  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
+  <em>"Aku selalu serius! Tapi kenapa kamu selalu lari?
+Setiap kali aku pikir mulai lebih dekat denganmu, kamu malah bergerak semakin jauh."</em><br>
+  — <strong>Megumi Noda</strong>, <em>Nodame Cantabile: Paris Hen</em>
 </div>
 <!-- QUOTE END -->
 
