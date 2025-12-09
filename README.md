@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tingkatkan kekuatanmu dengan bekerjasama dengan yang lainnya. Dan terus kembangkan kemampuanmu."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Karena kamu adalah manusia artinya kamu bukanlah sosok yang sempurna."</em><br>
+  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online: Alicization</em>
 </div>
 <!-- QUOTE END -->
 
