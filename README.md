@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah bersumpah untuk melindungi Kakak! Tak ada lagi tujuanku selain melindungi Kakak dan dunia ini!"</em><br>
-  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Jika seperti ini terus, hidupmu akan berjalan selambat siput.
+Apakah kau setuju hidupmu seperti itu?"</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
