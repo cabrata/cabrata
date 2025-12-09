@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keadilan yang tak membuahkan hasil itu hanya omong kosong."</em><br>
-  — <strong>Ayase Ayatsuji</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Laki-laki yang tetap perjaka sampai umur 30 disebut dengan "Tangan Tuhan"."</em><br>
+  — <strong>Shinpachi Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
