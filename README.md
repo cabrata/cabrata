@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku berharap kalian dapat menunjukkan pada dunia bahwa ada hal yang lebih penting daripada gelar atau pun kekuasaan."</em><br>
-  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
+  <em>"Orang yang marah demi orang lain itu di saat yang bersamaan dia juga menyalahkan orang lain. Aku benci orang yang seperti itu."</em><br>
+  — <strong>Maki Himena</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
