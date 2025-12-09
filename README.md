@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bersepeda itu sangat menyenangkan! Melesat menembus angin dengan mengandalkan tenaga kakiku sendiri, rasanya enak!"</em><br>
-  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
+  <em>"Mungkin aku tidak bisa menjadi seorang samurai atau ayah yang hebat, tapi (setidaknya) aku ingin memberikan nama yang bagus untuk anakku."</em><br>
+  — <strong>Isaburou Sasaki</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
