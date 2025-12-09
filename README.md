@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Salah satu hal yang tidak aku mengerti dari hati manusia adalah sifat kepedulian.
-Seperti mau mengorbankan diri untuk menyelamatkan orang lain."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Kau takkan tahu perasaan orang lain bila kau tak bertanya.
+Perasaanmu juga takkan pernah diketahui orang lain bila kau tak mengatakannya."</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
