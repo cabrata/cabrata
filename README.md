@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan gadis namanya kalau dia berwujud 3D."</em><br>
-  — <strong>Koutarou Takebayashi</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Aku tidak mau lari! Kalau aku lari dari apa yang kuhadapi sekarang, aku akan menyesalinya seumur hidupku."</em><br>
+  — <strong>Moe Nishinosono</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
