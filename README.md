@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian mudah sekali menyerah. Jika kalian ingin menangis, lakukanlah setelah (kalian) bekerja keras!"</em><br>
-  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Kau boleh mati dengan mempertahankan harga dirimu itu,  tapi jika kau makan dan hidup bukankah masa depanmu akan lebih baik?"</em><br>
+  — <strong>Sanji</strong>, <em>One Piece</em>
 </div>
 <!-- QUOTE END -->
 
