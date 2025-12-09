@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Datang terlambat sebenarnya bukan hal yang buruk.
-Polisi datang setelah ada kejadian yang terjadi.
-Dan pahlawan selalu datang terlambat.
-Tapi, apakah ada yang menyalahkan mereka?
-Jadi keterlambatan adalah keadilan."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Memang benar, aku bisa mendapatkan boneka itu dengan bersujud. Tapi, ini adalah duel antara aku dengan Reinhard. Jadi, kalau aku dapat kemenangan yang diberikan oleh orang lain, entah bagaimana bilangnya, pokoknya hal itu jelas salah. Ini semua demi harga diri kecilku!"</em><br>
+  — <strong>Felt</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
