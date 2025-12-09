@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku takkan punya kehidupan yang cukup jika hanya mengandalkan keberuntungan saja."</em><br>
-  — <strong>Shikamaru Nara</strong>, <em>Naruto Shippuden</em>
+  <em>"Justru karena ada kesulitan itulah yang membuat jiwa seseorang itu bersinar."</em><br>
+  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
