@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejujurnya, aku masih bingung...
-Tapi hatiku akhirnya sudah tenang."</em><br>
-  — <strong>Homura</strong>, <em>Sekirei: Pure Engagement</em>
+  <em>"Aku telah bersumpah untuk melindungi Kakak! Tak ada lagi tujuanku selain melindungi Kakak dan dunia ini!"</em><br>
+  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
