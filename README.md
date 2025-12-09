@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak keberatan jika dia menyukai pria lain, hanya saja aku ingin menjadi orang terakhir yang menerima senyuman dari dirinya."</em><br>
-  — <strong>Seiji Yagiri</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Hidup adalah tantangan. Tak ada gunanya hidup jika tak ada lawan yang kuat untuk bermain. Lebih baik jika aku tidak menang."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
