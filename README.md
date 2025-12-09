@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Samurai tidak membutuhkan alasan untuk bertindak.
-Jika mereka ingin melindungi sesuatu, maka mereka akan menarik pedangnya."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Sepotong sisa harapan, pertanda keinginan yang samar akan lahir dari keputusasaan."</em><br>
+  — <strong>C.C.</strong>, <em>Code Geass: Hangyaku no Lelouch</em>
 </div>
 <!-- QUOTE END -->
 
