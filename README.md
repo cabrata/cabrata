@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin aku menikmati kesenangan, semakin sakit rasanya ketika harus berpisah."</em><br>
-  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
+  <em>"Segala sesuatu memiliki kekurangan. Tidak ada yang sempurna, karena itu semua orang ingin menghancurkannya dan menciptakannya kembali."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 4: Garan no Dou</em>
 </div>
 <!-- QUOTE END -->
 
