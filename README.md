@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pertarungan takkan adil jika kau melanggar janjimu sendiri."</em><br>
-  — <strong>Inojin Yamanaka</strong>, <em>Boruto: Naruto Next Generations</em>
+  <em>"Kalian mudah sekali menyerah. Jika kalian ingin menangis, lakukanlah setelah (kalian) bekerja keras!"</em><br>
+  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
