@@ -5,10 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia tiba-tiba berhenti bicara, aku jadi tidak tahu apa yang harus kulakukan...
-Hatiku menjadi tak karuan, (dan) rasanya seperti terlahir kembali. Banyak perasaan yang belum pernah kurasakan sebelumnya.
-Kazehaya-kun seperti sedang memperkenalkanku dengan banyak hal yang baru. Aku senang bisa bertemu dengannya."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Perasaan yang belakangan ini kurasakan...
+Perasaan yang sejak itu terus tumbuh...
+(Aku ingin tahu) suatu saat, apakah aku bisa menggapaimu..."</em><br>
+  — <strong>Shouta Kazehaya</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
