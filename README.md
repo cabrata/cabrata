@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pergilah dulu, dan tunggu aku. Aku akan segera menyusul, mengendarai angin."</em><br>
-  — <strong>Sei Handa</strong>, <em>Barakamon</em>
+  <em>"Bermain (musik) untuk seseorang, itu jauh lebih berharga."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
