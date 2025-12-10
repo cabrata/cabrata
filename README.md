@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan lengah. Kalau segalanya berjalan mulus, kamu akan mudah tersandung."</em><br>
-  — <strong>Muzan Kibutsuji</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
+  <em>"Pandangan yang sempit adalah musuh idealisme dan kecerdasan."</em><br>
+  — <strong>Eiha Kudou</strong>, <em>Gimai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
