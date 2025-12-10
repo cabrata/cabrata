@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan terasa pedih untuk menjaga ataupun melepaskan sesuatu yang tak bisa kau dapatkan kembali.
-Jika kedua-duanya akan terasa pedih, aku lebih baik menderita untuk mempertahankannya."</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Seorang pahlawan tidak pernah mengabaikan perbuatan baik yang tak dihargai."</em><br>
+  — <strong>Hiiro</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
 </div>
 <!-- QUOTE END -->
 
