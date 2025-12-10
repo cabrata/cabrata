@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau akan membenci dirimu sendiri jika kau melakukan apa yang kau benci."</em><br>
-  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Aku tidak akan melakukan jika memang tidak harus melakukannya, dan jika harus melakukannya maka akan aku selesaikan dengan cepat."</em><br>
+  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
