@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sedikit takut. Bukan karena kematian, tapi aku takut berpisah denganmu.
-Aku tak pernah merasa seperti ini sebelumnya, tapi menurutku inilah yang terbaik untukku.
-Semua ini demi masa depan umat manusia, dan juga demi masa depanmu.
-Untuk itu aku bisa mempertaruhkan nyawaku berapa kali pun."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Wajar kalau siswa SMP itu (masih) anak-anak, masalahnya mereka tidak sadar kalau mereka anak-anak. Meskipun begitu masih lebih baik daripada orang dewasa yang tidak menganggap dirinya dewasa."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
