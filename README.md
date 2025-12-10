@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang genius itu harus selalu mengejutkan."</em><br>
-  — <strong>Leonardo da Vinci</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Kalau kau tidak bisa bertahan di sekolah hingga lulus, cita-citamu untuk melampauiku hanyalah omong kosong."</em><br>
+  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
