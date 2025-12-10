@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nenekku bilang, tubuh sehat membuat seorang gadis menjadi cantik."</em><br>
-  — <strong>Makoto Kowata</strong>, <em>Flying Witch</em>
+  <em>"Dalam percintaan tak ada yang namanya "Kerja keras akan selalu membuahkan hasil"."</em><br>
+  — <strong>Sakura Akino</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
 </div>
 <!-- QUOTE END -->
 
