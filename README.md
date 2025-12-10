@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin mati dengan kepuasan terhadap kehidupanku."</em><br>
-  — <strong>Airi Yuunami</strong>, <em>Qualidea Code</em>
+  <em>"Pahlawan itu tidak ada.
+Dalam dunia nyata, mereka yang beradaptasi dengan kenyataan yang akan menang."</em><br>
+  — <strong>Ryuuichi Kazama</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
