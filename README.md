@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pertanyaan: apa maksud dari "percaya"?
-Jawaban: tidak keberatan meskipun dikhianati, tidak menyesal meskipun dikhianati."</em><br>
-  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Jangan lengah. Kalau segalanya berjalan mulus, kamu akan mudah tersandung."</em><br>
+  — <strong>Muzan Kibutsuji</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
 </div>
 <!-- QUOTE END -->
 
