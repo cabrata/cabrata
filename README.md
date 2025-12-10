@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah kesatria. Melindungi mata pencaharian wargaku merupakan tugas dan kehormatanku."</em><br>
-  — <strong>Dustiness Ford Lalatina</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!</em>
+  <em>"Tidak ada kata terlalu cepat untuk sebuah persiapan."</em><br>
+  — <strong>Fumi Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
