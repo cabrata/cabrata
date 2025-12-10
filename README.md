@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yusa-san mencoba membuatku berhenti menyukaimu dan berkata kalau aku akan menyesal nantinya. Tapi, aku menyukaimu dengan kemauanku sendiri. Maka dari itu, suka ataupun tidak suka, aku sendiri yang memutuskannya."</em><br>
-  — <strong>Chiho Sasaki</strong>, <em>Hataraku Maou-sama!</em>
+  <em>"Ketika ada sesuatu yang populer, itu artinya yang lainnya tidak populer."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
