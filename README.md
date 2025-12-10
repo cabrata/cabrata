@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria bernama Araragi Koyomi, terkadang mengutamakan seorang anak perempuan daripada mengutamakan temannya ataupun pacarnya."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Kenapa kau bohong pada dirimu sendiri? Kau mungkin bisa melarikan diri saat ini, tapi waktu tetap akan berlalu tanpa menyelesaikan masalahmu."</em><br>
+  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
