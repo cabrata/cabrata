@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pastikan kamu percaya dengan apa yang kamu lakukan. Semua ini adalah jalan yang kamu pilih. Hanya saja, jangan lupakan semua orang yang sudah mendukungmu."</em><br>
-  — <strong>Fumi Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Jika kebohonganmu tidak bisa menipu dirimu sendiri, orang lain pun takkan bisa tertipu."</em><br>
+  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
