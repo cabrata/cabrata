@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa pun misinya, yang ku lakukan hanya satu, yaitu melindungimu."</em><br>
-  — <strong>Sakuya Tachibana</strong>, <em>God Eater</em>
+  <em>"Kalau tidak menyerah, seharusnya jangan lari."</em><br>
+  — <strong>Hanabi Yasuraoka</strong>, <em>Kuzu no Honkai</em>
 </div>
 <!-- QUOTE END -->
 
