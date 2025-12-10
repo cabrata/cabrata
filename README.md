@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wajar kalau siswa SMP itu (masih) anak-anak, masalahnya mereka tidak sadar kalau mereka anak-anak. Meskipun begitu masih lebih baik daripada orang dewasa yang tidak menganggap dirinya dewasa."</em><br>
-  — <strong>Mayoi Hachikuji</strong>, <em>Nisemonogatari</em>
+  <em>"Aku takkan memaksamu untuk melakukan sesuatu yang besar. Cukup lakukan apa yang bisa kau lakukan. Aku pun akan melakukan apa yang bisa kulakukan. Begitulah peran yang bisa kita lakukan di dunia ini."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
