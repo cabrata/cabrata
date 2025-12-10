@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka kamu yang berusaha menutupi air mata dengan senyuman dan tetap tegar."</em><br>
-  — <strong>Isla</strong>, <em>Plastic Memories</em>
+  <em>"Kalaupun kau punya impian dan tahu cara menggapainya, itu saja tidaklah cukup."</em><br>
+  — <strong>Shinnosuke Aikawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
