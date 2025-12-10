@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengabaikan seseorang itu hal yang mudah, membenci seseorang lebih mudah lagi, namun mencintai seseorang adalah hal yang sulit."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Hal-hal yang perlu dilakukan hanya dapat dilakukan oleh orang yang mampu melakukannya."</em><br>
+  — <strong>Yuki Funahara</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
