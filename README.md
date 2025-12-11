@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak bisa belajar saat aku mengkhawatirkanmu."</em><br>
-  — <strong>Souichi Kamita</strong>, <em>Seiren</em>
+  <em>"Kaulah tokoh utama dalam hidupmu sendiri."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100</em>
 </div>
 <!-- QUOTE END -->
 
