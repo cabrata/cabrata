@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman itu sulit dicari, jadi jaga teman kalian baik-baik."</em><br>
-  — <strong>Sei Handa</strong>, <em>Handa-kun</em>
+  <em>"Wanita itu seperti sake, semakin berumur semakin nikmat."</em><br>
+  — <strong>Sumiko Kawai</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
