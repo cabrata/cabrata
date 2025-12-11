@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kita bukan orang yang istimewa, tapi kita bisa menjadi orang yang istimewa bagi seseorang."</em><br>
-  — <strong>Hitagi Senjougahara</strong>, <em>Owarimonogatari</em>
+  <em>"Tidak ada seorang pun yang dapat meninggalkan masa lalunya."</em><br>
+  — <strong>Atsumu Matsuyuki</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
