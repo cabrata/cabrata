@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginan sejati dari kakak laki-laki adalah melihat setiap detail tubuh adik perempuannya. Barang kotor dan tak berguna seperti pakaian dalam hanya akan menghalangi kesucian tubuh adik perempuan yang indah."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Untuk diriku yang ada di sepuluh tahun yang lalu...
+Kau memiliki banyak kesenangan dan kebahagian yang sedang menantimu. Semoga kau menyadari kebahagiaan itu, semoga kau tak melepaskan kebahagiaan itu."</em><br>
+  — <strong>Naho Takamiya</strong>, <em>Orange</em>
 </div>
 <!-- QUOTE END -->
 
