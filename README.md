@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kaulah tokoh utama dalam hidupmu sendiri."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100</em>
+  <em>""Suka" saja sudah cukup kan?
+Karena saat aku melihat Zaitsu-kun, dadaku berdebar-debar. Tapi itu bukan karena dia keren atau baik hati. Melainkan karena aku suka dia. Bukankah tak perlu alasan untuk suka (seseorang)? Selama kamu berdebar-debar, bukankah itu cinta?"</em><br>
+  — <strong>Ayumi Arihara</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
