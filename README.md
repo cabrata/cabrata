@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin membuat lebih banyak kenangan bersamamu. Aku tidak ingin kamu pergi ke Inggris.
-Haruka, aku mencintaimu! Aku sangat mencintaimu! Tolong menikahlah denganku!
-Mari (kita hidup) bahagia bersama!"</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Alasan manusia dapat mencapai ilmu pengetahuan yang tinggi dan kebebasan bukan hanya karena perkembangan dari otak manusia. Tapi didapat dari struktur yang lebih komplek berkat evolusi. Dengan kata lain, hasil dari kontradiksi otak dan jiwa."</em><br>
+  — <strong>Wiseman</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
