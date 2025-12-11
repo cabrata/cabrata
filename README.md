@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa tanpa dirimu semuanya akan terasa membosankan. Saat aku melihat ada orang lain yang menyentuhmu, aku sangat tak menyukainya. Meskipun baru kusadari akhir-akhir ini, tapi kurasa aku sudah lama menyukaimu."</em><br>
-  — <strong>Kazuomi Ooga</strong>, <em>ReLIFE</em>
+  <em>"Salah satu hal yang tidak aku mengerti dari hati manusia adalah sifat kepedulian.
+Seperti mau mengorbankan diri untuk menyelamatkan orang lain."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
