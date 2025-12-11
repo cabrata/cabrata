@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hidup berkat bantuan dari banyak orang. Aku disini karena Ibu ada disini. Aku senang kau menjadi orang tuaku. Aku benar-benar beruntung."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Masa muda adalah kebohongan dan kejahatan. Mereka yang mengagungkan masa mudanya hanyalah membodohi diri sendiri dan orang di sekitarnya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
