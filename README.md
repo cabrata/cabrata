@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia bisa menjadi baik karena ada hal yang tidak mereka ketahui. Karena kalau manusia tahu segalanya, mereka tak akan berusaha. Jika mereka tak berusaha, maka tidak ada hal baru yang akan terjadi."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Orang yang bisa mencapai tujuannya adalah orang-orang bodoh yang terus melangkah ke depan. (Sedangkan) orang yang tidak bisa mencapai tujuannya adalah orang-orang bijak yang berhenti melangkah."</em><br>
+  — <strong>Celica Arfonia</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
 </div>
 <!-- QUOTE END -->
 
