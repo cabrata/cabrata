@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu tidak usah mencemaskannya. Apapun yang kamu rasakan tinggal lepaskan saja. Aku tidak berpikir kita akan bisa mulai dari nol ke seratus dengan cepat. Tapi mungkin kita bisa mendapat satu. Aku ingin melihat jika kita bisa melakukannya juga."</em><br>
-  — <strong>Riko Sakurauchi</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Saat tidak ada lagi kebohongan, kenyataan akan serasa sangat membosankan."</em><br>
+  — <strong>Rei Matsumoto</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
