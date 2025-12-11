@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak bisa tahu seseorang jika hanya melihat. (Meski penampilannya seperti itu) tapi dia sebenarnya seorang pekerja keras."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Ketika ada yang menyatakan suka padamu, kamu akan merasa senang, geli, malu, tapi terasa nyaman di hati."</em><br>
+  — <strong>Rika Dobashi</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
