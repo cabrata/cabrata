@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenapa kau bohong pada dirimu sendiri? Kau mungkin bisa melarikan diri saat ini, tapi waktu tetap akan berlalu tanpa menyelesaikan masalahmu."</em><br>
-  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Kau tidak boleh gampang menyerah!"</em><br>
+  — <strong>Suguha Kirigaya</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
