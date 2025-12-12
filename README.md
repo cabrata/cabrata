@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kaulah yang telah mengajarkanku tentang hal yang terpenting, keberanian untuk maju, tak takut akan perubahan. Saat itu, tanganmu telah menyelamatkanku."</em><br>
-  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Memanfaatkan kesempatan untuk mendapatkan jaringan orang atasan adalah bentuk dari pembelajaran politik yang baik di sekolah."</em><br>
+  — <strong>Kobachi Osaragi</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
