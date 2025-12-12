@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanya memiliki satu keinginan. Kesamaan hak bagi semuanya. Aku ingin menciptakan negeri dimana semua rakyat memiliki hak yang sama!"</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Manusia bisa benar dan salah. Kesalahan membuat mereka belajar lebih cepat, tapi butuh waktu untuk melihat kesalahan. Dan menghabiskan waktu bersama orang lain cukup membosankan. Sejauh yang kutahu, kesalahan yang menyusup kedalam rumahku dan mencuri hartaku itu lebih baik. Namun, aku tidak masalah, karena kau adalah sebuah kesalahan."</em><br>
+  — <strong>Fafnir</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
