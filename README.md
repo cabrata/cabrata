@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi yang berusaha maka Tuhan akan tersenyum padamu, itu adalah bohong.
-Tapi, takdir Tuhan akan berkedip padamu."</em><br>
-  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
+  <em>"Jika kau menghindari pembicaraan yang tak penting, maka kau akan terhindar dari masalah yang tak penting."</em><br>
+  — <strong>Nozomu Itoshiki</strong>, <em>Sayonara Zetsubou Sensei</em>
 </div>
 <!-- QUOTE END -->
 
