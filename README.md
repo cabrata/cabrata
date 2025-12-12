@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Detektif papan atas adalah detektif yang bisa menyelesaikan kasus sebelum kasus itu terjadi."</em><br>
-  — <strong>Siesta</strong>, <em>Tantei wa Mou, Shindeiru.</em>
+  <em>"Masa depan lahir dari pengalaman masa lalu."</em><br>
+  — <strong>Sanae Kouzuki</strong>, <em>Sakura Quest</em>
 </div>
 <!-- QUOTE END -->
 
