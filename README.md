@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku pikir hujan ini akan membasuh perasaan bimbangku. Tapi (ternyata) setiap tetes yang mengenai wajahku membuatku lebih sengsara."</em><br>
-  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Dalam mencintai seseorang tidak boleh mengharapkan balasan. Cinta sejati adalah ketika dapat mengorbankan diri sendiri demi orang lain."</em><br>
+  — <strong>Miyoko Kinjou</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
