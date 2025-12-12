@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rasa lapar adalah bumbu terbaik."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
+  <em>"Bagi yang berusaha maka Tuhan akan tersenyum padamu, itu adalah bohong.
+Tapi, takdir Tuhan akan berkedip padamu."</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
