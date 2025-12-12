@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masa depan lahir dari pengalaman masa lalu."</em><br>
-  — <strong>Sanae Kouzuki</strong>, <em>Sakura Quest</em>
+  <em>"Siapapun pernah membuat kesalahan. Sekarang, bagaimana cara untuk menutupi kesalahan tersebut, itulah yang harus dipikirkan!"</em><br>
+  — <strong>Ainz Ooal Gown</strong>, <em>Overlord</em>
 </div>
 <!-- QUOTE END -->
 
