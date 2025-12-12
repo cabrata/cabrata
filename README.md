@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika dengan bertarung bisa melindungi senyuman seseorang, maka itu saja sudah cukup memberi alasan untukku melakukannya."</em><br>
-  — <strong>Hayato Kisaragi</strong>, <em>Hundred</em>
+  <em>"Belahan jiwa itu adalah pria baik yang tak mementingkan penampilan."</em><br>
+  — <strong>Aina Yoshiwara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
