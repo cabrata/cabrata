@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua bergantung pada tampan atau tidaknya seseorang. Itulah pedoman hidupku. Jika tidak tampan, berarti bukan laki-laki."</em><br>
-  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Luka fisik dibiarkan akan sembuh sendiri. Namun, rasa sakit karena ditolak olehmu takkan pernah bisa hilang."</em><br>
+  — <strong>Romio Inuzuka</strong>, <em>Kishuku Gakkou no Juliet</em>
 </div>
 <!-- QUOTE END -->
 
