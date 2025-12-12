@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci pria yang diam saja melihat seorang wanita tersakiti."</em><br>
-  — <strong>Sen Yarizui</strong>, <em>Ben-To</em>
+  <em>"Hanya dengan menatapmu saja, aku merasa sangat bahagia."</em><br>
+  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
