@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memiliki sifat tempramen boleh saja, tapi kalau kau tak bisa mengendalikannya kau bisa terbakar."</em><br>
-  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
+  <em>"Kebingungan mengakibatkan celah, dan celah mengganggu keuntungan kita. Jangan gelisah hanya karena musuh yang tidak kita kenal. Musuh ingin kita kehilangan ketenangan. Bertindaklah dengan pikiran yang jernih!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
