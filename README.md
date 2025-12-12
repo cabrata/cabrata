@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kita terus memikirkan apa yang orang lain harapkan, kita tak akan pernah tahu harus bagaimana karena terlalu banyak orang yang berharap pada diri kita. Bukankah lebih mudah jika hanya memikirkan apa yang kita harapkan pada diri sendiri.
-Selanjutnya tinggal berdoa."</em><br>
-  — <strong>Izumi Sakurai</strong>, <em>Nichijou</em>
+  <em>"Memiliki sifat tempramen boleh saja, tapi kalau kau tak bisa mengendalikannya kau bisa terbakar."</em><br>
+  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
