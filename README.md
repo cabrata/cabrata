@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam mencintai seseorang tidak boleh mengharapkan balasan. Cinta sejati adalah ketika dapat mengorbankan diri sendiri demi orang lain."</em><br>
-  — <strong>Miyoko Kinjou</strong>, <em>Handa-kun</em>
+  <em>"Di dalam semua karya bersemayam dewa penciptanya. Dewa sangat peduli dengan ciptaannya."</em><br>
+  — <strong>Aki Shino</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
