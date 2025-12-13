@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kota itu bagaikan raga manusia. Berbagai sistem bekerja secara organis, yang akhirnya tumbuh dan berkembang. Ada kalanya tubuh mengidap penyakit tumor. Penyakit yang tak bisa disembuhkan dengan obat. Saat itu kita harus membasminya. Tugas kita sebagai ahli bedah adalah mencabut penyakit itu dari kota"</em><br>
-  — <strong>Masamune Mochizuki</strong>, <em>Triage X</em>
+  <em>"Sesuatu yang lahir dari hal buruk itu adalah suatu hal yang imut. Melihat seseorang yang selalu terlihat sempurna itu tidak menarik."</em><br>
+  — <strong>Haruno Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
