@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika filosofi pendidikan di sekolah Anda menginjak-injak perasaan anak, tampaknya saya memilih sekolah yang salah."</em><br>
-  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
+  <em>"Kekalahan pertama memang menyakitkan, tapi karena itulah yang membuat game menyenangkan."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
