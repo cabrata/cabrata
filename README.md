@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah menjadi monster yang bahkan mengontrol emosi saja tidak bisa."</em><br>
-  — <strong>Acrobatic Sarasara</strong>, <em>Dandadan</em>
+  <em>"Terkadang kau harus menentang pendapat orang lain untuk menciptakan revolusi."</em><br>
+  — <strong>Sawako Tennouji</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
