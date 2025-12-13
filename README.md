@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Gaya hidupku adalah makan makanan favorit kapan pun yang aku mau."</em><br>
-  — <strong>Anna Yamada</strong>, <em>Boku no Kokoro no Yabai Yatsu</em>
+  <em>"Aku (orang yang) lemah, bodoh, punya tatapan mata yang jelek dan tak bisa membaca situasi. Tapi aku tetap menjalani hidupku tanpa mempedulikan penilaian orang terhadapku. Selama kita bisa saling bersandar satu sama lain dan terus melangkah maju, itu saja sudah cukup. Saling bergantung satu sama lain sambil tertawa bersama..., mari kita membicarakan hari esok untuk masa depan (bersama)."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
