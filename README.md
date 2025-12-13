@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada banyak hal yang takkan berubah meski kita memikirkannya."</em><br>
-  — <strong>Ichiko Rokujou</strong>, <em>Kakushigoto</em>
+  <em>"Kita harus membunuh, demi kebaikan yang lebih besar."</em><br>
+  — <strong>Aiguille</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
