@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang cerdas bersinar lebih terang dari orang biasa. Mereka tidak pernah menyesali atau tersiksa atas perbuatan mereka sendiri."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Pekerjaan seorang detektif itu bukan untuk melumpuhkan orang yang seharusnya dilumpuhkan. Tetapi, menyelamatkan orang yang seharusnya diselamatkan."</em><br>
+  — <strong>Shinya Kougami</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
