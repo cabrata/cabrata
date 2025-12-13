@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika berada di dalam pertarungan, jangan lengah sampai akhir! Mereka yang lengah pasti akan mati terlebih dahulu."</em><br>
-  — <strong>Izuminokami Kanesada</strong>, <em>Katsugeki/Touken Ranbu</em>
+  <em>"Bagi seorang pria lemah yang ingin mengalahkan seorang jenius, maka ia harus menjadi iblis."</em><br>
+  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
