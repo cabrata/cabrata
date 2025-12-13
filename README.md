@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah impian kita menjadi nyata, maukah kau menikah denganku?"</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Seperti halnya hompimpa, batu tak dapat mengalahkan kertas. Kertas tak dapat mengalahkan gunting. Dan gunting tak dapat mengalahkan batu. Itulah istilah yang menggambarkan hubunganmu dengan Omekata. Kemampuan untuk melarikan diri, tak sepadan dengan kemampuan yang dapat mengikat apapun dalam jarak jauh."</em><br>
+  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
