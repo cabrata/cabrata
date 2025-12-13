@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan seorang detektif itu bukan untuk melumpuhkan orang yang seharusnya dilumpuhkan. Tetapi, menyelamatkan orang yang seharusnya diselamatkan."</em><br>
-  — <strong>Shinya Kougami</strong>, <em>Psycho-Pass</em>
+  <em>"Manusia pasti membuat kebohongan, tapi aku percaya padamu."</em><br>
+  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
