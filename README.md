@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunci keberhasilan dari sebuah negosiasi adalah persiapan yang telah kau rencanakan sebelumnya. Ketahuilah keinginan lawanmu, dan buat dia terbuai dengan keinginannya. Dan kesalahan terbesarmu adalah karena kau hanya memikirkan keinginanmu sendiri."</em><br>
-  — <strong>Anastasia Hoshin</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kakekku selalu mengajariku agar dapat memaafkan kesalahan orang lain."</em><br>
+  — <strong>Touya Mochizuki</strong>, <em>Isekai wa Smartphone to Tomo ni.</em>
 </div>
 <!-- QUOTE END -->
 
