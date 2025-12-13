@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak tahan jauh darimu. Aku cemas jika kau tak ada (disampingku)."</em><br>
-  — <strong>Misaki Kamiigusa</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Kalau masih ada jalan untuk mundur itu namanya bukan perjalanan. Saat kau berada di titik dimana kau tak bisa kembali, saat itulah perjalananmu dimulai."</em><br>
+  — <strong>Hinata Miyake</strong>, <em>Sora yori mo Tooi Basho</em>
 </div>
 <!-- QUOTE END -->
 
