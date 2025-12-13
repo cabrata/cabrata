@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin melindungi waktuku bersamamu. Itu satu-satunya yang berarti bagiku."</em><br>
-  — <strong>Sakura Matou</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
+  <em>"Tingkatkan kekuatanmu dengan bekerjasama dengan yang lainnya. Dan terus kembangkan kemampuanmu."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
