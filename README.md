@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kau memiliki orang yang kau cintai, kau akan menjadi lebih kuat. Berkat Tetsurou, aku juga sudah berubah. Paling tidak aku sudah mencoba untuk menjadi lebih berani dan lebih kuat."</em><br>
-  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Akan aku beri tahu sesuatu hal yang bagus...
+Cara agar tidak kalah adalah dengan tidak bertanding."</em><br>
+  — <strong>Manabu Sakuma</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
