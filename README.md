@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masa-masa menjadi pelajar sekolah itu singkat. Kau tidak bisa memutar kembali atau pun mengeditnya seperti film. Kau harus mengatakan hal yang ingin kau katakan. Karena ketika semua berakhir dan kau menyesalinya, itu sudah terlambat."</em><br>
-  — <strong>Saku Akechi</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
+  <em>"Idol tidak akan membiarkan apapun menjatuhkan mereka!"</em><br>
+  — <strong>Naka</strong>, <em>Kantai Collection: KanColle</em>
 </div>
 <!-- QUOTE END -->
 
