@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Idol tidak akan membiarkan apapun menjatuhkan mereka!"</em><br>
-  — <strong>Naka</strong>, <em>Kantai Collection: KanColle</em>
+  <em>"Jangan berpaling! Lihat ke depan! Tegakkan kepalamu! Saat ini, lakukan apa yang harus kau lakukan sebagai Master!"</em><br>
+  — <strong>Olga Marie Animusphere</strong>, <em>Fate/Grand Order: First Order</em>
 </div>
 <!-- QUOTE END -->
 
