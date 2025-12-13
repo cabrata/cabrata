@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin kau akan gagal. Mungkin juga mereka akan menolakmu. Meskipun begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Aku benci menjadi pusat perhatian. Tapi aku lebih benci berhutang budi pada orang lain."</em><br>
+  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan</em>
 </div>
 <!-- QUOTE END -->
 
