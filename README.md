@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti halnya hompimpa, batu tak dapat mengalahkan kertas. Kertas tak dapat mengalahkan gunting. Dan gunting tak dapat mengalahkan batu. Itulah istilah yang menggambarkan hubunganmu dengan Omekata. Kemampuan untuk melarikan diri, tak sepadan dengan kemampuan yang dapat mengikat apapun dalam jarak jauh."</em><br>
-  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
+  <em>"Mungkin kau akan gagal. Mungkin juga mereka akan menolakmu. Meskipun begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
