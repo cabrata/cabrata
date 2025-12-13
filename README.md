@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kupikir kalau aku hidup dengan jujur pada diriku sendiri, aku tak akan punya penyesalan. Tapi ternyata itu salah..."</em><br>
-  — <strong>Hime Onizuka</strong>, <em>Sket Dance</em>
+  <em>"Aku sedih melihat orang yang berambisi besar senang karena hal kecil."</em><br>
+  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
