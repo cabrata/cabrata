@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus membunuh, demi kebaikan yang lebih besar."</em><br>
-  — <strong>Aiguille</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Mana mungkin ada hal yang lebih berharga daripada pacar."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
