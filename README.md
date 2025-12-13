@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejarah adalah bukti bahwa manusia hidup. Bukti bahwa manusia hidup dengan batas kemampuan mereka."</em><br>
-  — <strong>Takahito Hida</strong>, <em>Katanagatari</em>
+  <em>"Aku ingin melindungi waktuku bersamamu. Itu satu-satunya yang berarti bagiku."</em><br>
+  — <strong>Sakura Matou</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
