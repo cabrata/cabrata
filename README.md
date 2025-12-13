@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senyumlah saat sedang dalam masalah."</em><br>
-  — <strong>Canaria Utara</strong>, <em>Qualidea Code</em>
+  <em>"Kau orangnya baik. Kau selalu mengajarkanku hal-hal baru. Terima kasih untuk semuanya. Jika tidak keberatan, tetaplah bersamaku selamanya."</em><br>
+  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
