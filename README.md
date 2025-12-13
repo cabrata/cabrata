@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang punya hal yang tak ingin diketahui siapapun, hal yang lebih baik tidak diketahui, dan ada pula hal pada diri sendiri yang tidak ingin diingat."</em><br>
-  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect</em>
+  <em>"Mencoba mendapatkan semua hal yang terbaik adalah prinsip keadilanku."</em><br>
+  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
