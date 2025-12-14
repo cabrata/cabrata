@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhentilah berkecil hati gara-gara kesalahpahaman."</em><br>
-  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Kalau kau memang menginginkannya, terkadang kau harus melawan, tak peduli siapapun lawannya."</em><br>
+  — <strong>Kae Serinuma</strong>, <em>Watashi ga Motete Dousunda</em>
 </div>
 <!-- QUOTE END -->
 
