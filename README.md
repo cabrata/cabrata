@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan lari lagi...
-Jangan pergi ke tempat yang tidak bisa kucapai.
-Bersamalah denganku selamanya..."</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Aku akan jadi juara pertama lagi supaya ibu bisa cepat sembuh."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
