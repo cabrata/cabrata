@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau terjebak di suatu lubang yang begitu dalam dan tak bisa keluar, maka aku akan masuk ke lubang yang sama denganmu untuk menyelamatkanmu."</em><br>
-  — <strong>Masaomi Kida</strong>, <em>Durarara!!x2 Ten</em>
+  <em>"Pengeringan luka pada sisi yang terinfeksi adalah obat paling efektif.
+Tapi karena dia busuknya sampai ke inti, kalau kau terus mengeringkan lukanya, mungkin takkan ada lagi yang tersisa."</em><br>
+  — <strong>Chiriko Tsurumi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
