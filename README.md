@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebahagiaan adalah sesuatu yang hanya dapat dirasakan oleh diri sendiri dan tidak dapat dirasakan oleh orang lain. Memilihkan dan memutuskan kebahagiaan seseorang adalah tindakan egois."</em><br>
-  — <strong>Rhantolk Ytri Historia</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
+  <em>"Aku tidak akan melakukan jika memang tidak harus melakukannya, dan jika harus melakukannya maka akan aku selesaikan dengan cepat."</em><br>
+  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
