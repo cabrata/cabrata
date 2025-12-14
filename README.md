@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia pasti membuat kebohongan, tapi aku percaya padamu."</em><br>
-  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Adik perempuan adalah makhluk buas tercantik di dunia."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
