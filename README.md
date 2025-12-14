@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Barang jadul tak akan berguna saat dibutuhkan dengan segera."</em><br>
-  — <strong>Minosuke</strong>, <em>Ojiisan no Lamp</em>
+  <em>"Seorang seniman harus selalu mengungkapkan apa yang dipikirkannya dan bergelut dengan akal sehatnya."</em><br>
+  — <strong>Hiromichi Kudou</strong>, <em>Photokano</em>
 </div>
 <!-- QUOTE END -->
 
