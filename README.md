@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Harapan yang tak berdasar hanyalah sebuah khayalan."</em><br>
-  — <strong>William Orville</strong>, <em>Toaru Majutsu no Index III</em>
+  <em>"Imajinasi adalah senjata. Orang yang tak memilikinya akan mati."</em><br>
+  — <strong>Goblin Slayer</strong>, <em>Goblin Slayer</em>
 </div>
 <!-- QUOTE END -->
 
