@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Debar hatiku ini... menggelitik dan terasa menyenangkan.
-Kuharap besok segera tiba. Aku ingin segera melihat wajahnya."</em><br>
-  — <strong>Ai Nanasaki</strong>, <em>Amagami SS</em>
+  <em>"Aku mempercayai kekuatanmu, kata-katamu dan senyummu."</em><br>
+  — <strong>Minato Sahashi</strong>, <em>Sekirei</em>
 </div>
 <!-- QUOTE END -->
 
