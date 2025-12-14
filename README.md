@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi kami, selama di situ ada guru, entah itu di sawah atau pun di lapangan, itu adalah sekolah (tempat untuk belajar)."</em><br>
-  — <strong>Kotarou Katsura</strong>, <em>Gintama°</em>
+  <em>"Aku yakin aku akan cerewet dan khawatir dengan setiap hal kecil (yang terjadi pada anak yang ku asuh). Mungkin kami semua (semua orang tua) begitu."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
