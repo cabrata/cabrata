@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku yakin aku akan cerewet dan khawatir dengan setiap hal kecil (yang terjadi pada anak yang ku asuh). Mungkin kami semua (semua orang tua) begitu."</em><br>
-  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
+  <em>"Kalau kau hanya duduk di kursi kehormatan, kau tidak akan bisa melihat apapun."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
