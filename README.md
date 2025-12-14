@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat memang penting, tapi aku (lebih) cemburu dengan orang yang punya tujuan hidup."</em><br>
-  — <strong>Atomu Kai</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Dia takkan membiarkan apapun menghalanginya setelah dia menemukan hal yang paling diinginkannya, hal yang menurutnya paling menarik dia akan mengejar hal itu tanpa ragu. Itu adalah hal yang hanya bisa dilakukan oleh Honoka."</em><br>
+  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
