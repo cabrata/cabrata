@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa erat ikatanmu dengan orang lain, waktu akan memisahkanmu dengan mereka."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Nisemonogatari</em>
+  <em>"Jangan lengah. Kalau segalanya berjalan mulus, kamu akan mudah tersandung."</em><br>
+  — <strong>Muzan Kibutsuji</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
 </div>
 <!-- QUOTE END -->
 
