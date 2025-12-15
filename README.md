@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia takkan membiarkan apapun menghalanginya setelah dia menemukan hal yang paling diinginkannya, hal yang menurutnya paling menarik dia akan mengejar hal itu tanpa ragu. Itu adalah hal yang hanya bisa dilakukan oleh Honoka."</em><br>
-  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Karena aku tak memiliki harta sama sekali, yang bisa aku berikan hanyalah waktu, perasaan, masa depan, kehidupan dan hal-hal samar lainnya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
