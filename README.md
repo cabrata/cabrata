@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak boleh bilang "hidup sendiri" ketika banyak orang yang mengkhawatirkan dirimu."</em><br>
-  — <strong>Akari Kawamoto</strong>, <em>3-gatsu no Lion</em>
+  <em>"Tak mungkin aku bisa pulang duluan dan meninggalkan gadis yang sedang menangis sendirian. Meskipun aku tak bisa menggendongmu (layaknya seorang pangeran), tapi setidaknya aku bisa meminjamkan bahuku untukmu."</em><br>
+  — <strong>Kazuomi Ooga</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
