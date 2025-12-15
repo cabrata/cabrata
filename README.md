@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika peringkat (dalam pertandingan) membuatmu khawatir. (Tenang saja) kau sudah mendapatkan peringkat pertama di dalam hatiku."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Kau tak boleh bilang "hidup sendiri" ketika banyak orang yang mengkhawatirkan dirimu."</em><br>
+  — <strong>Akari Kawamoto</strong>, <em>3-gatsu no Lion</em>
 </div>
 <!-- QUOTE END -->
 
