@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak ingin memperihatkan sisi bodohku. Kalau mau memperlihatkan, tentu harus memperlihatkan sisi kerenku."</em><br>
-  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Kerajaan Lugnica bukanlah milik sang Naga! Tapi milik kita semua!"</em><br>
+  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
