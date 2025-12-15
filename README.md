@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin membuat negeri dimana orang-orang yang kucintai bisa hidup tanpa kebencian."</em><br>
-  — <strong>Lux Acadia</strong>, <em>Saijaku Muhai no Bahamut</em>
+  <em>"Aku tidak peduli! Selama aku bisa terus bersama dengan dirimu, bagiku sudah cukup. Tidak, bahkan itulah yang aku inginkan!"</em><br>
+  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
