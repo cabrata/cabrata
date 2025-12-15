@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita adalah makhluk yang siap tempur."</em><br>
-  — <strong>Yuriko Ochiai</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kesenangan takkan pernah berlangsung lama. Begitulah kehidupan."</em><br>
+  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
 </div>
 <!-- QUOTE END -->
 
