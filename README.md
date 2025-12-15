@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seekor ikan, baik yang tinggal di air jernih atau kotor, selama ikan itu terus berenang ke depan, dia akan tumbuh dengan indah."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Tautologi. "Dengan kesetiaan yang mumpuni, kau bahkan bisa menuhankan kepala sarden."
+Ini adalah pemahaman mendalam, tapi tidak berbeda dari kepercayaan baru.
+Pendapat mereka hanya tertinggal, sementara mereka meninggalkan kelompok mereka (yang berpikiran berbeda)."</em><br>
+  — <strong>Miyoshi</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
