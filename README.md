@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan aku beri tahu sesuatu hal yang bagus...
-Cara agar tidak kalah adalah dengan tidak bertanding."</em><br>
-  — <strong>Manabu Sakuma</strong>, <em>Ping Pong The Animation</em>
+  <em>"Jika tak punya impian, kau tidak berguna."</em><br>
+  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
