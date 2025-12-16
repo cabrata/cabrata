@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua laki-laki itu bodoh dan cemburuan.
-Begitu pula para perempuan bodoh yang bahagia ketika melihat laki-laki sedang cemburu."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"Kecantikan seorang makhluk itu akan terlihat indah saat mereka masih alami."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
