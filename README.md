@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia sudah ditakdirkan mengecap rasa enak, wajar jika mereka mencari yang sesuai dengan seleranya!"</em><br>
-  — <strong>Zero</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
+  <em>"Selama jantungmu masih berdetak, kau berhak untuk tetap hidup dan mewujudkan keinginanmu."</em><br>
+  — <strong>Kuro no Rider</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
