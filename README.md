@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini berlaku hukum rimba. Yang kuat dapat menyelamatkan atau membunuh yang lemah."</em><br>
-  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Pandangan yang sempit adalah musuh idealisme dan kecerdasan."</em><br>
+  — <strong>Eiha Kudou</strong>, <em>Gimai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
