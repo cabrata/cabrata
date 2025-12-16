@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia senang menyakiti orang lain ketika mereka tidak bisa menyakiti diri sendiri."</em><br>
-  — <strong>Yozora Mikazuki</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
+  <em>"Hanya karena tidak meminta tolong bukan berarti tidak ingin ditolong.
+Hanya karena dia tidak bilang cinta bukan berarti dia tidak mencintaimu.
+Siapapun punya hal yang tak bisa dikatakan walaupun ingin mengatakannya."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Nekomonogatari: Kuro</em>
 </div>
 <!-- QUOTE END -->
 
