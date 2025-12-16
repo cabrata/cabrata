@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam permainan (judi) aku benci situasi ketika mengetahui aku pasti menang atau pasti kalah."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Kita semua hanyalah manusia. Kadang, kita berbuat salah.
+Hanya saja, jangan berbuat kesalahan saat nyawa taruhannya."</em><br>
+  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
