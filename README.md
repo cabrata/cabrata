@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, pemain di seusiamu masih bisa memaksakan diri untuk berjuang. Tapi, jikalau ingin jadi juara dunia, kau juga harus berani mengibarkan bendera putih."</em><br>
-  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
+  <em>"Aku tak tahan dengan wanita yang mengistimewakan gendernya sendiri, dan mengatai laki-laki "bencong" karena ia tak sesuai dengan yang diharapkannya!"</em><br>
+  — <strong>Kazuma Satou</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
