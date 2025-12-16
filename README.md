@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Impianku sederhana. Aku hanya ingin terus mencintai orang yang kucintai dan terus bersamanya."</em><br>
-  — <strong>Shinra Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Dunia di luar dipenuhi dengan kotoran. Orang yang kubenci. Orang yang menghalangi jalanku. Pembohong. Orang kotor. Aku harus memusnahkan semuanya."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
