@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencari majalah P*o di kamar anak laki-laki adalah bagian dari jati diri orang Jepang."</em><br>
-  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
+  <em>""Berbuatlah demi orang lain. Korbankan diri sendiri demi itu". Aku dibesarkan dengan (memegang) prinsip seperti itu."</em><br>
+  — <strong>Tsukasa Jinguuji</strong>, <em>Fantasy Bishoujo Juniku Ojisan to</em>
 </div>
 <!-- QUOTE END -->
 
