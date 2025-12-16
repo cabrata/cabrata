@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berbeda denganmu, aku tidak membuat keputusan berdasarkan perasaanku. Mencampurkan cinta dengan pekerjaan adalah ide yang buruk. Begitu kau membuat keputusan, membiarkan perasaanmu pada seseorang mempengaruhi pekerjaanmu itu tidak bisa dibiarkan."</em><br>
-  — <strong>Minko Tsurugi</strong>, <em>Hanasaku Iroha</em>
+  <em>"Jika kau memanfaatkan waktumu dengan baik dan menghadapinya, serta mengungkapkan perasaanmu melewati kata-katamu, dia (Emilia) pasti bisa mengerti. Kau adalah orang yang hebat."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
