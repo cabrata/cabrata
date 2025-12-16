@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seluruh tubuhku telah berlumuran darah. Karena aku, puluhan ribu orang telah kehilangan nyawanya. Aku tak pantas hidup bahagia."</em><br>
-  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
+  <em>"Berbeda denganmu, aku tidak membuat keputusan berdasarkan perasaanku. Mencampurkan cinta dengan pekerjaan adalah ide yang buruk. Begitu kau membuat keputusan, membiarkan perasaanmu pada seseorang mempengaruhi pekerjaanmu itu tidak bisa dibiarkan."</em><br>
+  — <strong>Minko Tsurugi</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
