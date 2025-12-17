@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bismarck mengatakan, "Hanya orang bodoh yang belajar dari kesalahan diri sendiri. Orang bijak, belajar dari kesalahan orang lain"."</em><br>
-  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Kita memasak karena ingin membuat senang siapapun yang memakannya. Kita senang kalau ada yang bilang enak. Itulah kenapa aku senang memasak, dan merasa ingin terus memasak. Sekarang siapa yang mau bilang, apa yang kau buat itu enak?!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
