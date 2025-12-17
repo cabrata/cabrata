@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap jomblo yang punya hewan peliharaan pasti merasakan kebahagiaan palsu"</em><br>
-  — <strong>Mayumi Nishikino</strong>, <em>Bokura wa Minna Kawaisou</em>
+  <em>"Kamu harus berterima kasih kepada orang yang mengembalikan barangmu."</em><br>
+  — <strong>Yotsuba Nakano</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
