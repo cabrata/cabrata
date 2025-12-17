@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau memang merasa khawatir, peganglah tanganku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Entah menang atau kalah itu bukan masalah. Karena bekerja keras menuju tujuan itu sangat menyenangkan.
+Tapi jangan salah, meskipun aku bilang begitu. Aku tidak berniat untuk kalah."</em><br>
+  — <strong>Teppei Kiyoshi</strong>, <em>Kuroko no Basket 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
