@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melarikan diri! Jangan putus asa sebelum mencoba."</em><br>
-  — <strong>Yuzu Kichougasaki</strong>, <em>Renai Boukun</em>
+  <em>"Kamu gak akan bisa jadi seorang pelukis tanpa mencintai gambarmu sendiri."</em><br>
+  — <strong>Subaru Uchimaki</strong>, <em>Kono Bijutsubu ni wa Mondai ga Aru!</em>
 </div>
 <!-- QUOTE END -->
 
