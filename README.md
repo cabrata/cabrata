@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Musik itu sangat hangat dan benar-benar memancarkan kebaikan. Aku ingin selalu mendengarnya, aku ingin mendengar musik itu dimainkan olehmu!"</em><br>
-  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Apapun yang kau lakukan ataupun kau berubah, itu tidaklah penting. Lagipula, kau tetaplah kau."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
