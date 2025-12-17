@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu harus berterima kasih kepada orang yang mengembalikan barangmu."</em><br>
-  — <strong>Yotsuba Nakano</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Pedansa adalah makhluk yang suka menjadi pusat perhatian."</em><br>
+  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
 </div>
 <!-- QUOTE END -->
 
