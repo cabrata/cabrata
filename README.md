@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memasak karena ingin membuat senang siapapun yang memakannya. Kita senang kalau ada yang bilang enak. Itulah kenapa aku senang memasak, dan merasa ingin terus memasak. Sekarang siapa yang mau bilang, apa yang kau buat itu enak?!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Keberuntungan adalah sebuah bakat juga!"</em><br>
+  — <strong>Mio Honda</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
