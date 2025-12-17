@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci orang jenius. Mereka tidak punya keindahan dari hasil usaha dan jerih payah."</em><br>
-  — <strong>Lügner</strong>, <em>Sousou no Frieren</em>
+  <em>"Kalau kau memang merasa khawatir, peganglah tanganku."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
