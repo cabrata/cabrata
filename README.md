@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sepotong sisa harapan, pertanda keinginan yang samar akan lahir dari keputusasaan."</em><br>
-  — <strong>C.C.</strong>, <em>Code Geass: Hangyaku no Lelouch</em>
+  <em>"Aku benci bocah yang hanya jago bicara saja !"</em><br>
+  — <strong>Fumio Daimidou</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
