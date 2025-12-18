@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi seorang pria, ada kalanya memukul seseorang itu rasanya lebih sakit daripada terkena pukulan."</em><br>
-  — <strong>Tooru Asagiri</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
+  <em>"Setiap aturan kecil yang kalian patuhi pasti akan (berperan penting) melindungi kotamu."</em><br>
+  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
