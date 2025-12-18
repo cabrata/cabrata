@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau sangat menyukai ayahku bukan? Itulah mengapa kau sedih saat dia mati. Aku pun demikian, ayo kita berteman."</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Ada banyak hal yang memiliki nilai karena hal tersebut tidak berguna."</em><br>
+  — <strong>Shoutarou Tatewaki</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
