@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau merasa malu untuk membantunya, tinggal bantu saja mereka di jalan yang tak bisa mereka lihat."</em><br>
-  — <strong>Nozomi Toujou</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Mendekatlah. Aku akan membisikkannya padamu, jadi dengarkan baik-baik.
+Aku mencintaimu. Aku ingin kau melihat dunia di luar sana, dan aku ingin kau bersamaku."</em><br>
+  — <strong>Jun Satou</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
