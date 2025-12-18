@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sadar kehidupan nanti tidak akan selalu menyenangkan. Dan tidak semuanya akan berjalan sesuai dengan yang kubayangkan."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Sepotong sisa harapan, pertanda keinginan yang samar akan lahir dari keputusasaan."</em><br>
+  — <strong>C.C.</strong>, <em>Code Geass: Hangyaku no Lelouch</em>
 </div>
 <!-- QUOTE END -->
 
