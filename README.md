@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Hidup itu seperti membuat origami)Dalam origami dengan membuat lipatan-lipatan, jika pembentukan terakhir berjalan dengan lancar hasilnya akan sangat indah. Kau membuat lipatan, lalu mengembalikan lipatan seperti semula dan membuat lipatan lainnya. Mungkin rasanya seperti mengulangi hal yang sama terus-menerus dan tak ada hasil apapun. Tapi aku yakin pengalaman itu, lipatan-lipatan itu akan menjadi sebuah origami yang indah yang hanya bisa dibuat olehmu."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Kalau tidak mampu, dari awal bilang saja tidak mampu. Ada saatnya kita bergantung pada orang lain. Ketika kau bisa meminta bantuan pada orang sekitarmu dengan terbuka, semua permasalahan bisa diatasi. Itulah sesuatu yang aku pelajari di game online."</em><br>
+  — <strong>Hideki Nishimura</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
