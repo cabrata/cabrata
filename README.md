@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mendekatlah. Aku akan membisikkannya padamu, jadi dengarkan baik-baik.
-Aku mencintaimu. Aku ingin kau melihat dunia di luar sana, dan aku ingin kau bersamaku."</em><br>
-  — <strong>Jun Satou</strong>, <em>Working!!!</em>
+  <em>"Ayahku sangat keras terhadapku. Dia ingin agar aku hanya memiliki latar belakang pendidikan yang bagus dan prestasi yang bagus. Aku ingin lepas dari itu semua. Jadi aku melepaskan seragam sekolahku dan merubah penampilanku, dimana banyak orang yang tak mengenalku. Aku bodoh, kan? Karena hanya bermain-main, kelas yang kudapatkan adalah kelas E. (Sekarang) aku tak tahu lagi kemana aku harus melangkah."</em><br>
+  — <strong>Yukiko Kanzaki</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
