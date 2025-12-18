@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku menjadi school idol karena kalian berdua, dan bisa sampai disini karena kalian terus menungguku."</em><br>
-  — <strong>Mari Ohara</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Pemandangan yang kau lihat dari tempat tinggi akan terlihat sangat menakjubkan, tak peduli walau pemandangannya biasa saja."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
