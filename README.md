@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bukannya menginginkan dunia yang bebas dari pertempuran. Aku hanya tidak ingin ada yang menangis di dunia ini."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"(Semua) alasan selalu sederhana. Kita hidup di dunia yang sangat sederhana. Di mana saat kita menarik pelatuk, musuh pun akan mati."</em><br>
+  — <strong>Riza Hawkeye</strong>, <em>Fullmetal Alchemist: Brotherhood Specials</em>
 </div>
 <!-- QUOTE END -->
 
