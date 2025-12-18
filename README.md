@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah kau ada di pihak yang membunuh atau di pihak yang menyelamatkan, apapun yang kau harapkan takkan muncul. Tak ada satu pun di dunia ini yang bisa mengisi lubang di hatimu. Kau akan berkelana di dalam kegelapan selamanya. (Meskipun begitu) berpihaklah pada mereka yang menyelamatkan orang-orang. Jika kedua pihak sama saja, maka jadilah orang baik. Selamatkan yang lemah dan lindungi anak-anak yatim piatu. Meski itu tak ada pengaruhnya padamu, tapi itu akan membuatmu jadi manusia yang lebih baik."</em><br>
-  — <strong>Sakunosuke Oda</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Aku ingin kau bahagia, karena itu aku tak ingin kau terluka lagi. Aku mencintaimu."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
