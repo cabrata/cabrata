@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau tidak mampu, dari awal bilang saja tidak mampu. Ada saatnya kita bergantung pada orang lain. Ketika kau bisa meminta bantuan pada orang sekitarmu dengan terbuka, semua permasalahan bisa diatasi. Itulah sesuatu yang aku pelajari di game online."</em><br>
-  — <strong>Hideki Nishimura</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Hujan dan badai takkan menghentikanku. Dan tentu saja, keinginan untuk bisa terus berada di tempat tidur takkan menghentikanku. Aku harus terus berusaha sebaik mungkin sebagai orang yang telah dewasa."</em><br>
+  — <strong>Aoba Suzukaze</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
