@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada manusia yang lahir karena keinginannya sendiri."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Mempelajari bahasa asing adalah sebuah siklus untuk mengatasi tantangan."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
