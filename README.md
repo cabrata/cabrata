@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencari majalah P*o di kamar anak laki-laki adalah bagian dari jati diri orang Jepang."</em><br>
-  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
+  <em>"Waktu berlalu dengan sangat cepat.
+Untuk saat ini... Aku ingin mengeluh pada Einstein.
+Nee... Okabe... Entah waktu cepat atau lambat...
+Semua itu bergantung pada pandangan kita.
+Teori relativitas itu benar-benar romantis dan juga sangat menyedihkan."</em><br>
+  — <strong>Kurisu Makise</strong>, <em>Steins;Gate</em>
 </div>
 <!-- QUOTE END -->
 
