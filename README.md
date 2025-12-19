@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti apapun cita-citamu, kau memang tetap harus belajar."</em><br>
-  — <strong>Madoka Takatori</strong>, <em>Shounen Maid</em>
+  <em>"Ketika ada sesuatu yang populer, itu artinya yang lainnya tidak populer."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
