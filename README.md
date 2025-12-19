@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pejudi itu orang terburuk."</em><br>
-  — <strong>Fern</strong>, <em>Sousou no Frieren</em>
+  <em>"Mengejar mimpi yang tak bisa digapai hanya akan menghancurkan diri sendiri."</em><br>
+  — <strong>Evileye</strong>, <em>Overlord II</em>
 </div>
 <!-- QUOTE END -->
 
