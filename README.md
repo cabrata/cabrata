@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mozart bilang, "Mulailah perjalananmu". Tak ada yang tahu kedepannya nanti akan seperti apa. Tapi, aku sudah mengambil satu langkah maju. (Meski begitu) kita baru memulai perjalanan kita. Aku sama sepertimu, seorang pemusik. Karena itulah aku melangkah maju."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Mengambil resiko itu hal yang membosankan. Tapi memiliki keuntungan besar juga membosankan."</em><br>
+  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
 </div>
 <!-- QUOTE END -->
 
