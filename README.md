@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku kebanggaan diri dan keserakahan juga penting.
-Jika seseorang tidak memiliki kebanggaan diri, dia jadi tak punya rasa percaya diri.
-Jika ada seseorang yang tidak memiliki rasa keserakahan, aku yakin dia pasti kesulitan untuk menafkahi keluarganya.
-Jika di dunia ini orang tidak saling iri dengan milik sesamanya, mungkin saja penemuan-penemuan baru tidak akan tercipta.
-Aku hanya berpikir kalau konsep "dosa besar" tidak dapat diterapkan begitu saja dalam kehidupan sehari-hari kita."</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Apa yang membuat kami memulai dari nol? Kami mengejar sesuatu yang tak berwujud, tersesat, ketakutan, menangis, kami ingin keluar dari zona nol itu. Dan dimana yang seharusnya tidak ada apa-apa, sebuah sinar terus bersinar di dalam hati kami. Dan keyakinan bahwa kesembilan dari kami bisa melakukan sesuatu yang istimewa karena dituntun oleh sinar cahaya itu. Dari situlah kami berasal, dimana Aqours berasal. Kami akan membuat kisah kami menjadi nyata! Dengan sinar cahaya ini!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
