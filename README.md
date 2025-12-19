@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu tidak bisa bahagia karena kamu tidak mau mencoba untuk bahagia. Tidak ada yang bisa membahagiakan seseorang yang bahkan dia tidak mau mencoba untuk bahagia."</em><br>
-  — <strong>Tsubasa Hanekawa</strong>, <em>Owarimonogatari</em>
+  <em>"Asalkan itu menarik, kebohongan juga tak masalah."</em><br>
+  — <strong>Manako Jouten</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
 </div>
 <!-- QUOTE END -->
 
