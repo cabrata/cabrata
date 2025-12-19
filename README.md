@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau tak bisa memilih salah satu, maka kau hanya perlu mencari pilihan lain untuk membuat dua pilihan itu tetap terjadi."</em><br>
-  — <strong>Kazuki Fujisawa</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Bukan masalah benci atau tidaknya. Ibuku adalah Ibuku, takkan pernah berubah. Apapun yang terjadi, dialah yang melahirkanku."</em><br>
+  — <strong>Asuka Tanaka</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
