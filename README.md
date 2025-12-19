@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus membuang tujuan demi tujuanmu.
-Ambisi, keinginan, dendam... Kau harus singkirkan semua tujuan itu demi tujuan sejatimu."</em><br>
-  — <strong>Rinne Higaki</strong>, <em>Katanagatari</em>
+  <em>"Terkadang orang jahat berbuat baik dan orang baik berbuat jahat. Itulah manusia, itulah kita."</em><br>
+  — <strong>Rider</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
