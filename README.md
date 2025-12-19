@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memakai alasan untuk lari akan membuatmu terlihat menyedihkan."</em><br>
-  — <strong>Hikari Takanashi</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Kalau sudah bertekad, lebih baik kita segera bertindak."</em><br>
+  — <strong>Enri Emmot</strong>, <em>Overlord III</em>
 </div>
 <!-- QUOTE END -->
 
