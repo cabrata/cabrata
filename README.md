@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh membenciku sebesar yang kau mau, setidaknya sebesar cintaku padamu sebelumnya."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Teman adalah kecap manis. Teman adalah penyedap rasa yang jauh lebih baik dari pada gula dan garam."</em><br>
+  — <strong>Nico Niiyama</strong>, <em>Kiznaiver</em>
 </div>
 <!-- QUOTE END -->
 
