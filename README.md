@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencita-citakan sesuatu yang tinggi adalah sesuatu yang penting, lebih tinggi lagi, lagi dan lagi."</em><br>
-  — <strong>Noboru Taki</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Menurutku kebanggaan diri dan keserakahan juga penting.
+Jika seseorang tidak memiliki kebanggaan diri, dia jadi tak punya rasa percaya diri.
+Jika ada seseorang yang tidak memiliki rasa keserakahan, aku yakin dia pasti kesulitan untuk menafkahi keluarganya.
+Jika di dunia ini orang tidak saling iri dengan milik sesamanya, mungkin saja penemuan-penemuan baru tidak akan tercipta.
+Aku hanya berpikir kalau konsep "dosa besar" tidak dapat diterapkan begitu saja dalam kehidupan sehari-hari kita."</em><br>
+  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
