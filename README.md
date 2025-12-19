@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada pertandingan yang tak bisa dimenangkan. Dan tak ada pertandingan yang pasti bisa dimenangkan."</em><br>
-  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Hal yang paling penting adalah melakukan apa yang ingin kau lakukan."</em><br>
+  — <strong>Rito Yuuki</strong>, <em>To LOVE-Ru Darkness</em>
 </div>
 <!-- QUOTE END -->
 
