@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau melihat ke bawah dari tempat setinggi ini, kota (jadi) terlihat kecil ya?
-Tapi, aku lahir disini, besar disini... dan jatuh cinta disini."</em><br>
-  — <strong>Kaoru Tanamachi</strong>, <em>Amagami SS</em>
+  <em>"(Karena) kalian lemah, itu berarti kalian masih punya kesempatan untuk berkembang. Tak ada yang lebih menyenangkan dari ini bukan?"</em><br>
+  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
