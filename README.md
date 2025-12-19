@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, tidak selamanya yang kita harapkan tercapai. Tapi hal yang mesti kita lakukan harus selalu dimulai dengan sebuah harapan."</em><br>
-  — <strong>Guy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Aku takkan pernah menjadi seorang Yakuza! Aku ingin lulus dari universitas yang terkenal, dan mendapatkan pekerjaan, dan berjalan santai sambil menengok keatas melihat matahari bersinar."</em><br>
+  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
