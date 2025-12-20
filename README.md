@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang yang bertindak melawan keinginannya sendiri menurutku orang yang menarik."</em><br>
-  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Manusia itu makhluk yang dangkal. Mereka hanya melihat (orang lain) berdasarkan gosip yang beredar di permukaan."</em><br>
+  — <strong>Becky Blackbell</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
