@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah sesuatu yang sangat akrab dengan ketidakadilan. Ada yang hidup dengan makmur, dan ada juga yang hidupnya sangat menderita."</em><br>
-  — <strong>Decim</strong>, <em>Death Parade</em>
+  <em>"(kenapa kamu suka dibuatkan patung?)Karena aku ingin orang-orang mengingatku. Berbeda denganmu (yang seorang elf), kami (manusia) tidak berumur panjang. Namun, mungkin alasan terbesarku agar kamu tidak sendirian di masa depan kelak. Keberadaan kita bukanlah dongeng, tapi benar-benar nyata."</em><br>
+  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
