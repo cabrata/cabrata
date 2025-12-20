@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihatnya bekerja keras untuk membenciku, entah mengapa agak menyenangkan."</em><br>
-  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Jika kita terus memikirkan apa yang orang lain harapkan, kita tak akan pernah tahu harus bagaimana karena terlalu banyak orang yang berharap pada diri kita. Bukankah lebih mudah jika hanya memikirkan apa yang kita harapkan pada diri sendiri.
+Selanjutnya tinggal berdoa."</em><br>
+  — <strong>Izumi Sakurai</strong>, <em>Nichijou</em>
 </div>
 <!-- QUOTE END -->
 
