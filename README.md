@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak butuh alasan untuk berdiri di puncak. Aku hanya ingin memandang jauh ke depan."</em><br>
-  — <strong>Medaka Kurokami</strong>, <em>Medaka Box</em>
+  <em>"Hal yang paling penting adalah melakukan apa yang ingin kau lakukan."</em><br>
+  — <strong>Rito Yuuki</strong>, <em>To LOVE-Ru Darkness</em>
 </div>
 <!-- QUOTE END -->
 
