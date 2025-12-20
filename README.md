@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengarlah, Rin. Kalau terus begini, kau akan selalu sendirian. Gunakanlah kekuatanmu untuk orang lain, untuk tujuan yang lebih mulia. Aku ingin kau menjadi laki-laki yang keren dengan banyak teman, dan disukai oleh para gadis!"</em><br>
-  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist</em>
+  <em>"Aku bersyukur bisa bertemu denganmu. Kamu telah menyembuhkan lukaku, kamu memberi makanan hangat untukku, kamu telah memberi tujuan hidup untukku."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
