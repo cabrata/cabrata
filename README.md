@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang tahu keputusan yang mana yang tepat bagi hidup mereka, dan itu kenapa aku membuat keputusan(ku) ini.
-Juga aku tidak setuju denganmu akan satu hal, seirin tidak lemah."</em><br>
+  <em>"Kemungkinan menang hanyalah 0% saat semua pemain menyerah.
+Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
+Itulah sebabnya aku tidak akan menyerah!"</em><br>
   — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
