@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pajak Kebahagiaan. Semua hal yang mendatangkan kebahagiaan itu pasti kena pajak."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Kemungkinan menang hanyalah 0% saat semua pemain menyerah.
+Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
+Itulah sebabnya aku tidak akan menyerah!"</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
