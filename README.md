@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kemungkinan menang hanyalah 0% saat semua pemain menyerah.
-Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
-Itulah sebabnya aku tidak akan menyerah!"</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Yang bermain lebih agresif itu jauh lebih diuntungkan."</em><br>
+  — <strong>Makoto Shimada</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
