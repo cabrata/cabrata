@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bila kau pikir bisa membuahkan hasil hanya dengan bekerja keras, berarti kau bodoh."</em><br>
-  — <strong>Tomitte</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
+  <em>"Aku ingin menyerap pengetahuan dan teknik memasak sebanyak mungkin, dan terus bertarung di Akademi. Aku ingin terus mengeluarkan seluruh kemampuanku."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
