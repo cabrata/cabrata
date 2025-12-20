@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kurasa semua orang ingin tahu apa yang tak mereka mengerti. (Mekipun) terkadang kebenaran itu dapat menyakiti seseorang."</em><br>
-  — <strong>Shinjirou Kusakabe</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
+  <em>"Kunang-kunang hidupnya sangat singkat dan lemah, tapi dia bersinar dengan terang. Dag dig dug, seperti jantung yang berdetak. Ini adalah cahaya kehidupan."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
