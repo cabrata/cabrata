@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kaulah yang telah mengajarkanku tentang hal yang terpenting, keberanian untuk maju, tak takut akan perubahan. Saat itu, tanganmu telah menyelamatkanku."</em><br>
-  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Menyedihkan sekali. Memikirkan hal lain disaat pertandingan, apa kau meremehkan lawanmu?
+Ini adalah pertarungan. Jika kau terjebak dalam drama yang (menurutmu) lebih penting, jangan buang waktumu dipertandingan ini."</em><br>
+  — <strong>Yuuri Himemiya</strong>, <em>Prince of Stride: Alternative</em>
 </div>
 <!-- QUOTE END -->
 
