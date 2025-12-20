@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(kenapa kamu suka dibuatkan patung?)Karena aku ingin orang-orang mengingatku. Berbeda denganmu (yang seorang elf), kami (manusia) tidak berumur panjang. Namun, mungkin alasan terbesarku agar kamu tidak sendirian di masa depan kelak. Keberadaan kita bukanlah dongeng, tapi benar-benar nyata."</em><br>
-  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
+  <em>"Jika aku terlalu mudah puas dan lengah meski hanya sekali saja, aku akan terjatuh (mulai) dari sini."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
