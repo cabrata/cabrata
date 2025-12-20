@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat-saat sulit ia selalu ada untuk membantuku. Cowok SMA memang yang terbaik."</em><br>
-  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Semua orang diciptakan berbeda!"</em><br>
+  — <strong>Izuku Midoriya</strong>, <em>Boku no Hero Academia</em>
 </div>
 <!-- QUOTE END -->
 
