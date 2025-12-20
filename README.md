@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Kenapa kamu menolong orang-orang?).Mungkin karena demi diriku sendiri. Meskipun hanya sedikit, aku ingin orang-orang mengingatku."</em><br>
-  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
+  <em>"Daripada khawatir dengan karakter gadis idaman di dunia game, lebih baik mengkhawatirkan kehidupan nyatamu."</em><br>
+  — <strong>Tasuku Uehara</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
