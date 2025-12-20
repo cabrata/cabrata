@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakekku selalu mengajariku agar dapat memaafkan kesalahan orang lain."</em><br>
-  — <strong>Touya Mochizuki</strong>, <em>Isekai wa Smartphone to Tomo ni.</em>
+  <em>"Mereka bilang dunia akan berubah jika kau berubah, tapi itu bohong.
+Mereka hanya memaksamu untuk berkompromi dengan berbohong."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
