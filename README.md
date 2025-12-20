@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu makhluk yang dangkal. Mereka hanya melihat (orang lain) berdasarkan gosip yang beredar di permukaan."</em><br>
-  — <strong>Becky Blackbell</strong>, <em>Spy x Family</em>
+  <em>"Kakekku selalu mengajariku agar dapat memaafkan kesalahan orang lain."</em><br>
+  — <strong>Touya Mochizuki</strong>, <em>Isekai wa Smartphone to Tomo ni.</em>
 </div>
 <!-- QUOTE END -->
 
