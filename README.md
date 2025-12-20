@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku terlalu mudah puas dan lengah meski hanya sekali saja, aku akan terjatuh (mulai) dari sini."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Cinta itu seperti bela diri! Menyerang adalah pertahanan terbaik"</em><br>
+  — <strong>Kozue Takanashi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
