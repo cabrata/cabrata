@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin tinggi tujuan yang ingin dia capai, maka rintangan yang dilaluinya akan semakin besar."</em><br>
-  — <strong>Tanji Washijou</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Kita para manusia adalah makhluk yang menyedihkan. Kita menolak setiap hal yang kita takuti. Kita menyerah karena kita tidak mengerti. Sifat pengecut manusia telah melahirkan peperangan."</em><br>
+  — <strong>Biba Amatori</strong>, <em>Koutetsujou no Kabaneri</em>
 </div>
 <!-- QUOTE END -->
 
