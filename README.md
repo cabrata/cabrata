@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Latihan itu penting. Dan jika semakin mahir, maka akan semaki seru juga. Makanya kita harus berjuang!"</em><br>
-  — <strong>Uzuki Shimamura</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Perpisahan itu memang menyedihkan, tapi itu tidak berarti bahwa kita takkan bertemu lagi."</em><br>
+  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
 </div>
 <!-- QUOTE END -->
 
