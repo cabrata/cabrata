@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta adalah kekonyolan dan tak ada gunanya jika dibandingkan dengan belajar."</em><br>
-  — <strong>Fuutarou Uesugi</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Setiap jomblo yang punya hewan peliharaan pasti merasakan kebahagiaan palsu"</em><br>
+  — <strong>Mayumi Nishikino</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
