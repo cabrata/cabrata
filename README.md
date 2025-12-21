@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di Tootsuki, semua orang menunjukkan apakah dia layak atau tidak dengan kemampuannya sendiri. Apakah kau layak untuk tetap bertahan atau tidak, itu bergantung pada dirimu sendiri!"</em><br>
-  — <strong>Gin Doujima</strong>, <em>Shokugeki no Souma</em>
+  <em>"Aku ingin melakukan apa pun yang ku bisa. Sekalipun itu tak berarti."</em><br>
+  — <strong>Ritsuka Fujimaru</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
