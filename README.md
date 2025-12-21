@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada yang lebih menjijikkan dari kasih sayang orang yang tidak disukai."</em><br>
-  — <strong>Hanabi Yasuraoka</strong>, <em>Kuzu no Honkai</em>
+  <em>"Meski kau bisa menutup mata, telinga dan mulutmu sekalipun, kau takkan bisa menghentikan luapan perasaanmu kepada seseorang."</em><br>
+  — <strong>Shuu Igarashi</strong>, <em>Koi to Uso</em>
 </div>
 <!-- QUOTE END -->
 
