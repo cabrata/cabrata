@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan tidak akan tersampaikan kalau tidak diungkapkan."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Dia begitu periang dan polos. Dia juga tahu apa yang tidak bisa kukatakan. Kupikir itulah yang membuatku suka padanya."</em><br>
+  — <strong>Tsuyoshi Naoe</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
