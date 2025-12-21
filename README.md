@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah sejak kapan aku berusaha untuk melupakan masa laluku dan memulai hidup baru."</em><br>
-  — <strong>Konjiki no Yami</strong>, <em>To LOVE-Ru Darkness</em>
+  <em>"Warna yang gelap dan warna yang cerah. Semua itu membentuk dirimu. Tidak perlu dihapus. Di masa depan, tetaplah tersenyum."</em><br>
+  — <strong>Yuito Aoi</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
