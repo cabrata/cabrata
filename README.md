@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Satu-satunya cara untuk menyingkirkan rasa (kecewa) ini adalah dengan melakukannya. Tak peduli seberapa banyak kegagalan, aku harus melakukannya. Setelah aku pikir-pikir, kurasa aku mulai menikmati ini."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Rasa puas seseorang setelah menyelamatkan sesuatu hanyalah kasalahpahaman otak. Karena menyelamatkan seseorang tidak (sama dengan) menyelamatkan diri sendiri. Meskipun kau merasa menyelamatkan seseorang, sebenarnya kau tak pernah tahu apa benar orang tersebut telah terselamatkan."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
