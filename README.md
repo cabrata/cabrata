@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang namanya keberuntungan di dunia ini. Aturan, prasyarat, keadaan psikologis, semua itu adalah jumlah faktor tak terlihat yang dikombinasikan menghasilkan ketidakpastian yang tak bisa dihindari."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Tidak ada ibu di dunia ini yang benci sama anaknya sendiri. Waktu kamu mulai tumbuh mandiri, baik sebagai manusia maupun sebagai pianis. Saki pasti merasa bahagia waktu itu."</em><br>
+  — <strong>Hiroko Seto</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
