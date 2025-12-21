@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Debar hatiku ini... menggelitik dan terasa menyenangkan.
-Kuharap besok segera tiba. Aku ingin segera melihat wajahnya."</em><br>
-  — <strong>Ai Nanasaki</strong>, <em>Amagami SS</em>
+  <em>"Cinta adalah kekonyolan dan tak ada gunanya jika dibandingkan dengan belajar."</em><br>
+  — <strong>Fuutarou Uesugi</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
