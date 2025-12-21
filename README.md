@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka yang tak memahami peran mereka sendiri tak pantas untuk hidup."</em><br>
-  — <strong>Rui</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Hanya orang bodoh yang memainkan game yang tak bisa dia menangkan."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
