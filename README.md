@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan marah begitu, Tuan Putri. Tatapan marahmu akan membuat kecantikanmu menurun drastis."</em><br>
-  — <strong>Aldebaran</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku ingin menjadi seorang pencipta game. Sejak dulu aku tertarik dengan hal itu. Tapi aku takut, aku selalu berpikir apa yang akan terjadi jika aku gagal. Aku berpikir kalau itu akan membuang waktuku, aku tak ingin hal itu akan menyakitiku. Aku selalu membuat alasan untuk tidak mencobanya. Aku bahkan menyerah untuk mencoba!. Tapi setelah melihatmu, aku ingin berubah. Suatu hari, aku juga ingin menjadi sepertimu."</em><br>
+  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
