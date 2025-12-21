@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada tempat di masyarakat untuk orang yang tak menghargai diri sendiri."</em><br>
-  — <strong>Ai Hayasaka</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Perempuan lembut dan baik yang menyukai anak-anak tidak mungkin jadi polisi."</em><br>
+  — <strong>Seiko Fuji</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
