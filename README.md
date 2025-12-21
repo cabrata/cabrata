@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau sudah bertekad, lebih baik kita segera bertindak."</em><br>
-  — <strong>Enri Emmot</strong>, <em>Overlord III</em>
+  <em>"Jangan terlalu memikirkan hal-hal yang tak bisa kau lakukan.
+Lakukan saja apa yang bisa kau lakukan."</em><br>
+  — <strong>Zange Natsume</strong>, <em>Inu x Boku SS</em>
 </div>
 <!-- QUOTE END -->
 
