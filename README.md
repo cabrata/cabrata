@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pistol itu simpel. Pistol dapat mengakhiri suatu hal hanya dengan satu letupan. Tidak serumit hubungan antara manusia."</em><br>
-  — <strong>Canaan</strong>, <em>Canaan</em>
+  <em>"Dalam  game, mustahil mengetahui aturan atau tujuan seseorang, karena ada 7 milyar pemain yang bergerak sesuai kenginannya."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
