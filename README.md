@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada banyak hal yang lebih penting daripada sekedar absen sekolah."</em><br>
-  — <strong>Iroha Igarashi</strong>, <em>3D Kanojo: Real Girl</em>
+  <em>"Mengubah diri sendiri sama dengan melarikan diri.
+Kenapa kau tidak (coba) menerima dirimu sendiri?"</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
