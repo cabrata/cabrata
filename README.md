@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan terlalu memikirkan hal-hal yang tak bisa kau lakukan.
-Lakukan saja apa yang bisa kau lakukan."</em><br>
-  — <strong>Zange Natsume</strong>, <em>Inu x Boku SS</em>
+  <em>"Awalnya peluang selalu terlihat mustahil."</em><br>
+  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
