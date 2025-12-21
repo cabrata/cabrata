@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa tinggi kedudukanmu, tak peduli seberapa sunyi tempat ini, jangan pernah menunjukkan kesombonganmu."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
+  <em>"Ketika kebetulan terjadi berulang kali, orang-orang mulai mengasumsikannya pada hal-hal tahayul seperti nasib atau sebagainya...
+Tapi, selama kemungkinannya tidak nol, apapun bisa saja terjadi. Pada dasarnya, tahayul merupakan sebuah lambang dari kebodohan."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
