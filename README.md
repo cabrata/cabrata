@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kita berbicara, lihatlah ke depan untuk menghapus seluruh waktu yang kau habiskan untuk melihat masa lalu!"</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Tak peduli bagaimana caramu memandang, kebenaran takkan ditemukan jika tertutup awan."</em><br>
+  — <strong>Igor Neuhaus</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
