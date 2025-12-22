@@ -5,10 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah kuputuskan. Aku adalah "bayangan".
-Semakin kuat cahayanya, semakin kuat bayangannya.
-Aku akan menjadi bayangan dari cahayamu, dan menjadikanmu pemain terbaik di jepang."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Kau harus membuang tujuan demi tujuanmu.
+Ambisi, keinginan, dendam... Kau harus singkirkan semua tujuan itu demi tujuan sejatimu."</em><br>
+  — <strong>Rinne Higaki</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
