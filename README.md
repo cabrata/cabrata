@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah jadi kewajiban seorang samurai untuk membalas budi (setiap kebaikan)."</em><br>
-  — <strong>Amidamaru</strong>, <em>Shaman King</em>
+  <em>"Sekarang aku hanyalah sekuncup bunga. Tapi, itulah kenapa aku menatap matahari yang jauh di atas, dan terus minum agar tidak kering. Mulai saat ini, aku akan berusaha untuk mekar!"</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
