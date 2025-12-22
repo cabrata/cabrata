@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat anak - anak bermasalah, mereka membutuhkan orang dewasa disampingnya."</em><br>
-  — <strong>Yukari Nitani</strong>, <em>Usagi Drop</em>
+  <em>"Barang jadul tak akan berguna saat dibutuhkan dengan segera."</em><br>
+  — <strong>Minosuke</strong>, <em>Ojiisan no Lamp</em>
 </div>
 <!-- QUOTE END -->
 
