@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kemenangan sejati bukanlah saat kau menang melawan yang kuat.
-Melainkan saat kau berhasil melindungi sesuatu yang berharga bagimu."</em><br>
-  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Tak ada cewek yang suka diperlakukan seperti adik."</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
