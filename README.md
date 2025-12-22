@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakak itu memang hebat. Aku takkan pernah menandinginya."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kemenangan sejati bukanlah saat kau menang melawan yang kuat.
+Melainkan saat kau berhasil melindungi sesuatu yang berharga bagimu."</em><br>
+  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
