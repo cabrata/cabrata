@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sekarang aku hanyalah sekuncup bunga. Tapi, itulah kenapa aku menatap matahari yang jauh di atas, dan terus minum agar tidak kering. Mulai saat ini, aku akan berusaha untuk mekar!"</em><br>
-  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Aku suka dengan orang yang tidak menutup-nutupi kata-katanya."</em><br>
+  — <strong>Mana Ryougi</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
 </div>
 <!-- QUOTE END -->
 
