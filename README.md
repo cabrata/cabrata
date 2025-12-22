@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus membuang tujuan demi tujuanmu.
-Ambisi, keinginan, dendam... Kau harus singkirkan semua tujuan itu demi tujuan sejatimu."</em><br>
-  — <strong>Rinne Higaki</strong>, <em>Katanagatari</em>
+  <em>"Kalahkan musuh dan selamatkan kotanya, kita hanya perlu mengulangi apa yang sudah kita lakukan berulang kali. Saatnya untuk menunjukkan harga diri kita sebagai pejuang!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
