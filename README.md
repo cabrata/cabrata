@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah putus Nico-kun. Aku selalu mencintai Nico-kun. Aku sangat mencintainya, sampai aku tidak bisa menahannya. Mungkin karena itulah aku tidak sadar bagaimana perasaannya."</em><br>
-  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
+  <em>"Sudah kuputuskan. Aku adalah "bayangan".
+Semakin kuat cahayanya, semakin kuat bayangannya.
+Aku akan menjadi bayangan dari cahayamu, dan menjadikanmu pemain terbaik di jepang."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
