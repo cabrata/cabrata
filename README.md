@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada beberapa hal yang tidak bisa didapatkan meskipun kau sangat menginginkannya."</em><br>
-  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou Shi</em>
+  <em>"Demi menyelamatkan nyawamu, nyawa orang lain harus dikorbankan.
+Seperti itulah cara hidup "hewan"."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
