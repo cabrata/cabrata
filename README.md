@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tidak hidup demi dirimu sendiri, maka kau takkan pernah mengerti apa itu arti kebahagiaan!"</em><br>
-  — <strong>Rin Tohsaka</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Aku telah putus Nico-kun. Aku selalu mencintai Nico-kun. Aku sangat mencintainya, sampai aku tidak bisa menahannya. Mungkin karena itulah aku tidak sadar bagaimana perasaannya."</em><br>
+  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
