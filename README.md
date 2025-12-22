@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dengan orang yang tidak menutup-nutupi kata-katanya."</em><br>
-  — <strong>Mana Ryougi</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
+  <em>"Tak ada cewek yang suka diperlakukan seperti adik."</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
