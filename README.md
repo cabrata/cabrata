@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Barang jadul tak akan berguna saat dibutuhkan dengan segera."</em><br>
-  — <strong>Minosuke</strong>, <em>Ojiisan no Lamp</em>
+  <em>"Kakak itu memang hebat. Aku takkan pernah menandinginya."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
