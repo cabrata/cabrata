@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teror dalam arti sebenarnya bukanlah ketakutan dalam keadaan statis, tapi dinamis. Itu terjadi di saat harapan seketika berubah menjadi keputusasaan."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Zero</em>
+  <em>"Aku telah membuatmu melihat air mataku. Meskipun begitu, kau tidak boleh menitihkan air mata. Setidaknya sampai kau bertemu dengan ibumu. Karena saat itu akan menjadi air mata bahagia."</em><br>
+  — <strong>Yoshifumi Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
