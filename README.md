@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pria itu mengandalkan keberanian, dan Wanita mengandalkan kecantikan!"</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kebebasan adalah sesuatu yang tidak terikat oleh harapan orang lain, dan hanya mengikuti kata hati sendiri."</em><br>
+  — <strong>Serge</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
