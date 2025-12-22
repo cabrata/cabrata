@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengetahui (kemampuan) diri sendiri dan (kemampuan) musuh adalah dasar dari bertarung."</em><br>
-  — <strong>Kamui</strong>, <em>Gintama°</em>
+  <em>"Kita para penguasa itu seperti hewan ternak yang hanya memakan jabatan."</em><br>
+  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
