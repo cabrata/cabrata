@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu terkadang jadi serasa lebih panjang setelah usia kita berkurang."</em><br>
-  — <strong>Eisen</strong>, <em>Sousou no Frieren</em>
+  <em>"Kebencian lahir dari masa lalu."</em><br>
+  — <strong>Hakuno Kishinami</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
