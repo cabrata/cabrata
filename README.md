@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta adalah hasrat yang buruk."</em><br>
-  — <strong>Quinella</strong>, <em>Sword Art Online: Alicization</em>
+  <em>"Saat kau menatap jurang terlalu lama, maka jurang tersebut juga akan menatapmu.
+Saat kau mencoba mengungkap rahasia seseorang, maka rahasiamu juga akan terungkap."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
