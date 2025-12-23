@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang berbakat itu bisa membuat orang lain mendekat dan tanpa sadar menghancurkannya. Semakin kau dekat dengan mereka, kau akan semakin hancur. Mereka hidup dalam dunia yang benar-benar berbeda dari kita, yang tak bisa diraih oleh orang biasa. Dunia yang tak akan pernah bisa kita lihat, dunia diatas awan."</em><br>
-  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Setiap orang punya cara berbeda untuk mencapai hal yang diinginkan. Makanya, kita tidak bisa begitu saja menjalani satu hal yang pasti. Hanya saja, kalau terus terperangkap dalam pikiran sempit seperti itu dan membohongi perasaan kita sendiri, maka kita tidak akan pernah bisa merasakan apa arti kebahagiaan sejati."</em><br>
+  — <strong>Hiroomi Nase</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
 </div>
 <!-- QUOTE END -->
 
