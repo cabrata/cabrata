@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia lahir, tumbuh, dan mati tanpa arti. Setelah semuanya berakhir barulah terlihat apa itu arti hidup."</em><br>
-  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Tak peduli bagaimana caramu memandang, kebenaran takkan ditemukan jika tertutup awan."</em><br>
+  — <strong>Igor Neuhaus</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
