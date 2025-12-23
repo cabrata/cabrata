@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku bisa mengubah keadaan dengan pergi kesana (ke lapangan), kumohon biarkan aku masuk (bermain)."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Sebuah pelajaran tanpa rasa sakit tidak akan ada artinya. Karena manusia tidak akan bisa mendapatkan apapun tanpa mengorbankan sesuatu. Tapi ketika mereka mampu mengatasi hal itu, manusia akan mendapatkan hati baja yang tak akan kalah dari apapun."</em><br>
+  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
