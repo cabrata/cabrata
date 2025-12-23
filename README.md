@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Amarah wanita adalah hal paling sulit untuk dikendalikan."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works</em>
+  <em>"Jangan terlalu memaksakan diri, istirahatlah dulu.
+Menjaga kesehatan itu juga bagian dari pekerjaan."</em><br>
+  — <strong>Ibu Mikage</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
