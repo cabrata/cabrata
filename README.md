@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli bagaimana caramu memandang, kebenaran takkan ditemukan jika tertutup awan."</em><br>
-  — <strong>Igor Neuhaus</strong>, <em>Ao no Exorcist</em>
+  <em>"Aku suka kamu yang berusaha menutupi air mata dengan senyuman dan tetap tegar."</em><br>
+  — <strong>Isla</strong>, <em>Plastic Memories</em>
 </div>
 <!-- QUOTE END -->
 
