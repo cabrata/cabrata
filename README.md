@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah itu jalan yang lurus ataupun jalan yang menyesatkan, selama kami masih bisa berjalan di sampingmu, kami tak peduli ke manapun kami pergi."</em><br>
-  — <strong>Toushirou Hijikata</strong>, <em>Gintama°</em>
+  <em>"Gagal pun tak apa-apa. Karena meskipun hari ini kau gagal, masih ada hari esok, lusa atau mungkin butuh waktu satu tahun agar bisa berhasil. Hidup itu panjang, jadi meskipun saat ini kau gagal, mungkin suatu saat nanti kau akan berhasil."</em><br>
+  — <strong>Tanaka</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
 </div>
 <!-- QUOTE END -->
 
