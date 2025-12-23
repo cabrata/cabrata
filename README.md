@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebuah pelajaran tanpa rasa sakit tidak akan ada artinya. Karena manusia tidak akan bisa mendapatkan apapun tanpa mengorbankan sesuatu. Tapi ketika mereka mampu mengatasi hal itu, manusia akan mendapatkan hati baja yang tak akan kalah dari apapun."</em><br>
-  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Orang berbakat itu bisa membuat orang lain mendekat dan tanpa sadar menghancurkannya. Semakin kau dekat dengan mereka, kau akan semakin hancur. Mereka hidup dalam dunia yang benar-benar berbeda dari kita, yang tak bisa diraih oleh orang biasa. Dunia yang tak akan pernah bisa kita lihat, dunia diatas awan."</em><br>
+  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
