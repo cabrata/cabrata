@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yasuri Shichika, ada empat hal yang perlu kau ingat baik-baik. Pertama, jangan menghancurkan pedang. Yang kedua, lindungilah aku. Meskipun tujuan kita adalah mengumpulkan pedang Shikizaki, jika aku mati semuanya akan sia-sia. Yang ketiga, lindungilah dirimu sendiri. Sampai kita berhasil mengumpulkan 12 pedang Shikizaki, jika kau mati takkan aku maafkan. Yang keempat, lindungilah dirimu sendiri. Ini adalah (bentuk) perhatianku padamu."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Tapi, takkan ada permulaan jika hanya duduk dan menonton. Aku tak bisa menjelaskannya. Tapi,  inilah kesempatanku satu-satunya. Jadi, kami ingin bersinar!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
