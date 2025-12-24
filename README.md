@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin bergandengan tangan denganmu. Lalu... terkadang aku juga ingin berpelukan denganmu. Maafkan aku karena tak sepolos seperti yang kau pikirkan."</em><br>
-  — <strong>Rinko Yamato</strong>, <em>Ore Monogatari!!</em>
+  <em>"Harapan yang tak berdasar hanyalah sebuah khayalan."</em><br>
+  — <strong>William Orville</strong>, <em>Toaru Majutsu no Index III</em>
 </div>
 <!-- QUOTE END -->
 
