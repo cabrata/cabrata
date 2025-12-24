@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Harapan yang tak berdasar hanyalah sebuah khayalan."</em><br>
-  — <strong>William Orville</strong>, <em>Toaru Majutsu no Index III</em>
+  <em>"Orang genius tidak setara di mata hukum."</em><br>
+  — <strong>Iria Akagami</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
