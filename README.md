@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang dewasa itu memang (makhluk yang) kotor."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Menerima tantangan dan menciptakan sesuatu itu menyakitkan. Tapi itu memuaskan, jadi terima kasih (karena telah memaksaku menerima tantangan)."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
