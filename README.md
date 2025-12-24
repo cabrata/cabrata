@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak peduli tentang menjadi generasi keajaiban, tapi aku tak bisa mengabaikan sebuah tantangan.
-Aku belum cukup dewasa untuk membiarkannya."</em><br>
-  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
+  <em>"Tomoya-kun.., seperti inikah aku yang kau harapkan? seperti dalam anime, game dan dalam light novel.
+Apakah gadis idealmu itu yang berbicara seperti ini? yang bergerak seperti ini? dan jatuh cinta seperti ini?"</em><br>
+  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
