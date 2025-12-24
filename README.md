@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Biarpun gagal..., bukankah lebih baik dari pada tidak melakukan apapun?"</em><br>
-  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Aku sangat menyukai kerendahan hatimu yang bahkan tak kausadari telah menjadi daya tarikmu."</em><br>
+  — <strong>Neko Fujinomiya</strong>, <em>Masamune-kun no Revenge</em>
 </div>
 <!-- QUOTE END -->
 
