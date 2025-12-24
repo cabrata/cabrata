@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan bergantung pada seseorang untuk menyelamatkan diri."</em><br>
-  — <strong>Yoshitake Tanaka</strong>, <em>Danshi Koukousei no Nichijou</em>
+  <em>"Menjatuhkan orang lain demi keuntungan sendiri adalah usaha yang sia-sia. Itu artinya, mereka sudah menyerah untuk menang."</em><br>
+  — <strong>Michiru Saiki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
