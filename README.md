@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melarikan diri! Jangan putus asa sebelum mencoba."</em><br>
-  — <strong>Yuzu Kichougasaki</strong>, <em>Renai Boukun</em>
+  <em>"Pejuang adalah seorang yang melindungi anak-anak dan menghargai teman-temannya."</em><br>
+  — <strong>Ruijerd Superdia</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu</em>
 </div>
 <!-- QUOTE END -->
 
