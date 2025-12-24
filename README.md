@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenapa sesuatu yang sangat penting seperti perasaan, hati, dan jiwa adalah sesuatu yang tak bisa dilihat ya?"</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Perasaan jatuh cinta dengan seseorang muncul secara alami. Jangan menyangkal perasaan seseorang yang mencintaimu!"</em><br>
+  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
