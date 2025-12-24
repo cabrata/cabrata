@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanya ingin hidup bermodal semangat dan senyuman aja."</em><br>
-  — <strong>Minami Nanami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
+  <em>"Teman itu sulit dicari, jadi jaga teman kalian baik-baik."</em><br>
+  — <strong>Sei Handa</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
