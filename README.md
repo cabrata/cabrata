@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah rangkaian dari pilihan yang kita buat. Kau harus melihat sejauh mana pilihan naifmu itu akan membawamu."</em><br>
-  — <strong>Abuto</strong>, <em>Gintama</em>
+  <em>"Manusia takkan tahu bahwa diri mereka telah ditipu, tapi (sebaliknya) mereka akan sangat sensitif ketika orang lain yang ditipu."</em><br>
+  — <strong>Hitsujii</strong>, <em>Juuni Taisen</em>
 </div>
 <!-- QUOTE END -->
 
