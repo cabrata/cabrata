@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman itu sulit dicari, jadi jaga teman kalian baik-baik."</em><br>
-  — <strong>Sei Handa</strong>, <em>Handa-kun</em>
+  <em>"Jangan melarikan diri! Jangan putus asa sebelum mencoba."</em><br>
+  — <strong>Yuzu Kichougasaki</strong>, <em>Renai Boukun</em>
 </div>
 <!-- QUOTE END -->
 
