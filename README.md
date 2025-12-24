@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada bermacam-macam cerita. Tapi aku tidak peduli dengan semua itu. (Karena) yang ingin ku ketahui adalah cerita tentangmu."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Terkadang kau akan melihat sesuatu saat memejamkan mata."</em><br>
+  — <strong>Arthur Boyle</strong>, <em>Enen no Shouboutai</em>
 </div>
 <!-- QUOTE END -->
 
