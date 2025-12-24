@@ -5,8 +5,19 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kupikir kau (memang) benar. (Selama ini) aku berpura-pura. Aku ingin orang-orang menyukaiku. Aku ingin punya teman. Namun ketika aku memikirkan "Apa yang bisa dilakukan oleh orang sepertiku ini?", aku putuskan untuk menyukai semua orang. Lalu, setelah itu jadi jauh lebih mudah untuk berpura-pura."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Aku benci cewek yang baik.
+Hanya saling menyapa bisa membuatku penasaran, hanya saling mengirim pesan membuatku gelisah.
+Jika mereka menelponku, aku akan selalu melihat daftar panggilanku dengan senyum bodoh.
+Tapi aku tahu. Mereka hanya bersikap baik.
+Jika mereka baik padaku, berarti mereka juga baik pada yang lain. Aku hampir lupa akan hal itu.
+Jika kenyataan itu kejam, maka kebohongan itu baik.
+Jadi, kebaikan adalah kebohongan.
+Aku selalu memegang harapan ini. Dan aku selalu salah paham (akan hal ini).
+Hingga tanpa kusadari aku telah berhenti berharap.
+Penyendiri berpengalaman tidak akan terjebak dalam perangkap yang sama.
+Sebagai veteran dalam pertempuran kehidupan, akulah yang terkuat dalam hal kekalahan.
+Jadi sampai kapanpun, aku benci cewek yang baik."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
