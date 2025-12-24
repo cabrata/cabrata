@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang cerdas bersinar lebih terang dari orang biasa. Mereka tidak pernah menyesali atau tersiksa atas perbuatan mereka sendiri."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Karena kamu adalah manusia artinya kamu bukanlah sosok yang sempurna."</em><br>
+  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online: Alicization</em>
 </div>
 <!-- QUOTE END -->
 
