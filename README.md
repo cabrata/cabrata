@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berjanji jika tidak bisa menepatinya!"</em><br>
-  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Tidak ada seorang pun yang akan menertawakan orang yang berusaha keras."</em><br>
+  — <strong>Naruzou Machio</strong>, <em>Dumbbell Nan Kilo Moteru?</em>
 </div>
 <!-- QUOTE END -->
 
