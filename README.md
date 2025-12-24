@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada seorang pun yang akan menertawakan orang yang berusaha keras."</em><br>
-  — <strong>Naruzou Machio</strong>, <em>Dumbbell Nan Kilo Moteru?</em>
+  <em>"Jika aku bisa menyelamatkan orang-orang yang ada disini, aku yakin mimpiku pasti ada di jalan Sang Pelindung. Aku akan menjadi Sang Pelindung!"</em><br>
+  — <strong>Sorey</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
