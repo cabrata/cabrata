@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada sesuatu dalam dirimu. Kau bersikap biasa, namun aku merasa kau selalu berada di tengah-tengah orang lain. Kau seperti tak peduli, namun kau peduli. Saat terjadi suatu masalah, kau selalu memiliki kata-kata yang tepat sasaran. Karena itulah ada sesuatu dalam dirimu."</em><br>
-  — <strong>Reina Kousaka</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"(Semua) alasan selalu sederhana. Kita hidup di dunia yang sangat sederhana. Di mana saat kita menarik pelatuk, musuh pun akan mati."</em><br>
+  — <strong>Riza Hawkeye</strong>, <em>Fullmetal Alchemist: Brotherhood Specials</em>
 </div>
 <!-- QUOTE END -->
 
