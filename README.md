@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia takkan tahu bahwa diri mereka telah ditipu, tapi (sebaliknya) mereka akan sangat sensitif ketika orang lain yang ditipu."</em><br>
-  — <strong>Hitsujii</strong>, <em>Juuni Taisen</em>
+  <em>"Kita memang harus melakukan apa saja untuk (tetap) hidup. Tapi jangan membuang alasanmu (untuk hidup). Kalau kau membuangnya, kau bukan lagi manusia."</em><br>
+  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
