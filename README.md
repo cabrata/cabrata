@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua yang ada di sini adalah palsu. Tapi, tidak ada yang berkata jika yang palsu tidak bisa menandingi yang asli. Kalau kau merasa jadi yang asli, maka aku hanya perlu melampaui dan mengalahkanmu."</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Dengarkan kalian (para murid). Saat malam hari orang harus tidur. Karena nanti kalau sudah dewasa meskipun kalian benci begadang, tapi (keadaan membuat) kalian harus melakukannya. Selagi masih muda, kalian harus terbiasa hidup sehat."</em><br>
+  — <strong>Sensei</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
