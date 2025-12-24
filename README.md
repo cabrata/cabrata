@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bismarck mengatakan, "Hanya orang bodoh yang belajar dari kesalahan diri sendiri. Orang bijak, belajar dari kesalahan orang lain"."</em><br>
-  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Sudah cukup! Sudah cukup aku berbohong dan menyakiti orang-orang.
+Telah kuputuskan untuk tidak membiarkanmu menangis, terluka, atau membuatmu sendirian lagi!
+Aku tidak akan melepaskanmu lagi."</em><br>
+  — <strong>Kouichi Sanada</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
