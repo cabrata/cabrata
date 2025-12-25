@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat wajah bahagia para pelanggan lebih berharga daripada uang yang ada di dunia."</em><br>
-  — <strong>Shinobu Senke</strong>, <em>Isekai Izakaya: Koto Aitheria no Izakaya Nobu</em>
+  <em>"Medan perang adalah neraka yang paling nyata. Disana tidak ada satupun harapan, yang ada hanyalah keputusasaan belaka. Kemenangan yang diraih dari rasa sakit mereka yang dihabisi, hanya melahirkan kejahatan semata."</em><br>
+  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
