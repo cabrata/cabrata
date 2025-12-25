@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Batas antara kebenaran dan kejahatan itu sebenarnya samar. Namun, banyak orang dengan gampangnya memisahkannya dan percaya bahwa dirinya lah yang benar."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Isekai Shikkaku</em>
+  <em>"Tak ada hal yang baik jika terlena oleh kekayaan atau pun kekuasaan."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
 </div>
 <!-- QUOTE END -->
 
