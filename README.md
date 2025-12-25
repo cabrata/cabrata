@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak layak mempertaruhkan hidup seseorang, tak peduli berapapun keuntungan yang akan didapat."</em><br>
-  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou</em>
+  <em>"Cepatlah meminta maaf kepada Ayahmu, kau takkan bisa meminta maaf jika dia telah mati."</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
