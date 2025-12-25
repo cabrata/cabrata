@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun yang terjadi kalian harus hidup dengan rasa bangga."</em><br>
-  — <strong>Hisa</strong>, <em>Kimetsu no Yaiba</em>
+  <em>"Apapun yang kau lakukan ataupun kau berubah, itu tidaklah penting. Lagipula, kau tetaplah kau."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
