@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memang menemui jalan buntu, tapi aku takkan berhenti. Demi mereka yang telah tiada, aku harus tetap maju. Sebagai Putri Hyland, sebagai seseorang yang membimbing negeri ini menuju keadilan, tolong pinjamkanlah kekuatan kalian."</em><br>
-  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Masa-masa menjadi pelajar sekolah itu singkat. Kau tidak bisa memutar kembali atau pun mengeditnya seperti film. Kau harus mengatakan hal yang ingin kau katakan. Karena ketika semua berakhir dan kau menyesalinya, itu sudah terlambat."</em><br>
+  — <strong>Saku Akechi</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
 </div>
 <!-- QUOTE END -->
 
