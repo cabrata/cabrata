@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal-hal yang perlu dilakukan hanya dapat dilakukan oleh orang yang mampu melakukannya."</em><br>
-  — <strong>Yuki Funahara</strong>, <em>Psycho-Pass</em>
+  <em>"Gadis perpustakaan (baca: kutu buku) mungkin terlihat sangat tenang, tapi di dalam kepalanya mereka sangat berpikir keras. Sama sekali berbeda dengan orang yang berisik tapi isi kepalanya kosong. Inilah perbedaan pesona dari gadis perpustakaan."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
