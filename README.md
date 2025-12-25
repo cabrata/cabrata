@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memiliki sesuatu untuk dilindungi menjadikanmu seorang pejuang."</em><br>
-  — <strong>Ruijerd Superdia</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu</em>
+  <em>"(Hanya) semua inilah yang kumiliki.., Mengajarimu dalam belajar, adik kelas yang manis, seorang ayah yang pekerja keras, kemudian langit berbintang ini. Yang aku miliki hanya sebatas ini. Hanya sebatas inilah yang bisa kuberikan padamu."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
