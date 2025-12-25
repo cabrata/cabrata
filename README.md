@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang terlalu banyak pikiran, justru karena situasi yang sulit, kita harus melangkah maju."</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Tidak ada yang lebih berharga daripada menerima kritik dari para pembaca."</em><br>
+  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
