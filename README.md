@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Persahabatan itu adalah tempat saling berbagi rasa sakit."</em><br>
-  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
+  <em>"Memiliki mimpi tidak menjamin kesuksesan. Dan jika mimpi itu tidak terwujud, kau masih dapat menjalani hidup normal."</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
