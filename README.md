@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka melakukan sesuatu yang tak ingin dilakukan orang lain."</em><br>
-  — <strong>Reines El-Melloi Archisorte</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Hanya seseorang yang bisa memahami dirinya sendirilah yang dapat terus menerus membuat kemajuan."</em><br>
+  — <strong>Masachika Kouda</strong>, <em>3-gatsu no Lion</em>
 </div>
 <!-- QUOTE END -->
 
