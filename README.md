@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kuberitahu rahasia melawan musuh yang kuat. Caranya mudah, teruslah bangkit dan serang mereka dengan jurusmu secara terus-menerus. Bagi pendekar, mereka yang berdiri hingga akhir adalah pemenangnya."</em><br>
-  — <strong>Eisen</strong>, <em>Sousou no Frieren</em>
+  <em>"Kau hanya tahu tentang pahitnya ditinggal seorang sendiri. Apakah kau pikir aku juga akan meninggalkanmu? Hal yang seperti itu terjadi padamu, cukup sekali saja seumur hidupmu. (Karena mulai sekarang, ada aku yang takkan pernah meninggalkanmu)"</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
