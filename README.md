@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Uang hanya akan membawa masalah, entah kau memilikinya atau tidak."</em><br>
-  — <strong>Yuuta Shindou</strong>, <em>WWW.Working!!</em>
+  <em>"Ingin bunuh diri karena merasa bersalah itu keliru!"</em><br>
+  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
