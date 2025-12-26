@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nenekku bilang, tubuh sehat membuat seorang gadis menjadi cantik."</em><br>
-  — <strong>Makoto Kowata</strong>, <em>Flying Witch</em>
+  <em>"Aku tak akan memaksakan diri dan menjalani hidup dengan senang-senang."</em><br>
+  — <strong>Red</strong>, <em>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</em>
 </div>
 <!-- QUOTE END -->
 
