@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia cenderung belajar pada kekalahan daripada kemenangan."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Zoku Owarimonogatari</em>
+  <em>"Sekarang alasan terbesarku bermain adalah mencoba untuk membuatmu dan juga tim kita menjadi yang terbaik di jepang."</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
