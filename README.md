@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Impianku sederhana. Aku hanya ingin terus mencintai orang yang kucintai dan terus bersamanya."</em><br>
-  — <strong>Shinra Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Tahu tidak Kak, saat aku melihat konser µ's, aku merasakan emosi yang menggebu-gebu di dadaku. Mereka berlatih dengan keras dan mereka terlihat sangat menikmatinya!"</em><br>
+  — <strong>Arisa Ayase</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
