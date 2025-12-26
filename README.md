@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kita tidak bisa bahagia, (tapi) kita beruntung karena masih memiliki banyak waktu. Waktu untuk menyendiri, waktu untuk berpikir, dan waktu untuk hidup."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Jika punya waktu untuk membuat konspirasi, lebih baik gunakan waktu itu untuk mengasah kemampuan."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
