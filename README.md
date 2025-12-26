@@ -5,8 +5,15 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tahu tidak Kak, saat aku melihat konser µ's, aku merasakan emosi yang menggebu-gebu di dadaku. Mereka berlatih dengan keras dan mereka terlihat sangat menikmatinya!"</em><br>
-  — <strong>Arisa Ayase</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Kau akan kesana untuk berlatihkan?
+Jadi yang kau butuhkan bukan kemampuan, tapi keberanian.
+Kau bisa saja menempuh jalan biasa.
+Jika itu benar-benar tempat yang ingin kau tuju, maka bagus.
+Bahkan walau mengambil rute yang biasa, setiap orang khawatir tentang keputusan yang akan dibuat di sepanjang jalan.
+Pada awalnya tak seorangpun yang memiliki kepercayaan diri.
+Kalau kau ingin mengarungi dunia yang penuh talenta, mungkin itu akan jadi jalan yg sulit.
+Tapi bagi orang yang dapat mencapai banyak hal, hidup ini penuh dengan keputusan besar, tidak peduli apapun itu."</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
