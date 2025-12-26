@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan memaksakan diri dan menjalani hidup dengan senang-senang."</em><br>
-  — <strong>Red</strong>, <em>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</em>
+  <em>"Mungkin tak banyak orang yang tahu kalau sebenarnya aku tipe orang yang tak begitu peduli dengan penampilanku. Karena menurutku yang lebih penting adalah apa yang keluar dari dalam diriku."</em><br>
+  — <strong>Karen Tendou</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
