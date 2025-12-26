@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mawar terlahir sebagai mawar.Itu tidak akan berubah menjadi bunga lain hanya karena ditanam menggunakan tanah dan air yang berbeda."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 4: Garan no Dou</em>
+  <em>"Sains adalah satu-satunya bahasa yang bisa membuat kita mengerti alam semesta yang diciptakan Tuhan."</em><br>
+  — <strong>Motojirou Kajii</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
