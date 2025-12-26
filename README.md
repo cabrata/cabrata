@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama ada orang yang bahagia, pasti ada orang yang akan meneteskan air mata."</em><br>
-  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Mengajarimu seni pedang akan membuatmu jadi lebih kuat. Tapi berlatih hanya untuk menjadi kuat itu tak ada artinya."</em><br>
+  — <strong>Wilhelm van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
