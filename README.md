@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah pedangmu. Kemanapun kamu pergi aku akan selalu mengikutimu."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Aku rasa semua orang pada awalnya juga mencoba dulu sebelum menyukainya. Kurasa kamu tidak perlu semangat tinggi atau alasan yang kuat untuk memulainya. Terkadang sesuatu yang kamu mulai perlahan-lahan akan menjadi hal yang penting bagimu. Untuk memulainya yang kamu perlukan hanya rasa keingintahuan."</em><br>
+  — <strong>Kiyoko Shimizu</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
