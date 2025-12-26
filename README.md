@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bisa jatuh cinta pada seseorang itu hal yang membahagiakan."</em><br>
-  — <strong>Hikari Tsutsui</strong>, <em>3D Kanojo: Real Girl</em>
+  <em>"Pada dasarnya, orang yang kuat adalah orang yang berusaha melindungi sesuatu."</em><br>
+  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
