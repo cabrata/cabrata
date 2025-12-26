@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terus mengungkit-ungkit masa lalu bukankah itu ke kanak-kanakan?"</em><br>
-  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
+  <em>"Aku adalah pedangmu. Kemanapun kamu pergi aku akan selalu mengikutimu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
