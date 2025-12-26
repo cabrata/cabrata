@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak marah itu adalah hal yang baik, (karena) kemarahan adalah dosa yang besar."</em><br>
-  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
+  <em>"Bisa jatuh cinta pada seseorang itu hal yang membahagiakan."</em><br>
+  — <strong>Hikari Tsutsui</strong>, <em>3D Kanojo: Real Girl</em>
 </div>
 <!-- QUOTE END -->
 
