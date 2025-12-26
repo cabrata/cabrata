@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu untuk membuat kita jadi lebih baik. Meski hanya sedikit, aku ingin diriku hari ini lebih baik dari diriku yang kemarin. Begitulah aku menjalani hidup."</em><br>
-  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Manusia cenderung belajar pada kekalahan daripada kemenangan."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Zoku Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
