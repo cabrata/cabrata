@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki itu bisa mati hanya karena patah hati."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Aku akan berbohong apabila mengatakan tidak mengorbankan diriku disini (pengorbanan merawat anak).
+Jadi aku harap dapat melewati tahun-tahun kedepan (menjadi lebih baik)."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
