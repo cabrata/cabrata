@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin bergandengan tangan denganmu. Lalu... terkadang aku juga ingin berpelukan denganmu. Maafkan aku karena tak sepolos seperti yang kau pikirkan."</em><br>
-  — <strong>Rinko Yamato</strong>, <em>Ore Monogatari!!</em>
+  <em>"Kau pikir berapa banyak kekalahan yang sudah aku dapatkan sampai detik ini?
+Walau bukan sesuatu yang bisa dibanggakan, tapi aku sudah kalah ratusan, bahkan ribuan kali. Meskipun begitu, aku tidak pernah depresi, tidak pernah sepertimu sekarang!. (Karena) aku selalu yakin pada akhirnya aku akan menang."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
