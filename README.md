@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang sering melihat ke langit ketika mereka sedang bingung."</em><br>
-  — <strong>Tooru Miyamae</strong>, <em>Seiren</em>
+  <em>"Ada kalanya manusia tak boleh lari dari pertarungan."</em><br>
+  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
