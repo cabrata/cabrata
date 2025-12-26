@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Petualangan seribu mil harus dimulai dengan satu langkah!"</em><br>
-  — <strong>Kongou</strong>, <em>Kantai Collection: KanColle</em>
+  <em>"Dunia tidak akan menunggumu untuk mendapat keyakinan."</em><br>
+  — <strong>Hansung Yu</strong>, <em>Kami no Tou</em>
 </div>
 <!-- QUOTE END -->
 
