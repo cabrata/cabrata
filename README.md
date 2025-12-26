@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keyakinan saja tidak cukup untuk mewujudkan idealismemu."</em><br>
-  — <strong>Doppo Kunikida</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
+  <em>"Mawar terlahir sebagai mawar.Itu tidak akan berubah menjadi bunga lain hanya karena ditanam menggunakan tanah dan air yang berbeda."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 4: Garan no Dou</em>
 </div>
 <!-- QUOTE END -->
 
