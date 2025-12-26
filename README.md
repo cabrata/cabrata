@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Samurai tidak membutuhkan alasan untuk bertindak.
-Jika mereka ingin melindungi sesuatu, maka mereka akan menarik pedangnya."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Dengarkan kalian (para murid). Saat malam hari orang harus tidur. Karena nanti kalau sudah dewasa meskipun kalian benci begadang, tapi (keadaan membuat) kalian harus melakukannya. Selagi masih muda, kalian harus terbiasa hidup sehat."</em><br>
+  — <strong>Sensei</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
