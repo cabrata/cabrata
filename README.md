@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada yang tahu apa yang menunggu di masa depan. Karena itulah ada kemungkinan yang tak terbatas. Seperti pertemuan ini..."</em><br>
-  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate</em>
+  <em>"Yang kubenci adalah pria yang terus-menerus memikirkan kesalahan di masa lalu dan hal lain yang tak mungkin bisa dia ubah."</em><br>
+  — <strong>Chitoge Kirisaki</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
