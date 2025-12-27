@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah dengan menggerakan hati seseorang. Dengan melakukan hal itu, bukankah itu yang dinamakan hidup? Menerima seseorang. Menyukai seseorang. Membenci seseorang. Merasa senang saat bersama seseorang. Menggenggam tangan seseorang. Itulah hidup."</em><br>
-  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
+  <em>"Kalau kau hanya duduk di kursi kehormatan, kau tidak akan bisa melihat apapun."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
