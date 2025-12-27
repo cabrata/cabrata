@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika berada di dalam pertarungan, jangan lengah sampai akhir! Mereka yang lengah pasti akan mati terlebih dahulu."</em><br>
-  — <strong>Izuminokami Kanesada</strong>, <em>Katsugeki/Touken Ranbu</em>
+  <em>"Suatu hari mungkin kita harus berpisah dan mungkin (juga) aku akan dilupakan. Tapi aku tidak akan pernah melupakanmu."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
