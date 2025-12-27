@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu berlalu dengan sangat cepat.
-Untuk saat ini... Aku ingin mengeluh pada Einstein.
-Nee... Okabe... Entah waktu cepat atau lambat...
-Semua itu bergantung pada pandangan kita.
-Teori relativitas itu benar-benar romantis dan juga sangat menyedihkan."</em><br>
-  — <strong>Kurisu Makise</strong>, <em>Steins;Gate</em>
+  <em>"Bukan waktunya murung. Kita sekarang akan segera dieksekusi. Tapi untuk keluar dari kegelapan ini, meskipun kecil, kita bisa melihat secercah harapan. Mungkin seperti benang laba-laba, tapi sekarang kita punya kaki untuk keluar dari sini."</em><br>
+  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
 </div>
 <!-- QUOTE END -->
 
