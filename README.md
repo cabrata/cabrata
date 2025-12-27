@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau akan bertarung dan aku akan melindungimu, dengan begitu tidak akan ada yang mati."</em><br>
-  — <strong>Naofumi Iwatani</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Cuma orang aneh yang bilang orang lain aneh."</em><br>
+  — <strong>Meiko Honma</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
