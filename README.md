@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang memanggil orang lain bodoh, adalah orang yang bodoh."</em><br>
-  — <strong>Subaru Uchimaki</strong>, <em>Kono Bijutsubu ni wa Mondai ga Aru!</em>
+  <em>"Kalau kau tidak bisa bertanggung jawab hingga akhir, jangan lakukan apa-apa."</em><br>
+  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
 </div>
 <!-- QUOTE END -->
 
