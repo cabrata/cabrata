@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada sesuatu yang lebih menyedihkan daripada hidup di bawah kendali orang lain."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Mengikuti yang kuat adalah naluri makhluk lemah."</em><br>
+  — <strong>Demiurge</strong>, <em>Overlord III</em>
 </div>
 <!-- QUOTE END -->
 
