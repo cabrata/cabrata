@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada beberapa hal yang tidak bisa didapatkan meskipun kau sangat menginginkannya."</em><br>
-  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou Shi</em>
+  <em>"Hanya pria yang maju ke medan perang dengan gagah berani disampingku yang pantas menjadi Masterku. Dan bukanlah pengecut yang bahkan hampir tidak punya keberanian untuk menunjukkan dirinya sendiri!"</em><br>
+  — <strong>Rider</strong>, <em>Fate/Zero</em>
 </div>
 <!-- QUOTE END -->
 
