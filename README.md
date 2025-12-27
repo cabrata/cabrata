@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jatuh cinta itu tidak bisa diatur-atur."</em><br>
-  — <strong>Kazehana</strong>, <em>Sekirei: Pure Engagement</em>
+  <em>"Aku suka melakukan sesuatu yang tak ingin dilakukan orang lain."</em><br>
+  — <strong>Reines El-Melloi Archisorte</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
