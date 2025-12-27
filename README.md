@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau hanya duduk di kursi kehormatan, kau tidak akan bisa melihat apapun."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Laki-laki yang tetap perjaka sampai umur 30 disebut dengan "Tangan Tuhan"."</em><br>
+  — <strong>Shinpachi Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
