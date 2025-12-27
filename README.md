@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pejuang adalah seorang yang melindungi anak-anak dan menghargai teman-temannya."</em><br>
-  — <strong>Ruijerd Superdia</strong>, <em>Mushoku Tensei: Isekai Ittara Honki Dasu</em>
+  <em>"Belajar itu memang sulit. Sampai sekarang aku pun masih gak suka belajar. Walapun sulit, tapi berjuang bersama teman-teman untuk menggapai tujuan itu cukup menyenangkan."</em><br>
+  — <strong>Uruka Takemoto</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
 </div>
 <!-- QUOTE END -->
 
