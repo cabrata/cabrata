@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun aku mengetahui segalanya, tapi bukan berarti semuanya berjalan sesuai dengan yang kuinginkan."</em><br>
-  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
+  <em>"Bakat tak selalu mendatangkan kebahagiaan bagi pemiliknya."</em><br>
+  — <strong>Atsushi Nakajima</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
