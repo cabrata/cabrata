@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci orang jenius. Mereka tidak punya keindahan dari hasil usaha dan jerih payah."</em><br>
-  — <strong>Lügner</strong>, <em>Sousou no Frieren</em>
+  <em>"Kaulah yang telah mengajarkanku tentang hal yang terpenting, keberanian untuk maju, tak takut akan perubahan. Saat itu, tanganmu telah menyelamatkanku."</em><br>
+  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
