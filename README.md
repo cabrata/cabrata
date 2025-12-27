@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Segala sesuatu yang terjadi padamu itu bisa saja terjadi pada orang lain". Itu adalah pemikiran yang sangat sederhana untuk menolak adanya keajaiban."</em><br>
-  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
+  <em>"Aku benci pada orang yang menyakiti orang lain dengan kebaikan."</em><br>
+  — <strong>Sumireko Sanshokuin</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
 </div>
 <!-- QUOTE END -->
 
