@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau hanya duduk di kursi kehormatan, kau tidak akan bisa melihat apapun."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Bila di dalam dirimu ada kenangan yang berharga, menurutku mubazir kalau kau meninggal (dengan sia-sia)."</em><br>
+  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
