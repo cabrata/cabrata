@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat tidak ada lagi kebohongan, kenyataan akan serasa sangat membosankan."</em><br>
-  — <strong>Rei Matsumoto</strong>, <em>Konohana Kitan</em>
+  <em>"Aku percaya kepadamu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
