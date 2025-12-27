@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masa depan itu sulit ditebak karena gelap gulita seperti jalanan di malam hari."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Perempuan yang sedang jatuh cinta bisa menentang Tuhan."</em><br>
+  — <strong>Tsushima</strong>, <em>Toaru Majutsu no Index III</em>
 </div>
 <!-- QUOTE END -->
 
