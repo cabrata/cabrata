@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan yang sedang jatuh cinta bisa menentang Tuhan."</em><br>
-  — <strong>Tsushima</strong>, <em>Toaru Majutsu no Index III</em>
+  <em>"Kalau kau hanya duduk di kursi kehormatan, kau tidak akan bisa melihat apapun."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
