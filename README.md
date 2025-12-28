@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang tak bisa dilakukan itu memang sesuatu yang wajar. Namun, bukan berarti itu tak bisa dilakukan selamanya kan?"</em><br>
-  — <strong>Nariyuki Yuiga</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
+  <em>"Berhutang kepada seseorang bukanlah hal yang memalukan, tapi justru memalukan jika tidak bisa melunasinya."</em><br>
+  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
 </div>
 <!-- QUOTE END -->
 
