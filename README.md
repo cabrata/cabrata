@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia bisa benar dan salah. Kesalahan membuat mereka belajar lebih cepat, tapi butuh waktu untuk melihat kesalahan. Dan menghabiskan waktu bersama orang lain cukup membosankan. Sejauh yang kutahu, kesalahan yang menyusup kedalam rumahku dan mencuri hartaku itu lebih baik. Namun, aku tidak masalah, karena kau adalah sebuah kesalahan."</em><br>
-  — <strong>Fafnir</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Dengan menerapkan aturan diri sendiri pada dirimu, itu untuk mendorong dan membantumu untuk mengatasi tantangan atau situasi yang sulit. Kau menerapkan aturan diri sendiri hanya pada dirimu. Karena aturan itulah kau bisa mengumpulkan kekuatanmu dan fokus pada usahamu. Bahkan jika kau gagal, kau sudah menerapkan aturan yang membuat dirimu menjadi sangat disiplin dan fokus. Begitulah "aturan diri sendiri"."</em><br>
+  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
