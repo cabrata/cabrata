@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu tidak usah mencemaskannya. Apapun yang kamu rasakan tinggal lepaskan saja. Aku tidak berpikir kita akan bisa mulai dari nol ke seratus dengan cepat. Tapi mungkin kita bisa mendapat satu. Aku ingin melihat jika kita bisa melakukannya juga."</em><br>
-  — <strong>Riko Sakurauchi</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Kekuatan berasal dari tanggung jawab, dan power berasal dari tanggung jawab. Yang artinya kekuatan berarti tanggung jawab, dan tanggung jawab berarti power! Kekuatan bisa juga berarti power!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
