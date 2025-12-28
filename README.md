@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjalanan kalian masih sangat jauh, tapi jika kalian tetap bersama-sama, kalian pasti akan berkembang."</em><br>
-  — <strong>Yuusuke Takinoue</strong>, <em>Haikyuu!!</em>
+  <em>"Jika kau tidak punya keinginan yang besar, kau tak akan bisa menjadi mangaka terkenal."</em><br>
+  — <strong>Yoshihisa Heishi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
