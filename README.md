@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau tidak bisa jadi obat, jadilah racun. Jika tak begitu, kau hanya akan jadi air biasa."</em><br>
-  — <strong>Tooe Kanbaru</strong>, <em>Zoku Owarimonogatari</em>
+  <em>"Manusia adalah budak dari apa yang dilihatnya."</em><br>
+  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
