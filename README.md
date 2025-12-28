@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik jika hanya salah satu dari kita berkorban! Mungkin ini sulit, tapi tahanlah untuk sekarang."</em><br>
-  — <strong>Aqua</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
+  <em>"Jika kau punya waktu untuk memikirkan kematianmu, kenapa tak kau jalani kehidupan indahmu sampai akhir?"</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
