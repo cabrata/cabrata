@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebenarnya, tidak ada kehidupan yang tak berarti selain keindahan."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Aku yakin aku akan cerewet dan khawatir dengan setiap hal kecil (yang terjadi pada anak yang ku asuh). Mungkin kami semua (semua orang tua) begitu."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
