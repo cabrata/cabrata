@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada jarak jutaan tahun cahaya yang memisahkan antara "suka" dan "tidak suka"."</em><br>
-  — <strong>Nao Kashiwagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Mana mungkin ada hal yang lebih berharga daripada pacar."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
