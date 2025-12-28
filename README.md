@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah budak dari apa yang dilihatnya."</em><br>
-  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Bertemu denganmu dan melukis bersamamu benar-benar menyenangkan.
+Kata-kata dan senyum terakhir yang kamu berikan tak akan kulupakan seumur hidupku. Karena itu, tetaplah tersenyum seperti itu selamanya."</em><br>
+  — <strong>Yukito Renjou</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
