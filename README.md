@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun keabadian adalah sesuatu yang buruk, tapi selama aku bisa terus bersamamu, kurasa itu bukanlah hal yang buruk."</em><br>
-  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Jika sesuatu yang sama sekali tidak bisa dimengerti semakin populer, (maka) ragukanlah generasimu. Anggap itu sebagai sesuatu yang sangat membahayakan. Karena generasimu telah diselimuti oleh kegelapan."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
