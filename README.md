@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan aku beri tahu sesuatu hal yang bagus...
-Cara agar tidak kalah adalah dengan tidak bertanding."</em><br>
-  — <strong>Manabu Sakuma</strong>, <em>Ping Pong The Animation</em>
+  <em>"Aku takkan memaafkan Satan, atau iblis-iblis yang lain! Khususnya putra dari Satan! Aku akan membunuhmu meskipun harus mengorbankan nyawaku!"</em><br>
+  — <strong>Igor Neuhaus</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
