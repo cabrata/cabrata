@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua hal yang terjadi di depanku adalah masalah yang hanya bisa diselesaikan oleh diriku sendiri."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Menjatuhkan orang lain demi keuntungan sendiri adalah usaha yang sia-sia. Itu artinya, mereka sudah menyerah untuk menang."</em><br>
+  — <strong>Michiru Saiki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
