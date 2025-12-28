@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Prinsip kuhaku adalah menjadi nomor satu dalam permainan apapun."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Mengabdikan diri untuk pendidikan adalah suatu bentuk kerja keras."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
