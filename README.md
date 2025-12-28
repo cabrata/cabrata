@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pemenang hanya mendapatkan kepuasan dan kesombongan, tapi kau (yang kalah) mendapatkan sesuatu yang lebih bermakna."</em><br>
-  — <strong>Shouyou Yoshida</strong>, <em>Gintama°</em>
+  <em>"Akan aku beri tahu sesuatu hal yang bagus...
+Cara agar tidak kalah adalah dengan tidak bertanding."</em><br>
+  — <strong>Manabu Sakuma</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
