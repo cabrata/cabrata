@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau mengatakannya dengan cinta, perasaanmu akan tersampaikan."</em><br>
-  — <strong>Tooru Minegishi</strong>, <em>Working!!!</em>
+  <em>"Kamu harus berterima kasih kepada orang yang mengembalikan barangmu."</em><br>
+  — <strong>Yotsuba Nakano</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
