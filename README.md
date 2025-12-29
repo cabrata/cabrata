@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencita-citakan sesuatu yang tinggi adalah sesuatu yang penting, lebih tinggi lagi, lagi dan lagi."</em><br>
-  — <strong>Noboru Taki</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Aku hanya ingin hidup bermodal semangat dan senyuman aja."</em><br>
+  — <strong>Minami Nanami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
 </div>
 <!-- QUOTE END -->
 
