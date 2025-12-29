@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengambil resiko itu hal yang membosankan. Tapi memiliki keuntungan besar juga membosankan."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Hidup tanpa hal menarik itu tak ada artinya."</em><br>
+  — <strong>Ha Yuri Jahad</strong>, <em>Kami no Tou</em>
 </div>
 <!-- QUOTE END -->
 
