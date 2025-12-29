@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang yang berniat membunuh ayahnya sendiri tidak berhak untuk menjadi Raja."</em><br>
-  — <strong>Shizu</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Tugas seorang wanita yang sebenarnya adalah melindungi harga diri seorang pria."</em><br>
+  — <strong>Saeko Busujima</strong>, <em>Highschool of the Dead</em>
 </div>
 <!-- QUOTE END -->
 
