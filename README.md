@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau berpikir pesimis, maka hal yang seharusnya berjalan lancar, nantinya akan jadi tidak lancar. Kita harus berpikir secara optimis."</em><br>
-  — <strong>Yuuki Hase</strong>, <em>Isshuukan Friends.</em>
+  <em>"Tidur itu sangat penting. Kurang tidur bisa berdampak buruk pada pekerjaan, dan kesehatanmu. Tidur di kursi bisa menghilangkan rasa penatmu untuk sementara, tapi tidak baik untuk punggungmu."</em><br>
+  — <strong>Umiko Ahagon</strong>, <em>New Game!!</em>
 </div>
 <!-- QUOTE END -->
 
