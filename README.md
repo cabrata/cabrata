@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup tanpa hal menarik itu tak ada artinya."</em><br>
-  — <strong>Ha Yuri Jahad</strong>, <em>Kami no Tou</em>
+  <em>"Di dunia ini ada banyak hal yang tidak bisa dijelaskan hanya dengan kata-kata saja."</em><br>
+  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge</em>
 </div>
 <!-- QUOTE END -->
 
