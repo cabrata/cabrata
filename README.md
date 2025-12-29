@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Penglihatan bukanlah apa yang kau lihat, tapi (objek) gambar yang otakmu pahami. Pandangan kita tergantung oleh akal sehat kita. Dalam keadaan normal, manusia tidak bisa melihat diluar kotak mereka."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Kesukaan orang itu berbeda-beda. Dan mungkin saja kamu menemukan hal yang lebih kamu sukai. Hal itu tidak perlu diputuskan sekarang. Selama tidak terburu-buru, kamu pasti baik-baik saja."</em><br>
+  — <strong>Chigusa Fukasawa</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
