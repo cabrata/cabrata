@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebahagiaan sejati adalah menemukan orang yang di cintai, menjadi seorang ibu, kemudian menjalani hidup dengannya."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Ada kalanya, seorang pria memfokuskan diri mereka pada pekerjaan untuk melupakan suatu hal (yang ingin mereka lupakan)."</em><br>
+  — <strong>Heiji Kozenigata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
