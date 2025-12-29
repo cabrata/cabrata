@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pemandangan yang kau lihat dari tempat tinggi akan terlihat sangat menakjubkan, tak peduli walau pemandangannya biasa saja."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Yang paling penting bagiku adalah kehangatan genggaman tanganmu, senyumanmu yang imut dan masa depan yang akan kita bangun bersama."</em><br>
+  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
