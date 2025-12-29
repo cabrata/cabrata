@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pemandangan yang kurasa membosankan...
-Pemandangan di mana Kou-chan berada (ternyata) sangat indah."</em><br>
-  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Tidak ada seorang pun yang akan menertawakan orang yang berusaha keras."</em><br>
+  — <strong>Naruzou Machio</strong>, <em>Dumbbell Nan Kilo Moteru?</em>
 </div>
 <!-- QUOTE END -->
 
