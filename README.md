@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita itu terbuat dari gula dan bumbu, serta sesuatu yang menakjubkan, meski aku tidak tahu apa itu. Tentu saja, kalau dimisalkan di dalam Isshiki memang terlalu banyak rasa pedas, tapi ... mau dikasih gula sebanyak apapun, pedas tetaplah pedas. Kau takkan bisa mengerti hal menakjubkannya sebelum merasakannya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
+  <em>"Jika kau menginginkan sesuatu, kau harus menyiapkan penawaran dari dirimu sendiri, atau kesepakatan takkan tercapai."</em><br>
+  — <strong>Dirk Eberwein</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
