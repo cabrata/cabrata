@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kupikir kalau aku hidup dengan jujur pada diriku sendiri, aku tak akan punya penyesalan. Tapi ternyata itu salah..."</em><br>
-  — <strong>Hime Onizuka</strong>, <em>Sket Dance</em>
+  <em>"Selama kau (masih) hidup, masa depan akan tetap ada. Entah nantinya akan berwarna seperti mawar atau lumpur, tapi jika tidak memiliki masa depan maka jalan (hidup) tak akan terhubung."</em><br>
+  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
