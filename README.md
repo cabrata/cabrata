@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Guru dansa kami selalu bilang bukan berdansa dengan tersenyum. Tapi guru ingin kami tersenyum dengan sendirinya saat sedang berdansa, karena dansa adalah sesuatu yang harus dinikmati dari dalam hati. Karena itu adalah sesuatu yang akan menyinari hidup kami."</em><br>
-  — <strong>Akira Koumoto</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Kota itu bagaikan raga manusia. Berbagai sistem bekerja secara organis, yang akhirnya tumbuh dan berkembang. Ada kalanya tubuh mengidap penyakit tumor. Penyakit yang tak bisa disembuhkan dengan obat. Saat itu kita harus membasminya. Tugas kita sebagai ahli bedah adalah mencabut penyakit itu dari kota"</em><br>
+  — <strong>Masamune Mochizuki</strong>, <em>Triage X</em>
 </div>
 <!-- QUOTE END -->
 
