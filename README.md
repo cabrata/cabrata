@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada yang memberitahuku kalau menemui hambatan yang berat dan kehilangan harapan, maka ubahlah caramu melihat cahaya (kehidupan)."</em><br>
-  — <strong>Aso Misato</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
+  <em>"(Dalam permainan) Pengetahuan bisa mengubah kemungkinan 1,92% menjadi 100%. Dengan kata lain, orang yang memiliki pengetahuan memiliki kemenangan yang tak tergoyahkan."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
