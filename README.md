@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling menyenangkan dari sebuah perjalanan adalah saat sebelum berangkat. Yang paling menakutkan dari anjing adalah gonggongannya. Yang paling indah dari wanita adalah dengan melihat sosoknya dari belakang. Mengungkap sesuatu yang disembunyikan dapat menghancurkan mimpi seseorang."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"Jika punya waktu untuk membuat konspirasi, lebih baik gunakan waktu itu untuk mengasah kemampuan."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
