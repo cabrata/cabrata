@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta adalah alat untuk menguasai."</em><br>
-  — <strong>Quinella</strong>, <em>Sword Art Online: Alicization</em>
+  <em>"Aku iri pada orang-orang yang punya impian dan bersemangat mewujudkannya."</em><br>
+  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
