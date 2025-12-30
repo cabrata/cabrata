@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dimanapun kau berada, kau selalu menjadi keluargaku yang berharga."</em><br>
-  — <strong>Yuri Takanashi</strong>, <em>Papa no Iukoto wo Kikinasai!</em>
+  <em>"Karena aku sungguh-sungguh mencintai Misaki, aku tak boleh meninggalkan impianku dan hanya menjadi orang biasa."</em><br>
+  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
