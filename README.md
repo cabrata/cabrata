@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal-hal yang perlu dilakukan hanya dapat dilakukan oleh orang yang mampu melakukannya."</em><br>
-  — <strong>Yuki Funahara</strong>, <em>Psycho-Pass</em>
+  <em>"Aku hanya memiliki satu keinginan. Kesamaan hak bagi semuanya. Aku ingin menciptakan negeri dimana semua rakyat memiliki hak yang sama!"</em><br>
+  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
