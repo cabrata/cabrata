@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang tidak akan berjuang sekeras itu jika dia tidak menyukainya."</em><br>
-  — <strong>Keiko Ayano</strong>, <em>Sword Art Online</em>
+  <em>""</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
