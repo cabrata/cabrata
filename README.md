@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebahagiaan cuma akan jadi kebahagiaan jika semua orang membaginya."</em><br>
-  — <strong>Nanana Ryuugajou</strong>, <em>Ryuugajou Nanana no Maizoukin</em>
+  <em>"Mataku tak bisa berpaling lagi. Hatiku telah terikat olehmu."</em><br>
+  — <strong>Shinpachi Shimura</strong>, <em>Gintama°: Aizome Kaori-hen</em>
 </div>
 <!-- QUOTE END -->
 
