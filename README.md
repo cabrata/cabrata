@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau ingin melihat kelanjutan dari impianmu, maka teruslah berjalan maju. Walau pun itu berarti kau harus menghancurkan impian orang lain."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Dimanapun kau berada, kau selalu menjadi keluargaku yang berharga."</em><br>
+  — <strong>Yuri Takanashi</strong>, <em>Papa no Iukoto wo Kikinasai!</em>
 </div>
 <!-- QUOTE END -->
 
