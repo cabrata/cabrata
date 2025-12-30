@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seperti ini terus, hidupmu akan berjalan selambat siput.
-Apakah kau setuju hidupmu seperti itu?"</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Meskipun seluruh dunia membenciku, aku masih bisa hidup selama ada seseorang yang membutuhkanku."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
