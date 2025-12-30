@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada peraturan yang menyebutkan kalau rok kostum idol group itu harus pendek!"</em><br>
-  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Meski kita bisa memilih dengan siapa kita terlibat, tapi kita tidak bisa memilih dengan siapa kita bertemu. Jadi aku pikir sangat beruntung bisa bertemu dengan orang baik."</em><br>
+  — <strong>Asami Yuuki</strong>, <em>Hige wo Soru. Soshite Joshikousei wo Hirou.</em>
 </div>
 <!-- QUOTE END -->
 
