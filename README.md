@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kutukan dan berkah itu pada dasarnya sama, tergantung bagaimana kita menerimanya."</em><br>
-  — <strong>Rahab</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Hanya orang bodoh yang memainkan game yang tak bisa dia menangkan."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
