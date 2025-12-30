@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memastikan keselamatan dan mengamati kondisi psikologis korban adalah tugas penting seorang detektif."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
+  <em>"Ada yang memberitahuku kalau menemui hambatan yang berat dan kehilangan harapan, maka ubahlah caramu melihat cahaya (kehidupan)."</em><br>
+  — <strong>Aso Misato</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
