@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senang sekali ketika bersama dengan semuanya. Tapi ketika dia ada di sana jadi lebih menyenangkan. Ketika bersama dengannya jantungku berdebar-debar. Aku ingin lebih lama lagi bersama dengannya."</em><br>
-  — <strong>Anna Kobayakawa</strong>, <em>Nijiiro Days</em>
+  <em>"Ketika berada di dalam pertarungan, jangan lengah sampai akhir! Mereka yang lengah pasti akan mati terlebih dahulu."</em><br>
+  — <strong>Izuminokami Kanesada</strong>, <em>Katsugeki/Touken Ranbu</em>
 </div>
 <!-- QUOTE END -->
 
