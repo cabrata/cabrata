@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau bisa mengetahui posisi dan momentum setiap atom di dunia ini, kau bisa memprediksi masa depan."</em><br>
-  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Aku benci pria yang diam saja melihat seorang wanita tersakiti."</em><br>
+  — <strong>Sen Yarizui</strong>, <em>Ben-To</em>
 </div>
 <!-- QUOTE END -->
 
