@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada beberapa hal yang tidak bisa didapatkan meskipun kau sangat menginginkannya."</em><br>
-  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou Shi</em>
+  <em>"Memang benar, aku bisa mendapatkan boneka itu dengan bersujud. Tapi, ini adalah duel antara aku dengan Reinhard. Jadi, kalau aku dapat kemenangan yang diberikan oleh orang lain, entah bagaimana bilangnya, pokoknya hal itu jelas salah. Ini semua demi harga diri kecilku!"</em><br>
+  — <strong>Felt</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
