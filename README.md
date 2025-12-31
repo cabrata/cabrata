@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi menyelamatkan dirimu, aku memutuskan untuk memulai pertempuran ini."</em><br>
-  — <strong>Kouji Sugawara</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</em>
+  <em>"Tertawa karena baca manga komedi dapat melatih otot perut. Terkejut karena baca manga horor dapat melatih otot punggung. Berdebar-debar karena baca manga romatis dapat melatih otot jantung. Membaca manga edisi khusus setebal 932 halaman dapat melatih otot bisep. Orang-orang yang terlibat dengan manga harus melatih otot dengan manga."</em><br>
+  — <strong>Ami Kakei</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
