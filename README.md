@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengintai dalam hidupmu seperti (wartawan) itu hanya akan membuat hal-hal yang canggung antara kita. Aku tidak ingin membahas tentang apapun yang kamu lakukan. Kamu bisa menceritakan tentang hal ini ketika kamu siap."</em><br>
-  — <strong>Rea Amano</strong>, <em>Mirai Nikki</em>
+  <em>"Semua musik dimulai dengan cinta.
+Cinta dan kematian adalah tema abadi musik."</em><br>
+  — <strong>Sapphire Kawashima</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
