@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap pertahanan pasti memiliki celah."</em><br>
-  — <strong>Wakatoshi Ushijima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Bisa melihat senyuman manismu setiap hari, sudah termasuk imbalan paling sempurna buatku."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Break Time</em>
 </div>
 <!-- QUOTE END -->
 
