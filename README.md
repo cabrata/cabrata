@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap pertahanan pasti memiliki celah."</em><br>
-  — <strong>Wakatoshi Ushijima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Bagi yang berusaha maka Tuhan akan tersenyum padamu, itu adalah bohong.
+Tapi, takdir Tuhan akan berkedip padamu."</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
