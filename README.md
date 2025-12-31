@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pilihan benar atau salah itu tak ada hubungannya denganku. Aku hanya melakukan apa yang ingin kulakukan. Tentu saja aku akan menerima konsekuensinya."</em><br>
-  — <strong>Aka no Saber</strong>, <em>Fate/Apocrypha</em>
+  <em>"Orang yang tidak menghargai karya orang lain adalah orang yang sudah lupa cara menikmati hidup."</em><br>
+  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service Kai</em>
 </div>
 <!-- QUOTE END -->
 
