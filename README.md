@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jalan hidup masih panjang. Walau ada kalanya keraguan dan kekhawatiran menghampiri, tapi kami tetap melangkah dengan yakin di jalan yang kami pilih."</em><br>
-  — <strong>Taichi Yaegashi</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Daripada menghabiskan waktu mengurusi masalah yang sudah terlanjur dipermasalahkan, lebih baik menyingkirkannya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
