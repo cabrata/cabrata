@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak peduli dengan dojo. Aku ingin dojo dimana kakakku selalu tersenyum. Jika itu membuat kakakku menangis, maka aku tidak membutuhkan dojo seperti itu."</em><br>
-  — <strong>Shinpachi Shimura</strong>, <em>Gintama</em>
+  <em>"Ikatan dapat menjadi lebih kuat kalau sedikit dipukul."</em><br>
+  — <strong>Kurumi Kawai</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
