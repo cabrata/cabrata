@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakekku selalu mengajariku agar dapat memaafkan kesalahan orang lain."</em><br>
-  — <strong>Touya Mochizuki</strong>, <em>Isekai wa Smartphone to Tomo ni.</em>
+  <em>"Hujan dan badai takkan menghentikanku. Dan tentu saja, keinginan untuk bisa terus berada di tempat tidur takkan menghentikanku. Aku harus terus berusaha sebaik mungkin sebagai orang yang telah dewasa."</em><br>
+  — <strong>Aoba Suzukaze</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
