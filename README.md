@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, aku bisa mendapatkan boneka itu dengan bersujud. Tapi, ini adalah duel antara aku dengan Reinhard. Jadi, kalau aku dapat kemenangan yang diberikan oleh orang lain, entah bagaimana bilangnya, pokoknya hal itu jelas salah. Ini semua demi harga diri kecilku!"</em><br>
-  — <strong>Felt</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
+  <em>"Meskipun aku baru pertama kali melihatmu di konser, aku tetap akan menjadi penggemarmu. Aku selalu melihatmu, aku juga sudah banyak mengirimimu surat penggemar. Meski dalam keadaan sulit sekalipun, atau dalam keadaan sedih sekalipun, aku menyemangati diriku dengan mendengarkan lagu-lagumu. Terimakasih selalu menjadi teman bagiku."</em><br>
+  — <strong>Mayu Arita</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
