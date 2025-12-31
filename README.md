@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau selalu berusaha yang terbaik. Sama seperti saat kau menolongku dari perekrutan oleh tim lari, atau ketika aku bingung dan kau khawatir kepada diriku. Kupikir itulah yang membuatmu benar-benar keren."</em><br>
-  — <strong>Fuuka Akitsuki</strong>, <em>Fuuka</em>
+  <em>"Tidak ada seorang pun yang dapat meninggalkan masa lalunya."</em><br>
+  — <strong>Atsumu Matsuyuki</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
