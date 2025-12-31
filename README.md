@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah sejak kapan aku berusaha untuk melupakan masa laluku dan memulai hidup baru."</em><br>
-  — <strong>Konjiki no Yami</strong>, <em>To LOVE-Ru Darkness</em>
+  <em>"Aku tidak tahu apa yang kau cari, tapi kau tidak akan bisa menerangi hatimu seorang diri."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
