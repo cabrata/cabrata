@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi yang berusaha maka Tuhan akan tersenyum padamu, itu adalah bohong.
-Tapi, takdir Tuhan akan berkedip padamu."</em><br>
-  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
+  <em>"Aku tak keberatan jika dia menyukai pria lain, hanya saja aku ingin menjadi orang terakhir yang menerima senyuman dari dirinya."</em><br>
+  — <strong>Seiji Yagiri</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
