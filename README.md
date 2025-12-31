@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memastikan keselamatan dan mengamati kondisi psikologis korban adalah tugas penting seorang detektif."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
+  <em>"Jika aku terlahir sepuluh tahun lebih awal, dan bertemu dengannya sepuluh tahun lebih awal, mungkin hatiku ini bisa dicuri olehnya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
