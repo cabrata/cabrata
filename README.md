@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua musik dimulai dengan cinta.
-Cinta dan kematian adalah tema abadi musik."</em><br>
-  — <strong>Sapphire Kawashima</strong>, <em>Hibike! Euphonium</em>
+  <em>"Setiap pertahanan pasti memiliki celah."</em><br>
+  — <strong>Wakatoshi Ushijima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
