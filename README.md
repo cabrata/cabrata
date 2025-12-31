@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta itu menyeramkan."</em><br>
-  — <strong>Karen Kohiruimaki</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
+  <em>"(Jika bertengkar) setidaknya pilih orang yang pantas untuk diajak bertengkar. Bertengkar dengan orang yang tak pantas diajak bertengkar hanya akan membuat dirimu (rendah) seperti orang yang kamu lawan."</em><br>
+  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
