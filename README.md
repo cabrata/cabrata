@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengabdikan diri untuk pendidikan adalah suatu bentuk kerja keras."</em><br>
-  — <strong>Mayoi Hachikuji</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Berada di samping gadis cantik dan dapat melayaninya adalah karunia besar setiap laki-laki."</em><br>
+  — <strong>Goushi Asougi</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
 </div>
 <!-- QUOTE END -->
 
