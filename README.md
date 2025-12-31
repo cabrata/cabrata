@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar kalau aku putus asa dengan dunia nyata. Tapi aku tidak putus asa dengan diriku sendiri. Yang memutuskan apakah hidupku membosankan, menyenangkan atau biasa-biasa saja bukalah dunia ini, tapi diriku sendiri. Selama aku memiliki kemauan, tak ada yang mustahil. Kau pun juga bisa melakukan apapun yang kau inginkan."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai II</em>
+  <em>"Takut dengan kematian itu wajar. Tapi bertahan hidup tanpa melakukan apa pun itu sama sekali tidak indah."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
