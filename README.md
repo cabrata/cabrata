@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Agar kejadian tragis di masa lalu tidak terulang kembali, akupun bercita-cita untuk menjadi seorang pahlawan."</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Mengintai dalam hidupmu seperti (wartawan) itu hanya akan membuat hal-hal yang canggung antara kita. Aku tidak ingin membahas tentang apapun yang kamu lakukan. Kamu bisa menceritakan tentang hal ini ketika kamu siap."</em><br>
+  — <strong>Rea Amano</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
