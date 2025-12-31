@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tertawa karena baca manga komedi dapat melatih otot perut. Terkejut karena baca manga horor dapat melatih otot punggung. Berdebar-debar karena baca manga romatis dapat melatih otot jantung. Membaca manga edisi khusus setebal 932 halaman dapat melatih otot bisep. Orang-orang yang terlibat dengan manga harus melatih otot dengan manga."</em><br>
-  — <strong>Ami Kakei</strong>, <em>Kakushigoto</em>
+  <em>"Yusa-san mencoba membuatku berhenti menyukaimu dan berkata kalau aku akan menyesal nantinya. Tapi, aku menyukaimu dengan kemauanku sendiri. Maka dari itu, suka ataupun tidak suka, aku sendiri yang memutuskannya."</em><br>
+  — <strong>Chiho Sasaki</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
