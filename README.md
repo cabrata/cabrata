@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada gunanya menyesali hal yang telah terjadi. Karena itu aku berpikir untuk menatap masa depan."</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Ada orang yang bisa dengan cepat menemukan jalan hidupnya, ada juga orang yang mulai dengan memanjat tinggi baru menemukan jalannya. Tidak apa kalau mengambil jalan pintas, atau pun tersesat di jalan yang salah. (Karena) mereka berhak melakukan itu."</em><br>
+  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
