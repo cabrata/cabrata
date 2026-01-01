@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun aku mengetahui segalanya, tapi bukan berarti semuanya berjalan sesuai dengan yang kuinginkan."</em><br>
-  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
+  <em>"(Ketika anak kecil melakukan kesalahan) Tidak ada yang perlu dimarahi. Dan tidak ada yang perlu ditertawakan."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
