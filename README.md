@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pilihan yang telah kamu pilih sejauh ini, dan pilihan yang telah aku pilih selama ini. Itu adalah kumpulan dari pilihan yang telah kita pilih. Itulah yang membuat kita bersama. Itulah alasan mengapa kita berada di sini."</em><br>
-  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
+  <em>"Seperti yang diharapkan, Pemain sang juara dunia memang (terlihat) garang. (Tapi) takkan kubiarkan... Jika aku tertekan, habislah aku. Kalau gentar, aku bisa kalah. Kalau takut, aku bisa mati.
+Baiklah. Siap!!"</em><br>
+  — <strong>Yutaka Hoshino</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
