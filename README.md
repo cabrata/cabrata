@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sekarang aku hanyalah sekuncup bunga. Tapi, itulah kenapa aku menatap matahari yang jauh di atas, dan terus minum agar tidak kering. Mulai saat ini, aku akan berusaha untuk mekar!"</em><br>
-  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Ketika kalian menatap ke dalam pintu neraka, maka pintu neraka juga sedang menatap kalian."</em><br>
+  — <strong>Mephisto Pheles</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
