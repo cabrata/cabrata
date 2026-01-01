@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Penglihatan bukanlah apa yang kau lihat, tapi (objek) gambar yang otakmu pahami. Pandangan kita tergantung oleh akal sehat kita. Dalam keadaan normal, manusia tidak bisa melihat diluar kotak mereka."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Ninja yang menampung seluruh kebencian dan melindungi desa dari balik bayangan. Kurasa, dialah Hokage (Pemimpin) yang sebenarnya."</em><br>
+  — <strong>Sasuke Uchiha</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
