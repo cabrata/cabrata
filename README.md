@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tak ingin menarik perhatian orang-orang, jangan melakukan hal yang bodoh."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Lebih baik kau periksa motormu sebelum mengendarainya, tapi yang lebih penting lagi, periksalah pria sebelum menaikinya."</em><br>
+  — <strong>Baita</strong>, <em>Bakuon!!</em>
 </div>
 <!-- QUOTE END -->
 
