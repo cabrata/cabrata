@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengan menerapkan aturan diri sendiri pada dirimu, itu untuk mendorong dan membantumu untuk mengatasi tantangan atau situasi yang sulit. Kau menerapkan aturan diri sendiri hanya pada dirimu. Karena aturan itulah kau bisa mengumpulkan kekuatanmu dan fokus pada usahamu. Bahkan jika kau gagal, kau sudah menerapkan aturan yang membuat dirimu menjadi sangat disiplin dan fokus. Begitulah "aturan diri sendiri"."</em><br>
-  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Kesimpulan yang berbeda datang saat satu fakta dilihat dari dua titik pandang yang berbeda. Saat itu terjadi, itulah waktu untuk menilai dari sudut pandang yang paling benar. Bukan waktu untuk menyimpulkan kesimpulan sendirilah yang benar. Tapi memutuskan bahwa kau tidak benar juga hal yang salah."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
