@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, akulah yang gila. Aku dibutakan delusi chuunibyou dan terpengaruh rasa keadilan murahan."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Medan perang adalah neraka yang paling nyata. Disana tidak ada satupun harapan, yang ada hanyalah keputusasaan belaka. Kemenangan yang diraih dari rasa sakit mereka yang dihabisi, hanya melahirkan kejahatan semata."</em><br>
+  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
