@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nenek bilang "kalau kamu menangisi orang yang sudah meninggal, maka orang itu juga akan ikut sedih"."</em><br>
-  — <strong>Winry Rockbell</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Mungkin aku harus belajar dari orang bodoh yang terlampau optimis."</em><br>
+  — <strong>Kazuma Satou</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
