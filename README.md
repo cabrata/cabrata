@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Entah menang atau kalah itu bukan masalah. Karena bekerja keras menuju tujuan itu sangat menyenangkan.
-Tapi jangan salah, meskipun aku bilang begitu. Aku tidak berniat untuk kalah."</em><br>
-  — <strong>Teppei Kiyoshi</strong>, <em>Kuroko no Basket 2nd Season</em>
+  <em>"Apa yang membuat kami memulai dari nol? Kami mengejar sesuatu yang tak berwujud, tersesat, ketakutan, menangis, kami ingin keluar dari zona nol itu. Dan dimana yang seharusnya tidak ada apa-apa, sebuah sinar terus bersinar di dalam hati kami. Dan keyakinan bahwa kesembilan dari kami bisa melakukan sesuatu yang istimewa karena dituntun oleh sinar cahaya itu. Dari situlah kami berasal, dimana Aqours berasal. Kami akan membuat kisah kami menjadi nyata! Dengan sinar cahaya ini!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
