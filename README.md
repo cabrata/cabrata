@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Naskah bukanlah produk jadi. Kalau tujuannya hanya untuk dibaca, lebih baik buat novel saja."</em><br>
-  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
+  <em>"Bersepeda itu sangat menyenangkan! Melesat menembus angin dengan mengandalkan tenaga kakiku sendiri, rasanya enak!"</em><br>
+  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
