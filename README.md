@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk menipu orang, kau harus tahu musuhmu (orang yang akan kau tipu). Kau (juga) harus merencanakan perkataanmu."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Tak ada cowok yang benci cewek agresif."</em><br>
+  — <strong>Nagi Arisuin</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
