@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cara bagi yang lemah untuk tetap menjadi yang lemah tapi tetap dapat mengalahkan yang kuat. Cara untuk menjadi dirimu sendiri, tapi melebihi batasmu. Untuk bisa terbang dilangit, meski kau tak bisa terbang. Dia selalu menemukan caranya, dalam keputusasaan, penderitaan dan kegelapan."</em><br>
-  — <strong>Chlammy Zell</strong>, <em>No Game No Life</em>
+  <em>"Memang benar mereka adalah murid - murid dari sekolah terkenal. Tapi mereka dianggap sebagai murid buangan. Kelas mereka merupakan target diskriminasi.Tapi mereka menghadapi berbagai macam hal dengan pandangan positif. Mereka tak akan merusak yang lain seperti kalian.Sekolah dan reputasi tak ada hubungannya dengan itu."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
