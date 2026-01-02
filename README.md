@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Uang, kebanggaan, patriotisme, bahkan kematian pun fiksi. Semua yang ada di masa depanmu adalah kekosongan. Dan yang bisa kau lakukan adalah kemampuanmu beradaptasi terhadap segala sesuatu, dan secara langsung memutuskan apa yang terbaik."</em><br>
-  — <strong>Yuuki</strong>, <em>Joker Game</em>
+  <em>"Kau boleh membenciku sebesar yang kau mau, setidaknya sebesar cintaku padamu sebelumnya."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
