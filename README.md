@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesetiaanmu sangatlah luar biasa! Jangan pernah kau nodai impian dan sumpah setiamu!"</em><br>
-  — <strong>Archer</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Kau bukannya tak bisa bermain, kau hanya tak ingin bermain.
+ "Aku tidak bisa mendengar suara piano..." Kau mengatakan itu hanya untuk melarikan diri."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
