@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku, satu-satunya masa di mana orang menjadi berharga adalah ketika mereka bertindak sesuai dengan keinginan mereka sendiri."</em><br>
-  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
+  <em>"Aku merasa bahagia ketika melihatmu tersenyum."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
