@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa bahagia ketika melihatmu tersenyum."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
+  <em>"Pahlawan tidak butuh alasan untuk menghunuskan pedangnya.
+Dia hanya harus bertarung demi kehormatannya."</em><br>
+  — <strong>Hajime Nishikawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
