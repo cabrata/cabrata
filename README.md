@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika terus melarikan diri, kau takkan pernah bisa bangkit dan maju."</em><br>
-  — <strong>Elena Fujisawa</strong>, <em>Hanebado!</em>
+  <em>"Aku tidak tahu seberapa banyak orang yang datang, tapi jangan lupa ... setidaknya kamu memiliki penggemar disana."</em><br>
+  — <strong>Maya Haruna</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
