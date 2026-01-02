@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Segala sesuatu yang terjadi padamu itu bisa saja terjadi pada orang lain". Itu adalah pemikiran yang sangat sederhana untuk menolak adanya keajaiban."</em><br>
-  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
+  <em>"Meskipun cahaya kembang api akan menghilang, tapi kenangannya akan terus terjaga."</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
