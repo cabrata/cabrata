@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika ada seseorang yang senang ketika melihat hasil fotoku, aku merasa bersemangat."</em><br>
-  — <strong>Shou Yamabuki</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Kekuatan sejati adalah kekuatan yang dapat mengendalikan lingkungan dan jiwa mereka yang lemah, lalu membuat mereka melayanimu tanpa mereka sadari."</em><br>
+  — <strong>Aryabahta</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
