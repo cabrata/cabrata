@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peluklah anak ini, dan berbanggalah layaknya seorang ayah."</em><br>
-  — <strong>Irisviel von Einzbern</strong>, <em>Fate/Zero</em>
+  <em>"Semua orang terlalu banyak pikiran, justru karena situasi yang sulit, kita harus melangkah maju."</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
