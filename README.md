@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak tahu seberapa banyak orang yang datang, tapi jangan lupa ... setidaknya kamu memiliki penggemar disana."</em><br>
-  — <strong>Maya Haruna</strong>, <em>Fuuka</em>
+  <em>"Ditegur bukanlah hal yang buruk. Itu bukti kalau seseorang sedang memperhatikan kita."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
