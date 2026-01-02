@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang genius adalah orang yang mendedikasikan dirinya pada satu hal dan satu arah dalam kehidupannya. Setiap orang dapat melakukan berbagai hal. Namun, orang yang fokus pada satu hal mendapatkan keuntungan lebih daripada melakukan banyak hal."</em><br>
-  — <strong>Jun Aikawa</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Menguasai bahasa asing akan membantumu untuk berkomunikasi dengan orang asing."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
