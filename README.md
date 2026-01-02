@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat bangun pagi, saat tidur pada malam hari, saat berangkat sekolah, saat berpakaian, saat menangis dan saat tertawa itu semua karena Mitsuo. Tanpa Mitsuo, tak ada yang bisa kulakukan, tidak ada artinya aku hidup."</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Apa yang kamu suka?Apa yang kamu benci?Apa yang kamu hormati?Apa yang kamu anggap buruk?Itu semua kamu yang memutuskan.Kita mempelajari dan melihat banyak hal. Begitulah hidup.Kamu bukanlah yang membuat dunia, tapi dunialah yang membuatmu."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
