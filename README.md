@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar mereka adalah murid - murid dari sekolah terkenal. Tapi mereka dianggap sebagai murid buangan. Kelas mereka merupakan target diskriminasi.Tapi mereka menghadapi berbagai macam hal dengan pandangan positif. Mereka tak akan merusak yang lain seperti kalian.Sekolah dan reputasi tak ada hubungannya dengan itu."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Jika kau hanya sendirian, kamu takkan mengerti keberadaanmu. Aku merasa kalau hubungan antar manusia adalah bukti tentang hidup. Aku memiliki hati karena ada semua orang. Aku memiliki tubuh karena aku disentuh semua orang. Jadi, hidup seseorang itu memiliki arti. Memilih sendiri, seperti kau dan aku, seperti hidup kita yang sekarang."</em><br>
+  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
 
