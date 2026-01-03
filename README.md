@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Membereskan orang jahat seperti mereka itu perlu dilakukan demi kebaikan mereka sendiri dan masyarakat."</em><br>
-  — <strong>Ekubo</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Semua orang berbakat yang kau irikan sebenarnya memiliki nereka mereka masing-masing. Tak peduli apa yang dilakukan, mereka tak akan lepas dari neraka itu."</em><br>
+  — <strong>Marisa Hyoudou</strong>, <em>Ballroom e Youkoso</em>
 </div>
 <!-- QUOTE END -->
 
