@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pada saat kita bertemu, kau benar-benar gila. Aku seperti terus merasakan belas kasihmu. Tapi kau membuatku melihat seberapa berharganya musik, dan teman-teman kepadaku. Karena kau berada disini, duniaku terbuka begitu lebar. Jadi ayo tetap bersama selamanya!"</em><br>
-  — <strong>Yuu Haruna</strong>, <em>Fuuka</em>
+  <em>"Kita telah berjanji untuk selalu bersama. Janji itulah yang membuatku bahagia.
+Aku sadar betapa aku sangat mencintainya. Mengingatnya (saja) membuatku bahagia.
+Dia mengatakan akan membuatku bahagia. Apa yang dikatakannya itu membuatku bahagia.
+Dia telah banyak membawa kebahagiaan dalam hidupku.
+Karena itulah, tak peduli apa kata orang lain, aku merasa bahwa aku adalah gadis paling bahagia di dunia ini."</em><br>
+  — <strong>Chtholly Nota Seniorious</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
