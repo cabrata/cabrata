@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu tidak perlu terburu-buru untuk memutuskan (sesuatu)."</em><br>
-  — <strong>Hajime Suzamoto</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Apa kau adalah tipe orang yang tak mau menyelamatkan orang yang kau benci? Aku sih tak punya waktu untuk memikirkan hal bodoh seperti itu! Sebelum kusadari, tubuhku bergerak dengan sendirinya, aku saja terkejut. Mungkin aku tahu alasannya, kita memang berpura-pura, tapi kita sepasang kekasih. Pasti ada semacam naluri."</em><br>
+  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
