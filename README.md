@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang punya sisi rahasianya tersendiri."</em><br>
-  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Orang tua itu harusnya gak boleh ganggu kalau anaknya lagi kerja keras kan?"</em><br>
+  — <strong>Shingo Hachiken</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
