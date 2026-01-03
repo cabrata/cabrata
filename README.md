@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau dan mimpimu itu sangat indah. Lebih dari yang lain, meskipun kau sudah tahu kalau kau takkan mendapatkan apapun, kau masih terus berjuang melawan dirimu sendiri."</em><br>
-  — <strong>Aka no Rider</strong>, <em>Fate/Apocrypha</em>
+  <em>"Mereka (para manusia) makhluk yang tak belajar apapun sejak berevolusi dari kera."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
