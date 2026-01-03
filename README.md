@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kita terpisah, aku selalu saja memikirkan tentangmu. Kalau bisa, selama 24 jam (dalam sehari) aku ingin selalu bersama denganmu. Aku ingin memperhatikan setiap apa yang kamu lihat, apa yang kamu dengar, apa yang kamu makan, (dan) apa yang kamu rasakan. Aku ingin tahu segalanya (tentangmu)."</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Kau boleh kalah di permainan ataupun di pertandaingan.
+Tapi kalau kau tidak kalah dengan dirimu sendiri, itu bukan kekalahan."</em><br>
+  — <strong>Karen Araragi</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
