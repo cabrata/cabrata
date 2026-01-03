@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pengorbanan diri bukanlah sesuatu yang layak dicontoh."</em><br>
-  — <strong>Arash</strong>, <em>Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram</em>
+  <em>"Jika seseorang sudah bertekad, mereka pasti bisa melakukan apapun."</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
