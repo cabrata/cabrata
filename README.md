@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu makhluk yang bodoh. Mereka tak bisa menjaga harga diri. Karena itu mereka mudah dibutakan keserakahan."</em><br>
-  — <strong>Minami Yamamoto</strong>, <em>Joshikousei no Mudazukai</em>
+  <em>"Pengorbanan diri bukanlah sesuatu yang layak dicontoh."</em><br>
+  — <strong>Arash</strong>, <em>Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram</em>
 </div>
 <!-- QUOTE END -->
 
