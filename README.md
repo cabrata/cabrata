@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Adik perempuan adalah makhluk buas tercantik di dunia."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Luka fisik dibiarkan akan sembuh sendiri. Namun, rasa sakit karena ditolak olehmu takkan pernah bisa hilang."</em><br>
+  — <strong>Romio Inuzuka</strong>, <em>Kishuku Gakkou no Juliet</em>
 </div>
 <!-- QUOTE END -->
 
