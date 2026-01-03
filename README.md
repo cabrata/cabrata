@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seseorang sudah bertekad, mereka pasti bisa melakukan apapun."</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Kau dan mimpimu itu sangat indah. Lebih dari yang lain, meskipun kau sudah tahu kalau kau takkan mendapatkan apapun, kau masih terus berjuang melawan dirimu sendiri."</em><br>
+  — <strong>Aka no Rider</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
