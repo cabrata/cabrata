@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin punya cinta yang begitu panas hingga bisa melelehkan lereng salju."</em><br>
-  — <strong>Roman Saotome</strong>, <em>Sket Dance</em>
+  <em>"Manusia akan memilih kesukaan mereka sendiri, lebih tepatnya mereka harus memilih sendiri."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
