@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerja di pagi hari memang bagus untuk membakar semangat! Ayo sama-sama kita berkeringat!"</em><br>
-  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
+  <em>"Di luar jam kerja, aku tidak ingin melakukan hal yang tidak ingin kulakukan."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
