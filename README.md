@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tahu jika kau sedang berbohong. Aku tahu kalau kau juga tak bisa mengatakan alasannya. Jadi, kau tak perlu meyakinkanku, menutupi semuanya dengan kebohongan, atau menyalahkan dirimu sendiri seperti itu. Karena aku percaya padamu."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Jangan seenaknya mengejek sesuatu yang disukai seseorang."</em><br>
+  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
 </div>
 <!-- QUOTE END -->
 
