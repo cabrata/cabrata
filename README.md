@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang dapat tidur lebih nyenyak ketika merasa puas pada hari (yang telah ia lalui)."</em><br>
-  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
+  <em>"Teman adalah kecap manis. Teman adalah penyedap rasa yang jauh lebih baik dari pada gula dan garam."</em><br>
+  — <strong>Nico Niiyama</strong>, <em>Kiznaiver</em>
 </div>
 <!-- QUOTE END -->
 
