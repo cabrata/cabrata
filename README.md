@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benar-benar beruntung, punya orang-orang yang mendukungku dan menolongku.
-Hanya dapat hidup saja sudah (membuatku) beruntung."</em><br>
-  — <strong>Ryousuke Kirishima</strong>, <em>Sket Dance</em>
+  <em>"Tidak ada peraturan yang menyebutkan kalau rok kostum idol group itu harus pendek!"</em><br>
+  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
