@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Celty, bahkan jika kau mengatakan akan membinasakan seluruh manusia, aku (juga) akan mengkhianati umat manusia dan akan mendukungmu. Selama aku bisa mati bersamamu sebagai manusia terakhir di bumi, aku akan bahagia."</em><br>
-  — <strong>Shinra Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Kerja di pagi hari memang bagus untuk membakar semangat! Ayo sama-sama kita berkeringat!"</em><br>
+  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
