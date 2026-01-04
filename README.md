@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu makhluk yang bodoh. Mereka tak bisa menjaga harga diri. Karena itu mereka mudah dibutakan keserakahan."</em><br>
-  — <strong>Minami Yamamoto</strong>, <em>Joshikousei no Mudazukai</em>
+  <em>"Aku tak akan memaksakan diri dan menjalani hidup dengan senang-senang."</em><br>
+  — <strong>Red</strong>, <em>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</em>
 </div>
 <!-- QUOTE END -->
 
