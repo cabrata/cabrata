@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau dan mimpimu itu sangat indah. Lebih dari yang lain, meskipun kau sudah tahu kalau kau takkan mendapatkan apapun, kau masih terus berjuang melawan dirimu sendiri."</em><br>
-  — <strong>Aka no Rider</strong>, <em>Fate/Apocrypha</em>
+  <em>"Umat manusia adalah nama binatang yang tidak bisa menikmati hidup tanpa berkorban. Kebohongan indah bernama "kesetaraan" hanya diucapkan oleh orang lemah yang tidak bisa melihat dalam kegelapan. Itu hanya sekedar alasan untuk menutupi hidupnya yang buruk."</em><br>
+  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
