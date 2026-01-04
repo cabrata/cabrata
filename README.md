@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau berpikir pesimis, maka hal yang seharusnya berjalan lancar, nantinya akan jadi tidak lancar. Kita harus berpikir secara optimis."</em><br>
-  — <strong>Yuuki Hase</strong>, <em>Isshuukan Friends.</em>
+  <em>"Tetap seperti itu hanya membuatmu jadi orang yang tak jelas. Tidak mencoba untuk menjadi (orang yang) bahagia adalah (sifat) pengecut."</em><br>
+  — <strong>Yotsugi Ononoki</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
