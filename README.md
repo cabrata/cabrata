@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Imajinasi adalah senjata. Orang yang tak memilikinya akan mati."</em><br>
-  — <strong>Goblin Slayer</strong>, <em>Goblin Slayer</em>
+  <em>"Aku selalu berpikir kalau manusia memang dilahirkan untuk saling menyakiti."</em><br>
+  — <strong>Maiko Fujishima</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
