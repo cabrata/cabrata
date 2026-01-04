@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi seorang pria, ada kalanya memukul seseorang itu rasanya lebih sakit daripada terkena pukulan."</em><br>
-  — <strong>Tooru Asagiri</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
+  <em>"Jika kau tidak bisa jadi obat, jadilah racun. Jika tak begitu, kau hanya akan jadi air biasa."</em><br>
+  — <strong>Tooe Kanbaru</strong>, <em>Zoku Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
