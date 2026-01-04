@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa yang kamu suka?Apa yang kamu benci?Apa yang kamu hormati?Apa yang kamu anggap buruk?Itu semua kamu yang memutuskan.Kita mempelajari dan melihat banyak hal. Begitulah hidup.Kamu bukanlah yang membuat dunia, tapi dunialah yang membuatmu."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Malam sebelum fajar adalah yang paling gelap. Tapi, jangan menutup matamu. Kalau kau menutup matamu dari kegelapan, kau takkan bisa melihat cahaya dari hari esok yang baru."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
