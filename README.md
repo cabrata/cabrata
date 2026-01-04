@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Berbuatlah demi orang lain. Korbankan diri sendiri demi itu". Aku dibesarkan dengan (memegang) prinsip seperti itu."</em><br>
-  — <strong>Tsukasa Jinguuji</strong>, <em>Fantasy Bishoujo Juniku Ojisan to</em>
+  <em>"Amarah wanita adalah hal paling sulit untuk dikendalikan."</em><br>
+  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works</em>
 </div>
 <!-- QUOTE END -->
 
