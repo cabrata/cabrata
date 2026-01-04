@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pajak Kebahagiaan. Semua hal yang mendatangkan kebahagiaan itu pasti kena pajak."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Memaksa seseorang untuk melakukan sesuatu yang tidak mereka inginkan tak akan menghasilkan hal yang baik."</em><br>
+  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
