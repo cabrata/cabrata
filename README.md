@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejujurnya, aku bangga padamu. Ini adalah kemenangan untuk kerja keras."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Kau selalu gampang ikut campur urusan orang lain, seperti orang yang tak bisa menahan kakinya dan langsung masuk tanpa permisi."</em><br>
+  — <strong>Chiriko Tsurumi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
