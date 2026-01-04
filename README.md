@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melihat ke bawah! Voli adalah olahraga dimana kau harus melihat ke atas!"</em><br>
-  — <strong>Keishin Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Manusia itu makhluk yang bodoh. Mereka tak bisa menjaga harga diri. Karena itu mereka mudah dibutakan keserakahan."</em><br>
+  — <strong>Minami Yamamoto</strong>, <em>Joshikousei no Mudazukai</em>
 </div>
 <!-- QUOTE END -->
 
