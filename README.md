@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau punya hak untuk hidup, kami juga punya. Meskipun aku yakin, setiap manusia memiliki pemikirannya sendiri mengenai "hak". Pokoknya, kami akan melakukan apapun untuk hidup."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Kemungkinan menang hanyalah 0% saat semua pemain menyerah.
+Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
+Itulah sebabnya aku tidak akan menyerah!"</em><br>
+  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
