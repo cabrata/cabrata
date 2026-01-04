@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tetap seperti itu hanya membuatmu jadi orang yang tak jelas. Tidak mencoba untuk menjadi (orang yang) bahagia adalah (sifat) pengecut."</em><br>
-  — <strong>Yotsugi Ononoki</strong>, <em>Owarimonogatari</em>
+  <em>"Bukankah menjadi sedikit tidak adil membuatku jadi lebih seperti gadis?"</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
