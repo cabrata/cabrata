@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Umat manusia adalah nama binatang yang tidak bisa menikmati hidup tanpa berkorban. Kebohongan indah bernama "kesetaraan" hanya diucapkan oleh orang lemah yang tidak bisa melihat dalam kegelapan. Itu hanya sekedar alasan untuk menutupi hidupnya yang buruk."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Nenekku bilang, tubuh sehat membuat seorang gadis menjadi cantik."</em><br>
+  — <strong>Makoto Kowata</strong>, <em>Flying Witch</em>
 </div>
 <!-- QUOTE END -->
 
