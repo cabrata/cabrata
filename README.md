@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup itu tidak perlu terburu-buru untuk memutuskan (sesuatu)."</em><br>
-  — <strong>Hajime Suzamoto</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Meskipun keputusan yang aku pilih salah, aku takkan menyesalinya. Menurutku kebaikan dan kejahatan adalah sesuatu yang sama, justru karena hal itulah bukti bahwa diriku adalah manusia."</em><br>
+  — <strong>Souichirou Kuzuki</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
