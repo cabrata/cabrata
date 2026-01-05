@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah kesalahan terungkap maka kesalahan itu akan jadi kebenaran. Di dunia ini tidak ada yang namanya kesalahan."</em><br>
-  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
+  <em>"Perempuan itu bisa dikelompokkan menjadi dua kategori; Teman masa kecil dan Pelakor."</em><br>
+  — <strong>Anna Yanami</strong>, <em>Make Heroine ga Oosugiru!</em>
 </div>
 <!-- QUOTE END -->
 
