@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menguasai bahasa asing akan membantumu untuk berkomunikasi dengan orang asing."</em><br>
-  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Laki-laki itu makhluk yang tidak terlalu memikirkan hal-hal kecil seperti ulang tahun atau hari peringatan."</em><br>
+  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
