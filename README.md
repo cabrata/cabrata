@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku seorang profesional. Karena itu aku takkan membiarkan perasaanku mengganggu pekerjaanku."</em><br>
-  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Kami berjuang untuk menciptakan masa depan kalian."</em><br>
+  — <strong>Aka no Lancer</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
