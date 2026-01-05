@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengapa kau tidak bisa mempercayainya? Kalau orang tuanya saja tidak mempercayainya, lalu dia akan bergantung kepada siapa?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Bahkan jika itu berarti mati, tidak ada satu pun dari kami yang akan mengkhianati teman sendiri."</em><br>
+  — <strong>Kakashi Hatake</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
