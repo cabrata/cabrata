@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada keajaiban yang bisa diraih tanpa pengorbanan."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Entah itu jalan yang lurus ataupun jalan yang menyesatkan, selama kami masih bisa berjalan di sampingmu, kami tak peduli ke manapun kami pergi."</em><br>
+  — <strong>Toushirou Hijikata</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
