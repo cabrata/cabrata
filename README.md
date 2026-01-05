@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi diriku sendiri, aku akan melakukan apapun yang ingin kulakukan. Itulah alasanku bertarung."</em><br>
-  — <strong>Julis-Alexia von Riessfeld</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>""skakmat" bukan berarti kau menyudutkan raja lawan. Itu adalah pernyataan bahwa raja lawan menjadi milikmu."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
