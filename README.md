@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhentilah menyalahkan orang lain.Aku tak tahu apa yang sebenarnya terjadi. Tapi bila kau menyalahkan orang lain, itu takkan menyelesaikan masalah apapun. Di masa mendatang akan ada banyak keadaan yang sulit untuk dijelaskan. Dan akhirnya kau tak punya pilihan lain selain memperbaiki diri sendiri."</em><br>
-  — <strong>Kazuichi Arai</strong>, <em>Kimi ni Todoke</em>
+  <em>"Setelah kesalahan terungkap maka kesalahan itu akan jadi kebenaran. Di dunia ini tidak ada yang namanya kesalahan."</em><br>
+  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
 </div>
 <!-- QUOTE END -->
 
