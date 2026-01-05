@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah bersumpah untuk melindungi Kakak! Tak ada lagi tujuanku selain melindungi Kakak dan dunia ini!"</em><br>
-  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Kau tak bisa menilai naskah game itu bagus atau jelek jika belum membacanya di dalam game."</em><br>
+  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
