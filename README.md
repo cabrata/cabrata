@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakek berpesan, hiduplah dengan bebas, pilihlah jalan yang kau yakini dan hiduplah dengan kegembiraan."</em><br>
-  — <strong>Mikleo</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Mereka bilang dunia akan berubah jika kau berubah, tapi itu bohong.
+Mereka hanya memaksamu untuk berkompromi dengan berbohong."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
