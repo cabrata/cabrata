@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun tidak ada yang mempercayaimu, aku akan selalu mempercayaimu."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"Pekerjaan seorang Idol bukan hanya menjukkan senyuman kepada orang lain, tapi seorang Idol harus bisa membuat orang lain tersenyum!"</em><br>
+  — <strong>Niko Yazawa</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
