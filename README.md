@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang hidup dengan melihat ke masa depan. Semua impian masa depan didasarkan dari diri kita saat ini."</em><br>
-  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
+  <em>"Memikirkan kegagalan adalah hal yang bodoh."</em><br>
+  — <strong>Lupusregina Beta</strong>, <em>Overlord III</em>
 </div>
 <!-- QUOTE END -->
 
