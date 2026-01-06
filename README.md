@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat aku masih kecil, aku bercita-cita ingin menjadi seorang pahlawan.
-Tapi aku ingin jadi pahlawan yang menghempaskan penjahat kurang ajar (sepertimu) dengan satu pukulan !"</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Akan terasa pedih untuk menjaga ataupun melepaskan sesuatu yang tak bisa kau dapatkan kembali.
+Jika kedua-duanya akan terasa pedih, aku lebih baik menderita untuk mempertahankannya."</em><br>
+  — <strong>Tae Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
