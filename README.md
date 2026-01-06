@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan baik-baik saja kalau kau tidak lari.
-Aku akan baik-baik saja kalau kau menunjukkan jalan untukku.
-Aku akan baik-baik saja kalau kau terus menggenggam tanganku."</em><br>
-  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Kakak itu memang hebat. Aku takkan pernah menandinginya."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
