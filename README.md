@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walaupun dalam hal membunuh, maka sebagai umat manusia, semuanya harus dilakukan atas aturan dan tujuan! Jika tidak, maka setiap perang hanya akan membuat dunia ini seperti neraka!"</em><br>
-  — <strong>Saber</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Film bagus akan tetap bagus dilihat di layar apa pun."</em><br>
+  — <strong>Tsukasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
