@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang kau akan melihat sesuatu saat memejamkan mata."</em><br>
-  — <strong>Arthur Boyle</strong>, <em>Enen no Shouboutai</em>
+  <em>"Ketika aku menatap Kazehaya, aku tak bisa mengalihkan pandanganku. Mungkin karena itu, sebelum tidur wajah Kazehaya selalu muncul di pikiranku. Aku belum pernah merasakan perasaan spesial seperti ini sebelumnya."</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
