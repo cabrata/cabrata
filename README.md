@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika aku menatap Kazehaya, aku tak bisa mengalihkan pandanganku. Mungkin karena itu, sebelum tidur wajah Kazehaya selalu muncul di pikiranku. Aku belum pernah merasakan perasaan spesial seperti ini sebelumnya."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke 2nd Season</em>
+  <em>"Hal-hal yang perlu dilakukan hanya dapat dilakukan oleh orang yang mampu melakukannya."</em><br>
+  — <strong>Yuki Funahara</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
