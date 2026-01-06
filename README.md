@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakak itu memang hebat. Aku takkan pernah menandinginya."</em><br>
-  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Pekerja yang hebat adalah pekerja yang mengerjakan pekerjaan sebaik mungkin dalam batas waktu yang diberikan."</em><br>
+  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
