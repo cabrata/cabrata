@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau mengeluh, kau akan kehilangan sedikit kebahagiaanmu."</em><br>
-  — <strong>Misaki Kamiigusa</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Kalau kita menyerah sebelum bertempur, kita tidak akan mendapatkan apapun."</em><br>
+  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
