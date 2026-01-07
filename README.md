@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin kalian bertengkar dengan baik."</em><br>
-  — <strong>Ichika Nakano</strong>, <em>Gotoubun no Hanayome</em>
+  <em>"Saling mencintai itu adalah keajaiban yang membahagiakan."</em><br>
+  — <strong>Hikari Tsutsui</strong>, <em>3D Kanojo: Real Girl</em>
 </div>
 <!-- QUOTE END -->
 
