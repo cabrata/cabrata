@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah sejak lama aku selalu melihatmu. Ini bukan lelucon, aku serius. Tak ada hal lain yang kupikirkan selain dirimu."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Apapun yang terjadi kalian harus hidup dengan rasa bangga."</em><br>
+  — <strong>Hisa</strong>, <em>Kimetsu no Yaiba</em>
 </div>
 <!-- QUOTE END -->
 
