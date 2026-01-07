@@ -5,8 +5,19 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengajarimu seni pedang akan membuatmu jadi lebih kuat. Tapi berlatih hanya untuk menjadi kuat itu tak ada artinya."</em><br>
-  — <strong>Wilhelm van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Ada hal yang ingin kusampaikan padamu Junichi.
+Teman yang buruk, kawan, (seorang) yang tak terpisahkan.
+Banyak kata untuk mengungkapkan hubungan kita.
+Tapi aku tidak mau ada jarak lagi diantara kita.
+Akhirnya kusadari perasaanku.
+Sampai sekarang, aku merasa senang mengerjaimu.
+Tapi itu semua baru saja berakhir.
+Entah sejak kapan, aku selalu mengerjaimu.
+Kita memiliki banyak kenangan sepanjang waktu dan membuatku sadar atas perasaan ini.
+Aku tahu 100 hal buruk tentangmu.
+Tapi aku tahu 101 hal baik tentangmu.
+Junichi.. aku menyukaimu."</em><br>
+  — <strong>Kaoru Tanamachi</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
