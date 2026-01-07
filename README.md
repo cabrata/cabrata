@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bilang saat kau menemukan sesuatu yang tidak bisa diatasi dengan pengalaman dan pengetahuanmu, maka kau akan berubah."</em><br>
-  — <strong>Seinen Shounin</strong>, <em>Maoyuu Maou Yuusha</em>
+  <em>"Dulu, ada kalanya kita berjuang tanpa malu terlunta-lunta tak jelas. Tapi sekarang, semuanya telah usai. Api yang kecil tapi kuat di hati kita ini memberitahu kita kalau yang kita lakukan selama ini tidak sia-sia."</em><br>
+  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
