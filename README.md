@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua musik dimulai dengan cinta.
-Cinta dan kematian adalah tema abadi musik."</em><br>
-  — <strong>Sapphire Kawashima</strong>, <em>Hibike! Euphonium</em>
+  <em>"Justru impian yang sederhanalah yang paling sulit diwujudkan."</em><br>
+  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
 </div>
 <!-- QUOTE END -->
 
