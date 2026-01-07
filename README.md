@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekuatan yang terlalu besar akan menghancurkan sekelilingnya."</em><br>
-  — <strong>Koushi Usa</strong>, <em>ReLIFE</em>
+  <em>"Untuk menjadi dewasa, kau butuh rival."</em><br>
+  — <strong>Takao Kawafuji</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
