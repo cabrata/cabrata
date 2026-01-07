@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan (pernah) meremehkan seorang otaku yang sedang bersungguh-sungguh."</em><br>
-  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Ada saat dimana kita harus tetap bertarung meskipun kita tahu pasti akan kalah."</em><br>
+  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
