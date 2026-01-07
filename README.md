@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau melakukan sesuatu yang akan melukaiku, aku akan mengerahkan seluruh kekuatanku untuk menghentikannya."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Kau harus punya mata dan keberanian untuk mengatakan yang bagus ya bagus, dan jelek ya jelek."</em><br>
+  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
