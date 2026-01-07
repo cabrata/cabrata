@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saling mencintai itu adalah keajaiban yang membahagiakan."</em><br>
-  — <strong>Hikari Tsutsui</strong>, <em>3D Kanojo: Real Girl</em>
+  <em>"Kalau kau merasa malu, tunjukkan padaku sudah sedewasa apakah dirimu!"</em><br>
+  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
