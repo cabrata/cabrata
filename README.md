@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerja keras yang didasari dengan alasan itu takkan membuahkan hasil."</em><br>
-  — <strong>Sumireko Sanshokuin</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Kekuatan yang terlalu besar akan menghancurkan sekelilingnya."</em><br>
+  — <strong>Koushi Usa</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
