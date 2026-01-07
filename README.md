@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh mati dengan mempertahankan harga dirimu itu,  tapi jika kau makan dan hidup bukankah masa depanmu akan lebih baik?"</em><br>
-  — <strong>Sanji</strong>, <em>One Piece</em>
+  <em>"Kebingungan mengakibatkan celah, dan celah mengganggu keuntungan kita. Jangan gelisah hanya karena musuh yang tidak kita kenal. Musuh ingin kita kehilangan ketenangan. Bertindaklah dengan pikiran yang jernih!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
