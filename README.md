@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masa muda adalah kebohongan dan kejahatan. Mereka yang mengagungkan masa mudanya hanyalah membodohi diri sendiri dan orang di sekitarnya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Semua musik dimulai dengan cinta.
+Cinta dan kematian adalah tema abadi musik."</em><br>
+  — <strong>Sapphire Kawashima</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
