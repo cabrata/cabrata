@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi mereka yang berbakat, memiliki bakat itu sendiri membawa penderitaan."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Aku tak boleh kalah disini! Aku telah bersumpah di makam ayah bahwa aku akan menjadi exorcist yang hebat seperti dirinya dan akan menghajar Satan!"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
