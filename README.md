@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau mempercayaiku, akupun akan mempercayaimu. Itulah apa yang dinamakan sebagai teman bukan?"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Ingin bunuh diri karena merasa bersalah itu keliru!"</em><br>
+  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
