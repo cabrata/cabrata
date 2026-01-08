@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika ada hal yang membuatku bahagia, aku ingin kamu jadi orang pertama yang mengetahuinya. Jika ada hal yang membuatmu sedih, aku akan menanggungnya bersamamu. Aku ingin kita jadi suami-istri yang saling berbagi dan mendukung satu sama lain. Aku takkan membiarkanmu menyesal telah memilihku."</em><br>
-  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Kita tak bisa menilai sesuatu yang tak bisa dilihat."</em><br>
+  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
 </div>
 <!-- QUOTE END -->
 
