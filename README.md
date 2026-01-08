@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ekskul adalah metode terbaik untuk memisahkan anak muda yang belum matang dari masyarakat."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
+  <em>"Manusia boleh hidup dengan cara yang mereka mau. Menurutku orang yang berpegang teguh pada cara hidupnya sendiri adalah orang kuat yang sejati."</em><br>
+  — <strong>Oji-san</strong>, <em>Isekai Ojisan</em>
 </div>
 <!-- QUOTE END -->
 
