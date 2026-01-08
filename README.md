@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak bermain sesuai dengan arahan partiturnya hanyalah keegoisan manusia yang sudah menyerah."</em><br>
-  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kalau kau tidak hidup demi dirimu sendiri, maka kau takkan pernah mengerti apa itu arti kebahagiaan!"</em><br>
+  — <strong>Rin Tohsaka</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
