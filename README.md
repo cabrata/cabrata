@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apapun yang terjadi, aku akan selalu denganmu."</em><br>
-  — <strong>Yuno Gasai</strong>, <em>Mirai Nikki</em>
+  <em>"Manusia adalah makhluk yang berpikir sebelum bertindak."</em><br>
+  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
