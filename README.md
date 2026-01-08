@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah orang yang mengatakan aku tak bisa melakukannya sendiri. Jika kau benar, tidak ada yang perlu dikhawatirkan. (Karena aku akan selalu ada sisimu)."</em><br>
-  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
+  <em>"Kebebasan adalah sesuatu yang tidak terikat oleh harapan orang lain, dan hanya mengikuti kata hati sendiri."</em><br>
+  — <strong>Serge</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
