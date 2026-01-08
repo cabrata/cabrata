@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun yang ingin turun sebelum sampai di puncak, sebaiknya jatuh saja."</em><br>
-  — <strong>Sougo Okita</strong>, <em>Gintama°</em>
+  <em>"Kau akan menjadi kuat ketika semua orang mengincarmu."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
