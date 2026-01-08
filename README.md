@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta itu sama halnya dengan "soal ujian".
-Pertama kau harus mengenalnya dengan baik, lalu mulailah ketika kau sudah memahaminya."</em><br>
-  — <strong>Soujirou Agata</strong>, <em>Sket Dance</em>
+  <em>"Kalau kita bersama dan memenuhi kewajiban kita, masa depan yang indah akan menanti kita."</em><br>
+  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
