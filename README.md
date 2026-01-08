@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saya sangat senang bahwa (hidup di) dunia ini tidak mudah."</em><br>
-  — <strong>Nadeko Sengoku</strong>, <em>Monogatari Series: Off & Monster Season</em>
+  <em>"Jangan berjanji jika tidak bisa menepatinya!"</em><br>
+  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
