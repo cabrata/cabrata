@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan menangis Yamato. Jangan menangis demi aku. Kau tak perlu mengkhawatirkanku. Tertawalah...
-Yang paling tidak kuinginkan adalah saat melihatmu menangis."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Mulanya kupikir, aku akan pergi ke universitas yang bagus, jika gagal menjadi seniman manga. Tapi aku menyadari itu merupakan rencana bodoh. (karena ketika aku memutuskan untuk memiliki impian, aku tak boleh berpikiran akan gagal)."</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
