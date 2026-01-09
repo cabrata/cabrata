@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak apa-apa kamu tak mencintaiku. Tapi biarkan aku mencintaimu."</em><br>
-  — <strong>Touko Nanami</strong>, <em>Yagate Kimi ni Naru</em>
+  <em>"Yang menang selalu benar! Dan yang salah adalah setan!"</em><br>
+  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
