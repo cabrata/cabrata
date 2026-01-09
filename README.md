@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam menjalani hidup, kalian pasti akan menemui situasi di mana pendapat kalian bertentangan dengan pendapat masyarakat.
-Saat itu terjadi, jangan menyalahkan masyarakat. Jangan menolak pendapat masyarakat umum. Karena hal itu hanya akan menyia-nyiakan waktu kalian.Saat itu terjadi, cukup katakan "beginilah hidup!". Hadapilah rasa putus asa itu. Setelah berhasil menghadapinya, pikirkanlah (kembali) jika masyarakat menentang keras pendapat kalian, bagaimana sikap kalian menanggapi pertentangan tersebut."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Dunia ini adalah tanah kosong. Di mana yang tidak bersalah akan dilahap. Di mana seseorang tidak bisa bertahan hidup hanya dengan melakukan hal yang disenangi saja. Hanya mereka yang membakar ambisi dalam hati merekalah yang akan bisa bersaing untuk impian mereka di tanah kosong yang kejam ini!."</em><br>
+  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
 </div>
 <!-- QUOTE END -->
 
