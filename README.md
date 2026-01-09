@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak boleh mengatakan hal yang vulgar kepada perempuan."</em><br>
-  — <strong>Sagiri Izumi</strong>, <em>Eromanga-sensei</em>
+  <em>"Manusia suka sekali membuat kesalahan yang sama. Mereka tak bisa diharapkan."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
