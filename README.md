@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah sesuatu yang sangat akrab dengan ketidakadilan. Ada yang hidup dengan makmur, dan ada juga yang hidupnya sangat menderita."</em><br>
-  — <strong>Decim</strong>, <em>Death Parade</em>
+  <em>"Jika seorang pria bersungguh-sungguh, apapun mungkin bisa diselesaikan dalam sehari."</em><br>
+  — <strong>Kurihara</strong>, <em>Prison School</em>
 </div>
 <!-- QUOTE END -->
 
