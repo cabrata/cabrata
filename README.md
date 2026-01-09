@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kita hanya melihat ke atas terus, kita akan kehilangan pijakan."</em><br>
-  — <strong>Keishin Ukai</strong>, <em>Haikyuu!!</em>
+  <em>"Nenekku bilang, tubuh sehat membuat seorang gadis menjadi cantik."</em><br>
+  — <strong>Makoto Kowata</strong>, <em>Flying Witch</em>
 </div>
 <!-- QUOTE END -->
 
