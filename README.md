@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia tumbuh lebih kuat demi dirinya sendiri."</em><br>
-  — <strong>Hibana</strong>, <em>Enen no Shouboutai</em>
+  <em>"Sejujurnya, aku masih bingung...
+Tapi hatiku akhirnya sudah tenang."</em><br>
+  — <strong>Homura</strong>, <em>Sekirei: Pure Engagement</em>
 </div>
 <!-- QUOTE END -->
 
