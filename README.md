@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku mendengarkan semua lagu mereka. Aku melihat video mereka setiap hari dan menghapal lagunya. Lalu aku berpikir, aku juga ingin melakukannya bersama teman-temanku. Aku ingin memiliki tujuan yang sama seperti mereka. Aku juga ingin bersinar!"</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Jika saja aku masih lemah, akan ada hari ketika aku tidak bisa berteriak sekuat-kuatnya. Jika hal seperti itu terjadi, maka kau akan dimakan (oleh yang kuat)."</em><br>
+  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
