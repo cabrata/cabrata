@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bukannya menginginkan dunia yang bebas dari pertempuran. Aku hanya tidak ingin ada yang menangis di dunia ini."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Aku siap melakukan apapun untuk menjadi kuat. Tapi sedikitpun aku tak bisa membayangkan mampu melampaui kekuatan guru."</em><br>
+  — <strong>Genos</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
