@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh mati dengan mempertahankan harga dirimu itu,  tapi jika kau makan dan hidup bukankah masa depanmu akan lebih baik?"</em><br>
-  — <strong>Sanji</strong>, <em>One Piece</em>
+  <em>"Kau tidak boleh mengatakan hal yang vulgar kepada perempuan."</em><br>
+  — <strong>Sagiri Izumi</strong>, <em>Eromanga-sensei</em>
 </div>
 <!-- QUOTE END -->
 
