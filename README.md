@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan pernah berpikiran buruk kepada manusia."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Kau boleh mati dengan mempertahankan harga dirimu itu,  tapi jika kau makan dan hidup bukankah masa depanmu akan lebih baik?"</em><br>
+  — <strong>Sanji</strong>, <em>One Piece</em>
 </div>
 <!-- QUOTE END -->
 
