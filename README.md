@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seorang pria bersungguh-sungguh, apapun mungkin bisa diselesaikan dalam sehari."</em><br>
-  — <strong>Kurihara</strong>, <em>Prison School</em>
+  <em>"Tidak ada ibu di dunia ini yang benci sama anaknya sendiri. Waktu kamu mulai tumbuh mandiri, baik sebagai manusia maupun sebagai pianis. Saki pasti merasa bahagia waktu itu."</em><br>
+  — <strong>Hiroko Seto</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
