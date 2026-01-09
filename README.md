@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau sudah puas sekarang? Kalau ini belum cukup untukmu. Akan kuterima tantanganmu sebanyak apapun kau mau, karena aku sudah terbiasa. Jadi, aku mohon padamu, jangan libatkan orang yang tidak bersalah!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Aku bukanlah orang baik. Tak ada apa pun yang bisa kuajarkan padamu, tapi aku ingin kau berjanji satu hal padaku. Saat teman atau perempuan yang kau cintai sedang kesulitan, lindungilah dengan cara apa pun, itu adalah tugas laki-laki. Dengan cara itu, laki-laki bisa terus bangkit dalam situasi sesulit apa pun. Jadilah laki-laki seperti itu."</em><br>
+  — <strong>Papa Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
