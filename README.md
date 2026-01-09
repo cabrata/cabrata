@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada ibu di dunia ini yang benci sama anaknya sendiri. Waktu kamu mulai tumbuh mandiri, baik sebagai manusia maupun sebagai pianis. Saki pasti merasa bahagia waktu itu."</em><br>
-  — <strong>Hiroko Seto</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Sesuatu yang paling diinginkan seseorang pasti dimiliki oleh orang lain.
+Bagi orang yang memilikinya, sesuatu itu dianggap tidak penting.
+Bagi orang yang mendapatkan sesuatu yang paling mereka inginkan itu bagaikan sebuah keajaiban.
+Bahkan seluruh lelucon dan kejadian buruk yang terjadi akan luluh karena keajaiban itu.
+Pada dasarnya dunia ini seperti itu."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
