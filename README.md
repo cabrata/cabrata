@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang menang selalu benar! Dan yang salah adalah setan!"</em><br>
-  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
+  <em>"Aku bukannya menginginkan dunia yang bebas dari pertempuran. Aku hanya tidak ingin ada yang menangis di dunia ini."</em><br>
+  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
