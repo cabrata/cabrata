@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta memainkan peran penting dalam masyarakat, seperti halnya dengan nutrisi."</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS</em>
+  <em>"Saat anak - anak bermasalah, mereka membutuhkan orang dewasa disampingnya."</em><br>
+  — <strong>Yukari Nitani</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
