@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengarkan kalian (para murid). Saat malam hari orang harus tidur. Karena nanti kalau sudah dewasa meskipun kalian benci begadang, tapi (keadaan membuat) kalian harus melakukannya. Selagi masih muda, kalian harus terbiasa hidup sehat."</em><br>
-  — <strong>Sensei</strong>, <em>Yofukashi no Uta</em>
+  <em>"Berada di samping gadis cantik dan dapat melayaninya adalah karunia besar setiap laki-laki."</em><br>
+  — <strong>Goushi Asougi</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
 </div>
 <!-- QUOTE END -->
 
