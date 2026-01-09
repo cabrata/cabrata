@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yg kau cintai belum tentu akan mencintaimu. Orang yg kau benci belum tentu juga akan membencimu. Terkadang, bahkan orang itu tidak akan membiarkanmu membenci dirinya.
-Karena manusia bukanlah karakter dalam manga. Orang yg benar-benar dibenci itu tidak ada. Orang yg benar-benar jahat juga tidak ada. Tidak ada sifat (seseorang) yang terlihat sama dari setiap sudut pandang, dan sifat seseorang tidak selamanya sama. Walaupun kau yakin dengan kemampuan berlarimu, tapi kau tidak selalu berlari kan? (Setidaknya) kau pasti berjalan dan tidur."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Hanamonogatari</em>
+  <em>"Aku mendengarkan semua lagu mereka. Aku melihat video mereka setiap hari dan menghapal lagunya. Lalu aku berpikir, aku juga ingin melakukannya bersama teman-temanku. Aku ingin memiliki tujuan yang sama seperti mereka. Aku juga ingin bersinar!"</em><br>
+  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
