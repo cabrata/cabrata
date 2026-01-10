@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerja yang hebat adalah pekerja yang mengerjakan pekerjaan sebaik mungkin dalam batas waktu yang diberikan."</em><br>
-  — <strong>Sayuki Kuroda</strong>, <em>Shoujo-tachi wa Kouya wo Mezasu</em>
+  <em>"Kakak adalah kelinci percobaan terbaik."</em><br>
+  — <strong>Tanaka</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
 </div>
 <!-- QUOTE END -->
 
