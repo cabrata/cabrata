@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena mereka berteman dengan seorang gadis yang baik, bukan berarti mereka juga baik."</em><br>
-  — <strong>Makoto Sunakawa</strong>, <em>Ore Monogatari!!</em>
+  <em>"Nenekku bilang, tubuh sehat membuat seorang gadis menjadi cantik."</em><br>
+  — <strong>Makoto Kowata</strong>, <em>Flying Witch</em>
 </div>
 <!-- QUOTE END -->
 
