@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika ada yang menyatakan suka padamu, kamu akan merasa senang, geli, malu, tapi terasa nyaman di hati."</em><br>
-  — <strong>Rika Dobashi</strong>, <em>Hatsukoi Limited</em>
+  <em>"Masalahnya, bagaimana aku bisa mengatasi ini? Bagaimana (caranya agar) aku dapat mengembalikan keadaan ini? Apa aku harus meminta bantuan? Kenapa aku jadi bergantung pada orang lain?
+Hubungan antara manusia hanya akan menimbulkan ketergantungan."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
