@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sedang bersaing dengan ayahku. Dan aku harus melakukan sesuatu yang hebat agar dia mau mengakuiku."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Selama ini aku telah menghabiskan waktu hidupku untuk berbohong. Setidaknya mulai dari sekarang, aku akan berusaha untuk jujur pada diriku sendiri."</em><br>
+  — <strong>Cagliostro</strong>, <em>Senki Zesshou Symphogear AXZ</em>
 </div>
 <!-- QUOTE END -->
 
