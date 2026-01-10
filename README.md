@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun seseorang tidak mendapatkan kebahagiaan, tapi setidaknya pasti akan ada hal baik yang akan terjadi padanya selama dia masih hidup."</em><br>
-  — <strong>Nadeko Sengoku</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Baik 10 tahun yang lalu atau 10 tahun yang akan datang, waktu selalu memiliki batas."</em><br>
+  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
