@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tahu kalah itu mengecewakan. Tapi ayolah, musuh (pada pertandingan) kemarin adalah teman hari ini."</em><br>
-  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
+  <em>"Bermimpilah seakan kau hidup selamanya. Hiduplah seakan kau akan mati hari ini."</em><br>
+  — <strong>Hijiri Minowa</strong>, <em>Bakuon!!</em>
 </div>
 <!-- QUOTE END -->
 
