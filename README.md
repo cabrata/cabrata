@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wajar kalau siswa SMP itu (masih) anak-anak, masalahnya mereka tidak sadar kalau mereka anak-anak. Meskipun begitu masih lebih baik daripada orang dewasa yang tidak menganggap dirinya dewasa."</em><br>
-  — <strong>Mayoi Hachikuji</strong>, <em>Nisemonogatari</em>
+  <em>"Aku merasa menjadi pahlawan itu adalah bagian dari hobi.
+Dengan kata lain, selama aku bisa menghajar musuh, kurasa itu sudah cukup."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
