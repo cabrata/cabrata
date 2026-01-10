@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang tua manapun akan lega bila anaknya kembali ke rumah."</em><br>
-  — <strong>Ichiya Suzaku</strong>, <em>Qualidea Code</em>
+  <em>"Ada hal yang hanya dapat diketahui setelah kau menghadapinya."</em><br>
+  — <strong>Yoshiyuki Nakajima</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
