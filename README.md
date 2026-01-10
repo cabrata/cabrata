@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhentilah berkecil hati gara-gara kesalahpahaman."</em><br>
-  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Dalam sebuah pertandingan, kau harus kuat agar dapat menikmati pertandingan itu."</em><br>
+  — <strong>Tadashi Yamaguchi</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
