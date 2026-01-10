@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah bersumpah untuk melindungi Kakak! Tak ada lagi tujuanku selain melindungi Kakak dan dunia ini!"</em><br>
-  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Wajar kalau siswa SMP itu (masih) anak-anak, masalahnya mereka tidak sadar kalau mereka anak-anak. Meskipun begitu masih lebih baik daripada orang dewasa yang tidak menganggap dirinya dewasa."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
