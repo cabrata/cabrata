@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakak adalah kelinci percobaan terbaik."</em><br>
-  — <strong>Tanaka</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
+  <em>"Siapapun pasti tak ingin ada orang yang menyangkal kesukaan kita. Kita ingin orang lain juga tertarik dengan yang kita sukai. Karena lebih menyenangkan apabila banyak teman yang juga menyukai hal yang kita sukai."</em><br>
+  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
