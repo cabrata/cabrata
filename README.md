@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bagaimana rasanya mencintai seseorang? Pada saat apa kamu mulai berpikir bahwa itu cinta?)Bagiku, ketika aku menyadari itu aku selalu memikirkan tentangnya. Rasanya (dia) seperti tidak bisa pergi dalam pikiranku."</em><br>
-  — <strong>Yuumi Hoshino</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Saat manusia terjatuh dalam kegelapan mereka membutuhkan cahaya. Tak peduli seredup apa pun cahaya itu selama masih ada secercah cahaya akan ada harapan."</em><br>
+  — <strong>Suiryuu</strong>, <em>One Punch Man Season 2</em>
 </div>
 <!-- QUOTE END -->
 
