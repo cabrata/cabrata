@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Jantungku) ini terasa aneh. Dari tadi berdetak kencang... sejak kau bilang padaku untuk tidak pergi, sejak kau memelukku dengan erat. Suaramu masih terdengar di telingaku. Rasa tubuhmu masih tertinggal (di diriku).
-Apa yang terjadi denganku? Apakah ini (yang dinamakan) "cinta" ?"</em><br>
-  — <strong>Mashiro Shiina</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Cinta dapat membuat seseorang menjadi kuat dan lemah."</em><br>
+  — <strong>Hibiki Tsukahara</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
