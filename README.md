@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat manusia terjatuh dalam kegelapan mereka membutuhkan cahaya. Tak peduli seredup apa pun cahaya itu selama masih ada secercah cahaya akan ada harapan."</em><br>
-  — <strong>Suiryuu</strong>, <em>One Punch Man Season 2</em>
+  <em>"Pikirkanlah baik-baik, tak perlu terburu-buru, dan cintailah aku dengan perlahan. Aku akan selalu berada di sisimu dan berusaha keras untuk membuatmu jatuh cinta padaku."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
