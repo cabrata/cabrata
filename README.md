@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Daripada khawatir dengan karakter gadis idaman di dunia game, lebih baik mengkhawatirkan kehidupan nyatamu."</em><br>
-  — <strong>Tasuku Uehara</strong>, <em>Gamers!</em>
+  <em>"Jangan melihat ke atas terus.
+Bersabarlah, nanti juga akan ada yang jatuh ke tanah.
+Kalau tidak bisa mendapat yang di atas, kita ambil yg di bawah saja."</em><br>
+  — <strong>Yasu Nomura</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
