@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenapa iblis jahat pada manusia?Itu karena untuk membantu Tuhan dalam Penilaian Akhir dengan menguji dan memberi cobaan pada manusia. Pada dasarnya kita (para iblis) bekerja atas kehendak Tuhan."</em><br>
-  — <strong>Beelzebub</strong>, <em>Beelzebub-jou no Okinimesu mama.</em>
+  <em>"Semakin banyak aku menyimpan momen ini, semakin sedih yang kurasakan ketika saat itu tiba. Tapi aku tak ingin menyebut perasaan ini dengan penyesalan."</em><br>
+  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
 </div>
 <!-- QUOTE END -->
 
