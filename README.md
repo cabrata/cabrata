@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Skala dari angka yang tinggi dapat membuatmu tak terkalahkan."</em><br>
-  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
+  <em>"Demi menemukan kebenaran di balik kematian seseorang, tentu wajar jika kita juga harus mempertaruhkan nyawa kita."</em><br>
+  — <strong>Shinya Kougami</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
