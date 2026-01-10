@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengarkan kalian (para murid). Saat malam hari orang harus tidur. Karena nanti kalau sudah dewasa meskipun kalian benci begadang, tapi (keadaan membuat) kalian harus melakukannya. Selagi masih muda, kalian harus terbiasa hidup sehat."</em><br>
-  — <strong>Sensei</strong>, <em>Yofukashi no Uta</em>
+  <em>"Daripada khawatir dengan karakter gadis idaman di dunia game, lebih baik mengkhawatirkan kehidupan nyatamu."</em><br>
+  — <strong>Tasuku Uehara</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
