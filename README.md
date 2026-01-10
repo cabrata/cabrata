@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin menikmati hubungan asmara ini, bukan hasilnya."</em><br>
-  — <strong>Mari Shiina</strong>, <em>Renai Boukun</em>
+  <em>"Manusia itu kuat karena memiliki kemampuan untuk mengubah dirinya sendiri."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
