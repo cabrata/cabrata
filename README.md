@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau punya hak untuk hidup, kami juga punya. Meskipun aku yakin, setiap manusia memiliki pemikirannya sendiri mengenai "hak". Pokoknya, kami akan melakukan apapun untuk hidup."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"(Bagaimana rasanya mencintai seseorang? Pada saat apa kamu mulai berpikir bahwa itu cinta?)Bagiku, ketika aku menyadari itu aku selalu memikirkan tentangnya. Rasanya (dia) seperti tidak bisa pergi dalam pikiranku."</em><br>
+  — <strong>Yuumi Hoshino</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
