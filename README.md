@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jarang sekali rencana pertamaku berjalan mulus seperti yang ku harapkan. (Maka dari itu) Aku membuat rencana cadangan yang lebih detail untuk hal yang tak terduga dalam misi pembunuhan."</em><br>
-  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Ketika ada yang menyatakan suka padamu, kamu akan merasa senang, geli, malu, tapi terasa nyaman di hati."</em><br>
+  — <strong>Rika Dobashi</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
