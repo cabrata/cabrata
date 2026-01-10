@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta dapat membuat seseorang menjadi kuat dan lemah."</em><br>
-  — <strong>Hibiki Tsukahara</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Tanpa rasa ingin tahu dan emosi, kau tidak akan puas dengan hobimu."</em><br>
+  — <strong>Soune</strong>, <em>Kobayashi-san Chi no Maid Dragon S</em>
 </div>
 <!-- QUOTE END -->
 
