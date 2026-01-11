@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama ini aku mencari hal yang nyata di dunia ini. Bagiku, hal yang nyata itu adalah kehangatan dari genggaman tanganmu."</em><br>
-  — <strong>Rika Shinozaki</strong>, <em>Sword Art Online</em>
+  <em>"Jika kau menghindari pembicaraan yang tak penting, maka kau akan terhindar dari masalah yang tak penting."</em><br>
+  — <strong>Nozomu Itoshiki</strong>, <em>Sayonara Zetsubou Sensei</em>
 </div>
 <!-- QUOTE END -->
 
