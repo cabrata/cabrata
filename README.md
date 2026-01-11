@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami mengadakan konser pertama kami di auditorium ini. Saat itu, aku berkata bahwa suatu hari nanti kami pasti akan membuat seluruh kursi di auditorium ini terisi penuh. Kami telah berjuang keras, dan sekarang kami berada disini. Aku ingin suatu saat perasaanku ini tersampaikan pada semua orang. Dan hari ini, mimpi kami menjadi kenyataan! Karena itulah, kami akan mulai berlari lagi. Menuju impian yang baru!"</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Bukankah kita sepupu?
+Masalahku adalah masalahmu. Bajumu adalah bajuku (juga).
+Bukankah kita harusnya saling membantu?"</em><br>
+  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
