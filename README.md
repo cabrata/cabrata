@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Diriku yakin takdir seperti apa pun bisa diubah dengan kerja keras."</em><br>
-  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Orang-orang selalu bilang, tertawalah dengan wajahmu dan menangislah dengan hatimu."</em><br>
+  — <strong>Koharu Shiroyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
