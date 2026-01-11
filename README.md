@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peperangan akan menimbulkan kebencian meski kau menang. Dan rantai kebencian akan berlanjut. Peperangan seharusnya tidak pernah dilakukan."</em><br>
-  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Aku tak akan menikah dengan orang lain (selain dirimu). Aku telah berdoa agar bisa bersamamu untuk selamanya."</em><br>
+  — <strong>Sae Nakata</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
