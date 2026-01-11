@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pahlawan bisa mati kapan pun karena perintah bodoh (atasan)."</em><br>
-  — <strong>Lancer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Terkadang orang jahat berbuat baik dan orang baik berbuat jahat. Itulah manusia, itulah kita."</em><br>
+  — <strong>Rider</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
