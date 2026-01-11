@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta datang dalam berbagai bentuk. Mungkin memang tidak semuanya menyenangkan, tapi tetap saja (cinta) itu indah."</em><br>
-  — <strong>Mitsuki Shijou</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Selama ini aku mencari hal yang nyata di dunia ini. Bagiku, hal yang nyata itu adalah kehangatan dari genggaman tanganmu."</em><br>
+  — <strong>Rika Shinozaki</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
