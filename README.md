@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa yang akan terjadi jika kita hanya mendapatkan hal-hal yang baik?
-Kita akan berharap besok lebih baik dari hari ini dan lusa lebih baik dari besok.
-Kita akan terus berharap untuk menjadi lebih baik.
-Tapi, pada akhirnya apa yang akan terjadi?
-Pada akhirnya kita tidak akan pernah bisa merasa puas."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou II</em>
+  <em>"Aku ini tidak berpikir kalau aku memiliki tenaga yang lemah. Aku hanya tidak ingin membuang energi untuk hal yang percuma."</em><br>
+  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
