@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yakinlah pada dirimu sendiri! Semuanya akan baik baik saja! Semakin keras kau berusaha, kau pasti akan semakin beruntung!"</em><br>
-  — <strong>Miyano</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
+  <em>"Berapa banyak pun uang yang bisa kamu dapatkan, kamu tidak akan bisa terus melakukan hal yang tidak ingin kamu lakukan. Kamu tidak akan bisa berusaha keras kalau kamu tidak menyukai hal itu."</em><br>
+  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
