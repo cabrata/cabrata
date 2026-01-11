@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku menjadi koki masakan Prancis agar aku dapat membuat ibuku tersenyum setiap saat."</em><br>
-  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Manusia lahir, tumbuh, dan mati tanpa arti. Setelah semuanya berakhir barulah terlihat apa itu arti hidup."</em><br>
+  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
