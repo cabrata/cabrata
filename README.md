@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan memaksakan diri dan menjalani hidup dengan senang-senang."</em><br>
-  — <strong>Red</strong>, <em>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</em>
+  <em>"Aku ingin membuat negeri dimana orang-orang yang kucintai bisa hidup tanpa kebencian."</em><br>
+  — <strong>Lux Acadia</strong>, <em>Saijaku Muhai no Bahamut</em>
 </div>
 <!-- QUOTE END -->
 
