@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap orang memiliki langkah mereka sendiri."</em><br>
-  — <strong>Miwako Tomobe</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"(Dalam permainan) Pengetahuan bisa mengubah kemungkinan 1,92% menjadi 100%. Dengan kata lain, orang yang memiliki pengetahuan memiliki kemenangan yang tak tergoyahkan."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
