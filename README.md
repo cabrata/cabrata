@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ini tidak berpikir kalau aku memiliki tenaga yang lemah. Aku hanya tidak ingin membuang energi untuk hal yang percuma."</em><br>
-  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
+  <em>"Bagiku, keberadaan dirinya seperti dunia itu sendiri. Aku lebih baik mati daripada kehilangan dirinya."</em><br>
+  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
