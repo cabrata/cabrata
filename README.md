@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua sejarah itu bohong. Sejarahmu tentu tidak bohong. Apa kebenaran itu benar-benar nyata? Atau apakah itu mutlak? Itu semua hanya khayalan. Dari awal aku tidak pernah percaya pada siapapun. Aku hanya... ingin bertemu denganmu."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Saat kau menatap jurang terlalu lama, maka jurang tersebut juga akan menatapmu.
+Saat kau mencoba mengungkap rahasia seseorang, maka rahasiamu juga akan terungkap."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
