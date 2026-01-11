@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku memiliki kehidupan yang kosong, tak ada apapun kecuali perasaanku padamu.
-(Meskipun) aku juga tidak punya pedang, tapi hatiku ingin menjadi seorang kesatria."</em><br>
-  — <strong>Akitoshi Daimon</strong>, <em>Sket Dance</em>
+  <em>"Bisa melihat senyuman manismu setiap hari, sudah termasuk imbalan paling sempurna buatku."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Break Time</em>
 </div>
 <!-- QUOTE END -->
 
