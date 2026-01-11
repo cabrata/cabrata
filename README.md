@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku itu orang payang yang tak akan melakukan sesuatu yang tak ingin aku lakukan."</em><br>
-  — <strong>Nako Sunao</strong>, <em>Hitoribocchi no Marumaru Seikatsu</em>
+  <em>"Semua musik dimulai dengan cinta.
+Cinta dan kematian adalah tema abadi musik."</em><br>
+  — <strong>Sapphire Kawashima</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
