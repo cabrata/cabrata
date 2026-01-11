@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak peduli di garis dunia mana pun, di waktu kapanpun atau dimanapun, aku selalu menyukaimu."</em><br>
-  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate: Oukoubakko no Poriomania</em>
+  <em>"Ada pepatah (mengatakan): "Semua akan  berguna kalau dipakai dengan benar"."</em><br>
+  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
