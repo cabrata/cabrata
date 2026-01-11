@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin bergandengan tangan denganmu. Lalu... terkadang aku juga ingin berpelukan denganmu. Maafkan aku karena tak sepolos seperti yang kau pikirkan."</em><br>
-  — <strong>Rinko Yamato</strong>, <em>Ore Monogatari!!</em>
+  <em>"Kau takkan bisa merasa puas jika tidak membebaskan dirimu sendiri."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
