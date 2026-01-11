@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak akan menikah dengan orang lain (selain dirimu). Aku telah berdoa agar bisa bersamamu untuk selamanya."</em><br>
-  — <strong>Sae Nakata</strong>, <em>Amagami SS+ Plus</em>
+  <em>"Entah melakukan hal baik ataupun hal buruk, jadilah boss!!"</em><br>
+  — <strong>Kagura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
