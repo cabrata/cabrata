@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tahu kalah itu mengecewakan. Tapi ayolah, musuh (pada pertandingan) kemarin adalah teman hari ini."</em><br>
-  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
+  <em>"Seorang pria kesepian yang tidak mengenal cinta harus diselimuti dengan cinta tanpa syarat."</em><br>
+  — <strong>Mizuho Asano</strong>, <em>Bleach</em>
 </div>
 <!-- QUOTE END -->
 
