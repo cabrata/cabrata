@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagaimanapun masa lalu atau masa depanmu, itu tidak mengubah fakta bahwa kau sekarang ada di sini."</em><br>
-  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Entah sejak kapan aku berusaha untuk melupakan masa laluku dan memulai hidup baru."</em><br>
+  — <strong>Konjiki no Yami</strong>, <em>To LOVE-Ru Darkness</em>
 </div>
 <!-- QUOTE END -->
 
