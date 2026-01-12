@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada banyak hal yang lebih menakutkan daripada iblis, tapi jangan pernah kalah."</em><br>
-  — <strong>Jukai</strong>, <em>Dororo</em>
+  <em>"Aku tidak punya cukup tenaga untuk bersikap baik terhadap semua orang."</em><br>
+  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
 </div>
 <!-- QUOTE END -->
 
