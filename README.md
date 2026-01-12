@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau aku merasa kesakitan hanya karena hal seperti ini, aku tak pantas menjadi pengawal Tuan Putri!"</em><br>
-  — <strong>Seishirou Tsugumi</strong>, <em>Nisekoi</em>
+  <em>"Aku tak butuh alasan untuk berdiri di puncak. Aku hanya ingin memandang jauh ke depan."</em><br>
+  — <strong>Medaka Kurokami</strong>, <em>Medaka Box</em>
 </div>
 <!-- QUOTE END -->
 
