@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pandangan yang sempit adalah musuh idealisme dan kecerdasan."</em><br>
-  — <strong>Eiha Kudou</strong>, <em>Gimai Seikatsu</em>
+  <em>"Pejudi itu orang terburuk."</em><br>
+  — <strong>Fern</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
