@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunjunganmu merupakan obat terbaik yang dia miliki."</em><br>
-  — <strong>Ume Sawa</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Game simulasi kencan itu sama sekali tidak akan berdampak pada hubungan asmara di kehidupan nyata."</em><br>
+  — <strong>Tasuku Uehara</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
