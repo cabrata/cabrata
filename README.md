@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan menyimpulkan sesuatu sebelum mencobanya."</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Bagaimanapun masa lalu atau masa depanmu, itu tidak mengubah fakta bahwa kau sekarang ada di sini."</em><br>
+  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
