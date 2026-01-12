@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua hanya menari di atas telapak tangan Tuhan."</em><br>
-  — <strong>Otoko</strong>, <em>Konohana Kitan</em>
+  <em>"Kalau kita tidak bahagia, maka kita tidak bisa membuat tamu bahagia. Selain itu, ini bukan hanya demi kamu. Kalau kau bahagia, aku juga bahagia."</em><br>
+  — <strong>Seiji Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
