@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pahlawan tidak pernah mengabaikan perbuatan baik yang tak dihargai."</em><br>
-  — <strong>Hiiro</strong>, <em>Seisen Cerberus: Ryuukoku no Fatalités</em>
+  <em>"Kita semua hanya menari di atas telapak tangan Tuhan."</em><br>
+  — <strong>Otoko</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
