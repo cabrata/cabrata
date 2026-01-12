@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Idol tidak akan membiarkan apapun menjatuhkan mereka!"</em><br>
-  — <strong>Naka</strong>, <em>Kantai Collection: KanColle</em>
+  <em>"Persahabatan itu adalah tempat saling berbagi rasa sakit."</em><br>
+  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
