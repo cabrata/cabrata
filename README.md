@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Agar kejadian tragis di masa lalu tidak terulang kembali, akupun bercita-cita untuk menjadi seorang pahlawan."</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Di balik pintu, kehidupanmu telah menantimu. Karena itu, kau bisa bersikap jujur saat berada di sini.
+Mungkin itu lah kenapa suasana bar dibuat seperti ini."</em><br>
+  — <strong>Hitomi Mishima</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
