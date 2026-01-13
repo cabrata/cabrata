@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena sudah tidak ada waktu, maka menyerah? Sebalinya kan?
-Karena tidak ada waktu, kita tak boleh buang-buang waktu lagi."</em><br>
-  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
+  <em>"Kau boleh kalah di permainan ataupun di pertandaingan.
+Tapi kalau kau tidak kalah dengan dirimu sendiri, itu bukan kekalahan."</em><br>
+  — <strong>Karen Araragi</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
