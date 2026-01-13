@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah mencabuti duri yang ada di jalan seseorang itu benar-benar langkah terbaik untuk (membantu) mereka? Meskipun mereka masih terlalu muda untuk melakukan perjalanan dan terluka, tertapi terkadang penting juga bagi mereka untuk mengetahui rasa sakit dan mencari cara agar mereka bangkit kembali."</em><br>
-  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
+  <em>"Impian dan harapan itu hal yang berbeda. Melihat kenyataan, menganalisis dan bertarung sekuat tenaga lah yang dapat membuka jalan harapan kita."</em><br>
+  — <strong>Berserker</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
