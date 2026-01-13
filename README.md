@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sains adalah satu-satunya bahasa yang bisa membuat kita mengerti alam semesta yang diciptakan Tuhan."</em><br>
-  — <strong>Motojirou Kajii</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Orang bilang "Kebalikan dari dicintai itu bukanlah dibenci, tapi diabaikan"."</em><br>
+  — <strong>Retto Enjou</strong>, <em>Dokyuu H* HxEros</em>
 </div>
 <!-- QUOTE END -->
 
