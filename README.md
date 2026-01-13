@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa kau adalah tipe orang yang tak mau menyelamatkan orang yang kau benci? Aku sih tak punya waktu untuk memikirkan hal bodoh seperti itu! Sebelum kusadari, tubuhku bergerak dengan sendirinya, aku saja terkejut. Mungkin aku tahu alasannya, kita memang berpura-pura, tapi kita sepasang kekasih. Pasti ada semacam naluri."</em><br>
-  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
+  <em>"Kau ini benar-benar menarik. Kau selalu melihat di balik tindakan dan perkataan seseorang. Aku suka dengan (cara pikirmu) itu."</em><br>
+  — <strong>Haruno Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
