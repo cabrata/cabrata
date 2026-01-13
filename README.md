@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah makhluk yang selalu menyesal dan terluka dengan keputusan yang telah dibuatnya."</em><br>
-  — <strong>Glenn Radars</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
+  <em>"Manusia senang menyakiti orang lain ketika mereka tidak bisa menyakiti diri sendiri."</em><br>
+  — <strong>Yozora Mikazuki</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
 </div>
 <!-- QUOTE END -->
 
