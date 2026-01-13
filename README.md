@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan seenaknya mengejek sesuatu yang disukai seseorang."</em><br>
-  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
+  <em>"Tingkatkan kekuatanmu dengan bekerjasama dengan yang lainnya. Dan terus kembangkan kemampuanmu."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
