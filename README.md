@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bilang "Kebalikan dari dicintai itu bukanlah dibenci, tapi diabaikan"."</em><br>
-  — <strong>Retto Enjou</strong>, <em>Dokyuu H* HxEros</em>
+  <em>"Imajinasi adalah senjata. Orang yang tak memilikinya akan mati."</em><br>
+  — <strong>Goblin Slayer</strong>, <em>Goblin Slayer</em>
 </div>
 <!-- QUOTE END -->
 
