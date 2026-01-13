@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kutipan dari Guru Kebenaran.
-"Bila kau tidak mau dibunuh orang, kau pun juga tidak boleh membunuh orang"."</em><br>
-  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Musik itu sangat hangat dan benar-benar memancarkan kebaikan. Aku ingin selalu mendengarnya, aku ingin mendengar musik itu dimainkan olehmu!"</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
