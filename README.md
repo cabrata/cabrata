@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau melawan kejahatan atas kebencian terhadap kejahatan, maka amarah dan dendam itu hanya akan menimbulkan konflik baru."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Untuk mendapatkan masakan yang enak, membutuhkan bahan-bahan yang bagus. Begitulah motto asrama kita!"</em><br>
+  — <strong>Yuuki Yoshino</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
