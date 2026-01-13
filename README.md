@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan kugunakan semua yang bisa kugunakan. Jika itu bisa memperbesar kemungkinan kemenangan, maka resikonya sepadan. Untuk seseorang yang serba kekurangan sepertiku, aku hanya bisa menggunakan cara ini."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Aku tak butuh alasan.
+Saat aku bilang akan kutolong, maka akan kutolong!
+Aku takkan pernah mengkhianati temanku!"</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
