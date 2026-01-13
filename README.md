@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Impian dan harapan itu hal yang berbeda. Melihat kenyataan, menganalisis dan bertarung sekuat tenaga lah yang dapat membuka jalan harapan kita."</em><br>
-  — <strong>Berserker</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Senang sekali ketika bersama dengan semuanya. Tapi ketika dia ada di sana jadi lebih menyenangkan. Ketika bersama dengannya jantungku berdebar-debar. Aku ingin lebih lama lagi bersama dengannya."</em><br>
+  — <strong>Anna Kobayakawa</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
