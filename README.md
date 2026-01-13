@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Daripada khawatir dengan karakter gadis idaman di dunia game, lebih baik mengkhawatirkan kehidupan nyatamu."</em><br>
-  — <strong>Tasuku Uehara</strong>, <em>Gamers!</em>
+  <em>"Mungkin lebih mudah menjalani hidup dalam ketidaktahuan dan kebahagiaan."</em><br>
+  — <strong>Claudia Hoggins</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
