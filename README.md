@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Utarakan saja perasaanmu sesuai dengan alur dan caramu sendiri"</em><br>
-  — <strong>Popura Taneshima</strong>, <em>Working!!!</em>
+  <em>"Kutipan dari Guru Kebenaran.
+"Bila kau tidak mau dibunuh orang, kau pun juga tidak boleh membunuh orang"."</em><br>
+  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
