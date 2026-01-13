@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh bekerja lembur, tapi perhatikan juga kesehatanmu!"</em><br>
-  — <strong>Chihiro Komiya</strong>, <em>Shounen Maid</em>
+  <em>"Meskipun dibenci, tapi masih ada hal yang ingin kamu sampaikan padanya kan? Apakah kau lebih suka pasrah saja dan tidak menyampaikan perasaanmu itu? Meskipun sudah tahu hasilnya, tapi tetap menyampaikannya jelas lebih baik."</em><br>
+  — <strong>Misao Zaitsu</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
