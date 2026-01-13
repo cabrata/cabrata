@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk mendapatkan masakan yang enak, membutuhkan bahan-bahan yang bagus. Begitulah motto asrama kita!"</em><br>
-  — <strong>Yuuki Yoshino</strong>, <em>Shokugeki no Souma</em>
+  <em>"Teruslah berjuang walaupun itu mustahil.
+Lakukanlah sampai perasaanmu mencapainya"</em><br>
+  — <strong>Minene Uryuu</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
