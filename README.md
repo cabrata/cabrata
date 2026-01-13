@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kondisi terjepit, saat itulah ada kesempatan. Saat kita dalam keadaan tanpa harapan, saat itu pula energi negatif dari luar berkumpul. Tapi dengan mengubah pola pikir, kita bisa mengubah keadaan. Karena itu, sesulit atau seburuk apa pun situasinya kita harus berjuang sampai akhir."</em><br>
-  — <strong>Oji-san</strong>, <em>Isekai Ojisan</em>
+  <em>"Mungkin aku harus belajar dari orang bodoh yang terlampau optimis."</em><br>
+  — <strong>Kazuma Satou</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
