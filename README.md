@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang aneh memang menarik."</em><br>
-  — <strong>Shunma Suruga</strong>, <em>Re:CREATORS</em>
+  <em>"Jika kau ingin berkelahi, lakukanlah secara adil dan jujur."</em><br>
+  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
