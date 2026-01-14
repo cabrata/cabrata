@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kekuatan yang terlalu besar akan menghancurkan sekelilingnya."</em><br>
-  — <strong>Koushi Usa</strong>, <em>ReLIFE</em>
+  <em>"Aku tidak peduli tentang menjadi generasi keajaiban, tapi aku tak bisa mengabaikan sebuah tantangan.
+Aku belum cukup dewasa untuk membiarkannya."</em><br>
+  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
