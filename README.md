@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kuharap ada rumus untuk memahami perasaan wanita."</em><br>
-  — <strong>Keiki Kiryuu</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
+  <em>"Kau tak boleh diam dan merasa iri pada dunianya orang lain.
+Kau harus keluar dan mengubah duniamu sendiri."</em><br>
+  — <strong>Shinichi Chiaki</strong>, <em>Nodame Cantabile</em>
 </div>
 <!-- QUOTE END -->
 
