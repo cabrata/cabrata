@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melakukan hal yang tidak perlu. Bergantung pada keberuntungan itu tak akan membuat kemajuan (dalam hidup). Yang perlu dilakukan hanyalah membuat keputusan yang tepat. Kehidupan dunia nyata tidaklah berbeda dengan dunia game. Yang (perlu) aku pikirkan hanyalah ending terbaik."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Keadilan adalah senjata... Senjata yang dapat digunakan untuk melukai, tapi tidak bisa digunakan untuk melindungi ataupun menyelamatkan orang lain."</em><br>
+  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
