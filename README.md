@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pagi hari, angin yang menyegarkan dan cahaya matahari yang lembut mengisyaratkan suatu yang indah akan terjadi."</em><br>
-  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
+  <em>"Aku berusaha menjadi orang dewasa yang ideal. (Tapi) yang kulakukan sebenarnya hanya berpura-pura menjadi orang dewasa. (Karena) anak-anak memerlukan sosok orang dewasa yang bisa menjadi sandaran hatinya."</em><br>
+  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
