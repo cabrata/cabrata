@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hukum berarti ada pelanggaran."</em><br>
-  — <strong>Masakazu Masaki</strong>, <em>Eve no Jikan</em>
+  <em>"Jujur, sekarang aku belum bisa memberikan kontribusi dipertandingan. Tapi aku ingin membantu sebanyak yang kubisa. Itu sebabnya aku di sini. Memang sekarang, aku bukan pelari. Tapi, perasaanku berlari bersama mereka. Aku ingin berbagi dalam kebahagiaan maupun penyesalan. Menurutku "Stride" bukan hanya tentang mengalahkan orang lain. Alasan kenapa aku merasa seperti itu karena, kau dan murid kelas satu lainnya telah menghubungkan perasaan kita semua."</em><br>
+  — <strong>Ayumu Kadowaki</strong>, <em>Prince of Stride: Alternative</em>
 </div>
 <!-- QUOTE END -->
 
