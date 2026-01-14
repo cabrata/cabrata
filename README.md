@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenapa sesuatu yang sangat penting seperti perasaan, hati, dan jiwa adalah sesuatu yang tak bisa dilihat ya?"</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Tidak ada tempat di masyarakat untuk orang yang tak menghargai diri sendiri."</em><br>
+  — <strong>Ai Hayasaka</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
