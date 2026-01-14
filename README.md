@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak mau lari! Kalau aku lari dari apa yang kuhadapi sekarang, aku akan menyesalinya seumur hidupku."</em><br>
-  — <strong>Moe Nishinosono</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Kau takkan tahu perasaan orang lain bila kau tak bertanya.
+Perasaanmu juga takkan pernah diketahui orang lain bila kau tak mengatakannya."</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
