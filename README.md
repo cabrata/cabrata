@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar mungkin tidak ada bunga yang bisa mekar selamanya. Mungkin juga bunga itu akan mudah layu. Tapi, walaupun bunga itu layu, saat musim telah berganti bunga itu akan mekar kembali."</em><br>
-  — <strong>Tsukuyo</strong>, <em>Gintama°: Aizome Kaori-hen</em>
+  <em>"Aku punya banyak hal yang ingin kulakukan, dan diantara itu kupilih (satu) hal yang paling kusukai sebagai pekerjaanku."</em><br>
+  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
