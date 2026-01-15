@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jarang sekali rencana pertamaku berjalan mulus seperti yang ku harapkan. (Maka dari itu) Aku membuat rencana cadangan yang lebih detail untuk hal yang tak terduga dalam misi pembunuhan."</em><br>
-  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Hari-hari meyedihkan dan menyakitkan telah kualami. Mungkin juga akan ada lebih banyak lagi setelah ini. Walaupun begitu (semuanya) tak akan kulupakan, (karena itu adalah) hari-hari penuh kenangan yang sangat berharga."</em><br>
+  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou Shi</em>
 </div>
 <!-- QUOTE END -->
 
