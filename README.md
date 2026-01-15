@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena mereka berteman dengan seorang gadis yang baik, bukan berarti mereka juga baik."</em><br>
-  — <strong>Makoto Sunakawa</strong>, <em>Ore Monogatari!!</em>
+  <em>"Idol tidak akan membiarkan apapun menjatuhkan mereka!"</em><br>
+  — <strong>Naka</strong>, <em>Kantai Collection: KanColle</em>
 </div>
 <!-- QUOTE END -->
 
