@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku semua laki-laki menginginkan kelembutan dari seorang wanita yang baik."</em><br>
-  — <strong>Haruto Fuwa</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Hidup selalu terbentuk dari serangkaian trial dan error."</em><br>
+  — <strong>Shingen Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
