@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih dari siapapun di dunia ini, aku sangat mengenalmu. Aku mengenal kebaikan mu. Karena itu, meski seluruh dunia menyalahkanmu, aku berbeda. Sebanyak apapun itu, aku akan selalu berkata bahwa kau adalah orang baik. Kau telah menyelamatkanku."</em><br>
-  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
+  <em>"(Apakah bunuh diri itu dapat di benarkan, Mikiya?)
+Hm... Misalnya aku mengidap virus berbahaya. Jika aku hidup semua orang di Tokyo akan mati. Jika semuanya bisa selamat kalau aku mati, maka aku mungkin akan bunuh diri. Tapi aku melakukannya karena aku lemah. Aku bunuh diri karena aku tak punya keberanian untuk tetap hidup jika semua orang di Tokyo menyalahkanku.
+Keberanian sesaat atau keberanian berlanjut selama hidupmu. Kau tahu mana yang paling sulit kan?
+Itu adalah argumen yang sulit, tapi kupikir kematian hanyalah pelarian. Ada saat seseorang ingin lari menjauh. Itu sesuatu yang tak bisa dielak ataupun ditolak, karena aku orang yang lemah juga."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
