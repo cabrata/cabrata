@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku punya banyak hal yang ingin kulakukan, dan diantara itu kupilih (satu) hal yang paling kusukai sebagai pekerjaanku."</em><br>
-  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Meskipun cahaya kembang api akan menghilang, tapi kenangannya akan terus terjaga."</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
