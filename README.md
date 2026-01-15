@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencoba mengalahkan seseorang dengan cara licik sama saja dengan merendahkan dirimu sendiri. Jangan menginjak-nginjak semua kerja keras dan kepercayaan yang selama ini telah kau bangun."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Lebih dari siapapun di dunia ini, aku sangat mengenalmu. Aku mengenal kebaikan mu. Karena itu, meski seluruh dunia menyalahkanmu, aku berbeda. Sebanyak apapun itu, aku akan selalu berkata bahwa kau adalah orang baik. Kau telah menyelamatkanku."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
