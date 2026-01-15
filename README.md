@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanya memiliki satu keinginan. Kesamaan hak bagi semuanya. Aku ingin menciptakan negeri dimana semua rakyat memiliki hak yang sama!"</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Orang dewasa punya cara sendiri untuk tumbuh."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
