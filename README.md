@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pemandangan yang kau lihat dari tempat tinggi akan terlihat sangat menakjubkan, tak peduli walau pemandangannya biasa saja."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Kembang api itu indah, terang, dan menarik. Tapi saat cahayanya mulai menghilang, rasanya menyedihkan."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
