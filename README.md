@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu dari awal sudah jenius, kemudian sedikit demi sedikit mulai menjadi bodoh. Karena mereka menjadi bodoh, mereka mulai bekerja dan mulai saling berkomunikasi."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Aku tentara dari dahulu hingga kini. Aku bersiap untuk mengorbankan diri jika dibutuhkan. Namun menolak menjadi bidak catur yang digunakan, selesai dan dibuang."</em><br>
+  — <strong>Sakuma</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
