@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengabaikan seseorang itu hal yang mudah, membenci seseorang lebih mudah lagi, namun mencintai seseorang adalah hal yang sulit."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Tidak ada yang tahu apa yang menunggu di masa depan. Karena itulah ada kemungkinan yang tak terbatas. Seperti pertemuan ini..."</em><br>
+  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate</em>
 </div>
 <!-- QUOTE END -->
 
