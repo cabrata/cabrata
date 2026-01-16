@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Benar-benar tidak masuk akal. Aku bertindak berdasarkan emosi layaknya manusia bodoh. Bahkan anjing pun punya pengendalian diri yang lebih bagus (dariku)"</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Keberuntungan adalah sebuah bakat juga!"</em><br>
+  — <strong>Mio Honda</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
