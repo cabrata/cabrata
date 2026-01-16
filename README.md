@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku iri pada orang-orang yang punya impian dan bersemangat mewujudkannya."</em><br>
-  — <strong>Yuugo Hachiken</strong>, <em>Gin no Saji</em>
+  <em>"Hanya duduk membicarakan mimpi kita, takkan membuatnya nyata."</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
