@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keberuntungan adalah sebuah bakat juga!"</em><br>
-  — <strong>Mio Honda</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Orang bodoh itu masih wajar, tapi mengabaikan kebodohan diri sendiri itu adalah kejahatan besar."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
