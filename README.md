@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau masih ada jalan untuk mundur itu namanya bukan perjalanan. Saat kau berada di titik dimana kau tak bisa kembali, saat itulah perjalananmu dimulai."</em><br>
-  — <strong>Hinata Miyake</strong>, <em>Sora yori mo Tooi Basho</em>
+  <em>"Persahabatan itu adalah tempat saling berbagi rasa sakit."</em><br>
+  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
