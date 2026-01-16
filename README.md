@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bila di dalam dirimu ada kenangan yang berharga, menurutku mubazir kalau kau meninggal (dengan sia-sia)."</em><br>
-  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
+  <em>"Siapapun diri kita, selama kita bisa jujur memikirkan orang yang paling berharga dan bisa terus berada di sampingnya, maka semua orang yang melihatnya pun akan ikut bahagia."</em><br>
+  — <strong>Yayoi Kanbara</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
 </div>
 <!-- QUOTE END -->
 
