@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Touko-san, apa yang menyebabkan seseorang membunuh orang lain?)
-Itu terjadi ketika perasaan emosi pembunuh terhadap korban melampaui batasnya. Entah itu perasaan benci atau cinta, emosi yang tumpah dari wadahnya harus dibersihkan apapun caranya. Dan saat cara itu berubah ekstrem, maka akan menjadi pembunuhan."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
+  <em>"Sejak kecil, aku selalu membayangkan pemandangan indah yang ada di mana-mana. Pemandangan yang selalu aku lihat dan tak terhitung dalam mimpiku. Tapi aku belum pernah kesana. Mereka mengatakan itu adalah efek samping dari Antifeminas milik Inglobe yang ada pada diriku. Tapi aku tak peduli dengan penyebab itu, Aku hanya ingin mencari sesuatu. Karena itu aku melakukan perjalanan."</em><br>
+  — <strong>Ichika Takatsuki</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
