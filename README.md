@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktumu di dunia nyata tidaklah terbuang dengan percuma, karena setiap detiknya telah dilewati di dunia (Sword Art Online) ini."</em><br>
-  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
+  <em>"Tak ada yang lebih mudah daripada membodohi orang bodoh."</em><br>
+  — <strong>Yozora Mikazuki</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
 </div>
 <!-- QUOTE END -->
 
