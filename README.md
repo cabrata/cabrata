@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau mengatakannya dengan cinta, perasaanmu akan tersampaikan."</em><br>
-  — <strong>Tooru Minegishi</strong>, <em>Working!!!</em>
+  <em>"Wanita yang baik menjaga rumah dengan tenang."</em><br>
+  — <strong>Anna Kyouyama</strong>, <em>Shaman King</em>
 </div>
 <!-- QUOTE END -->
 
