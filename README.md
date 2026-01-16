@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan lengah. Kalau segalanya berjalan mulus, kamu akan mudah tersandung."</em><br>
-  — <strong>Muzan Kibutsuji</strong>, <em>Kimetsu no Yaiba: Yuukaku-hen</em>
+  <em>"Aku selalu serius! Tapi kenapa kamu selalu lari?
+Setiap kali aku pikir mulai lebih dekat denganmu, kamu malah bergerak semakin jauh."</em><br>
+  — <strong>Megumi Noda</strong>, <em>Nodame Cantabile: Paris Hen</em>
 </div>
 <!-- QUOTE END -->
 
