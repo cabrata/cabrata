@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Namaku adalah Nasa Yuzaki, seorang yang lebih cepat dari Nasa, seorang yang akan mencapai kecepatan cahaya."</em><br>
-  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
+  <em>"Khawatir akan ditolak, itu sama saja dengan menolak dirimu sendiri."</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
