@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau terjebak di suatu lubang yang begitu dalam dan tak bisa keluar, maka aku akan masuk ke lubang yang sama denganmu untuk menyelamatkanmu."</em><br>
-  — <strong>Masaomi Kida</strong>, <em>Durarara!!x2 Ten</em>
+  <em>"Bagi seorang pria, ada kalanya memukul seseorang itu rasanya lebih sakit daripada terkena pukulan."</em><br>
+  — <strong>Tooru Asagiri</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
