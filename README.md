@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli mereka kuat atau lemah, intinya adalah apakah kita menang atau kalah, dan jika kita kalah, kita tidak akan berdiri lagi di lapangan."</em><br>
-  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!!</em>
+  <em>"Ada dua cara untuk menjalani hidup. Hidup dengan menyadari bahwa hanya sedikit hal yang bernilai dalam diri sendiri, atau hidup dengan menyadari bahwa hanya sedikit hal yang berharga di dunia ini."</em><br>
+  — <strong>Jun Aikawa</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
