@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walau dunia ini memusuhimu, aku akan tetap di sampingmu."</em><br>
-  — <strong>Miyabi Azumaya</strong>, <em>Dimension W</em>
+  <em>"Siapapun pasti pernah melakukan kesalahan. Yang terpenting adalah mengambil pelajaran dari kesalahan yang telah diperbuat."</em><br>
+  — <strong>Hammerhead</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
