@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjudian adalah kegilaan. Di dunia kapitalis, uang adalah nyawa. Orang sehat tidak mungkin mempertaruhkan nyawanya. Tapi pada kenyataannya banyak orang pergi ke tempat perjudian untuk merasakan kegilaan."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Tidak ada peraturan yang menyebutkan kalau rok kostum idol group itu harus pendek!"</em><br>
+  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
