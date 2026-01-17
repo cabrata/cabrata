@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik menyemangati seseorang yang berjuang dalam bayang-bayang daripada orang-orang yang memiliki keberuntungan."</em><br>
-  — <strong>Keita Amano</strong>, <em>Gamers!</em>
+  <em>"Utarakan saja perasaanmu sesuai dengan alur dan caramu sendiri"</em><br>
+  — <strong>Popura Taneshima</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
