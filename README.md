@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku terima kekalahanku dari orang lain. Tapi, aku tidak sudi kalah dari diriku sendiri!"</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Karena kamu adalah manusia artinya kamu bukanlah sosok yang sempurna."</em><br>
+  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online: Alicization</em>
 </div>
 <!-- QUOTE END -->
 
