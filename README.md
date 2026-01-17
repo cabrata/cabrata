@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau punya waktu untuk memikirkan kematianmu, kenapa tak kau jalani kehidupan indahmu sampai akhir?"</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Tak peduli mereka kuat atau lemah, intinya adalah apakah kita menang atau kalah, dan jika kita kalah, kita tidak akan berdiri lagi di lapangan."</em><br>
+  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
