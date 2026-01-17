@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua laki-laki itu bodoh dan cemburuan.
-Begitu pula para perempuan bodoh yang bahagia ketika melihat laki-laki sedang cemburu."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"Jika kau punya waktu untuk memikirkan kematianmu, kenapa tak kau jalani kehidupan indahmu sampai akhir?"</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
