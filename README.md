@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berusahalah dengan keras. Hanya pekerja keras yang pantas diberi hadiah."</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Jika cintamu tidak terbalas, kau harus segera move on darinya."</em><br>
+  — <strong>Izumi Takanashi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
