@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pada saat kita bertemu, kau benar-benar gila. Aku seperti terus merasakan belas kasihmu. Tapi kau membuatku melihat seberapa berharganya musik, dan teman-teman kepadaku. Karena kau berada disini, duniaku terbuka begitu lebar. Jadi ayo tetap bersama selamanya!"</em><br>
-  — <strong>Yuu Haruna</strong>, <em>Fuuka</em>
+  <em>"Rasanya mendebarkan saat kau berpikir bahwa setiap orang memiliki rahasia masing-masing."</em><br>
+  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
