@@ -5,8 +5,21 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah budak dari apa yang dilihatnya."</em><br>
-  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Saat aku sudah dewasa dan bisa pergi kemana saja sendirian, aku ingin pergi ke tempat yang sangat jauh.
+Aku ingin pergi ke pulau yang sangat jauh.
+Aku ingin pergi ke pulau dimana tak ada seorang pun.
+Aku ingin pergi ke pulau yang tak ada hal yang menyakitkan dan menyedihkan.
+Di pulau itu tak ada orang dewasa, anak kecil, teman kelas, guru ataupun ibuku.
+Di pulau itu, saat aku ingin memanjat pohon, aku akan memanjatnya.
+Saat aku ingin berenang, aku akan berenang di laut.
+Saat aku ingin tidur, aku akan tidur.
+Di pulau itu, aku memikirkan kota dimana hanya aku yang tak ada.
+Anak-anak pergi ke sekolah seperti biasanya.
+Orang dewasa pergi bekerja seperti biasanya.
+Ibu makan seperti biasanya.
+Saat aku memikirkan tentang kota yang tanpa diriku, hatiku merasa lega.
+Aku ingin pergi jauh, sejauh mungkin."</em><br>
+  — <strong>Kayo Hinazuki</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
