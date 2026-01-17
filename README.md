@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rasanya mendebarkan saat kau berpikir bahwa setiap orang memiliki rahasia masing-masing."</em><br>
-  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
+  <em>"Mustahil menyelamatkan semua orang. Menyelamatkan banyak orang harus dibayar dengan menghancurkan sebagian kecil orang lainnya."</em><br>
+  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
