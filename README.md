@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku menjadi koki masakan Prancis agar aku dapat membuat ibuku tersenyum setiap saat."</em><br>
-  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Manusia adalah budak dari apa yang dilihatnya."</em><br>
+  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
