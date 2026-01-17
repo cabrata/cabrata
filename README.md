@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam mencintai seseorang tidak boleh mengharapkan balasan. Cinta sejati adalah ketika dapat mengorbankan diri sendiri demi orang lain."</em><br>
-  — <strong>Miyoko Kinjou</strong>, <em>Handa-kun</em>
+  <em>"Saya sudah lama tinggal (bekerja) di depan pemanas hingga uzur. Saya harus segera menyiapkan pemakamanku. Saya ingin membawa seluruh kenangan berharga yang telah saya buat di sini. Saya ucapkan terima kasih pada kalian semua."</em><br>
+  — <strong>Denroku Sukegawa</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
