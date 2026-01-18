@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu kehormatan bagi setiap pria bisa menjadi sandaran wanita."</em><br>
-  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
+  <em>"Mungkin lebih mudah menjalani hidup dalam ketidaktahuan dan kebahagiaan."</em><br>
+  — <strong>Claudia Hoggins</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
