@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjudian adalah kegilaan. Di dunia kapitalis, uang adalah nyawa. Orang sehat tidak mungkin mempertaruhkan nyawanya. Tapi pada kenyataannya banyak orang pergi ke tempat perjudian untuk merasakan kegilaan."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Jika gadis yang kau sukai menyukai orang lain, hatimu pasti hancur."</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
