@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang pasti pernah membuat kesalahan. Tapi perasaan manusia sering diungkapkan dalam cara yang tak menentu.Kalau kau seorang hakim, jangan mengabaikan hal itu."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Pria idaman itu seperti apa?
+Wajahnya? Hartanya?
+Bagiku, pria idaman itu adalah seorang yang mau untuk hidup bersama."</em><br>
+  — <strong>Charlotte Abelfreyja Drossel</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
