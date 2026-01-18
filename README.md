@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berusahalah dengan keras. Hanya pekerja keras yang pantas diberi hadiah."</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Mengabaikan seseorang itu hal yang mudah, membenci seseorang lebih mudah lagi, namun mencintai seseorang adalah hal yang sulit."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
