@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah menjadi fenomena umum di dunia manusia, orang tidak kompeten yang tidak memiliki pengetahuan atau bakat mendapatkan posisi karena garis keturunan atau relasi."</em><br>
-  — <strong>Shaiapouf</strong>, <em>Hunter x Hunter (2011)</em>
+  <em>"Seluruh pengalaman yang didapat adalah alat untuk membersihkan jalanmu ke depan."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
