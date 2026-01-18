@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melarikan diri dari masalah. Diam saja tidak akan memecahkan masalah. Bersikap sok keren tidak akan menghasilkan apapun. Kau hanya bersikap seakan semuanya baik-baik saja, tapi di mataku kau hanya terlihat seperti anak-anak."</em><br>
-  — <strong>Manami Ogura</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Aku memang tidak bisa diandalkan dan tidak bisa melakukan apapun. Tapi aku ada di sini. Aku akan selalu berada di sisimu."</em><br>
+  — <strong>Banri Tada</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
