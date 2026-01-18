@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin lebih mudah menjalani hidup dalam ketidaktahuan dan kebahagiaan."</em><br>
-  — <strong>Claudia Hoggins</strong>, <em>Violet Evergarden</em>
+  <em>"Jangan lari lagi...
+Jangan pergi ke tempat yang tidak bisa kucapai.
+Bersamalah denganku selamanya..."</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
