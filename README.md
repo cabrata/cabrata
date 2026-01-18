@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejak awal kita memang tidak mungkin memahami apa yang dipikirkan orang lain. Bahkan jika kita memikirkan hal yang sama."</em><br>
-  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Suatu hari mungkin kita harus berpisah dan mungkin (juga) aku akan dilupakan. Tapi aku tidak akan pernah melupakanmu."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
