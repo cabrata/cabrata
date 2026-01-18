@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu sudah tidak perlu berjuang lagi. Menangis juga tidak apa-apa. Karena Mayushii ada di sampingmu."</em><br>
-  — <strong>Mayuri Shiina</strong>, <em>Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero</em>
+  <em>"Sesulit apapun keadaannya, biarpun orang-orang di sekitarmu menyerah dan putus asa, jadilah pria dengan pendirian yang kuat. Berusaha juga merupakan sebuah bakat."</em><br>
+  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
 </div>
 <!-- QUOTE END -->
 
