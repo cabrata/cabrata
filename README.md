@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Belajar itu memang sulit. Sampai sekarang aku pun masih gak suka belajar. Walapun sulit, tapi berjuang bersama teman-teman untuk menggapai tujuan itu cukup menyenangkan."</em><br>
-  — <strong>Uruka Takemoto</strong>, <em>Bokutachi wa Benkyou ga Dekinai</em>
+  <em>"Jika kau sudah menyerah dari awal, meski kau bisa menang, kau tidak akan bisa menang."</em><br>
+  — <strong>Chihiro Komiya</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
