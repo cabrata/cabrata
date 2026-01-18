@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia memang makhluk bodoh yang banyak kekurangan, meskipun begitu usaha dan perjuangan kalian sangat indah. Apapun akhir yang menanti kalian, sejarah kalian layak ditinggalkan di bumi ini."</em><br>
-  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Aku tak peduli walaupun seluruh manusia di dunia ini mati asalkan gadis yang kucintai tetap hidup."</em><br>
+  — <strong>Shinra Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
