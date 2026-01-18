@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesulit apapun keadaannya, biarpun orang-orang di sekitarmu menyerah dan putus asa, jadilah pria dengan pendirian yang kuat. Berusaha juga merupakan sebuah bakat."</em><br>
-  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
+  <em>"Jangan melarikan diri! Jangan putus asa sebelum mencoba."</em><br>
+  — <strong>Yuzu Kichougasaki</strong>, <em>Renai Boukun</em>
 </div>
 <!-- QUOTE END -->
 
