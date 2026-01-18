@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rasanya mendebarkan saat kau berpikir bahwa setiap orang memiliki rahasia masing-masing."</em><br>
-  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
+  <em>"Selama ada seorang yang ingin kau temui, maka kau tidak sendiri lagi."</em><br>
+  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou San</em>
 </div>
 <!-- QUOTE END -->
 
