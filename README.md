@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Partisipasi adalah hal yang terpenting". Kalimat yang dikatakan oleh "Ayah Olimpiade" Pierre de Fredy saat pidatonya yang didengar semua orang. Tapi kutipan ini sering disalahgunakan dan dianggap seperti ancaman untuk pemaksaan. Di luar sana, banyak usaha yang berakhir sia-sia.
-Jika partisipasi itu penting, maka partisipasi untuk tidak ikut berpartisipasi juga penting. Dan jika pengalaman adalah segalanya, maka pengalaman untuk tidak berpengalaman juga segalanya. Bahkan, tidak pengalaman dengan yang orang lain lakukan bisa dibilang pengalaman berharga."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Rasanya mendebarkan saat kau berpikir bahwa setiap orang memiliki rahasia masing-masing."</em><br>
+  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
