@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memikirkan kegagalan adalah hal yang bodoh."</em><br>
-  — <strong>Lupusregina Beta</strong>, <em>Overlord III</em>
+  <em>"Kurasa semua orang ingin tahu apa yang tak mereka mengerti. (Mekipun) terkadang kebenaran itu dapat menyakiti seseorang."</em><br>
+  — <strong>Shinjirou Kusakabe</strong>, <em>Haruchika: Haruta to Chika wa Seishun Suru</em>
 </div>
 <!-- QUOTE END -->
 
