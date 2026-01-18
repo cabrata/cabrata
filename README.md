@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan aku beri tahu sesuatu hal yang bagus...
-Cara agar tidak kalah adalah dengan tidak bertanding."</em><br>
-  — <strong>Manabu Sakuma</strong>, <em>Ping Pong The Animation</em>
+  <em>"Suatu kehormatan bagi setiap pria bisa menjadi sandaran wanita."</em><br>
+  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
 </div>
 <!-- QUOTE END -->
 
