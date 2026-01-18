@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus berteman dengan banyak orang, merasakan indahnya jatuh cinta, dan nikmati setiap momen yang ada sepenuh hati."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Kau tidak bisa membawa uang atau benda berharga milikmu setelah meninggal dunia. Bukankah hanya kenangan berharga terhadap seseorang, dan dikenang oleh seseoranglah yang paling berharga kan?"</em><br>
+  — <strong>Ume Sawa</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
