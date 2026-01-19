@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita itu orang yang realistis. Kami tidak percaya hanya pada kata-kata."</em><br>
-  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Jika lusa kau mati, aku akan hidup hingga tiga hari lagi.
+Aku akan menceritakan kisahmu pada orang-orang.
+Aku akan menceritakan tentang tuanku yang aku banggakan."</em><br>
+  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
