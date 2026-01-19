@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berapa banyak pun uang yang bisa kamu dapatkan, kamu tidak akan bisa terus melakukan hal yang tidak ingin kamu lakukan. Kamu tidak akan bisa berusaha keras kalau kamu tidak menyukai hal itu."</em><br>
-  — <strong>Yuina Wakura</strong>, <em>Hanasaku Iroha</em>
+  <em>"Saat pertama kali aku melihat gambarmu, ada banyak warna yang terlihat di depanku. Itu seperti membuatku kembali mengingat warna. Aku tak tahu kenapa, tapi bagiku, aku merasa bahwa gambarmu sangat berharga."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
