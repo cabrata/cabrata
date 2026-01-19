@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keadilan tanpa kekuatan hanyalah omong kosong."</em><br>
-  — <strong>Kakek Seigi</strong>, <em>Taboo Tattoo</em>
+  <em>"Hidup tak seperti adegan film yang bisa diulang."</em><br>
+  — <strong>Direktur</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
