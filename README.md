@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika lusa kau mati, aku akan hidup hingga tiga hari lagi.
-Aku akan menceritakan kisahmu pada orang-orang.
-Aku akan menceritakan tentang tuanku yang aku banggakan."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Keinginan sejati dari kakak laki-laki adalah melihat setiap detail tubuh adik perempuannya. Barang kotor dan tak berguna seperti pakaian dalam hanya akan menghalangi kesucian tubuh adik perempuan yang indah."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
