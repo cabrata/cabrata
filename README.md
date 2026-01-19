@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pengeringan luka pada sisi yang terinfeksi adalah obat paling efektif.
-Tapi karena dia busuknya sampai ke inti, kalau kau terus mengeringkan lukanya, mungkin takkan ada lagi yang tersisa."</em><br>
-  — <strong>Chiriko Tsurumi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Ketika ada yang menyatakan suka padamu, kamu akan merasa senang, geli, malu, tapi terasa nyaman di hati."</em><br>
+  — <strong>Rika Dobashi</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
