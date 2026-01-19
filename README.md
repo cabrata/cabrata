@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup tak seperti adegan film yang bisa diulang."</em><br>
-  — <strong>Direktur</strong>, <em>Bokutachi no Remake</em>
+  <em>"Bukankah membuat masalah dan saling menyakiti adalah bagian dari pertemanan?"</em><br>
+  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
