@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginan sejati dari kakak laki-laki adalah melihat setiap detail tubuh adik perempuannya. Barang kotor dan tak berguna seperti pakaian dalam hanya akan menghalangi kesucian tubuh adik perempuan yang indah."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Setiap orang tak ada yang menyadari kalau dirinya berbakat. Karena itulah, kita semua terus berjuang meningkatkan kemampuan kita. Saat kita berjuang meningkatkan kemampuan kita, kita sadar bahwa orang disekitar kita juga semakin meningkat dan kita jadi semakin termotivasi. Kurasa teman dapat dijadikan sebagai rival."</em><br>
+  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
