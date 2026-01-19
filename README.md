@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah membuat masalah dan saling menyakiti adalah bagian dari pertemanan?"</em><br>
-  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect</em>
+  <em>"Aku suka dirimu yang tak bisa berterus terang seperti itu."</em><br>
+  — <strong>Rita Ainsworth</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
