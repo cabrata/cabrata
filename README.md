@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku seharusnya tidak menangis. Dibandingkan dengan menghabiskan waktu dengan menangis, aku harusnya bisa menambah beberapa teman!"</em><br>
-  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist</em>
+  <em>"Apakah di planet (Bumi) ini orang mau membantu sesamanya itu hanya karena menginginkan balasan?"</em><br>
+  — <strong>Nino</strong>, <em>Arakawa Under the Bridge</em>
 </div>
 <!-- QUOTE END -->
 
