@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak butuh alasan untuk berdiri di puncak. Aku hanya ingin memandang jauh ke depan."</em><br>
-  — <strong>Medaka Kurokami</strong>, <em>Medaka Box</em>
+  <em>"Satu hari satu kebaikan"</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
