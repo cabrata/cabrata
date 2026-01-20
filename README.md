@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menyerah karena menghadapi kesulitan adalah hal yang bodoh."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Manusia itu makhluk yang bodoh. Mereka tak bisa menjaga harga diri. Karena itu mereka mudah dibutakan keserakahan."</em><br>
+  — <strong>Minami Yamamoto</strong>, <em>Joshikousei no Mudazukai</em>
 </div>
 <!-- QUOTE END -->
 
