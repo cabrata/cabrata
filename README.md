@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup bersandiwara (untuk menjadi sosok ideal) sering kali sangat melelahkan. Karena itu, aku ingin kamu tetap menjadi dirimu sendiri."</em><br>
-  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
+  <em>"Ketika ada sesuatu yang populer, itu artinya yang lainnya tidak populer."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
