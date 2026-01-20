@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia ini terus maju. Kesenangan semua orang juga (terus) berubah. Karena itu, aku pun juga akan terus mencari sesuatu yang lebih berguna (bagi banyak orang)."</em><br>
-  — <strong>Minosuke</strong>, <em>Ojiisan no Lamp</em>
+  <em>"Anak muda kadang terobsesi pada kesempurnaan.
+Aku juga pernah begitu.
+Tapi suatu saat nanti, kau pasti akan percaya pada jalanmu sendiri.
+Seperti yang kulakukan.
+Karena itu, tenang saja, tak apa kalau kau cemas."</em><br>
+  — <strong>Shirosaki</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
