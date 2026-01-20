@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saling menerima cinta satu sama lain adalah hal yang wajar. Jika dunia melarangnya, aku akan mengubah dunia ini meskipun harus menghancurkannya."</em><br>
-  — <strong>Theo Cornaro</strong>, <em>Grancrest Senki</em>
+  <em>"Melalui musik, orang-orang yang kau kenal, orang-orang yang tidak kau kenal, (dan) seluruh manusia di bumi saling terhubung."</em><br>
+  — <strong>Hiroko Seto</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
