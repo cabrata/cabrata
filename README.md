@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kuperingatkan kau! Jangan pernah ragu-ragu! Ayah tidak pernah membesarkanmu supaya jadi seorang pengecut!
-Tapi, ini adalah kehidupanmu. (Jadi) hiduplah dengan jalan yang kau pilih."</em><br>
-  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Saling menerima cinta satu sama lain adalah hal yang wajar. Jika dunia melarangnya, aku akan mengubah dunia ini meskipun harus menghancurkannya."</em><br>
+  — <strong>Theo Cornaro</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
