@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada banyak hal yang lebih menakutkan daripada iblis, tapi jangan pernah kalah."</em><br>
-  — <strong>Jukai</strong>, <em>Dororo</em>
+  <em>"Latihan itu penting. Dan jika semakin mahir, maka akan semaki seru juga. Makanya kita harus berjuang!"</em><br>
+  — <strong>Uzuki Shimamura</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
