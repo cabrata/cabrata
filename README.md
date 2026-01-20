@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi menyelamatkan nyawamu, nyawa orang lain harus dikorbankan.
-Seperti itulah cara hidup "hewan"."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Hanya dengan keberadaanmu dan senyummu aku merasa bahagia.
+Hanya dengan keberadaanmu dan berjalan bersamamu aku merasa senang."</em><br>
+  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
