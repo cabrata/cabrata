@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau hanya harus menjadi tanduk bagi Ram yang tak memiliki tanduk. Kalian bisa menjadi iblis bersama-sama. Selain itu, kau menganggap dirimu sebagai pengganti, tapi tidak ada yang bisa menggantikanmu. Di tempatku berasal, ada yang bilang "Iblis akan tertawa saat kau membahas tentang masa depan.", Jadi Tertawalah, Rem."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kota itu bagaikan raga manusia. Berbagai sistem bekerja secara organis, yang akhirnya tumbuh dan berkembang. Ada kalanya tubuh mengidap penyakit tumor. Penyakit yang tak bisa disembuhkan dengan obat. Saat itu kita harus membasminya. Tugas kita sebagai ahli bedah adalah mencabut penyakit itu dari kota"</em><br>
+  — <strong>Masamune Mochizuki</strong>, <em>Triage X</em>
 </div>
 <!-- QUOTE END -->
 
