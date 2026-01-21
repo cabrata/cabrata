@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling menyebalkan adalah ketika orang lain berisik saat kita menginginkan ketenangan."</em><br>
-  — <strong>Kobayashi</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Untuk meredakan ketakutan dan kekhawatiran masyarakat, para pahlawan harus kuat dan tangguh agar dapat mengalahkan kejahatan dengan cepat, terampil dan tampan."</em><br>
+  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
