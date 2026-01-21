@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang harus kulakukan sebagai yang terlemah adalah mengalahkan yang terkuat."</em><br>
-  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Khawatir akan ditolak, itu sama saja dengan menolak dirimu sendiri."</em><br>
+  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
 </div>
 <!-- QUOTE END -->
 
