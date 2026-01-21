@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun tak ada yang bisa menebak apa yang akan terjadi di kehidupan ini. Tapi selama kita yakin dengan langkah kaki kita, jalan menuju kebenaran pasti akan muncul."</em><br>
-  — <strong>Iori Nagase</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Tak peduli sebanyak apapun kau mencoba. Percuma menutupinya dengan kata-kata, bakat yang belum terlatih adalah fakta kehidupan."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
