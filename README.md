@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan menjadi pahlawan untukmu seorang."</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
+  <em>"Apa yang kamu suka?Apa yang kamu benci?Apa yang kamu hormati?Apa yang kamu anggap buruk?Itu semua kamu yang memutuskan.Kita mempelajari dan melihat banyak hal. Begitulah hidup.Kamu bukanlah yang membuat dunia, tapi dunialah yang membuatmu."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
