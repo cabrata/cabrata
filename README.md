@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Beranggapan bahwa semua itu salahmu adalah pemikiran yang tak berguna. Setiap orang pasti memiliki keterbatasan."</em><br>
-  — <strong>Sachiko Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"(Junichi... tempat mana yang ingin kau kunjungi di wisata kali ini?)
+Aku tak keberatan pergi ke mana pun selama itu tempat yang kamu inginkan."</em><br>
+  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
