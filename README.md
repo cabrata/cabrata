@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dazai pernah berkata, "Satu-satunya hal yang hanya dimiliki manusia dan tidak dimiliki oleh makhluk lainnya adalah kita memiliki rahasia""</em><br>
-  — <strong>Kotarou Azumi</strong>, <em>Tsuki ga Kirei</em>
+  <em>"Jika kau sudah menyerah dari awal, meski kau bisa menang, kau tidak akan bisa menang."</em><br>
+  — <strong>Chihiro Komiya</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
