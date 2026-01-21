@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski kita bisa memilih dengan siapa kita terlibat, tapi kita tidak bisa memilih dengan siapa kita bertemu. Jadi aku pikir sangat beruntung bisa bertemu dengan orang baik."</em><br>
-  — <strong>Asami Yuuki</strong>, <em>Hige wo Soru. Soshite Joshikousei wo Hirou.</em>
+  <em>"Aku tidak bisa menyukaimu sedikit saja, karena aku sudah menyukaimu sebanyak-banyaknya."</em><br>
+  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
