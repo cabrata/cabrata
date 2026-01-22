@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seluruh kehidupan memiliki akhir. Kematian justru salah satu nilai dari kehidupan."</em><br>
-  — <strong>Assassin</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Tulip hitam dalam bahasa bunga artinya bahwa kamu sedang gelisah."</em><br>
+  — <strong>Nara Ashiya</strong>, <em>Fukigen na Mononokean</em>
 </div>
 <!-- QUOTE END -->
 
