@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Shio-chan, aku harap kau masih mencintaiku ketika kita dilahirkan kembali. Aku minta maaf,... dan terima kasih."</em><br>
-  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
+  <em>"Orang yang membunuh temannya demi melindungi temannya yang lain, (dan) orang yang mengorbankan banyak nyawa tapi tetap tidak bisa melindungi temannya itu hanyalah seorang pecundang."</em><br>
+  — <strong>Zenzou Hattori</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
