@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Akan terasa pedih untuk menjaga ataupun melepaskan sesuatu yang tak bisa kau dapatkan kembali.
-Jika kedua-duanya akan terasa pedih, aku lebih baik menderita untuk mempertahankannya."</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Seluruh kehidupan memiliki akhir. Kematian justru salah satu nilai dari kehidupan."</em><br>
+  — <strong>Assassin</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
 </div>
 <!-- QUOTE END -->
 
