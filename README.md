@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup selalu terbentuk dari serangkaian trial dan error."</em><br>
-  — <strong>Shingen Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Manusia yang tak berguna tak punya hak untuk bernapas."</em><br>
+  — <strong>Ryuunosuke Akutagawa</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
