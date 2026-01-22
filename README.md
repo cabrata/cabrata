@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang membunuh temannya demi melindungi temannya yang lain, (dan) orang yang mengorbankan banyak nyawa tapi tetap tidak bisa melindungi temannya itu hanyalah seorang pecundang."</em><br>
-  — <strong>Zenzou Hattori</strong>, <em>Gintama°</em>
+  <em>"Kami sudah terbiasa diseret olehmu. Jadi, sebagai gantinya, bawalah kami ke dunia yang belum pernah kami lihat."</em><br>
+  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
