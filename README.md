@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Buku adalah karya seni. Buku adalah budaya. Buku adalah keajaiban. Buku adalah zaman. Buku adalah nyawa. Buku adalah matahari. Buku adalah lagu. Buku adalah kehidupan. Buku adalah janji. Buku adalah angin. Buku adalah laut. Buku adalah bintang. Buku adalah hati. Buku adalah mimpi. Buku adalah harapan. Buku adalah cinta. Buku adalah sukacita. Buku adalah kegembiraan."</em><br>
-  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Menyebut dewa negara lawan sebagai iblis atau mengolok-olok politikus yang dibenci dengan sebutan yang konyol merupakan kutukan paling norak."</em><br>
+  — <strong>Flatt Escardos</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
