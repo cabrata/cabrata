@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kutipan dari Guru Kebenaran.
-"Bila kau tidak mau dibunuh orang, kau pun juga tidak boleh membunuh orang"."</em><br>
-  — <strong>Boku</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Hidup selalu terbentuk dari serangkaian trial dan error."</em><br>
+  — <strong>Shingen Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
