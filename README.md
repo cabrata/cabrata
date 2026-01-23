@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya karena kau benar, bukan berarti kau adalah kebenaran."</em><br>
-  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Keyakinan saja tidak cukup untuk mewujudkan idealismemu."</em><br>
+  — <strong>Doppo Kunikida</strong>, <em>Bungou Stray Dogs: Hitori Ayumu</em>
 </div>
 <!-- QUOTE END -->
 
