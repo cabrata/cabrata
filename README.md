@@ -5,15 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kecerobohanmu mungkin adalah kelemahanmu.
-Kau sudah berusaha untuk memperbaikinya.
-Kau tidak mungkin memperbaiki sepenuhnya.
-Jadi seberapa kuat pun kau mencoba, tidak usah melakukannya pun tidak apa-apa.
-Biarkan saja seperti itu. Menyerahlah.
-Kekuatanmu memang tidak ada batasnya.
-Tapi yang terpenting adalah semangatmu.
-Jadi, kau tidak usah repot-repot mengubahnya kan?"</em><br>
-  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
+  <em>"Aku ingin memiliki lebih banyak waktu menggambar manga. (Sebelum aku punya keinginan menjadi seniman manga pada usia muda) Aku tidak pernah menyadari waktu adalah hal yang berharga."</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
