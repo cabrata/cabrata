@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak boleh diam dan merasa iri pada dunianya orang lain.
-Kau harus keluar dan mengubah duniamu sendiri."</em><br>
-  — <strong>Shinichi Chiaki</strong>, <em>Nodame Cantabile</em>
+  <em>"Sejarah adalah bukti bahwa manusia hidup. Bukti bahwa manusia hidup dengan batas kemampuan mereka."</em><br>
+  — <strong>Takahito Hida</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
