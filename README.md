@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang aku inginkan bukanlah pisau atau apapun itu, hanya tanganmu inilah yang kuinginkan. Apapun yang akan terjadi di masa depan aku tak akan melepaskan tanganmu ini. Karena itulah kisahku berakhir disini. Aku telah menerima diriku yang sekarang, diriku yang lalu, dan perlahan mulai menjalani kehidupanku."</em><br>
-  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
+  <em>"Lalat bisa terbang tanpa belajar terlebih dahulu. Laba-laba bisa membuat jaring tanpa belajar terlebih dahulu. Kenapa bisa begitu? Menurutku lalat dan laba-laba hanya mengikuti perintah saja. Aku yakin seluruh makhluk di bumi menerima perintah dari suatu makhluk."</em><br>
+  — <strong>Reiko Tamura</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
