@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia ini mengagumkan. Orang-orang hidup dengan saling mencintai dan menghormati satu sama lain."</em><br>
-  — <strong>Photo</strong>, <em>Kino no Tabi: The Beautiful World - The Animated Series</em>
+  <em>"Di dunia ini ada banyak hal yang takkan berubah meski kita memikirkannya."</em><br>
+  — <strong>Ichiko Rokujou</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
