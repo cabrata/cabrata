@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengabaikan seseorang itu hal yang mudah, membenci seseorang lebih mudah lagi, namun mencintai seseorang adalah hal yang sulit."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Saat kau melihat ke bawah dari tempat setinggi ini, kota (jadi) terlihat kecil ya?
+Tapi, aku lahir disini, besar disini... dan jatuh cinta disini."</em><br>
+  — <strong>Kaoru Tanamachi</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
