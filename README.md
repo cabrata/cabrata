@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu telah memberikan berbagai hal yang berharga untukku."</em><br>
-  — <strong>Yuito Aoi</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Aku ingin kau bahagia, karena itu aku tak ingin kau terluka lagi. Aku mencintaimu."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
