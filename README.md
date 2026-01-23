@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup selalu terbentuk dari serangkaian trial dan error."</em><br>
-  — <strong>Shingen Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
+  <em>"Teman itu sulit dicari, jadi jaga teman kalian baik-baik."</em><br>
+  — <strong>Sei Handa</strong>, <em>Handa-kun</em>
 </div>
 <!-- QUOTE END -->
 
