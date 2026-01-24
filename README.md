@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini berlaku hukum rimba. Yang kuat dapat menyelamatkan atau membunuh yang lemah."</em><br>
-  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Seseorang tidak akan berjuang sekeras itu jika dia tidak menyukainya."</em><br>
+  — <strong>Keiko Ayano</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
