@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua yang kau katakan dan lakukan berkilauan dan bersinar terang. Itu terlalu silau untukku dan akhirnya ku menutup mata."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Raja ada untuk rakyatnya. Tanpa rakyat, tidak mungkin ada raja."</em><br>
+  — <strong>Ling Yao</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
