@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia tidaklah sempurna. Umat manusia itu lemah, jelek, iri, dan membenci hal yang tak dimilikinya. Anehnya, itu semua adalah bakat buruk yang dimiliki manusia. Bukankah itu aneh? Karena itulah aku ingin mengubah semua itu."</em><br>
-  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Semua orang yang ingin menjadi Koki profesional pasti pernah mengalami kekalahan. Meski kepercayaan diri dan kebanggaanmu yang telah kau bangun selama bertahun-tahun hancur berkeping-keping dalam sebuah kesalahan besar. Meski kau memiliki pengalaman yang sangat buruk kau masih harus membuka tokomu esok hari. Seperti itulah yang dinamakan Koki."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
