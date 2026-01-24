@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Berbicara mengenai koro-sensei) Dia menulis pertanyaan individual, dengan mempertimbangkan soal yang murid kuasai.
-Dia memiliki kecerdasan dan kecepatan luar biasa, makhluk berbahaya inilah yang akan menghancurkan bumi.
-Dan kemampuan mengajarnya mendekati sempurna."</em><br>
-  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Sains adalah satu-satunya bahasa yang bisa membuat kita mengerti alam semesta yang diciptakan Tuhan."</em><br>
+  — <strong>Motojirou Kajii</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
