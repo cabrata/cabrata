@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bertemu denganmu dan melukis bersamamu benar-benar menyenangkan.
-Kata-kata dan senyum terakhir yang kamu berikan tak akan kulupakan seumur hidupku. Karena itu, tetaplah tersenyum seperti itu selamanya."</em><br>
-  — <strong>Yukito Renjou</strong>, <em>Hatsukoi Limited</em>
+  <em>"Manusia bisa menjadi baik karena ada hal yang tidak mereka ketahui. Karena kalau manusia tahu segalanya, mereka tak akan berusaha. Jika mereka tak berusaha, maka tidak ada hal baru yang akan terjadi."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
