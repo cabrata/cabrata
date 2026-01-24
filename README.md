@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menikah itu berarti kau tidak akan pernah sendirian lagi. Tidak akan pernah membiarkan pasanganmu sendirian lagi. Itulah makna janji pernikahan."</em><br>
-  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Kau tak boleh diam dan merasa iri pada dunianya orang lain.
+Kau harus keluar dan mengubah duniamu sendiri."</em><br>
+  — <strong>Shinichi Chiaki</strong>, <em>Nodame Cantabile</em>
 </div>
 <!-- QUOTE END -->
 
