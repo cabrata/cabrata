@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tahukah kamu?Jarak cakrawala yang bisa dilihat dengan mata telanjang adalah empat kilometer."</em><br>
-  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Kedamaian adalah hal yang paling indah dan paling sulit (wujudkan)."</em><br>
+  — <strong>Chio Miyamo</strong>, <em>Chio-chan no Tsuugakuro</em>
 </div>
 <!-- QUOTE END -->
 
