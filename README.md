@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku terlalu mudah puas dan lengah meski hanya sekali saja, aku akan terjatuh (mulai) dari sini."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Tidak ada kebahagiaan yang begitu berat hingga membuatmu hancur. Kebahagiaan itu bukanlah (suatu hal yang) berat maupun ringan. Jangan berlebihan menganggap kebahagiaan. Semua jenis kebahagiaan akan cocok untukmu. Jadi jangan membenci kebahagiaan seperti itu. Jangan membenci dunia, jangan membenci semua hal. Jangan membenci dirimu sendiri. Semua jenis kebencian di dalam dirimu semuanya akan kuterima dan kutanggung untukmu. Aku ingin kau lebih mencintai dirimu sendiri."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
