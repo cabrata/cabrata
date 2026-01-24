@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika saja aku masih lemah, akan ada hari ketika aku tidak bisa berteriak sekuat-kuatnya. Jika hal seperti itu terjadi, maka kau akan dimakan (oleh yang kuat)."</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Aku mencintaimu Jintan. Cintaku padamu adalah cinta yang singkat dimana aku ingin menikah denganmu."</em><br>
+  — <strong>Meiko Honma</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
 </div>
 <!-- QUOTE END -->
 
