@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benar-benar beruntung, punya orang-orang yang mendukungku dan menolongku.
-Hanya dapat hidup saja sudah (membuatku) beruntung."</em><br>
-  — <strong>Ryousuke Kirishima</strong>, <em>Sket Dance</em>
+  <em>"Wajar kalau siswa SMP itu (masih) anak-anak, masalahnya mereka tidak sadar kalau mereka anak-anak. Meskipun begitu masih lebih baik daripada orang dewasa yang tidak menganggap dirinya dewasa."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
