@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi mereka yang berbakat, memiliki bakat itu sendiri membawa penderitaan."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Aku orang yang tidak terlalu peduli dengan masa lalu. Karena jika terus memikirkannya hanya akan membuat hidupku suram."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
