@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada yang lebih menjijikkan dari kasih sayang orang yang tidak disukai."</em><br>
-  — <strong>Hanabi Yasuraoka</strong>, <em>Kuzu no Honkai</em>
+  <em>"Di dunia ini berlaku hukum rimba. Yang kuat dapat menyelamatkan atau membunuh yang lemah."</em><br>
+  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
