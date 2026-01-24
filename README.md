@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada cowok yang benci cewek agresif."</em><br>
-  — <strong>Nagi Arisuin</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Kunjunganmu merupakan obat terbaik yang dia miliki."</em><br>
+  — <strong>Ume Sawa</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
