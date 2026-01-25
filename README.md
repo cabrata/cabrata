@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masa depan yang dia ungkapkan selalu berhubungan denganku. Karena itu aku pikir kami memiliki masa depan yang sama."</em><br>
-  — <strong>Chise Hatori</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Balas dendam adalah motivasiku."</em><br>
+  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
