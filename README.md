@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pemimpin itu. Yang pertama, dia harus lebih bersemangat dari yang lain dan juga mampu memotivasi yang lain! Selain itu, dia haruslah orang yang penuh kasih dan mampu meningkatkan semangat anggota lain! Dan yang paling penting, dia haruslah orang yang paling dihormati anggota lainnya!"</em><br>
-  — <strong>Niko Yazawa</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Tidak peduli di garis dunia mana pun, di waktu kapanpun atau dimanapun, aku selalu menyukaimu."</em><br>
+  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate: Oukoubakko no Poriomania</em>
 </div>
 <!-- QUOTE END -->
 
