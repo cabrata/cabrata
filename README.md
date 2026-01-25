@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa pun yang terjadi, tetap junjung harga dirimu. Jaga tata krama, bantu yang lemah, dan jauhi kejahatan."</em><br>
-  — <strong>Kaito Ayatsuji</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Jujurlah kepada dirimu sendiri."</em><br>
+  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
