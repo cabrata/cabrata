@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tahukah kamu?Jarak cakrawala yang bisa dilihat dengan mata telanjang adalah empat kilometer."</em><br>
-  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"(kenapa kamu suka dibuatkan patung?)Karena aku ingin orang-orang mengingatku. Berbeda denganmu (yang seorang elf), kami (manusia) tidak berumur panjang. Namun, mungkin alasan terbesarku agar kamu tidak sendirian di masa depan kelak. Keberadaan kita bukanlah dongeng, tapi benar-benar nyata."</em><br>
+  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
