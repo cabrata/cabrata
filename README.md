@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua hanya menari di atas telapak tangan Tuhan."</em><br>
-  — <strong>Otoko</strong>, <em>Konohana Kitan</em>
+  <em>"Dunia ini adalah realita. Realita adalah keadilan! Aku akan memuaskan hidupku didalam realita!"</em><br>
+  — <strong>Yoshiko Tsushima</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
