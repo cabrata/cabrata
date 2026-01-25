@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku percaya bahwa mencitai orang lain adalah bentuk dari menghargai diri sendiri."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Meski kau bisa menutup mata, telinga dan mulutmu sekalipun, kau takkan bisa menghentikan luapan perasaanmu kepada seseorang."</em><br>
+  — <strong>Shuu Igarashi</strong>, <em>Koi to Uso</em>
 </div>
 <!-- QUOTE END -->
 
