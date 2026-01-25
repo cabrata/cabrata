@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tahukah kamu, bahasa bunga dari mawar putih yang layu adalah "sumpah setia selamanya"."</em><br>
-  — <strong>Alice Lendrott</strong>, <em>Shinigami Bocchan to Kuro Maid</em>
+  <em>"Jika laki-laki diibaratkan serigala, maka perempuan itu ular."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
