@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pikirkanlah baik-baik, tak perlu terburu-buru, dan cintailah aku dengan perlahan. Aku akan selalu berada di sisimu dan berusaha keras untuk membuatmu jatuh cinta padaku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Dimarahi karena diharapkan bisa menjadi ninja yang hebat. Tidak ada anak yang sesempurna itu."</em><br>
+  — <strong>Shikamaru Nara</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
