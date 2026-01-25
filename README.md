@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kamu seorang otaku, tapi jangan anggap dirimu tidak penting."</em><br>
-  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Kalau tidak menyerah, seharusnya jangan lari."</em><br>
+  — <strong>Hanabi Yasuraoka</strong>, <em>Kuzu no Honkai</em>
 </div>
 <!-- QUOTE END -->
 
