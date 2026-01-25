@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tak boleh depresi hanya karena sesuatu, seperti cuma ditolak!"</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Kehidupan sempurna di rumah itu memang sulit untuk didapatkan."</em><br>
+  — <strong>Shinji Tokita</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
