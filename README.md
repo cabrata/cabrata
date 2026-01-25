@@ -5,9 +5,15 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Suka" saja sudah cukup kan?
-Karena saat aku melihat Zaitsu-kun, dadaku berdebar-debar. Tapi itu bukan karena dia keren atau baik hati. Melainkan karena aku suka dia. Bukankah tak perlu alasan untuk suka (seseorang)? Selama kamu berdebar-debar, bukankah itu cinta?"</em><br>
-  — <strong>Ayumi Arihara</strong>, <em>Hatsukoi Limited</em>
+  <em>"Manusia itu selalu berpikir kalau dirinya sama dengan orang lain.
+Alasan mereka sangatlah mengagumkan, sangat memuaskan, dan sangat menghangatkan.
+Karena semua orang ingin saling mengerti, ingin saling berbagi hal yang berharga, dan ingin saling bekerja sama.
+Itu adalah mimpi yang luar biasa.
+Tapi kenyataannya tak seperti itu.
+Setiap orang memiliki peran dan kelemahan masing-masing.
+Mempercayai orang lain itu memang bagus.
+Tapi sebelum itu, kita harus mengerti perbedaan dengan orang lain."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
