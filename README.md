@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Balas dendam adalah motivasiku."</em><br>
-  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Sepertinya suasana hatimu masih belum sembuh... tapi perasaanmu itu terlihat bagaikan berlian yang berkilau di antara berlian-berlian yang lain."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
