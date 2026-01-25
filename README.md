@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia ini adalah realita. Realita adalah keadilan! Aku akan memuaskan hidupku didalam realita!"</em><br>
-  — <strong>Yoshiko Tsushima</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Ketika ada yang berbohong, yang terpenting bukan isi dari kebohongannya, tetapi alasan kenapa berbohong."</em><br>
+  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
 </div>
 <!-- QUOTE END -->
 
