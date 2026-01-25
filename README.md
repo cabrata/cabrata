@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika ada yang berbohong, yang terpenting bukan isi dari kebohongannya, tetapi alasan kenapa berbohong."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"Siapapun pasti memiliki masalah dalam hidupnya. Kita semua sama. Karena itu, kamu harus menerima hal buruk sekalipun agar dapat melangkah ke depan."</em><br>
+  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
 </div>
 <!-- QUOTE END -->
 
