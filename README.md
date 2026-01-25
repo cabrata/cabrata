@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat seorang anak telah menyadari kerja keras (orang tua) mereka, (saat) itulah tanda selesainya tugas orang tua."</em><br>
-  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Masa depan yang dia ungkapkan selalu berhubungan denganku. Karena itu aku pikir kami memiliki masa depan yang sama."</em><br>
+  — <strong>Chise Hatori</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
