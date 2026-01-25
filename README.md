@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ninja yang menampung seluruh kebencian dan melindungi desa dari balik bayangan. Kurasa, dialah Hokage (Pemimpin) yang sebenarnya."</em><br>
-  — <strong>Sasuke Uchiha</strong>, <em>Naruto Shippuden</em>
+  <em>"Dalam sebuah pertandingan, kau harus kuat agar dapat menikmati pertandingan itu."</em><br>
+  — <strong>Tadashi Yamaguchi</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
