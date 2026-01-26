@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau takkan bisa merasa puas jika tidak membebaskan dirimu sendiri."</em><br>
-  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
+  <em>"Tidak ada manusia yang lahir karena keinginannya sendiri."</em><br>
+  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
