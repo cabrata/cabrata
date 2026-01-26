@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus melakukan apapun dengan sepenuh hati. Itulah makna dari kehidupan."</em><br>
-  — <strong>Rider</strong>, <em>Fate/Zero</em>
+  <em>"Aku menulis novel sebagai hobi. Dan hobi yang tidak dilakukan dengan serius akan membosankan, 'kan? Karena ini hobiku, maka aku melakukannya sepenuh hati."</em><br>
+  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei</em>
 </div>
 <!-- QUOTE END -->
 
