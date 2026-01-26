@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kemakmuran yang sesungguhnya adalah bebas dari kekayaan dan barang-barang."</em><br>
-  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
+  <em>"Bukankah membuat masalah dan saling menyakiti adalah bagian dari pertemanan?"</em><br>
+  — <strong>Ryuuzen Gotou</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
