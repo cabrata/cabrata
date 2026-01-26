@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencoba mengalahkan seseorang dengan cara licik sama saja dengan merendahkan dirimu sendiri. Jangan menginjak-nginjak semua kerja keras dan kepercayaan yang selama ini telah kau bangun."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Kau jangan terlalu baik. Orang baik selalu mati yang paling akhir."</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
