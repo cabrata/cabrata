@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah menjadi fenomena umum di dunia manusia, orang tidak kompeten yang tidak memiliki pengetahuan atau bakat mendapatkan posisi karena garis keturunan atau relasi."</em><br>
-  — <strong>Shaiapouf</strong>, <em>Hunter x Hunter (2011)</em>
+  <em>""Partisipasi adalah hal yang terpenting". Kalimat yang dikatakan oleh "Ayah Olimpiade" Pierre de Fredy saat pidatonya yang didengar semua orang. Tapi kutipan ini sering disalahgunakan dan dianggap seperti ancaman untuk pemaksaan. Di luar sana, banyak usaha yang berakhir sia-sia.
+Jika partisipasi itu penting, maka partisipasi untuk tidak ikut berpartisipasi juga penting. Dan jika pengalaman adalah segalanya, maka pengalaman untuk tidak berpengalaman juga segalanya. Bahkan, tidak pengalaman dengan yang orang lain lakukan bisa dibilang pengalaman berharga."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
