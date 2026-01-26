@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Asalkan itu menarik, kebohongan juga tak masalah."</em><br>
-  — <strong>Manako Jouten</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
+  <em>"Kau tak boleh diam dan merasa iri pada dunianya orang lain.
+Kau harus keluar dan mengubah duniamu sendiri."</em><br>
+  — <strong>Shinichi Chiaki</strong>, <em>Nodame Cantabile</em>
 </div>
 <!-- QUOTE END -->
 
