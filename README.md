@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perjudian adalah kegilaan. Di dunia kapitalis, uang adalah nyawa. Orang sehat tidak mungkin mempertaruhkan nyawanya. Tapi pada kenyataannya banyak orang pergi ke tempat perjudian untuk merasakan kegilaan."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Aku tak perlu menjadi seorang tuan putri, asalkan bisa menjadi istrimu itu saja sudah cukup."</em><br>
+  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
