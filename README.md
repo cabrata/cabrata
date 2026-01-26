@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Apa itu Karya Wisata?)
-Itu adalah semacam tiruan kehidupan bermasyarakat. Kau tidak bisa memilih sendiri tempat yang ingin kau tinggali atau makanan yang ingin kau makan. Tapi dengan beberapa pengecualian, kau bisa bersenang-senang dengan biaya yang menipu dirimu."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Seorang pria lebih sering mengungkapkan suatu hal dengan tindakan daripada kata-kata. Jika ada hal yang menyakitkan, mereka tidak ingin merepotkan orang lain. Mereka tidak ingin membuat orang lain khawatir. Karena itu mereka tidak mengatakannya."</em><br>
+  — <strong>Maes Hughes</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
