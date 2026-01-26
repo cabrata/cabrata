@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita lahir di situasi yang berbeda. Apakah itu rumahmu, keluargamu atau penampilanmu. Itulah mengapa banyak orang bodoh yang tetap menjadi pemimpi. Tetapi aku pintar, aku tak akan bermimpi saja."</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Spekulasi saja takkan mengubah fakta. Kita harus menerima kenyataan dan bergerak maju."</em><br>
+  — <strong>Kuro no Caster</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
