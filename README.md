@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku berlari lebih cepat dari siapa pun karena kamu melihat dan mendukungku.
-Alasan kenapa aku berlari dengan cepat, alasan aku ingin menjadi cantik, dan alasan aku ingin jatuh cinta adalah karenamu!"</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Jika kau ingin berkelahi, lakukanlah secara adil dan jujur."</em><br>
+  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
