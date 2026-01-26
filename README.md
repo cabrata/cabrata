@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tidak bisa bertanggung jawab hingga akhir, jangan lakukan apa-apa."</em><br>
-  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Jika kau terjebak di suatu lubang yang begitu dalam dan tak bisa keluar, maka aku akan masuk ke lubang yang sama denganmu untuk menyelamatkanmu."</em><br>
+  — <strong>Masaomi Kida</strong>, <em>Durarara!!x2 Ten</em>
 </div>
 <!-- QUOTE END -->
 
