@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau punya waktu untuk terpuruk, lebih baik gunakan (waktumu itu) untuk melangkah maju."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man Season 2</em>
+  <em>"Wanita itu jika tersenyum akan terlihat cantik."</em><br>
+  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
 </div>
 <!-- QUOTE END -->
 
