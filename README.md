@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika terus melarikan diri, kau takkan pernah bisa bangkit dan maju."</em><br>
-  — <strong>Elena Fujisawa</strong>, <em>Hanebado!</em>
+  <em>"Di negara asalku, ada pepatah yang mengatakan "Lebih baik melihat daripada mendengar". Artinya, kita akan lebih cepat mengerti dengan melihat secara langsung dibandingkan hanya mendengar dari orang lain."</em><br>
+  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
 </div>
 <!-- QUOTE END -->
 
