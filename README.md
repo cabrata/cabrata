@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku adalah aku, jadi aku akan menyelamatkannya karena itu membuatku puas."</em><br>
-  — <strong>Kuro no Rider</strong>, <em>Fate/Apocrypha</em>
+  <em>"Maafkan aku... Maafkan aku (karena) tak bisa menjadi gadis yang mengangis di pelukanmu. Maafkan aku yang memilih mengejar impianku daripada cintaku. Maafkan aku karena aku akan selalu mencintaimu."</em><br>
+  — <strong>Sayuka</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
