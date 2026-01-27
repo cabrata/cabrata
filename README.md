@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang tidak menghargai karya orang lain adalah orang yang sudah lupa cara menikmati hidup."</em><br>
-  — <strong>Sawamura Spencer Eriri</strong>, <em>Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service Kai</em>
+  <em>"Dunia di luar dipenuhi dengan kotoran. Orang yang kubenci. Orang yang menghalangi jalanku. Pembohong. Orang kotor. Aku harus memusnahkan semuanya."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
