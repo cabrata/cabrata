@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bangun dan melangkahlah. Teruslah berjalan maju. Bukankah kau memiliki dua kaki yang (dapat berjalan dengan) baik kan?. Kau tak membutuhkan pegangan apapun."</em><br>
-  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Kuberitahu rahasia melawan musuh yang kuat. Caranya mudah, teruslah bangkit dan serang mereka dengan jurusmu secara terus-menerus. Bagi pendekar, mereka yang berdiri hingga akhir adalah pemenangnya."</em><br>
+  — <strong>Eisen</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
