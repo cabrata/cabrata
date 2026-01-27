@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mencari majalah P*o di kamar anak laki-laki adalah bagian dari jati diri orang Jepang."</em><br>
-  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
+  <em>"Jika terus melarikan diri, kau takkan pernah bisa bangkit dan maju."</em><br>
+  — <strong>Elena Fujisawa</strong>, <em>Hanebado!</em>
 </div>
 <!-- QUOTE END -->
 
