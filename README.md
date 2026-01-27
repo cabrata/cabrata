@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama dua tahun ini kita sudah berusaha kan?
-Kita berjuang bersama. Kita akan raih mimpi bersama! Aku takkan memaafkanmu jika kau menyerah semudah itu!"</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Akan aku berikan segalanya. Jadi izinkan aku terlibat dengan hidupmu."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
