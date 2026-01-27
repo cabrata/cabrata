@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua manusia memiliki sifat bodoh yang sama. Makhluk yang lupa kalau suatu saat mereka akan mati. Saat mereka berhadapan dengan kematian, mereka bergantung pada kehidupan."</em><br>
-  — <strong>Ginti</strong>, <em>Death Parade</em>
+  <em>"Mencari majalah P*o di kamar anak laki-laki adalah bagian dari jati diri orang Jepang."</em><br>
+  — <strong>Tom Shredfield</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
