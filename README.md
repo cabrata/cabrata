@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika ada sesuatu yang tidak baik, hal pertama yang harus kau lakukan adalah menjauhinya, (dan) jangan menyebarkan rumor (tentang hal itu)."</em><br>
-  — <strong>Mika Shimotsuki</strong>, <em>Psycho-Pass</em>
+  <em>"Jika kau punya waktu untuk terpuruk, lebih baik gunakan (waktumu itu) untuk melangkah maju."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man Season 2</em>
 </div>
 <!-- QUOTE END -->
 
