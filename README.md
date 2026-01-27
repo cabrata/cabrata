@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kita teman?
-Entah mau ke toilet atau kemana pun, kita akan pergi bersama!"</em><br>
-  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!</em>
+  <em>"Aku adalah aku, jadi aku akan menyelamatkannya karena itu membuatku puas."</em><br>
+  — <strong>Kuro no Rider</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
