@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Istirahat sejenak sangatlah penting untuk pekerjaanmu."</em><br>
-  — <strong>Kou Yagami</strong>, <em>New Game!</em>
+  <em>"Aku tidak mau mengorbankan apapun atau menyeret siapapun hanya untuk menang."</em><br>
+  — <strong>Makoto Tsukimoto</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
