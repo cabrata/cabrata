@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memasak karena ingin membuat senang siapapun yang memakannya. Kita senang kalau ada yang bilang enak. Itulah kenapa aku senang memasak, dan merasa ingin terus memasak. Sekarang siapa yang mau bilang, apa yang kau buat itu enak?!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Tidak peduli di garis dunia mana pun, di waktu kapanpun atau dimanapun, aku selalu menyukaimu."</em><br>
+  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate: Oukoubakko no Poriomania</em>
 </div>
 <!-- QUOTE END -->
 
