@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ini adalah hidupku, jadi akan kujalani dengan caraku sendiri."</em><br>
-  — <strong>Iori Nagase</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Jika kau ingin berkelahi, lakukanlah secara adil dan jujur."</em><br>
+  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
