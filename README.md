@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau memang merasa khawatir, peganglah tanganku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Tak peduli seberapa kuat seseorang, mereka pasti memiliki kelemahan dalam hatinya. Biasanya kita tidak bisa melihat kelemahan dalam hati kita. Itu sebabnya hidup menjadi sulit."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai II</em>
 </div>
 <!-- QUOTE END -->
 
