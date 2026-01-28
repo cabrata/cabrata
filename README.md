@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada sesuatu dalam dirimu. Kau bersikap biasa, namun aku merasa kau selalu berada di tengah-tengah orang lain. Kau seperti tak peduli, namun kau peduli. Saat terjadi suatu masalah, kau selalu memiliki kata-kata yang tepat sasaran. Karena itulah ada sesuatu dalam dirimu."</em><br>
-  — <strong>Reina Kousaka</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Aku bersyukur karena laut berwarna biru. Aku pun bersyukur karena langit pun biru. Warna yang telah kamu berikan, masa depanku penuh dengan warna."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
