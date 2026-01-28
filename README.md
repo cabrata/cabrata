@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang yang ingin menjadi Koki profesional pasti pernah mengalami kekalahan. Meski kepercayaan diri dan kebanggaanmu yang telah kau bangun selama bertahun-tahun hancur berkeping-keping dalam sebuah kesalahan besar. Meski kau memiliki pengalaman yang sangat buruk kau masih harus membuka tokomu esok hari. Seperti itulah yang dinamakan Koki."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Hidup tanpa sebuah tujuan akan terasa hampa!"</em><br>
+  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
