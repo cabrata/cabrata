@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang dewasa itu memang (makhluk yang) kotor."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Meskipun cahaya kembang api akan menghilang, tapi kenangannya akan terus terjaga."</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
