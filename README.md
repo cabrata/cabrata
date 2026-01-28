@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah rangkaian dari pilihan yang kita buat. Kau harus melihat sejauh mana pilihan naifmu itu akan membawamu."</em><br>
-  — <strong>Abuto</strong>, <em>Gintama</em>
+  <em>"Jiwa dan ragaku tidak akan bergerak untuk siapapun kecuali untuk Togame."</em><br>
+  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
