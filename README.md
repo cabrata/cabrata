@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat menyukai seseorang kadang akan berakhir dengan air mata.
-Tapi menyukai seseorang bukanlah sesuatu yang salah."</em><br>
-  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
+  <em>"Melakukan yang terbaik, berjuang dengan segala apa yang kubisa untuk berbohong. Karena bagitu, kebohongan adalah cinta. Dengan kata lain, berbohong adalah caraku untuk mengungkapkan rasa cinta."</em><br>
+  — <strong>Ai Hoshino</strong>, <em>[Oshi no Ko]</em>
 </div>
 <!-- QUOTE END -->
 
