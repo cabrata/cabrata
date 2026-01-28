@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku dengar kau mengatakan sesuatu yang menarik di upacara pembukaan.
-Menjadi yang terbaik di Akademi Tootsuki mungkin tak semudah yang kau bayangkan."</em><br>
-  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
+  <em>"Mencoba untuk tidak menyakiti seseorang adalah hal yang mustahil. Hanya dengan hidup saja, terkadang tanpa disadari seseorang bisa menyakiti orang lain. Meski hidup atau mati, manusia akan selalu menyakiti seseorang. Jika terlibat, kau akan menyakiti seseorang, tapi jika kau tidak terlibat mungkin kau juga akan menyakiti seseorang."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
