@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Shinichi, aku tak memiliki perasaan manusia. Jadi membunuh spesiesku sendiri tak berpengaruh sama sekali denganku. Tapi bagaimana kalau kau ada di posisiku?"</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Lebih baik jika hanya salah satu dari kita berkorban! Mungkin ini sulit, tapi tahanlah untuk sekarang."</em><br>
+  — <strong>Aqua</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo! 2</em>
 </div>
 <!-- QUOTE END -->
 
