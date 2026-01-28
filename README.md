@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hari (pernikahan) ini adalah hari di mana seorang wanita terlihat paling cantik selama hidupnya."</em><br>
-  — <strong>Tomoe Wajima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Hidup adalah rangkaian dari pilihan yang kita buat. Kau harus melihat sejauh mana pilihan naifmu itu akan membawamu."</em><br>
+  — <strong>Abuto</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
