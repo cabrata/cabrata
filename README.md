@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian tak perlu selalu harus berdiri dan menghadapi masalah. Kalian boleh lari atau pun bersembunyi."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Tak peduli sebanyak apapun kau mencoba. Percuma menutupinya dengan kata-kata, bakat yang belum terlatih adalah fakta kehidupan."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
