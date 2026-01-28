@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli apa yang kau lempar padaku, dengan satu hentakan. Aku akan mengembalikannya dua kali lipat lebih baik."</em><br>
-  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
+  <em>"Pilihan yang telah kamu pilih sejauh ini, dan pilihan yang telah aku pilih selama ini. Itu adalah kumpulan dari pilihan yang telah kita pilih. Itulah yang membuat kita bersama. Itulah alasan mengapa kita berada di sini."</em><br>
+  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
 
