@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau melakukan sesuatu yang akan melukaiku, aku akan mengerahkan seluruh kekuatanku untuk menghentikannya."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Sudah menjadi fenomena umum di dunia manusia, orang tidak kompeten yang tidak memiliki pengetahuan atau bakat mendapatkan posisi karena garis keturunan atau relasi."</em><br>
+  — <strong>Shaiapouf</strong>, <em>Hunter x Hunter (2011)</em>
 </div>
 <!-- QUOTE END -->
 
