@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada perasaan yang tenang setelah kau mencurahkan perasaanmu melalui pesan singkat untuk orang lain.
-Lalu, meskipun kau baru saja mengirimkan pesannya, kau sudah tidak sabar menunggu balasannya.
-Akhirnya HP-mu pun berdering dan kau kegirangan saat melihat nama pengirimnya."</em><br>
-  — <strong>Shinzou Takemitsu</strong>, <em>Sket Dance</em>
+  <em>"Saat wanita menunjukkan kelemahannya, saat itulah pria bertindak. Tolong berhati-hatilah."</em><br>
+  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
