@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia tidak akan menunggumu untuk mendapat keyakinan."</em><br>
-  — <strong>Hansung Yu</strong>, <em>Kami no Tou</em>
+  <em>"Aku terlahir untuk menjadi sampel eksperimennya."</em><br>
+  — <strong>Takahashi</strong>, <em>Joshikousei no Mudazukai</em>
 </div>
 <!-- QUOTE END -->
 
