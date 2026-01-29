@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau terjebak di suatu lubang yang begitu dalam dan tak bisa keluar, maka aku akan masuk ke lubang yang sama denganmu untuk menyelamatkanmu."</em><br>
-  — <strong>Masaomi Kida</strong>, <em>Durarara!!x2 Ten</em>
+  <em>"Bismarck mengatakan, "Hanya orang bodoh yang belajar dari kesalahan diri sendiri. Orang bijak, belajar dari kesalahan orang lain"."</em><br>
+  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
