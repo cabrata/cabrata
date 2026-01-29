@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak bisa menilai naskah game itu bagus atau jelek jika belum membacanya di dalam game."</em><br>
-  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Pria idaman itu seperti apa?
+Wajahnya? Hartanya?
+Bagiku, pria idaman itu adalah seorang yang mau untuk hidup bersama."</em><br>
+  — <strong>Charlotte Abelfreyja Drossel</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
