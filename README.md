@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat wanita menunjukkan kelemahannya, saat itulah pria bertindak. Tolong berhati-hatilah."</em><br>
-  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
+  <em>"Hidupmu akan jadi bermakna saat kau bisa tersenyum!"</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
