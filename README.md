@@ -51,7 +51,7 @@ A passionate developer who loves building creative tools and useful software.
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1DX7i7SKKuAK4o?si=KwEgMrM7SbyqwuLH4ZgJdw&utm_source=copy-link" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kvoo3nwd5sdwgec5h3ljpxigrq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hav2zu4cq0882lml5ojwy0w8s&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350"/>
   </a>
 </p>
 
