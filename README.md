@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku kebanggaan diri dan keserakahan juga penting.
-Jika seseorang tidak memiliki kebanggaan diri, dia jadi tak punya rasa percaya diri.
-Jika ada seseorang yang tidak memiliki rasa keserakahan, aku yakin dia pasti kesulitan untuk menafkahi keluarganya.
-Jika di dunia ini orang tidak saling iri dengan milik sesamanya, mungkin saja penemuan-penemuan baru tidak akan tercipta.
-Aku hanya berpikir kalau konsep "dosa besar" tidak dapat diterapkan begitu saja dalam kehidupan sehari-hari kita."</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Saat kondisi terjepit, saat itulah ada kesempatan. Saat kita dalam keadaan tanpa harapan, saat itu pula energi negatif dari luar berkumpul. Tapi dengan mengubah pola pikir, kita bisa mengubah keadaan. Karena itu, sesulit atau seburuk apa pun situasinya kita harus berjuang sampai akhir."</em><br>
+  — <strong>Oji-san</strong>, <em>Isekai Ojisan</em>
 </div>
 <!-- QUOTE END -->
 
