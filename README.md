@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sepertinya suasana hatimu masih belum sembuh... tapi perasaanmu itu terlihat bagaikan berlian yang berkilau di antara berlian-berlian yang lain."</em><br>
-  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Menyimpan harta hanya untuk diri sendiri mungkin akan membuatmu kaya raya, tapi itu tidak akan membuatmu makmur."</em><br>
+  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
