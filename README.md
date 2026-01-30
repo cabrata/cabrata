@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam sebuah pertandingan, kau harus kuat agar dapat menikmati pertandingan itu."</em><br>
-  — <strong>Tadashi Yamaguchi</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Asalkan kebenciannya padaku bisa membuatnya mencintai dirinya sendiri, kurasa itu lebih baik."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
