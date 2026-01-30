@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mempunyai kekuatan terlalu hebat itu membosankan."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Jika kau merasa malu untuk membantunya, tinggal bantu saja mereka di jalan yang tak bisa mereka lihat."</em><br>
+  — <strong>Nozomi Toujou</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
