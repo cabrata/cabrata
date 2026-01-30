@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita hanya bisa menduga apa yang mereka pikirkan saat ini. Kau boleh menyebutnya prasangka, tapi membutuhkan pengalaman serta pengamatan untuk melakukan sebuah penghakiman."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Berjuanglah sekeras mungkin. Kerahkan seluruh pikiran dan hatimu untuk mencari jalan keluar bersama dengan mereka. Biarkan hatimu yang telah mengering dan layu itu sekali lagi bermekaran."</em><br>
+  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
