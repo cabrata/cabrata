@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Daripada meninggalkan kenangan yang menyedihkan, lebih baik meninggalkan kenangan yang menyenangkan, membahagiakan, dan penuh dengan senyuman."</em><br>
-  — <strong>Kaede Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Jangan pernah minta maaf atas kerja kerasmu.
+Itu sama saja kau menghina tekadmu sendiri."</em><br>
+  — <strong>Duy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
