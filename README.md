@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan manusia itu terlalu rumit dan susah dimengerti. Tidak semua perasaan diungkapkan melalui kata-kata, ada kalanya manusia memiliki maksud lain atau niat kebohongan."</em><br>
-  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
+  <em>"Memang benar, tidak selamanya yang kita harapkan tercapai. Tapi hal yang mesti kita lakukan harus selalu dimulai dengan sebuah harapan."</em><br>
+  — <strong>Guy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
