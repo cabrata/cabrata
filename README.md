@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ternyata aku yang tidak merasa adanya dinding antara diriku dengan Kazehaya...
-Dinding yang ingin ku hancurkan. Kazehaya dengan mudah menghancurkannya dengan satu senyuman."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
+  <em>"Mempunyai kekuatan terlalu hebat itu membosankan."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
