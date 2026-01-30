@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakek berpesan, hiduplah dengan bebas, pilihlah jalan yang kau yakini dan hiduplah dengan kegembiraan."</em><br>
-  — <strong>Mikleo</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Bismarck mengatakan, "Hanya orang bodoh yang belajar dari kesalahan diri sendiri. Orang bijak, belajar dari kesalahan orang lain"."</em><br>
+  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
