@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam menjalani hidup, kalian pasti akan menemui situasi di mana pendapat kalian bertentangan dengan pendapat masyarakat.
-Saat itu terjadi, jangan menyalahkan masyarakat. Jangan menolak pendapat masyarakat umum. Karena hal itu hanya akan menyia-nyiakan waktu kalian.Saat itu terjadi, cukup katakan "beginilah hidup!". Hadapilah rasa putus asa itu. Setelah berhasil menghadapinya, pikirkanlah (kembali) jika masyarakat menentang keras pendapat kalian, bagaimana sikap kalian menanggapi pertentangan tersebut."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Aku memutuskan untuk selalu menjalani hidup dengan sepenuh hati. Dengan begitu, hidupku akan penuh dengan kebahagiaan hingga ajal datang menjemputku. Aku tak tahu apakah itu jalan yang benar atau salah. Tapi aku akan tetap menjalani dan menikmatinya hingga akhir."</em><br>
+  — <strong>Yoshifumi Aoki</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
