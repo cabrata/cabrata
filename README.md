@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak perlu sebuah alasan untuk menyukaimu. Ketika kusadari, aku sudah menyukaimu."</em><br>
-  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Manusia adalah makhluk yang selalu menyesal dan terluka dengan keputusan yang telah dibuatnya."</em><br>
+  — <strong>Glenn Radars</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
 </div>
 <!-- QUOTE END -->
 
