@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun berusaha keras bisa menjadi kunci kesuksesan (seseorang), tapi tidak bisa dijadikan pembenaran untuk membebani (orang lain). Hanya karena telah berusaha kau ingin dimaafkan (atas kegagalanmu), itu hanya sikap egois."</em><br>
-  — <strong>Ares Srowa</strong>, <em>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</em>
+  <em>"Aku tak perlu sebuah alasan untuk menyukaimu. Ketika kusadari, aku sudah menyukaimu."</em><br>
+  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
