@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk apa kita berusaha menjadi manusia dengan cara yang tidak manusiawi?"</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
+  <em>"Yang membutuhkan sandaran hati tidak hanya anak kecil."</em><br>
+  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
