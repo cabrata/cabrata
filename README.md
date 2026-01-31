@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun di depan hanya akan ada jalan buntu ataupun keputusasaan, tapi setidaknya kami ingin berjalan di jalan yang kami pilih."</em><br>
-  — <strong>Sieg</strong>, <em>Fate/Apocrypha</em>
+  <em>"Mengabaikan seseorang itu hal yang mudah, membenci seseorang lebih mudah lagi, namun mencintai seseorang adalah hal yang sulit."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
