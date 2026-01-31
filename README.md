@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku melakukan ini bukan untuk bermain-main. Aku akan bahagia jika aku bisa memainkannya."</em><br>
-  — <strong>Asuka Tanaka</strong>, <em>Hibike! Euphonium 2</em>
+  <em>"Rival itu bukan berarti menjadi musuh."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
