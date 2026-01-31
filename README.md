@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat ada seseorang yang ingin menegakkan keadilannya, maka (di lain sisi) pasti ada orang lain yang akan kehilangan keadilan mereka. Karena itu pahlawan memanglah egois. Pahlawan yang tak memiliki kemampuan tapi ingin bertarung dan menyelamatkan banyak orang tanpa mengandalkan kekuatan itu (hanyalah) orang arogan. Tapi jika orang bodoh seperti itu memang ada, mereka hanya akan jadi pengganggu saja. Apa yang diperlukan oleh pahlawan sebenarnya adalah kekuatan untuk mewujudkan ideologinya menjadi nyata dan keteguhan hati untuk memaksakan keadilan yang diyakininya pada orang lain."</em><br>
-  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
+  <em>"Dia memang lebih kuat dariku, tapi itu bukan alasan untuk tidak mencemaskannya. Apapun yang kami lakukan, dia selalu lebih baik dariku. Tapi, aku adalah kakaknya. Aku takkan pernah goyah dari posisi itu."</em><br>
+  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
