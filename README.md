@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Soal pernikahan atau masa depan, aku tidak tahu apa yang akan terjadi. Di dunia ini, kesedihan muncul setelah (pernikahan) itu hal yang biasa. Tapi, semua orang punya hak untuk menginginkan kebahagiaan. (Karena itu) kita perlu berusaha demi masa depan."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru OVA</em>
+  <em>"Saat ada seseorang yang ingin menegakkan keadilannya, maka (di lain sisi) pasti ada orang lain yang akan kehilangan keadilan mereka. Karena itu pahlawan memanglah egois. Pahlawan yang tak memiliki kemampuan tapi ingin bertarung dan menyelamatkan banyak orang tanpa mengandalkan kekuatan itu (hanyalah) orang arogan. Tapi jika orang bodoh seperti itu memang ada, mereka hanya akan jadi pengganggu saja. Apa yang diperlukan oleh pahlawan sebenarnya adalah kekuatan untuk mewujudkan ideologinya menjadi nyata dan keteguhan hati untuk memaksakan keadilan yang diyakininya pada orang lain."</em><br>
+  — <strong>Brad Blackstone</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
