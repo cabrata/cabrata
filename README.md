@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Hanya) semua inilah yang kumiliki.., Mengajarimu dalam belajar, adik kelas yang manis, seorang ayah yang pekerja keras, kemudian langit berbintang ini. Yang aku miliki hanya sebatas ini. Hanya sebatas inilah yang bisa kuberikan padamu."</em><br>
-  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
+  <em>"Saat kau membagi suara (musik) itu ke orang - orang, saat suara (musik) mu itu mencapai orang - orang, saat hatimu bersatu, kurasa musik melampaui kata - kata."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
