@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika ada sesuatu yang populer, itu artinya yang lainnya tidak populer."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Koyomimonogatari</em>
+  <em>""Violet", saat kau dewasa nanti, kau pasti akan menjadi gadis yang cocok dengan nama itu. Kau bukanlah sebuah alat, tapi seorang yang pantas memiliki nama itu (Violet)."</em><br>
+  — <strong>Gilbert Bougainvillea</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
