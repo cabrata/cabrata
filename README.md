@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang membutuhkan sandaran hati tidak hanya anak kecil."</em><br>
-  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
+  <em>"Setelah kematian, kalian akan dikirim ke "surga" atau "neraka"."</em><br>
+  — <strong>Decim</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
