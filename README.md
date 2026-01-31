@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kau membagi suara (musik) itu ke orang - orang, saat suara (musik) mu itu mencapai orang - orang, saat hatimu bersatu, kurasa musik melampaui kata - kata."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Aku akan menyelamatkannya karena dia adalah temanku. Kalau ada orang yang membuatnya menderita, aku tidak akan memaafkannya!"</em><br>
+  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya 3rei!!</em>
 </div>
 <!-- QUOTE END -->
 
