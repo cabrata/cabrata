@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak ingin dia kalah dari takdir, aku ingin dia hidup dengan kuat."</em><br>
-  — <strong>Jukai</strong>, <em>Dororo</em>
+  <em>"Bagi yang berusaha maka Tuhan akan tersenyum padamu, itu adalah bohong.
+Tapi, takdir Tuhan akan berkedip padamu."</em><br>
+  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
 </div>
 <!-- QUOTE END -->
 
