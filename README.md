@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku memutuskan untuk selalu menjalani hidup dengan sepenuh hati. Dengan begitu, hidupku akan penuh dengan kebahagiaan hingga ajal datang menjemputku. Aku tak tahu apakah itu jalan yang benar atau salah. Tapi aku akan tetap menjalani dan menikmatinya hingga akhir."</em><br>
-  — <strong>Yoshifumi Aoki</strong>, <em>Kokoro Connect</em>
+  <em>"Jika lusa kau mati, aku akan hidup hingga tiga hari lagi.
+Aku akan menceritakan kisahmu pada orang-orang.
+Aku akan menceritakan tentang tuanku yang aku banggakan."</em><br>
+  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
