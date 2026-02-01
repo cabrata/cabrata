@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau sangat baik, pekerja keras, dan selalu berusaha yang terbaik, dan juga, dadamu lebih besar dari dadanya! Jika tidak ada kau, aku pasti sudah mati digigit anjing-anjing itu. Aku selamat karena kau ada di sana. Dan sekarang, aku masih hidup! Bukan hanya karena kakakmu, tapi karena kau juga."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Memastikan keselamatan dan mengamati kondisi psikologis korban adalah tugas penting seorang detektif."</em><br>
+  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
