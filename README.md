@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Nama adalah sesuatu yang berharga untuk memulai sesuatu."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Masa-masa menjadi pelajar sekolah itu singkat. Kau tidak bisa memutar kembali atau pun mengeditnya seperti film. Kau harus mengatakan hal yang ingin kau katakan. Karena ketika semua berakhir dan kau menyesalinya, itu sudah terlambat."</em><br>
+  — <strong>Saku Akechi</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
 </div>
 <!-- QUOTE END -->
 
