@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Baru kali ini aku melihat orang mendapat bunga setelah kompetisi. Tidak hanya itu, kau tak mengenal mereka kan?'
-Mereka pasti tidak menyiapkan bunganya, mereka pasti setelah mendengar pertunjukanmu langsung membeli bunga itu untukmu. Ini hari yang tak terlupakan bagi mereka. Mungkin seperti itulah pertunjukanmu."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Jika peringkat (dalam pertandingan) membuatmu khawatir. (Tenang saja) kau sudah mendapatkan peringkat pertama di dalam hatiku."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
 </div>
 <!-- QUOTE END -->
 
