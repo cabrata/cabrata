@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski kita bisa memilih dengan siapa kita terlibat, tapi kita tidak bisa memilih dengan siapa kita bertemu. Jadi aku pikir sangat beruntung bisa bertemu dengan orang baik."</em><br>
-  — <strong>Asami Yuuki</strong>, <em>Hige wo Soru. Soshite Joshikousei wo Hirou.</em>
+  <em>"Kalau masih ada jalan untuk mundur itu namanya bukan perjalanan. Saat kau berada di titik dimana kau tak bisa kembali, saat itulah perjalananmu dimulai."</em><br>
+  — <strong>Hinata Miyake</strong>, <em>Sora yori mo Tooi Basho</em>
 </div>
 <!-- QUOTE END -->
 
