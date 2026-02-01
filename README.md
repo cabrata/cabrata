@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Segala hal terlahir dari yang sudah ada, dan yang sudah ada itu dari kenihilan. Hidup hanya sesaat, mari kita nikmati."</em><br>
-  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
+  <em>"Semua yang kau katakan dan lakukan berkilauan dan bersinar terang. Itu terlalu silau untukku dan akhirnya ku menutup mata."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
