@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memastikan keselamatan dan mengamati kondisi psikologis korban adalah tugas penting seorang detektif."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
+  <em>"(Bukan berarti) aku tidak ingin menjadi kuat.
+Kalau bisa aku (hanya) ingin tetap menjadi seorang gadis selamanya..."</em><br>
+  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
