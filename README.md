@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam mencintai seseorang tidak boleh mengharapkan balasan. Cinta sejati adalah ketika dapat mengorbankan diri sendiri demi orang lain."</em><br>
-  — <strong>Miyoko Kinjou</strong>, <em>Handa-kun</em>
+  <em>"Jangan mengendurkan perasaanmu. Perasaan senang, sakit, bahagia, sedih... rasakan semuanya demi diriku."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
