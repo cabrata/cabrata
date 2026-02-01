@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bukan berarti) aku tidak ingin menjadi kuat.
-Kalau bisa aku (hanya) ingin tetap menjadi seorang gadis selamanya..."</em><br>
-  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
+  <em>"Menabung itu hal bagus, tapi melakukan sesuatu yang berkesan juga bagus."</em><br>
+  — <strong>Rin Tooyama</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
