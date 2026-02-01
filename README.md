@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagaimanapun masa lalu atau masa depanmu, itu tidak mengubah fakta bahwa kau sekarang ada di sini."</em><br>
-  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Seseorang tak mungkin bisa mendapatkan segalanya. Pasti akan datang hari ketika kita kehilangan. Karena itu majulah terus agar tak ada penyesalan."</em><br>
+  — <strong>Endorsi Jahad</strong>, <em>Kami no Tou</em>
 </div>
 <!-- QUOTE END -->
 
