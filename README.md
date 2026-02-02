@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku bekerja demi meneruskan hobiku."</em><br>
-  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Apa pun misinya, yang ku lakukan hanya satu, yaitu melindungimu."</em><br>
+  — <strong>Sakuya Tachibana</strong>, <em>God Eater</em>
 </div>
 <!-- QUOTE END -->
 
