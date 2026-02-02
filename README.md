@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci jadi orang yang lemah. Tapi setelah mengetahui kalau masih ada banyak pemain yang lebih hebat dari aku, itu membuatku jadi lebih bersemangat!"</em><br>
-  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Aku tidak mau lari! Kalau aku lari dari apa yang kuhadapi sekarang, aku akan menyesalinya seumur hidupku."</em><br>
+  — <strong>Moe Nishinosono</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
