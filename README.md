@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Rekan-rekanku dan aku bersumpah kalau kami akan rela berkorban, jika itu memang diharuskan. Aku akan rela berkorban demi menyelamatkan orang lain."</em><br>
+  — <strong>Sakuma</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
