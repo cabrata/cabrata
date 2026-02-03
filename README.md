@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Malam hari bisa mengubah cara pandang seseorang secara drastis."</em><br>
-  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
+  <em>"Jika kau tidak punya keinginan yang besar, kau tak akan bisa menjadi mangaka terkenal."</em><br>
+  — <strong>Yoshihisa Heishi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
