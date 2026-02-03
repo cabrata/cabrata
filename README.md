@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bakat bukanlah sesuatu yang bisa didapat dengan bekerja keras."</em><br>
-  — <strong>Eiko Tsukimi</strong>, <em>Paripi Koumei</em>
+  <em>""</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
