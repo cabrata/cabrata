@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau mengatakannya dengan cinta, perasaanmu akan tersampaikan."</em><br>
-  — <strong>Tooru Minegishi</strong>, <em>Working!!!</em>
+  <em>"Sekali lagi dia berdiri tegak dan membuka pintunya. Di balik pintunya adalah dunia tak sempurna dan juga (dunia yang) sedikit kejam. Dia berjuang untuk belajar mencintai dunia itu. Aku sangat mencintai dia yang seperti itu."</em><br>
+  — <strong>Daru</strong>, <em>Kanojo to Kanojo no Neko: Everything Flows</em>
 </div>
 <!-- QUOTE END -->
 
