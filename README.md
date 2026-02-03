@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhutang kepada seseorang bukanlah hal yang memalukan, tapi justru memalukan jika tidak bisa melunasinya."</em><br>
-  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
+  <em>"Jika kau mengatakannya dengan cinta, perasaanmu akan tersampaikan."</em><br>
+  — <strong>Tooru Minegishi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
