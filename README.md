@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bunga-bunga yang indah pun pada akhirnya akan layu dan berguguran. Itulah takdir dari semua bentuk kehidupan."</em><br>
-  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
+  <em>"Karena sudah tidak ada waktu, maka menyerah? Sebalinya kan?
+Karena tidak ada waktu, kita tak boleh buang-buang waktu lagi."</em><br>
+  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
 </div>
 <!-- QUOTE END -->
 
