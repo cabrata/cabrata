@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Catur adalah permainan informasi dua pemain yang berbasis hitungan matematis.
-Dalam permainan ini tak ada yang namanya "keberuntungan"."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Kau boleh membenciku sebesar yang kau mau, setidaknya sebesar cintaku padamu sebelumnya."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
