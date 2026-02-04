@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Shiro, yang kau besarkan bukanlah sebuah senjata. Kau membesarkan seorang putra."</em><br>
-  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist</em>
+  <em>"Tidak ada seorang pun yang akan menertawakan orang yang berusaha keras."</em><br>
+  — <strong>Naruzou Machio</strong>, <em>Dumbbell Nan Kilo Moteru?</em>
 </div>
 <!-- QUOTE END -->
 
