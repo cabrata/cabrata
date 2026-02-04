@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang tak mungkin bisa mendapatkan segalanya. Pasti akan datang hari ketika kita kehilangan. Karena itu majulah terus agar tak ada penyesalan."</em><br>
-  — <strong>Endorsi Jahad</strong>, <em>Kami no Tou</em>
+  <em>"Dia begitu periang dan polos. Dia juga tahu apa yang tidak bisa kukatakan. Kupikir itulah yang membuatku suka padanya."</em><br>
+  — <strong>Tsuyoshi Naoe</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
