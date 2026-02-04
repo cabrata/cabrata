@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki yang kebiasaannya hanya diam aja sangat membosankan."</em><br>
-  — <strong>Winry Rockbell</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Apakah mencabuti duri yang ada di jalan seseorang itu benar-benar langkah terbaik untuk (membantu) mereka? Meskipun mereka masih terlalu muda untuk melakukan perjalanan dan terluka, tertapi terkadang penting juga bagi mereka untuk mengetahui rasa sakit dan mencari cara agar mereka bangkit kembali."</em><br>
+  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
