@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mungkin tak banyak orang yang tahu kalau sebenarnya aku tipe orang yang tak begitu peduli dengan penampilanku. Karena menurutku yang lebih penting adalah apa yang keluar dari dalam diriku."</em><br>
-  — <strong>Karen Tendou</strong>, <em>Gamers!</em>
+  <em>"Di Tootsuki, semua orang menunjukkan apakah dia layak atau tidak dengan kemampuannya sendiri. Apakah kau layak untuk tetap bertahan atau tidak, itu bergantung pada dirimu sendiri!"</em><br>
+  — <strong>Gin Doujima</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
