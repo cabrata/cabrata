@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memang harus melakukan apa saja untuk (tetap) hidup. Tapi jangan membuang alasanmu (untuk hidup). Kalau kau membuangnya, kau bukan lagi manusia."</em><br>
-  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Jika kau punya waktu untuk terpuruk, lebih baik gunakan (waktumu itu) untuk melangkah maju."</em><br>
+  — <strong>Saitama</strong>, <em>One Punch Man Season 2</em>
 </div>
 <!-- QUOTE END -->
 
