@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Genos, sejak awal karena keinginan besarku yang ingin menjadi pahlawanlah yang mendorongku untuk berlatih sangat keras.
-karena itulah aku menjadi sekuat ini."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Bangun dan melangkahlah. Teruslah berjalan maju. Bukankah kau memiliki dua kaki yang (dapat berjalan dengan) baik kan?. Kau tak membutuhkan pegangan apapun."</em><br>
+  — <strong>Edward Elric</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
 </div>
 <!-- QUOTE END -->
 
