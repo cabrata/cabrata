@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa sulitnya (menjalani hidup), aku ingin kau percaya bahwa dunia ini indah."</em><br>
-  — <strong>Fujino Asagami</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
+  <em>"Kita lahir dengan kekuatan khusus yang orang lain tidak punya, tapi kita tidak boleh menganggap bahwa diri kita spesial. Orang yang dapat berlari cepat, orang yang dapat bernyanyi dengan bagus, orang yang cerdas, orang yang baik dalam berbicara, dan orang yang bisa menggunakan kekuatan psikis. Kau tidak boleh menganggap salah satunya lebih baik dari yang lain. Percaya dengan kekuatan diri sendiri itu tidak apa, tapi kau tidak boleh menyombongkannya."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100</em>
 </div>
 <!-- QUOTE END -->
 
