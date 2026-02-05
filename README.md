@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita teman, seharusnya tidak boleh ada rahasia, perasaan yang disembunyikan, ataupun keputusan yang dibuat sendiri kan?"</em><br>
-  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Kekuatan yang terlalu besar akan menghancurkan sekelilingnya."</em><br>
+  — <strong>Koushi Usa</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
