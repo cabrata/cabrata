@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah pahlawan karena menyelamatkan seorang wanita tua."</em><br>
-  — <strong>Alan Lernier</strong>, <em>Joker Game</em>
+  <em>"Kalau kau memang merasa khawatir, peganglah tanganku."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
