@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meski kau bisa menutup mata, telinga dan mulutmu sekalipun, kau takkan bisa menghentikan luapan perasaanmu kepada seseorang."</em><br>
-  — <strong>Shuu Igarashi</strong>, <em>Koi to Uso</em>
+  <em>"Tak peduli seberapa sulitnya (menjalani hidup), aku ingin kau percaya bahwa dunia ini indah."</em><br>
+  — <strong>Fujino Asagami</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
 </div>
 <!-- QUOTE END -->
 
