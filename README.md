@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Air mata palsu dapat menyakiti orang lain. (Sedangkan) senyum palsu akan menyakiti dirimu sendiri."</em><br>
-  — <strong>C.C.</strong>, <em>Code Geass: Hangyaku no Lelouch</em>
+  <em>"Ketika aku bergantung pada orang lain, pada akhirnya aku hanya akan tersakiti.
+Dari awal seharusnya aku tak bergantung pada siapapun."</em><br>
+  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
