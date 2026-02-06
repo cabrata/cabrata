@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Segala sesuatu yang terjadi padamu itu bisa saja terjadi pada orang lain". Itu adalah pemikiran yang sangat sederhana untuk menolak adanya keajaiban."</em><br>
-  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
+  <em>"Tindakanku tak mengenal logika. Aku bertindak semauku. Saat aku merasa harus bertindak, aku akan melakukannya dengan penuh keyakinan dan rasa bangga."</em><br>
+  — <strong>Xuanzang Sanzang</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
