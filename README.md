@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ilusi yang dilakukan oleh para pahlawan sepanjang masa telah menyebabkan banyak lautan darah kematian demi tercapainya kehormatan dan kemuliaan fana."</em><br>
-  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Karena ada kesediahan, maka ada kesenangan."</em><br>
+  — <strong>Kanna Tanigawa</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
