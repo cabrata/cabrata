@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dimanjakan dan memanjakan kakak adalah hak khusus seorang adik."</em><br>
-  — <strong>Mizuha Kiryuu</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
+  <em>"Demi menemukan kebenaran di balik kematian seseorang, tentu wajar jika kita juga harus mempertaruhkan nyawa kita."</em><br>
+  — <strong>Shinya Kougami</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
