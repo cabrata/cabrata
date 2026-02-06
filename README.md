@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia bisa benar dan salah. Kesalahan membuat mereka belajar lebih cepat, tapi butuh waktu untuk melihat kesalahan. Dan menghabiskan waktu bersama orang lain cukup membosankan. Sejauh yang kutahu, kesalahan yang menyusup kedalam rumahku dan mencuri hartaku itu lebih baik. Namun, aku tidak masalah, karena kau adalah sebuah kesalahan."</em><br>
-  — <strong>Fafnir</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Menjadi "orang dewasa" itu tidak selalu mengesankan. Terkadang "dewasa" itu hanya penampilan luarnya saja. Mereka (hanya) ingin terlihat mengagumkan di depan masyarakat, (dan) ingin dihormati oleh anak-anak."</em><br>
+  — <strong>Sakie Satou</strong>, <em>Demi-chan wa Kataritai</em>
 </div>
 <!-- QUOTE END -->
 
