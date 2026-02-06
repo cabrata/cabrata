@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jujur, sekarang aku belum bisa memberikan kontribusi dipertandingan. Tapi aku ingin membantu sebanyak yang kubisa. Itu sebabnya aku di sini. Memang sekarang, aku bukan pelari. Tapi, perasaanku berlari bersama mereka. Aku ingin berbagi dalam kebahagiaan maupun penyesalan. Menurutku "Stride" bukan hanya tentang mengalahkan orang lain. Alasan kenapa aku merasa seperti itu karena, kau dan murid kelas satu lainnya telah menghubungkan perasaan kita semua."</em><br>
-  — <strong>Ayumu Kadowaki</strong>, <em>Prince of Stride: Alternative</em>
+  <em>"Ilusi yang dilakukan oleh para pahlawan sepanjang masa telah menyebabkan banyak lautan darah kematian demi tercapainya kehormatan dan kemuliaan fana."</em><br>
+  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
