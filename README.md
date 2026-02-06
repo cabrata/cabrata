@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hewan bukanlah "sebuah mainan". Mereka hidup, sama seperti manusia."</em><br>
-  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Orang dewasa takkan marah pada setiap keteledoran anak-anak."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
