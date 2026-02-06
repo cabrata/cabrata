@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"DIY (Do it yourself), "Lakukanlah (dengan caramu) sendiri". Kurasa itu adalah saran yang tepat untukku."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Mencoba untuk tidak menyakiti seseorang adalah hal yang mustahil. Hanya dengan hidup saja, terkadang tanpa disadari seseorang bisa menyakiti orang lain. Meski hidup atau mati, manusia akan selalu menyakiti seseorang. Jika terlibat, kau akan menyakiti seseorang, tapi jika kau tidak terlibat mungkin kau juga akan menyakiti seseorang."</em><br>
+  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
