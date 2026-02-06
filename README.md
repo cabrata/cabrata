@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli berapa banyak kau mengulanginya, perasaan seseorang takkan berubah. Kebohongan takkan menjadi kenyataan, dan kenyataan takkan menjadi kebohongan."</em><br>
-  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Karena aku tak memiliki harta sama sekali, yang bisa aku berikan hanyalah waktu, perasaan, masa depan, kehidupan dan hal-hal samar lainnya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
