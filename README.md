@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau punya hak untuk hidup, kami juga punya. Meskipun aku yakin, setiap manusia memiliki pemikirannya sendiri mengenai "hak". Pokoknya, kami akan melakukan apapun untuk hidup."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Anak muda kadang terobsesi pada kesempurnaan.
+Aku juga pernah begitu.
+Tapi suatu saat nanti, kau pasti akan percaya pada jalanmu sendiri.
+Seperti yang kulakukan.
+Karena itu, tenang saja, tak apa kalau kau cemas."</em><br>
+  — <strong>Shirosaki</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
