@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang terlalu banyak pikiran, justru karena situasi yang sulit, kita harus melangkah maju."</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Manusia senang menyakiti orang lain ketika mereka tidak bisa menyakiti diri sendiri."</em><br>
+  — <strong>Yozora Mikazuki</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
 </div>
 <!-- QUOTE END -->
 
