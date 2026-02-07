@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia terus bergerak maju tak peduli apa yang kita lakukan."</em><br>
-  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
+  <em>"Awalnya peluang selalu terlihat mustahil."</em><br>
+  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
