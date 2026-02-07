@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memiliki sifat tempramen boleh saja, tapi kalau kau tak bisa mengendalikannya kau bisa terbakar."</em><br>
-  — <strong>Amai Kamen Amai Mask</strong>, <em>One Punch Man</em>
+  <em>"Di dunia ini tak ada satu pun hal yang sia-sia."</em><br>
+  — <strong>Eiko Kawasegawa</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
