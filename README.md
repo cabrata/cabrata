@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang jadi berpikir sempit kalau sedang tidak punya uang."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 3: Tsuukaku Zanryuu</em>
+  <em>"(Ketika kau menggendongku saat aku menangis) Meskipun sangat menyakitkan aku kalah, meskipun sangat sedih, meskipun angkle-ku sakit dan mataku dipenuhi air mata, meski dalam kondisi yang menyedihkan, kenapa bintang terlihat berkilauan seperti ini ya? Aku bisa mencium aroma ruang musik dari rambutnya, aku bisa mendengar desahan nafasnya, dan bahunya yang basah karena air mataku terasa hangat. Aku berada di sisinya dan (saat ini) aku berharap waktu dapat berhenti."</em><br>
+  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
