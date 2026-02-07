@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya dengan memiliki orang yang dicintai saja dapat membuat pagi yang hampa menjadi indah."</em><br>
-  — <strong>Akira Hiiragi</strong>, <em>KimiKiss Pure Rouge: Love Fighter</em>
+  <em>"Dunia terus bergerak maju tak peduli apa yang kita lakukan."</em><br>
+  — <strong>Yuzu</strong>, <em>Konohana Kitan</em>
 </div>
 <!-- QUOTE END -->
 
