@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak ingin dia kalah dari takdir, aku ingin dia hidup dengan kuat."</em><br>
-  — <strong>Jukai</strong>, <em>Dororo</em>
+  <em>"Menurutku, satu-satunya masa di mana orang menjadi berharga adalah ketika mereka bertindak sesuai dengan keinginan mereka sendiri."</em><br>
+  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
