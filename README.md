@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Ketika kau menggendongku saat aku menangis) Meskipun sangat menyakitkan aku kalah, meskipun sangat sedih, meskipun angkle-ku sakit dan mataku dipenuhi air mata, meski dalam kondisi yang menyedihkan, kenapa bintang terlihat berkilauan seperti ini ya? Aku bisa mencium aroma ruang musik dari rambutnya, aku bisa mendengar desahan nafasnya, dan bahunya yang basah karena air mataku terasa hangat. Aku berada di sisinya dan (saat ini) aku berharap waktu dapat berhenti."</em><br>
-  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Aku merasakan perubahan. Aku yang dulunya tidak tertarik dengan orang lain tanpa kusadari, aku berubah karena dia. Kalau disesuaikan, mungkin aku memilih untuk mengubah diriku. Aku memilih untuk memungut catatan penyakitnya. Aku memilih untuk menemaninya. Lalu, aku memilih untuk berjalan bersamanya."</em><br>
+  — <strong>Haruki Shiga</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
 
