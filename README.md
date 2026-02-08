@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasakan perubahan. Aku yang dulunya tidak tertarik dengan orang lain tanpa kusadari, aku berubah karena dia. Kalau disesuaikan, mungkin aku memilih untuk mengubah diriku. Aku memilih untuk memungut catatan penyakitnya. Aku memilih untuk menemaninya. Lalu, aku memilih untuk berjalan bersamanya."</em><br>
-  — <strong>Haruki Shiga</strong>, <em>Kimi no Suizou wo Tabetai</em>
+  <em>"Bukankah kau mengayunkan pedang untuk melindungi sesuatu? Ksatria adalah seseorang yang wajib melindungi orang lain."</em><br>
+  — <strong>Theresia van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
