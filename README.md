@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keadilan adalah senjata... Senjata yang dapat digunakan untuk melukai, tapi tidak bisa digunakan untuk melindungi ataupun menyelamatkan orang lain."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Bungou Stray Dogs</em>
+  <em>"Jika aku diam saja, harapan tidak akan bisa jadi kenyataan."</em><br>
+  — <strong>Varma</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
