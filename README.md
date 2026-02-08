@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh menghinaku sesukamu, tapi jangan pernah menghina Adikku!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Seorang pria yang kalah oleh kesedihan dalam hidupnya itu sama seperti seorang yang sedang menunggu ajalnya."</em><br>
+  — <strong>Joutarou Kawasumi</strong>, <em>Inu x Boku SS</em>
 </div>
 <!-- QUOTE END -->
 
