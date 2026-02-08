@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena ada kesediahan, maka ada kesenangan."</em><br>
-  — <strong>Kanna Tanigawa</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Suna, kali ini aku tak akan salah lagi. Tapi, jika aku kehilangan arah dan mulai mengambil jalan yang salah, tolong pukul aku."</em><br>
+  — <strong>Takeo Gouda</strong>, <em>Ore Monogatari!!</em>
 </div>
 <!-- QUOTE END -->
 
