@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku diam saja, harapan tidak akan bisa jadi kenyataan."</em><br>
-  — <strong>Varma</strong>, <em>Taboo Tattoo</em>
+  <em>"Kejadian terhebat dalam hidup dan alasan yang terpenting untuk sukses adalah "mencintai""</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
