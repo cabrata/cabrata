@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah mendengar lagu itu, aku ingin menjadi shool idol seperti µ's. Membuatku ingin berjuang, berusaha, dan bekerjasama membuat keajaiban. Aku jadi merasa bahwa akupun pasti bisa melakukannya dan aku bisa mengubahnya dari diriku dulu."</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Jangan terlalu banyak menahan kesedihan, karena itu akan membuatmu melupakan suatu hal yang terpenting."</em><br>
+  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
