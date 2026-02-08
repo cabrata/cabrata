@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di jamanku dulu, tidak ada hal yang sia-sia. Meskipun ada perbudakan, tapi budak itu memiliki tujuan (hidup). Apapun perannya, mereka tetap punya arti dalam hidupnya. Tapi bagaimana dengan era di dunia yang sekarang? (Era dimana) manusia lebih banyak daripada tujuan hidup itu sendiri."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Menemukan sisi - sisi diriku yang tak pernah ku tahu. Menghadapi sisi - sisi diriku yang tak pernah ku tahu. Aku yakin itu yang namanya jatuh cinta."</em><br>
+  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
