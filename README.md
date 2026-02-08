@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu menyedihkan. Mereka selalu menginginkan apa yang tidak bisa dimiliki, (dan) selalu ingin meraih apa yang tak bisa diraih."</em><br>
-  — <strong>Kamui</strong>, <em>Gintama</em>
+  <em>"Semua yang indah (pasti) ada akhirnya. Keabadian itu tidak ada, meskipun menyedihkan tapi aku pikir lebih baik begitu."</em><br>
+  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
