@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan terlalu banyak menahan kesedihan, karena itu akan membuatmu melupakan suatu hal yang terpenting."</em><br>
-  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
+  <em>""Manusia itu bodoh". Mungkin ada sedikit kebenaran soal itu.
+Tapi aku suka manusia.
+Kalian bertengkar, kalian marah, kalian menangis.
+Tapi pada akhirnya, kalian selalu tertawa.
+Itulah yang kusuka dari kalian, para manusia."</em><br>
+  — <strong>Housuke</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
