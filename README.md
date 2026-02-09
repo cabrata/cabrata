@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pasti tak ingin ada orang yang menyangkal kesukaan kita. Kita ingin orang lain juga tertarik dengan yang kita sukai. Karena lebih menyenangkan apabila banyak teman yang juga menyukai hal yang kita sukai."</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Pistol itu simpel. Pistol dapat mengakhiri suatu hal hanya dengan satu letupan. Tidak serumit hubungan antara manusia."</em><br>
+  — <strong>Canaan</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
