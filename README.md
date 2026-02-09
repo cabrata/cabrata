@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pasti pernah melakukan kesalahan. Yang terpenting adalah mengambil pelajaran dari kesalahan yang telah diperbuat."</em><br>
-  — <strong>Hammerhead</strong>, <em>One Punch Man</em>
+  <em>"Kata-kata itu memiliki dua sisi. Tidak semua hal yang diucapkan itu sama dengan yang ingin disampaikan."</em><br>
+  — <strong>Cattleya Baudelaire</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
