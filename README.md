@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kata-kata itu memiliki dua sisi. Tidak semua hal yang diucapkan itu sama dengan yang ingin disampaikan."</em><br>
-  — <strong>Cattleya Baudelaire</strong>, <em>Violet Evergarden</em>
+  <em>"Mereka tidak akan pernah bilang kalau itu susah atau mereka adalah pekerja keras, (meski begitu) mereka terus berjuang keras agar impiannya bisa terwujud."</em><br>
+  — <strong>Kaya Miyoshi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
