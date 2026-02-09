@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dinginkan oleh laki-laki, tidak ada yang lebih nikmat dibandingkan perasaan itu."</em><br>
-  — <strong>Akane Minagawa</strong>, <em>Kuzu no Honkai</em>
+  <em>"Segala hal terlahir dari yang sudah ada, dan yang sudah ada itu dari kenihilan. Hidup hanya sesaat, mari kita nikmati."</em><br>
+  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
