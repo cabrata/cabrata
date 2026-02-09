@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau berpikir pesimis, maka hal yang seharusnya berjalan lancar, nantinya akan jadi tidak lancar. Kita harus berpikir secara optimis."</em><br>
-  — <strong>Yuuki Hase</strong>, <em>Isshuukan Friends.</em>
+  <em>"Bagi seorang pria lemah yang ingin mengalahkan seorang jenius, maka ia harus menjadi iblis."</em><br>
+  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
 </div>
 <!-- QUOTE END -->
 
