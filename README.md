@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keadilan yang tak membuahkan hasil itu hanya omong kosong."</em><br>
-  — <strong>Ayase Ayatsuji</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Kenapa kita harus bekerja? Kenapa kita harus membayar untuk makan? Bukankah kita bisa saling berbagi? Yang kaya menjadi gemuk. Sementara yang miskin akan mati. Di dunia sampah seperti ini kebebasan macam apa yang didapat? Kita semua adalah budak dari pekerjaan. Apa kerja itu menyenangkan?"</em><br>
+  — <strong>Hammerhead</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
