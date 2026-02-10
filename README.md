@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia tidak hidup begitu saja karena (alasan) suatu saat mereka akan mati. (Meski) mereka hidup dan suatu saat mereka akan mati, kehidupan mereka memiliki arti."</em><br>
-  — <strong>Decim</strong>, <em>Death Parade</em>
+  <em>"Ada banyak hal yang lebih penting daripada sekedar absen sekolah."</em><br>
+  — <strong>Iroha Igarashi</strong>, <em>3D Kanojo: Real Girl</em>
 </div>
 <!-- QUOTE END -->
 
