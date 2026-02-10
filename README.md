@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hidup berkat bantuan dari banyak orang. Aku disini karena Ibu ada disini. Aku senang kau menjadi orang tuaku. Aku benar-benar beruntung."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"(Jika bertengkar) setidaknya pilih orang yang pantas untuk diajak bertengkar. Bertengkar dengan orang yang tak pantas diajak bertengkar hanya akan membuat dirimu (rendah) seperti orang yang kamu lawan."</em><br>
+  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
