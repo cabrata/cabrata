@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin pergi ke berbagai tempat dan melihat, mendengar, serta merasakan berbagai macam hal yang tidak pernah kurasakan sebelumnya. Aku ingin melakukan semua yang bisa kulakukan sekarang agar saat tua nanti aku tidak punya penyesalan."</em><br>
-  — <strong>Kuon</strong>, <em>Utawarerumono: Itsuwari no Kamen</em>
+  <em>"Bagiku, keberadaan dirinya seperti dunia itu sendiri. Aku lebih baik mati daripada kehilangan dirinya."</em><br>
+  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
