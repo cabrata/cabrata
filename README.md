@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria kesepian yang tidak mengenal cinta harus diselimuti dengan cinta tanpa syarat."</em><br>
-  — <strong>Mizuho Asano</strong>, <em>Bleach</em>
+  <em>"Waktumu di dunia nyata tidaklah terbuang dengan percuma, karena setiap detiknya telah dilewati di dunia (Sword Art Online) ini."</em><br>
+  — <strong>Asuna Yuuki</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
