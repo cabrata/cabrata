@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang terlalu mengistimewakan sesuatu yang tak bisa dilihat."</em><br>
-  — <strong>Mahito</strong>, <em>Jujutsu Kaisen</em>
+  <em>"Dulu, ada kalanya kita berjuang tanpa malu terlunta-lunta tak jelas. Tapi sekarang, semuanya telah usai. Api yang kecil tapi kuat di hati kita ini memberitahu kita kalau yang kita lakukan selama ini tidak sia-sia."</em><br>
+  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
