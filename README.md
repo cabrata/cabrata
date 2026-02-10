@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak mungkin aku bisa pulang duluan dan meninggalkan gadis yang sedang menangis sendirian. Meskipun aku tak bisa menggendongmu (layaknya seorang pangeran), tapi setidaknya aku bisa meminjamkan bahuku untukmu."</em><br>
-  — <strong>Kazuomi Ooga</strong>, <em>ReLIFE</em>
+  <em>"Jika kau bisa mengetahui posisi dan momentum setiap atom di dunia ini, kau bisa memprediksi masa depan."</em><br>
+  — <strong>Rio Futaba</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
