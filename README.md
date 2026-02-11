@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang percaya padaku. Aku takkan membiarkan mereka semua menjadi korban."</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Hanya mereka yang berkeinginan untuk melampaui batasannya dan berusaha untuk terus tumbuh dan berkembanglah yang bisa melewatinya. Merekalah generasi keajaiban!"</em><br>
+  — <strong>Senzaemon Nakiri</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
