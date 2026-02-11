@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang bisa mencapai tujuannya adalah orang-orang bodoh yang terus melangkah ke depan. (Sedangkan) orang yang tidak bisa mencapai tujuannya adalah orang-orang bijak yang berhenti melangkah."</em><br>
-  — <strong>Celica Arfonia</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
+  <em>"Kalau kita bersama dan memenuhi kewajiban kita, masa depan yang indah akan menanti kita."</em><br>
+  — <strong>Kotori Minami</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
