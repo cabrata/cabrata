@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hati bukanlah sesuatu yang bisa dimengerti hanya dengan memikirkannya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Meskipun aku mengetahui segalanya, tapi bukan berarti semuanya berjalan sesuai dengan yang kuinginkan."</em><br>
+  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
