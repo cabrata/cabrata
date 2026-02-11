@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun ini adalah satu tahun masa mudaku yang terbatas. Meskipun ini masa-masa sekolahku yang seperti ilusi yang akan terlupakan, tapi akan terus kujaga setiap momen yang ada."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Jika ada sesuatu yang benar-benar ingin kau capai, kejarlah tanpa mementingkan hasilnya."</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
