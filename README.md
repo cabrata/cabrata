@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saya sudah lama tinggal (bekerja) di depan pemanas hingga uzur. Saya harus segera menyiapkan pemakamanku. Saya ingin membawa seluruh kenangan berharga yang telah saya buat di sini. Saya ucapkan terima kasih pada kalian semua."</em><br>
-  — <strong>Denroku Sukegawa</strong>, <em>Hanasaku Iroha</em>
+  <em>"Apapun yang dapat kulakukan, akan kukerjakan!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
