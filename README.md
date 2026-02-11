@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Di dunia ini) tak ada orang yang baik ataupun orang buruk, karena itu kau tak bisa membandingkan keduanya."</em><br>
-  — <strong>Maiko Fujishima</strong>, <em>Kokoro Connect</em>
+  <em>"Seorang gadis tidak boleh menunjukkan tubuhnya sembarangan pada orang lain."</em><br>
+  — <strong>Ibu Tadokoro</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
