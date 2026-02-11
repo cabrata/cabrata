@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak mau kencan dengan gadis yang menjelek-jelekkan teman baikku."</em><br>
-  — <strong>Makoto Sunakawa</strong>, <em>Ore Monogatari!!</em>
+  <em>"Hati bukanlah sesuatu yang bisa dimengerti hanya dengan memikirkannya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
