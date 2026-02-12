@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau menginginkan sesuatu, kau harus menyiapkan penawaran dari dirimu sendiri, atau kesepakatan takkan tercapai."</em><br>
-  — <strong>Dirk Eberwein</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Tak ada tempat yang dapat menyaingi rumah!"</em><br>
+  — <strong>Tomoko Konagai</strong>, <em>Nyanko Days</em>
 </div>
 <!-- QUOTE END -->
 
