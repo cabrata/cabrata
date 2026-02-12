@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena sudah tidak ada waktu, maka menyerah? Sebalinya kan?
-Karena tidak ada waktu, kita tak boleh buang-buang waktu lagi."</em><br>
-  — <strong>Kiyoshi Fujino</strong>, <em>Prison School</em>
+  <em>"Mengintai dalam hidupmu seperti (wartawan) itu hanya akan membuat hal-hal yang canggung antara kita. Aku tidak ingin membahas tentang apapun yang kamu lakukan. Kamu bisa menceritakan tentang hal ini ketika kamu siap."</em><br>
+  — <strong>Rea Amano</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
