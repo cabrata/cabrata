@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perempuan itu tetaplah cantik meski usianya telah berlalu."</em><br>
-  — <strong>Setsuna Ena</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Hiduplah seperti biasanya. Memang tidak mudah. Tapi kau punya banyak waktu yang terbentang luas di depanmu."</em><br>
+  — <strong>Ginko</strong>, <em>Mushishi</em>
 </div>
 <!-- QUOTE END -->
 
