@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memang menemui jalan buntu, tapi aku takkan berhenti. Demi mereka yang telah tiada, aku harus tetap maju. Sebagai Putri Hyland, sebagai seseorang yang membimbing negeri ini menuju keadilan, tolong pinjamkanlah kekuatan kalian."</em><br>
-  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Aku ingin mengundurkan diri dari wawancara ini. Setelah kupikir-pikir ternyata memang ada yang salah dengan ini. Kita bersaudara harus bersaing sampai sejauh ini demi dipilih ibu (untuk diasuh)... Aku sangat sedih kalian bercerai, tapi ini adalah kesempatan kami untuk mandiri. Ibu, terima kasih atas segalanya selama ini. Aku akan mencoba hidup mandiri."</em><br>
+  — <strong>Todomatsu Matsuno</strong>, <em>Osomatsu-san</em>
 </div>
 <!-- QUOTE END -->
 
