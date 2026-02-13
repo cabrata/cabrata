@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"DIY (Do it yourself), "Lakukanlah (dengan caramu) sendiri". Kurasa itu adalah saran yang tepat untukku."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Kesempatan takkan menunggu seseorang. Jika kau biarkan kesempatan pergi dengan berkata "Aku belum siap". Maka takkan ada lagi kesempatan seperti itu untukmu."</em><br>
+  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
