@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kadang-kadang lembut, terkadang kasar, begitulah gejolak hati wanita."</em><br>
-  — <strong>You Satou</strong>, <em>Ben-To</em>
+  <em>"Syarat pertama menjadi pahlawan tidaklah perlu benar, tapi kuat. Itulah mengapa pahlawan selalu menang."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
