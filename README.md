@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Asalkan itu menarik, kebohongan juga tak masalah."</em><br>
-  — <strong>Manako Jouten</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
+  <em>"Dimanjakan dan memanjakan kakak adalah hak khusus seorang adik."</em><br>
+  — <strong>Mizuha Kiryuu</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
 </div>
 <!-- QUOTE END -->
 
