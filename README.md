@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak tahu apa yang terjadi, tapi aku tahu apa yang harus ku lakukan."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Aku menjadi school idol karena kalian berdua, dan bisa sampai disini karena kalian terus menungguku."</em><br>
+  — <strong>Mari Ohara</strong>, <em>Love Live! Sunshine!!</em>
 </div>
 <!-- QUOTE END -->
 
