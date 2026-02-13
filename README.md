@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Syarat pertama menjadi pahlawan tidaklah perlu benar, tapi kuat. Itulah mengapa pahlawan selalu menang."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Nisemonogatari</em>
+  <em>"Cinta memainkan peran penting dalam masyarakat, seperti halnya dengan nutrisi."</em><br>
+  — <strong>Junichi Tachibana</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
