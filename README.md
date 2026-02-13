@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta memainkan peran penting dalam masyarakat, seperti halnya dengan nutrisi."</em><br>
-  — <strong>Junichi Tachibana</strong>, <em>Amagami SS</em>
+  <em>"Aku ingin menciptakan banyak senyuman bahagia dengan sihir. Karena ini kekuatan yang diberikan oleh tuhan, kita harus menggunakannya untuk dunia."</em><br>
+  — <strong>Kohaku Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
