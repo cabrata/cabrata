@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau seperti kucing. Saat aku mendekatimu, kau berbalik arah dan pergi menjauh. Saat aku terluka, kau mendekat dan ingin berbagi rasa sakitnya."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Tidak marah itu adalah hal yang baik, (karena) kemarahan adalah dosa yang besar."</em><br>
+  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
