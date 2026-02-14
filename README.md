@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin melakukan apa pun yang ku bisa. Sekalipun itu tak berarti."</em><br>
-  — <strong>Ritsuka Fujimaru</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Mozart bilang, "Mulailah perjalananmu". Tak ada yang tahu kedepannya nanti akan seperti apa. Tapi, aku sudah mengambil satu langkah maju. (Meski begitu) kita baru memulai perjalanan kita. Aku sama sepertimu, seorang pemusik. Karena itulah aku melangkah maju."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
