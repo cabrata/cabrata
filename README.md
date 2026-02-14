@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kita sepupu?
-Masalahku adalah masalahmu. Bajumu adalah bajuku (juga).
-Bukankah kita harusnya saling membantu?"</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Jika kau menginginkan sesuatu, kau harus menyiapkan penawaran dari dirimu sendiri, atau kesepakatan takkan tercapai."</em><br>
+  — <strong>Dirk Eberwein</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
