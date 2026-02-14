@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dimanjakan dan memanjakan kakak adalah hak khusus seorang adik."</em><br>
-  — <strong>Mizuha Kiryuu</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
+  <em>"Teror dalam arti sebenarnya bukanlah ketakutan dalam keadaan statis, tapi dinamis. Itu terjadi di saat harapan seketika berubah menjadi keputusasaan."</em><br>
+  — <strong>Caster</strong>, <em>Fate/Zero</em>
 </div>
 <!-- QUOTE END -->
 
