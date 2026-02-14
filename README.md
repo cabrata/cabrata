@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tahu kalau aku ini (hanya) tiruan. Meskipun aku tidak memiliki masa lalu, tapi aku mempunyai keyakinan yang kuat!
-Aku mencintai Ryougi! Bahkan jika aku adalah tiruan, tapi hati ini nyata."</em><br>
-  — <strong>Tomoe Enjou</strong>, <em>Kara no Kyoukai 5: Mujun Rasen</em>
+  <em>"Yang aku inginkan bukanlah pisau atau apapun itu, hanya tanganmu inilah yang kuinginkan. Apapun yang akan terjadi di masa depan aku tak akan melepaskan tanganmu ini. Karena itulah kisahku berakhir disini. Aku telah menerima diriku yang sekarang, diriku yang lalu, dan perlahan mulai menjalani kehidupanku."</em><br>
+  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
