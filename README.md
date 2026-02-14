@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yaah... ini bukan cara yang buruk untuk mati. Jika aku bisa mati bersama Araragi-senpai, aku tidak bisa berharap lebih dari ini."</em><br>
-  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
+  <em>"Bukankah kita sepupu?
+Masalahku adalah masalahmu. Bajumu adalah bajuku (juga).
+Bukankah kita harusnya saling membantu?"</em><br>
+  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
