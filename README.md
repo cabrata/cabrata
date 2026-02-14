@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun ini adalah satu tahun masa mudaku yang terbatas. Meskipun ini masa-masa sekolahku yang seperti ilusi yang akan terlupakan, tapi akan terus kujaga setiap momen yang ada."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Mencegah agar tidak terulang penyesalan yang sama adalah nilai dari sebuah penyesalan."</em><br>
+  — <strong>Mitsuyoshi Tada</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
