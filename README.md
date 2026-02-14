@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua sejarah itu bohong. Sejarahmu tentu tidak bohong. Apa kebenaran itu benar-benar nyata? Atau apakah itu mutlak? Itu semua hanya khayalan. Dari awal aku tidak pernah percaya pada siapapun. Aku hanya... ingin bertemu denganmu."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Mengabaikan seseorang itu hal yang mudah, membenci seseorang lebih mudah lagi, namun mencintai seseorang adalah hal yang sulit."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
