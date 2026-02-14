@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengabaikan seseorang itu hal yang mudah, membenci seseorang lebih mudah lagi, namun mencintai seseorang adalah hal yang sulit."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Jika aku diam saja, harapan tidak akan bisa jadi kenyataan."</em><br>
+  — <strong>Varma</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
