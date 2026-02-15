@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat aku masih kecil, aku bercita-cita ingin menjadi seorang pahlawan.
-Tapi aku ingin jadi pahlawan yang menghempaskan penjahat kurang ajar (sepertimu) dengan satu pukulan !"</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Cukup lakukan semampumu dan berhentilah ketika kau sudah tak sanggup lagi."</em><br>
+  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect: Michi Random</em>
 </div>
 <!-- QUOTE END -->
 
