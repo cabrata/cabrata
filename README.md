@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak ingin membiarkan temanku menghadapi bahaya sendirian!"</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya</em>
+  <em>"Seorang pejuang harus selalu berpegang teguh pada keyakinannya."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
