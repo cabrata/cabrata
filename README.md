@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengejar mimpi yang tak bisa digapai hanya akan menghancurkan diri sendiri."</em><br>
-  — <strong>Evileye</strong>, <em>Overlord II</em>
+  <em>"Kau boleh menyentuh tubuh (wanita) seberapapun yang kau mau, tapi kau takkan bisa menyentuh hatinya."</em><br>
+  — <strong>Santana</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
