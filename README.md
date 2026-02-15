@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka tidak lebih dari sekedar monster yang dapat berbicara. Aku mendefinisikan mereka (para monster) yang dapat berbicara itu sebagai iblis."</em><br>
-  — <strong>Flamme</strong>, <em>Sousou no Frieren</em>
+  <em>"Amarah wanita adalah hal paling sulit untuk dikendalikan."</em><br>
+  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works</em>
 </div>
 <!-- QUOTE END -->
 
