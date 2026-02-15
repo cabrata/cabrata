@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pemimpin itu. Yang pertama, dia harus lebih bersemangat dari yang lain dan juga mampu memotivasi yang lain! Selain itu, dia haruslah orang yang penuh kasih dan mampu meningkatkan semangat anggota lain! Dan yang paling penting, dia haruslah orang yang paling dihormati anggota lainnya!"</em><br>
-  — <strong>Niko Yazawa</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Aku tidak benci bekerja keras. Belajar untuk melakukan sesuatu yang sebelumnya tidak bisa ku lakukan itu bukan hal buruk."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
