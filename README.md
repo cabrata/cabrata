@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berusahalah dengan keras. Hanya pekerja keras yang pantas diberi hadiah."</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Hanya sekedar "menyukainya" saja tidak akan membuat impianmu terwujud."</em><br>
+  — <strong>Maki Midorikawa</strong>, <em>Sakura Quest</em>
 </div>
 <!-- QUOTE END -->
 
