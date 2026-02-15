@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak memiliki keberanian untuk melangkah maju. Karena itulah aku tak punya sahabat. Bermain dengan teman-teman memang menyenangkan. Tapi aku yakin "sahabat" dengan "teman" itu pasti berbeda. Kemarin aku menonton episode terakhir anime favoritku "Tatakae Wonder Guy". Awalnya, Wonder Guy hanya bertarung sendirian. Dia terus dikalahkan berkali-kali. Tapi dia punya keberanian untuk terus bertarung dan pantang menyerah. "Kalau kau tak mulai melangkah maju, jalanmu takkan terbuka", dia selalu berkata begitu dan terus bertarung. Kemudian keberaniannya itu mulai menggerakkan orang lain dan mereka pun menjadi sahabatnya. Karena itulah walau dia terlihat seperti akan kalah pada musuhnya, dia terus percaya bahwa semua sahabatnya akan datang menyelamatkannya. Tapi aku tak memiliki keberanian ataupun sahabat seperti yang dimiliki Wonder Guy. Karena itu aku merasa sangat iri padanya. Saat sudah besar nanti, aku pun juga ingin mendapatkan banyak sahabat yang bisa saling mempercayai."</em><br>
-  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Selama masalah tidak dipermasalahkan, masalah tidak akan menjadi masalah."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
