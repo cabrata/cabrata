@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sesulit apapun yang akan terjadi, selama ada dirimu aku bisa terus berjuang."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"(Pacaran itu) bukan untuk mencintai, tapi untuk "jatuh" cinta."</em><br>
+  — <strong>Aguri</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
