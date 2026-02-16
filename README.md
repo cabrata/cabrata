@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bagaimana rasanya mencintai seseorang? Pada saat apa kamu mulai berpikir bahwa itu cinta?)Saat (melihat) orang yang kau cintai senang, kau juga ikut senang."</em><br>
-  — <strong>Kouichi Sanada</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Ada kalanya manusia tak boleh lari dari pertarungan."</em><br>
+  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
