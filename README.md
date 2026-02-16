@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sudah memutuskannya, aku takkan kembali menjadi diriku yang naif dan tak berkutik."</em><br>
-  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Kau pikir berapa banyak kekalahan yang sudah aku dapatkan sampai detik ini?
+Walau bukan sesuatu yang bisa dibanggakan, tapi aku sudah kalah ratusan, bahkan ribuan kali. Meskipun begitu, aku tidak pernah depresi, tidak pernah sepertimu sekarang!. (Karena) aku selalu yakin pada akhirnya aku akan menang."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
