@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tidak memilih jalan kita berdasarkan dosa yang kita bawa, tetapi membawa dosa kita pada jalan yang kita pilih."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
+  <em>"Aku benci orang jenius. Mereka tidak punya keindahan dari hasil usaha dan jerih payah."</em><br>
+  — <strong>Lügner</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
