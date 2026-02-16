@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang selalu bilang, tertawalah dengan wajahmu dan menangislah dengan hatimu."</em><br>
-  — <strong>Koharu Shiroyama</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Menghormati setiap individu tanpa merusak keinginan mereka bentuk dari idealisme yang sesungguhnya."</em><br>
+  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
