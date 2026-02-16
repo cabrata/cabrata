@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kenapa iblis jahat pada manusia?Itu karena untuk membantu Tuhan dalam Penilaian Akhir dengan menguji dan memberi cobaan pada manusia. Pada dasarnya kita (para iblis) bekerja atas kehendak Tuhan."</em><br>
-  — <strong>Beelzebub</strong>, <em>Beelzebub-jou no Okinimesu mama.</em>
+  <em>"Yang paling menakutkan dan sama sekali tak bisa diajak damai itu bukanlah makhluk gaib ataupun manusia, tapi "alam". (Alam itu) mengerikan seperti iblis, dan menakutkan seperti seseorang."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
