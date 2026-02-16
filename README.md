@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pelayan yang tidak mampu menggunakan alat register sama dengan ibu rumah tangga yang tidak bisa memasak nasi goreng."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Dia tiba-tiba berhenti bicara, aku jadi tidak tahu apa yang harus kulakukan...
+Hatiku menjadi tak karuan, (dan) rasanya seperti terlahir kembali. Banyak perasaan yang belum pernah kurasakan sebelumnya.
+Kazehaya-kun seperti sedang memperkenalkanku dengan banyak hal yang baru. Aku senang bisa bertemu dengannya."</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
