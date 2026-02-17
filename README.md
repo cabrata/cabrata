@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku selalu serius! Tapi kenapa kamu selalu lari?
-Setiap kali aku pikir mulai lebih dekat denganmu, kamu malah bergerak semakin jauh."</em><br>
-  — <strong>Megumi Noda</strong>, <em>Nodame Cantabile: Paris Hen</em>
+  <em>"("Cinta" itu seperti apa?)
+Perasaan di saat kamu selalu memikirkan dan memimpikan tentang dia. Saat tidak berhasil menarik perhatiannya kamu pun merasa murung. Kamu juga tidak bisa menatapnya langsung karena malu. Lalu, disaat kamu mengetahui kekurangan dalam dirinya, tapi entah kenapa kamu tetap ingin mengetahui lebih banyak tentang dia."</em><br>
+  — <strong>Inari Fushimi</strong>, <em>Inari, Konkon, Koi Iroha.</em>
 </div>
 <!-- QUOTE END -->
 
