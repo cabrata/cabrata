@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan menyimpulkan sesuatu sebelum mencobanya."</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Setiap orang punya hal yang tak ingin diketahui siapapun, hal yang lebih baik tidak diketahui, dan ada pula hal pada diri sendiri yang tidak ingin diingat."</em><br>
+  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
