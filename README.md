@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di zaman modern seperti saat ini tak ada orang yang mencintai seseorang tanpa perhitungan. Cinta realistis yang hidup di dalam hati itu justru yang disebut cinta sejati."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Kamu gak akan bisa jadi seorang pelukis tanpa mencintai gambarmu sendiri."</em><br>
+  — <strong>Subaru Uchimaki</strong>, <em>Kono Bijutsubu ni wa Mondai ga Aru!</em>
 </div>
 <!-- QUOTE END -->
 
