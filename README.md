@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagiku, senyum Emilia-tan adalah bintang yang bersinar paling terang di langit malam."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kesehatan adalah hal yang paling penting dari apapun."</em><br>
+  — <strong>Latifa Fleuranza</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
