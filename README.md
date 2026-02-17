@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu tidak dapat dihentikan. Waktu bergerak maju tanpa akhir, seperti jasad yang terkubur dalam tanah (hingga) suatu hari menjadi tulang putih."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Aku selalu serius! Tapi kenapa kamu selalu lari?
+Setiap kali aku pikir mulai lebih dekat denganmu, kamu malah bergerak semakin jauh."</em><br>
+  — <strong>Megumi Noda</strong>, <em>Nodame Cantabile: Paris Hen</em>
 </div>
 <!-- QUOTE END -->
 
