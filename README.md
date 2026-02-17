@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu tidak bisa bahagia karena kamu tidak mau mencoba untuk bahagia. Tidak ada yang bisa membahagiakan seseorang yang bahkan dia tidak mau mencoba untuk bahagia."</em><br>
-  — <strong>Tsubasa Hanekawa</strong>, <em>Owarimonogatari</em>
+  <em>"Yang kumaksud bukanlah mengubah penilaianmu. Aku yakin, tidak ada yang salah dan benar. Tapi, saat nanti kesulitan kita harus saling membantu. Karena, kita ini saudara kan?"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
