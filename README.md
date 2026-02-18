@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tetaplah terjaga sampai kau merasa puas menjalani harimu. Cara hidup seperti itu juga tidak buruk."</em><br>
-  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
+  <em>"Ada perasaan yang tenang setelah kau mencurahkan perasaanmu melalui pesan singkat untuk orang lain.
+Lalu, meskipun kau baru saja mengirimkan pesannya, kau sudah tidak sabar menunggu balasannya.
+Akhirnya HP-mu pun berdering dan kau kegirangan saat melihat nama pengirimnya."</em><br>
+  — <strong>Shinzou Takemitsu</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
