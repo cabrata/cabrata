@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang bisa kita sentuh adalah sekumpulan fakta yang bukan satu-satunya kebenaran. Karena itu kita jadi salah pengertian, salah paham, tidak cocok, dan tidak paham. Itu terjadi terus berulah di dunia tempat kita hidup ini. Seperti bayangan yang terpantul dalam cermin."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
+  <em>"Aku tak bisa memikul beban yang menjadi tanggung jawabmu, jadi aku tak bisa begitu saja menerima permintaanmu. Tapi aku akan mencari sesuatu yang kau katakan itu. Dan jika aku menemukan suatu petunjuk, aku akan memberitahumu. Dan jika kau tak dapat mencari penjelasan akan hal itu sebelum waktunya, saat itulah aku akan membantumu."</em><br>
+  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
