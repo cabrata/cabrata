@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mendekatlah. Aku akan membisikkannya padamu, jadi dengarkan baik-baik.
-Aku mencintaimu. Aku ingin kau melihat dunia di luar sana, dan aku ingin kau bersamaku."</em><br>
-  — <strong>Jun Satou</strong>, <em>Working!!!</em>
+  <em>"Dalam percintaan, luapan perasaan yang muncul tidak dapat dijelaskan dengan kata-kata."</em><br>
+  — <strong>Hikari Tsutsui</strong>, <em>3D Kanojo: Real Girl</em>
 </div>
 <!-- QUOTE END -->
 
