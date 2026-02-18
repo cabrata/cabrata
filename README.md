@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada seorang pun yang akan menertawakan orang yang berusaha keras."</em><br>
-  — <strong>Naruzou Machio</strong>, <em>Dumbbell Nan Kilo Moteru?</em>
+  <em>"Aku percaya kepadamu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
