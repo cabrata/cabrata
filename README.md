@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada cowok yang benci cewek agresif."</em><br>
-  — <strong>Nagi Arisuin</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Hal terpenting dalam bekerja adalah tidak menyerahkan pekerjaan (kita) pada orang lain."</em><br>
+  — <strong>Francis Scott Key Fitzgerald</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
