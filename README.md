@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menabung itu hal bagus, tapi melakukan sesuatu yang berkesan juga bagus."</em><br>
-  — <strong>Rin Tooyama</strong>, <em>New Game!</em>
+  <em>"Kita lahir di situasi yang berbeda. Apakah itu rumahmu, keluargamu atau penampilanmu. Itulah mengapa banyak orang bodoh yang tetap menjadi pemimpi. Tetapi aku pintar, aku tak akan bermimpi saja."</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
