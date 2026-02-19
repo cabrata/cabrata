@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada hal yang baik jika terlena oleh kekayaan atau pun kekuasaan."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Setelah kematian, kalian akan dikirim ke "surga" atau "neraka"."</em><br>
+  — <strong>Decim</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
