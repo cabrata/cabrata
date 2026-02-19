@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus melakukan apapun dengan sepenuh hati. Itulah makna dari kehidupan."</em><br>
-  — <strong>Rider</strong>, <em>Fate/Zero</em>
+  <em>"Penyesalan itu datang terlambat. Kau tidak akan pernah tahu sampai kau kehilangannya. Karena itu, berjuanglah untuk merasakan masa mudamu."</em><br>
+  — <strong>Saku Akechi</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
 </div>
 <!-- QUOTE END -->
 
