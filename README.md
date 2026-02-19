@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Makhluk hidup tidak boleh iri pada mereka yang telah mati."</em><br>
-  — <strong>Nevin</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Aku tak peduli dengan masa depan yang belum pasti."</em><br>
+  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
 </div>
 <!-- QUOTE END -->
 
