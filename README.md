@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika semua orang bermain video game, aku tinggal dan bekerja keras. Aku terus bekerja keras untuk menjadi penulis yang karyanya terlaris di (majalah manga) Jack."</em><br>
-  — <strong>Eiji Niizuma</strong>, <em>Bakuman.</em>
+  <em>"Sains adalah satu-satunya bahasa yang bisa membuat kita mengerti alam semesta yang diciptakan Tuhan."</em><br>
+  — <strong>Motojirou Kajii</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
