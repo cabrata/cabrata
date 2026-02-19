@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang terlalu memusingkan peringkat seseorang itu sama sekali tidak spesial."</em><br>
-  — <strong>Kasumi Chigusa</strong>, <em>Qualidea Code</em>
+  <em>"Yang paling penting adalah jujur pada dirimu sendiri dan tak menekan emosimu."</em><br>
+  — <strong>Shura Kirigakure</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
