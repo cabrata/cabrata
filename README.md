@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah seseorang mengajarimu untuk "lakukan yang paling mungkin, dan tuhan akan melakukan yang terbaik?" (tidak begitu bukan?) Usaha yang optimal membuatmu berhak menerima kebaikan nasib."</em><br>
-  — <strong>Shintarou Midorima</strong>, <em>Kuroko no Basket</em>
+  <em>"Hanya karena tidak meminta tolong bukan berarti tidak ingin ditolong.
+Hanya karena dia tidak bilang cinta bukan berarti dia tidak mencintaimu.
+Siapapun punya hal yang tak bisa dikatakan walaupun ingin mengatakannya."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Nekomonogatari: Kuro</em>
 </div>
 <!-- QUOTE END -->
 
