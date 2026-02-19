@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pernah membuat kesalahan. Sekarang, bagaimana cara untuk menutupi kesalahan tersebut, itulah yang harus dipikirkan!"</em><br>
-  — <strong>Ainz Ooal Gown</strong>, <em>Overlord</em>
+  <em>"Ketika semua orang bermain video game, aku tinggal dan bekerja keras. Aku terus bekerja keras untuk menjadi penulis yang karyanya terlaris di (majalah manga) Jack."</em><br>
+  — <strong>Eiji Niizuma</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
