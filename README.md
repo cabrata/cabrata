@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak peduli dengan masa depan yang belum pasti."</em><br>
-  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
+  <em>"Tak ada hal yang baik jika terlena oleh kekayaan atau pun kekuasaan."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
 </div>
 <!-- QUOTE END -->
 
