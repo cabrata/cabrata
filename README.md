@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setiap pertahanan pasti memiliki celah."</em><br>
-  — <strong>Wakatoshi Ushijima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Hal yang paling penting adalah melakukan apa yang ingin kau lakukan."</em><br>
+  — <strong>Rito Yuuki</strong>, <em>To LOVE-Ru Darkness</em>
 </div>
 <!-- QUOTE END -->
 
