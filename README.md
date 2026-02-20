@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kalian menatap ke dalam pintu neraka, maka pintu neraka juga sedang menatap kalian."</em><br>
-  — <strong>Mephisto Pheles</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Mengetahui orang lain mau membaca tulisanku yang kusukai dan mereka memberikan kesan yang cukup bagus itu sangat menyenangkan."</em><br>
+  — <strong>Yoshiteru Zaimokuza</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
 </div>
 <!-- QUOTE END -->
 
