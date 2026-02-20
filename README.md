@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Apa yang membuatmu mempercayaiku?)
-Aku tak punya dasar, tapi aku mungkin akan tetap mempercayaimu. Aku ingin terus mempercayaimu, karena aku suka padamu."</em><br>
-  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai 2: Satsujin Kousatsu (Zen)</em>
+  <em>"Kamu gak akan bisa jadi seorang pelukis tanpa mencintai gambarmu sendiri."</em><br>
+  — <strong>Subaru Uchimaki</strong>, <em>Kono Bijutsubu ni wa Mondai ga Aru!</em>
 </div>
 <!-- QUOTE END -->
 
