@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengetahui orang lain mau membaca tulisanku yang kusukai dan mereka memberikan kesan yang cukup bagus itu sangat menyenangkan."</em><br>
-  — <strong>Yoshiteru Zaimokuza</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Faktor terbesar seseorang tak bisa berenang adalah rasa takut. Takut tak bisa bernapas, takut tak bisa menapakkan kaki, dan takut tenggelam. Karena ketakutan itu, tubuh menjadi kaku."</em><br>
+  — <strong>Mafuyu Kirisu</strong>, <em>Bokutachi wa Benkyou ga Dekinai!</em>
 </div>
 <!-- QUOTE END -->
 
