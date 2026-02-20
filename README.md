@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang tahu ide akan muncul dari mana. Karena itu pastikan antenamu terus berdiri."</em><br>
-  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
+  <em>"Ketika kalian menatap ke dalam pintu neraka, maka pintu neraka juga sedang menatap kalian."</em><br>
+  — <strong>Mephisto Pheles</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
