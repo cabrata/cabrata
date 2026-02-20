@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada bermacam-macam cerita. Tapi aku tidak peduli dengan semua itu. (Karena) yang ingin ku ketahui adalah cerita tentangmu."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Tujuan hidupku adalah untuk menjadikanmu sebagai laki-laki baru yang akan hidup bahagia."</em><br>
+  — <strong>Rin Tohsaka</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
