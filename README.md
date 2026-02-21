@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melawan musuh yang tidak mungkin dikalahkan membuatku semangat, tapi sayangnya tak ada artinya jika aku tidak menang!"</em><br>
-  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
+  <em>"Aku sedih melihat orang yang berambisi besar senang karena hal kecil."</em><br>
+  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
