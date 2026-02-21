@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dazai pernah berkata, "Satu-satunya hal yang hanya dimiliki manusia dan tidak dimiliki oleh makhluk lainnya adalah kita memiliki rahasia""</em><br>
-  — <strong>Kotarou Azumi</strong>, <em>Tsuki ga Kirei</em>
+  <em>"Aku sudah berjanji ketika kapten memintaku untuk menjadi pelatih tahun lalu. Aku berjanji untuk fokus melatih tim menuju kejuaraan nasional.Jika kau berfikir belum siap untuk itu, ada klub lain yang lebih cocok untukmu."</em><br>
+  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
