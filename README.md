@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada dua cara untuk menjalani hidup. Hidup dengan menyadari bahwa hanya sedikit hal yang bernilai dalam diri sendiri, atau hidup dengan menyadari bahwa hanya sedikit hal yang berharga di dunia ini."</em><br>
-  — <strong>Jun Aikawa</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
+  <em>"Suka atau tidak suka tiga tahun kehidupan SMA kalian akan berlalu dengan sangat cepat. Bagaimana kalian menghabiskannya, itu tergantung pada diri kalian masing-masing. Mau fokus belajar, boleh. Mau berjuang di klub, boleh. Atau mau main-main saja juga boleh. Yang paling penting selama tiga tahun di sekolah kalian harus bersenang-senang setiap harinya. Kesenangan itu yang terbaik, kesenangan itu kebenaran, dan kesenangan itu tak terbatas."</em><br>
+  — <strong>Mato Katori</strong>, <em>Amanchu!</em>
 </div>
 <!-- QUOTE END -->
 
