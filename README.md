@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di zaman modern seperti saat ini tak ada orang yang mencintai seseorang tanpa perhitungan. Cinta realistis yang hidup di dalam hati itu justru yang disebut cinta sejati."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Manusia tetaplah manusia. Mereka adalah makhluk busuk yang bisa melakukan kejahatan sesuai keadaan. Pada akhirnya, mereka hanyalah seekor binatang yang sedikit lebih pintar dari binatang lainnya. Tindakan mereka hanya berdasarkan pada keinginan diri sendiri, mereka sering melupakan balas budi, dan hanya mengingat balas dendam."</em><br>
+  — <strong>Aka no Saber</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
