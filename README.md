@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehilangan hasrat untuk hidup dan berharap untuk mati adalah hal yang berbeda."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Aku suka kamu yang berusaha menutupi air mata dengan senyuman dan tetap tegar."</em><br>
+  — <strong>Isla</strong>, <em>Plastic Memories</em>
 </div>
 <!-- QUOTE END -->
 
