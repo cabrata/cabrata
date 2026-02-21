@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan biarkan orang lain menentukan nilai dirimu."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"(Bagaimana rasanya mencintai seseorang? Pada saat apa kamu mulai berpikir bahwa itu cinta?)Saat (melihat) orang yang kau cintai senang, kau juga ikut senang."</em><br>
+  — <strong>Kouichi Sanada</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
