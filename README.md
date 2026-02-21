@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku takkan bilang padamu untuk tidak bersedih. Aku takkan bilang padamu untuk tidak menangis. Tapi kau tidak bisa membiarkan bawahanmu melihatmu seperti ini. Kalau kau yang pemimpin mereka saja keadaanmu seperti ini, mereka takkan sanggup untuk bertarung."</em><br>
-  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
+  <em>"Setiap pertahanan pasti memiliki celah."</em><br>
+  — <strong>Wakatoshi Ushijima</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
