@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun peringkat kami yang paling bawah,
-Meskipun kami tak bisa menggunakan sihir,
-Kakek percaya kami bisa mengalahkan ras lain.
-Aku ingin membuktikan kalau yang dipercayai kakekku itu benar."</em><br>
-  — <strong>Stephanie Dola</strong>, <em>No Game No Life</em>
+  <em>"Meskipun aku baru pertama kali melihatmu di konser, aku tetap akan menjadi penggemarmu. Aku selalu melihatmu, aku juga sudah banyak mengirimimu surat penggemar. Meski dalam keadaan sulit sekalipun, atau dalam keadaan sedih sekalipun, aku menyemangati diriku dengan mendengarkan lagu-lagumu. Terimakasih selalu menjadi teman bagiku."</em><br>
+  — <strong>Mayu Arita</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
