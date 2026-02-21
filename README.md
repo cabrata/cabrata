@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika punya waktu untuk membuat konspirasi, lebih baik gunakan waktu itu untuk mengasah kemampuan."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
+  <em>"Aku ingin mengalahkan diriku sendiri yang selalu mengacaukan segalanya. Aku tak ingin melupakan kegagalanku. Tapi kalau aku terus membawa kegagalan itu sebagai ingatan buruk dan terus melarikan diri, sampai kapanpun aku tidak akan pernah bisa berubah. Kurasa ada hikmah yang bisa dipetik dari kegagalan."</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
