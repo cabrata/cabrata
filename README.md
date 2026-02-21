@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kakakku selalu mengingatkanku untuk mengembalikan apa yang kupinjam."</em><br>
-  — <strong>Ayato Amagiri</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Jangan terlalu memikirkan hal-hal yang tak bisa kau lakukan.
+Lakukan saja apa yang bisa kau lakukan."</em><br>
+  — <strong>Zange Natsume</strong>, <em>Inu x Boku SS</em>
 </div>
 <!-- QUOTE END -->
 
