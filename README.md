@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Laki-laki itu sebenarnya tidak begitu peduli setiap perkataan yang dikatakannya."</em><br>
-  — <strong>Shimura</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
+  <em>"Setelah impian kita menjadi nyata, maukah kau menikah denganku?"</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
