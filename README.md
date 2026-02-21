@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita menyerah sebelum bertempur, kita tidak akan mendapatkan apapun."</em><br>
-  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Kalau boleh aku ingin bersamamu selamanya. Hanya dengan disampingmu saja itu sudah cukup. Tapi aku tak bisa memaksamu. Karena itu, kuserahkan diriku padamu. Sebagai gantinya, aku ingin kau menyerahkan hari-harimu bersama denganku."</em><br>
+  — <strong>Tsukasa Ayatsuji</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
