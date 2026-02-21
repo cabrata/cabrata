@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mulai sekarang, apapun yang terjadi... aku akan terus menjadi temanmu! Kita.... kita akan selalu menjadi teman, kan?"</em><br>
-  — <strong>Shiemi Moriyama</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
+  <em>"Aku takkan bilang padamu untuk tidak bersedih. Aku takkan bilang padamu untuk tidak menangis. Tapi kau tidak bisa membiarkan bawahanmu melihatmu seperti ini. Kalau kau yang pemimpin mereka saja keadaanmu seperti ini, mereka takkan sanggup untuk bertarung."</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
