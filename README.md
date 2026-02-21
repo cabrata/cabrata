@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku mencintaimu Jintan. Cintaku padamu adalah cinta yang singkat dimana aku ingin menikah denganmu."</em><br>
-  — <strong>Meiko Honma</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Laki-laki itu sebenarnya tidak begitu peduli setiap perkataan yang dikatakannya."</em><br>
+  — <strong>Shimura</strong>, <em>Tanaka-kun wa Itsumo Kedaruge</em>
 </div>
 <!-- QUOTE END -->
 
