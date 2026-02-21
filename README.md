@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menulis cerita itu bagaikan menulis seseorang. Penulis dapat menulis bagaimana orang itu hidup dan bagaimana orang itu mati."</em><br>
-  — <strong>Souseki Natsume</strong>, <em>Bungou Stray Dogs Season 2</em>
+  <em>"Menolong teman yang sedang kesulitan adalah hal yang wajar."</em><br>
+  — <strong>Saya Sasamiya</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
