@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Setelah impian kita menjadi nyata, maukah kau menikah denganku?"</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Suatu kehormatan bagi setiap pria bisa menjadi sandaran wanita."</em><br>
+  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
 </div>
 <!-- QUOTE END -->
 
