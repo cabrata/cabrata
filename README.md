@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Senang, sakit, bahagia, sedih... kuharap berbagai macam perasaan itu bisa menjadi cinta."</em><br>
-  — <strong>Kou Yamori</strong>, <em>Yofukashi no Uta</em>
+  <em>"Biarpun gagal..., bukankah lebih baik dari pada tidak melakukan apapun?"</em><br>
+  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
 </div>
 <!-- QUOTE END -->
 
