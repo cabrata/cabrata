@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita tak bisa menilai sesuatu yang tak bisa dilihat."</em><br>
-  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
+  <em>"Kaulah yang telah mengajarkanku tentang hal yang terpenting, keberanian untuk maju, tak takut akan perubahan. Saat itu, tanganmu telah menyelamatkanku."</em><br>
+  — <strong>Eri Ayase</strong>, <em>Love Live! School Idol Project</em>
 </div>
 <!-- QUOTE END -->
 
