@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli seberapa kuat seseorang, mereka pasti memiliki kelemahan dalam hatinya. Biasanya kita tidak bisa melihat kelemahan dalam hati kita. Itu sebabnya hidup menjadi sulit."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai II</em>
+  <em>"Kau orangnya baik. Kau selalu mengajarkanku hal-hal baru. Terima kasih untuk semuanya. Jika tidak keberatan, tetaplah bersamaku selamanya."</em><br>
+  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
