@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Biarpun gagal..., bukankah lebih baik dari pada tidak melakukan apapun?"</em><br>
-  — <strong>Enishi Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Aku sangat setuju kalau seorang anak memang membutuhkan seorang ibu."</em><br>
+  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
