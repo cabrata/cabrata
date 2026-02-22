@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rekan-rekanku dan aku bersumpah kalau kami akan rela berkorban, jika itu memang diharuskan. Aku akan rela berkorban demi menyelamatkan orang lain."</em><br>
-  — <strong>Sakuma</strong>, <em>Joker Game</em>
+  <em>"Kita tak bisa menilai sesuatu yang tak bisa dilihat."</em><br>
+  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan 2</em>
 </div>
 <!-- QUOTE END -->
 
