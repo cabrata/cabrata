@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sangat setuju kalau seorang anak memang membutuhkan seorang ibu."</em><br>
-  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
+  <em>"Meskipun seseorang tidak mendapatkan kebahagiaan, tapi setidaknya pasti akan ada hal baik yang akan terjadi padanya selama dia masih hidup."</em><br>
+  — <strong>Nadeko Sengoku</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
