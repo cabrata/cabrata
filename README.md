@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keberuntungan adalah sebuah bakat juga!"</em><br>
-  — <strong>Mio Honda</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Senang, sakit, bahagia, sedih... kuharap berbagai macam perasaan itu bisa menjadi cinta."</em><br>
+  — <strong>Kou Yamori</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
