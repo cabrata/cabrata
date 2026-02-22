@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejujurnya, aku dari dulu sedikit tertarik padamu. Setelah mengobrol denganmu secara langsung, ketertarikan itu semakin kuat sekarang."</em><br>
-  — <strong>Sylvia Lyyneheym</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Keberuntungan adalah sebuah bakat juga!"</em><br>
+  — <strong>Mio Honda</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
