@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalian akan dapat terus maju dengan berpegang pada penderitaan.
-Jaga teman kalian saat ini. (Karena) jika mereka mati, mereka takkan kembali."</em><br>
-  — <strong>Shinohara</strong>, <em>Hai to Gensou no Grimgar</em>
+  <em>"Bekerja keras adalah bakat terbaik."</em><br>
+  — <strong>Hiroshi Kido</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
