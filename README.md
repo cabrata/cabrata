@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau yang selalu menyalahkan orang lain itulah yang membuatmu tidak bisa berkembang."</em><br>
-  — <strong>Gojou Karasuma</strong>, <em>Gi(a)rlish Number</em>
+  <em>"Kalian akan dapat terus maju dengan berpegang pada penderitaan.
+Jaga teman kalian saat ini. (Karena) jika mereka mati, mereka takkan kembali."</em><br>
+  — <strong>Shinohara</strong>, <em>Hai to Gensou no Grimgar</em>
 </div>
 <!-- QUOTE END -->
 
