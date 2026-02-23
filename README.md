@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau menyebut dirimu seorang pria? Kalau memang iya, perhatikanlah dia!"</em><br>
-  — <strong>Raku Ichijou</strong>, <em>Nisekoi</em>
+  <em>"Kalau kau memang merasa khawatir, peganglah tanganku."</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
