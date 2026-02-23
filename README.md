@@ -5,13 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa kalian menyukai sekolah?
-Aku sangat menyukainya. Kalian mungkin menganggapnya aneh, tapi sekolah adalah tempat yang hebat.Ruang fisika punya banyak peralatan yang aneh...
-Ruang musik punya instrumen-instrumen yang indah dan potret yang menyeramkan.
-Ruang penyiaran adalah panggung sekolah, segalanya ada layaknya sebuah negara. Tidak ada bangunan yang aneh selain ini. Aku menyukainya...Aku benci belajar, tapi aku tidak benci guru. Saat aku lupa PR-ku, mereka mengajarkan cara menyelesaikannya. Saat tertidur di kelas, aku dimarahi.Aku berteman baik dengan teman sekelas dan (terkadang) bertengkar.
-Semuanya bersama-sama. Terkadang juga sendirian.
-Ada kalanya menyenangkan, ada kalanya sedih, ada banyak hal (yang kurasakan), itulah mengapa aku sangat menyukai sekolah ini."</em><br>
-  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
+  <em>"(Bukan berarti) aku tidak ingin menjadi kuat.
+Kalau bisa aku (hanya) ingin tetap menjadi seorang gadis selamanya..."</em><br>
+  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
