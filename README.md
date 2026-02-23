@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kamu telah memberikan berbagai hal yang berharga untukku."</em><br>
-  — <strong>Yuito Aoi</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Teman ya,... Dia bisa punya teman, dia punya orang yang menganggap dia berharga. Bagaimana? Hebat kan? Jadi, meskipun dia tidak pergi sekolah, walaupun dia selalu ada di kamarnya, dia adalah kebanggaanku, aku bangga kepadanya."</em><br>
+  — <strong>Masamune Izumi</strong>, <em>Eromanga-sensei</em>
 </div>
 <!-- QUOTE END -->
 
