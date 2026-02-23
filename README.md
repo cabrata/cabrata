@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tetap seperti itu hanya membuatmu jadi orang yang tak jelas. Tidak mencoba untuk menjadi (orang yang) bahagia adalah (sifat) pengecut."</em><br>
-  — <strong>Yotsugi Ononoki</strong>, <em>Owarimonogatari</em>
+  <em>"Kalau sudah bertekad, lebih baik kita segera bertindak."</em><br>
+  — <strong>Enri Emmot</strong>, <em>Overlord III</em>
 </div>
 <!-- QUOTE END -->
 
