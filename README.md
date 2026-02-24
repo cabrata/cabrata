@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya dengan menatapmu saja, aku merasa sangat bahagia."</em><br>
-  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
+  <em>"Aku sudah memutuskannya, aku takkan kembali menjadi diriku yang naif dan tak berkutik."</em><br>
+  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
 </div>
 <!-- QUOTE END -->
 
