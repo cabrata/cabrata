@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak layak mempertaruhkan hidup seseorang, tak peduli berapapun keuntungan yang akan didapat."</em><br>
-  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou</em>
+  <em>"Seorang gadis tidak boleh menunjukkan tubuhnya sembarangan pada orang lain."</em><br>
+  — <strong>Ibu Tadokoro</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
