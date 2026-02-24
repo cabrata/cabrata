@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bukan berarti) aku tidak ingin menjadi kuat.
-Kalau bisa aku (hanya) ingin tetap menjadi seorang gadis selamanya..."</em><br>
-  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
+  <em>"Dengan berpihak pada seseorang, kau harus bermusuhan dengan pihak lain."</em><br>
+  — <strong>Kirei Kotomine</strong>, <em>Fate/stay night Movie: Heaven's Feel - I. Presage Flower</em>
 </div>
 <!-- QUOTE END -->
 
