@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lebih baik menyemangati seseorang yang berjuang dalam bayang-bayang daripada orang-orang yang memiliki keberuntungan."</em><br>
-  — <strong>Keita Amano</strong>, <em>Gamers!</em>
+  <em>"Bahkan anak pintar sepertimu bisa jadi bodoh kalau sering lihat (majalah P*o) begituan."</em><br>
+  — <strong>Tokunomori</strong>, <em>Getsuyoubi no Tawawa</em>
 </div>
 <!-- QUOTE END -->
 
