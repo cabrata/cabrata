@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang dapat berdiri di puncak adalah mereka yang memiliki kapasitas untuk menerima kejahatan dan kebaikan secara bersamaan. Orang yang melihat semuanya dengan pola pikir hitam dan putih saja takkan bisa maju selangkah pun."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Hanya dengan menatapmu saja, aku merasa sangat bahagia."</em><br>
+  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
