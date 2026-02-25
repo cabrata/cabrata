@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanya ingin hidup bermodal semangat dan senyuman aja."</em><br>
-  — <strong>Minami Nanami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
+  <em>"Sebesar apa pun idealismemu, itu hanyalah idealisme belaka (bukan kenyataan)."</em><br>
+  — <strong>Miyuki Shirogane</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
