@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peganglah tekad kalian, tak perlu buru-buru, dan tak perlu berkecil hati. Jika kalian terus melakukan hal itu, suatu saat nanti kalian pasti akan mendapatkan hasil yang luar biasa."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Voli adalah olahraga yang tidak memperbolehkan pemain untuk memegang bola. Kau hanya boleh menyentuh bolanya selama beberapa detik saja. Karena itu, kau harus menguasai momen singkat itu, dan anggap bola itu sebagai bagian dari tubuhmu."</em><br>
+  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
