@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang memang harus ada perpisahan."</em><br>
-  — <strong>Youhei</strong>, <em>Zero Kara Hajimeru Mahou no Sho</em>
+  <em>"Orang dewasa itu memang (makhluk yang) kotor."</em><br>
+  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
