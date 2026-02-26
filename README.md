@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak tahu seberapa banyak orang yang datang, tapi jangan lupa ... setidaknya kamu memiliki penggemar disana."</em><br>
-  — <strong>Maya Haruna</strong>, <em>Fuuka</em>
+  <em>"Tak ada perjalanan yang tanpa akhir. Ketika tiba saatnya kita harus berpisah, aku ingin kita berpisah dengan senyuman."</em><br>
+  — <strong>Kraft Lawrence</strong>, <em>Ookami to Koushinryou II</em>
 </div>
 <!-- QUOTE END -->
 
