@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang dewasa itu memang (makhluk yang) kotor."</em><br>
-  — <strong>Sein</strong>, <em>Sousou no Frieren</em>
+  <em>"Seorang Idol dapat melakukan banyak hal. Mereka semua sungguh fantastis."</em><br>
+  — <strong>Anastasia</strong>, <em>The iDOLM@STER Cinderella Girls</em>
 </div>
 <!-- QUOTE END -->
 
