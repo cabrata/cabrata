@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus hidup, hiduplah dengan bebas. Dari dalam hatiku, aku mencintaimu."</em><br>
-  — <strong>Gilbert Bougainvillea</strong>, <em>Violet Evergarden</em>
+  <em>"Memang benar, tidak selamanya yang kita harapkan tercapai. Tapi hal yang mesti kita lakukan harus selalu dimulai dengan sebuah harapan."</em><br>
+  — <strong>Guy Might</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
