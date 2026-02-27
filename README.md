@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melarikan diri! Jangan putus asa sebelum mencoba."</em><br>
-  — <strong>Yuzu Kichougasaki</strong>, <em>Renai Boukun</em>
+  <em>"Samurai tidak membutuhkan alasan untuk bertindak.
+Jika mereka ingin melindungi sesuatu, maka mereka akan menarik pedangnya."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
