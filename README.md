@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang orang yang hidupnya mengenaskan itu bisa jauh lebih dipercaya."</em><br>
-  — <strong>Ram</strong>, <em>Re:Zero kara Hajimeru Break Time</em>
+  <em>"Aku tidak hidup untuk membuat semua orang menyukaiku."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
