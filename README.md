@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita sedang jatuh cinta, dunia jadi kelihatan lebih berwarna."</em><br>
-  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>""Segala sesuatu yang terjadi padamu itu bisa saja terjadi pada orang lain". Itu adalah pemikiran yang sangat sederhana untuk menolak adanya keajaiban."</em><br>
+  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
