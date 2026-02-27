@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku benci jadi orang yang lemah. Tapi setelah mengetahui kalau masih ada banyak pemain yang lebih hebat dari aku, itu membuatku jadi lebih bersemangat!"</em><br>
-  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Shinichi, aku tak memiliki perasaan manusia. Jadi membunuh spesiesku sendiri tak berpengaruh sama sekali denganku. Tapi bagaimana kalau kau ada di posisiku?"</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
