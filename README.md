@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengatakan hal bodoh bisa membuatmu bodoh."</em><br>
-  — <strong>Mai Sakurajima</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
+  <em>"Orang-orang terlalu mengistimewakan sesuatu yang tak bisa dilihat."</em><br>
+  — <strong>Mahito</strong>, <em>Jujutsu Kaisen</em>
 </div>
 <!-- QUOTE END -->
 
