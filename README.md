@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh kalah di permainan ataupun di pertandaingan.
-Tapi kalau kau tidak kalah dengan dirimu sendiri, itu bukan kekalahan."</em><br>
-  — <strong>Karen Araragi</strong>, <em>Nisemonogatari</em>
+  <em>"Manusia boleh hidup dengan cara yang mereka mau. Menurutku orang yang berpegang teguh pada cara hidupnya sendiri adalah orang kuat yang sejati."</em><br>
+  — <strong>Oji-san</strong>, <em>Isekai Ojisan</em>
 </div>
 <!-- QUOTE END -->
 
