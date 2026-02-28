@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dengan orang yang tidak menutup-nutupi kata-katanya."</em><br>
-  — <strong>Mana Ryougi</strong>, <em>Kara no Kyoukai: Mirai Fukuin</em>
+  <em>"Jangan pernah berpura-pura dapat melihat sesuatu yang tidak bisa kau lihat, atau berpura-pura kau tidak bisa melihat sesuatu yang kau bisa lihat."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Bakemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
