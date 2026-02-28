@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau ingin melindungi seseorang yang berharga bagimu, maka aku akan berada di pihakmu."</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
+  <em>"Aku percaya bahwa mencitai orang lain adalah bentuk dari menghargai diri sendiri."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
