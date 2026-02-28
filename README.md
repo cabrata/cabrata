@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita adalah penemuan alam yang berada di tingkatan paling atas. Pria harus mengikuti wanita untuk memenuhi perintah alam dengan cara yang paling ekonomis."</em><br>
-  — <strong>Ernesta Kühne</strong>, <em>Gakusen Toshi Asterisk 2nd Season</em>
+  <em>"Pekerjaan kita (sebagai polisi) memang tidak langsung bermanfaat, tapi aku bahagia (pekerjaan kita) bisa mencegah satu insiden yang mungkin terjadi (di masa mendatang)."</em><br>
+  — <strong>Seiko Fuji</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
