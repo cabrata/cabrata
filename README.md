@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus punya mata dan keberanian untuk mengatakan yang bagus ya bagus, dan jelek ya jelek."</em><br>
-  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
+  <em>"Tidak peduli apapun itu, kau tak boleh memperlakukan orang lain dengan buruk."</em><br>
+  — <strong>Keita Amano</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
