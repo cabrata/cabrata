@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Barang jadul tak akan berguna saat dibutuhkan dengan segera."</em><br>
-  — <strong>Minosuke</strong>, <em>Ojiisan no Lamp</em>
+  <em>"Kalau kamu memanggil gurumu dengan sapaan aneh misalnya "Tan", itu namanya keterlaluan!"</em><br>
+  — <strong>Emilia</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
