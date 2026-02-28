@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan kalian baru saja dimulai. Mungkin kedepan ada hal yang tidak berjalan dengan baik. Namun, meskipun gagal, kalian masih bisa memulainya kembali karena jalan kalian masih panjang. Justru ketidak sempurnaan lah yang membuat manusia jadi lebih baik. Jangan terburu-buru, jangan takut, yakinlah pada diri sendiri.Temukan jalan kalian untuk melangkah maju."</em><br>
-  — <strong>Kokoro Amatsu</strong>, <em>ReLIFE: Kanketsu-hen</em>
+  <em>"Kau adalah seorang profesional, tapi jika kau tak bisa menyeimbangkan antara pembunuh (profesi) dan guru (tuntutan peran dalam profesi), maka ini (sekolah) adalah tempat terburuk bagi orang profesional sepertimu."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
