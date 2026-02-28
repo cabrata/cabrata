@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tautologi. "Dengan kesetiaan yang mumpuni, kau bahkan bisa menuhankan kepala sarden."
-Ini adalah pemahaman mendalam, tapi tidak berbeda dari kepercayaan baru.
-Pendapat mereka hanya tertinggal, sementara mereka meninggalkan kelompok mereka (yang berpikiran berbeda)."</em><br>
-  — <strong>Miyoshi</strong>, <em>Joker Game</em>
+  <em>"Cinta sejati adalah cinta yang tak dipengaruhi oleh penampilan. Jika penampilan orang bisa mempengaruhi perasaanmu, maka cintamu itu palsu."</em><br>
+  — <strong>Chika Fujiwara</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
