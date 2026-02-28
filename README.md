@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak boleh mengatakan hal yang vulgar kepada perempuan."</em><br>
-  — <strong>Sagiri Izumi</strong>, <em>Eromanga-sensei</em>
+  <em>"Makanan-minuman manis itu musuh terbesar diet."</em><br>
+  — <strong>Anna Yanami</strong>, <em>Make Heroine ga Oosugiru!</em>
 </div>
 <!-- QUOTE END -->
 
