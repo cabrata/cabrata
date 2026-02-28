@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh mati dengan mempertahankan harga dirimu itu,  tapi jika kau makan dan hidup bukankah masa depanmu akan lebih baik?"</em><br>
-  — <strong>Sanji</strong>, <em>One Piece</em>
+  <em>"Jangan ditunda lagi, lakukan sekarang.
+Seorang pria tidak akan pernah mencari-cari alasan."</em><br>
+  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
