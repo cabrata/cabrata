@@ -5,8 +5,12 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semakin banyak aku menyimpan momen ini, semakin sedih yang kurasakan ketika saat itu tiba. Tapi aku tak ingin menyebut perasaan ini dengan penyesalan."</em><br>
-  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Apa kau masih anak-anak?
+Kau melihat dunia ini hanya hitam dan putih.
+Tapi dunia tidak sesederhana itu.
+Segala sesuatu di sekitar kita ada di tengah-tengahnya.
+Bukan hitam ataupun putih, tapi abu-abu."</em><br>
+  — <strong>Chihiro  Sengoku</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
