@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Daripada menyesal karena terlambat, lebih baik serius dari sekarang. Kita harus meneguhkan hati dan mencobanya. Jika tidak berhasil, baru kita segera berhenti."</em><br>
-  — <strong>Tsurayuki Rokuonji</strong>, <em>Bokutachi no Remake</em>
+  <em>"Kau boleh kalah di permainan ataupun di pertandaingan.
+Tapi kalau kau tidak kalah dengan dirimu sendiri, itu bukan kekalahan."</em><br>
+  — <strong>Karen Araragi</strong>, <em>Nisemonogatari</em>
 </div>
 <!-- QUOTE END -->
 
