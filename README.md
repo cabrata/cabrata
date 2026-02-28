@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia boleh hidup dengan cara yang mereka mau. Menurutku orang yang berpegang teguh pada cara hidupnya sendiri adalah orang kuat yang sejati."</em><br>
-  — <strong>Oji-san</strong>, <em>Isekai Ojisan</em>
+  <em>"Bertemu denganmu dan melukis bersamamu benar-benar menyenangkan.
+Kata-kata dan senyum terakhir yang kamu berikan tak akan kulupakan seumur hidupku. Karena itu, tetaplah tersenyum seperti itu selamanya."</em><br>
+  — <strong>Yukito Renjou</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
