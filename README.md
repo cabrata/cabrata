@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jarang sekali rencana pertamaku berjalan mulus seperti yang ku harapkan. (Maka dari itu) Aku membuat rencana cadangan yang lebih detail untuk hal yang tak terduga dalam misi pembunuhan."</em><br>
-  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Orang-orang terlalu mengistimewakan sesuatu yang tak bisa dilihat."</em><br>
+  — <strong>Mahito</strong>, <em>Jujutsu Kaisen</em>
 </div>
 <!-- QUOTE END -->
 
