@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan anak pintar sepertimu bisa jadi bodoh kalau sering lihat (majalah P*o) begituan."</em><br>
-  — <strong>Tokunomori</strong>, <em>Getsuyoubi no Tawawa</em>
+  <em>"Kau bisa melakukannya, jika mencobanya."</em><br>
+  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
