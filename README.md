@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Dalam permainan) Pengetahuan bisa mengubah kemungkinan 1,92% menjadi 100%. Dengan kata lain, orang yang memiliki pengetahuan memiliki kemenangan yang tak tergoyahkan."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Seluruh pengalaman yang didapat adalah alat untuk membersihkan jalanmu ke depan."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
