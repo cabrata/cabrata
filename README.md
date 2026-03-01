@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika berada di dalam pertarungan, jangan lengah sampai akhir! Mereka yang lengah pasti akan mati terlebih dahulu."</em><br>
-  — <strong>Izuminokami Kanesada</strong>, <em>Katsugeki/Touken Ranbu</em>
+  <em>"Kalau kau tak ingin menarik perhatian orang-orang, jangan melakukan hal yang bodoh."</em><br>
+  — <strong>Sakuta Azusagawa</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
