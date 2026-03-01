@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika ada sesuatu yang tidak baik, hal pertama yang harus kau lakukan adalah menjauhinya, (dan) jangan menyebarkan rumor (tentang hal itu)."</em><br>
-  — <strong>Mika Shimotsuki</strong>, <em>Psycho-Pass</em>
+  <em>"Aku merasa bahagia ketika melihatmu tersenyum."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
