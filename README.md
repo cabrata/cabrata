@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ini adalah aturan yang ku buat sendiri. Kalau tidak bisa mengikuti aturanku sendiri, tidak ada artinya aku menjadi diriku."</em><br>
-  — <strong>Nanana Ryuugajou</strong>, <em>Ryuugajou Nanana no Maizoukin</em>
+  <em>"(Dalam permainan) Pengetahuan bisa mengubah kemungkinan 1,92% menjadi 100%. Dengan kata lain, orang yang memiliki pengetahuan memiliki kemenangan yang tak tergoyahkan."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
