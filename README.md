@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Siapapun pasti memiliki masalah dalam hidupnya. Kita semua sama. Karena itu, kamu harus menerima hal buruk sekalipun agar dapat melangkah ke depan."</em><br>
-  — <strong>Miki Kawai</strong>, <em>Koe no Katachi</em>
+  <em>"Dirimu yang telah mengerti penderitaan pasti akan jadi orang baik melebihi siapa pun."</em><br>
+  — <strong>Shouko Makinohara</strong>, <em>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</em>
 </div>
 <!-- QUOTE END -->
 
