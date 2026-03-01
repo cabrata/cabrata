@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memasak karena ingin membuat senang siapapun yang memakannya. Kita senang kalau ada yang bilang enak. Itulah kenapa aku senang memasak, dan merasa ingin terus memasak. Sekarang siapa yang mau bilang, apa yang kau buat itu enak?!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Aku akan memberikan sepenuhnya dari diriku untuk manga dan Azuki Miho. Aku akan mempertaruhkan nyawaku untuk mereka."</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
