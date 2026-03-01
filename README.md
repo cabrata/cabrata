@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peperangan akan menimbulkan kebencian meski kau menang. Dan rantai kebencian akan berlanjut. Peperangan seharusnya tidak pernah dilakukan."</em><br>
-  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Orang yang menggunakan kekuatannya karena terbawa emosi bukanlah orang kuat sejati. Kalau hanya karena keisengan kecil, orang dewasa akan menanggapinya dengan senyuman. Lagi pula, tidak akan terjadi pertengkaran kalau dibalas senyuman."</em><br>
+  — <strong>Yor Forger</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
