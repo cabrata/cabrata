@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta hanyalah sebuah bug dari sirkuit saraf manusia. Kau bisa buang emosi yang tidak perlu itu ke tempat sampah."</em><br>
-  — <strong>Ryuunosuke Akasaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Aku menjadi koki masakan Prancis agar aku dapat membuat ibuku tersenyum setiap saat."</em><br>
+  — <strong>Kojirou Shinomiya</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
 </div>
 <!-- QUOTE END -->
 
