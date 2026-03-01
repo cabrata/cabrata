@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak tahan jauh darimu. Aku cemas jika kau tak ada (disampingku)."</em><br>
-  — <strong>Misaki Kamiigusa</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Jika ada sesuatu yang tidak baik, hal pertama yang harus kau lakukan adalah menjauhinya, (dan) jangan menyebarkan rumor (tentang hal itu)."</em><br>
+  — <strong>Mika Shimotsuki</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
