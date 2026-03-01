@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihatnya bekerja keras untuk membenciku, entah mengapa agak menyenangkan."</em><br>
-  — <strong>Ohana Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Aku suka melihatmu ketika melakukan hal-hal yang kamu sukai."</em><br>
+  — <strong>Hirotaka Nifuji</strong>, <em>Wotaku ni Koi wa Muzukashii</em>
 </div>
 <!-- QUOTE END -->
 
