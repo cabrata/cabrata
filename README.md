@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Istirahat sejenak sangatlah penting untuk pekerjaanmu."</em><br>
-  — <strong>Kou Yagami</strong>, <em>New Game!</em>
+  <em>"Terkadang kau akan melihat sesuatu saat memejamkan mata."</em><br>
+  — <strong>Arthur Boyle</strong>, <em>Enen no Shouboutai</em>
 </div>
 <!-- QUOTE END -->
 
