@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami tidak peduli tentang mimpimu! kami hanya ingin melindungi teman-teman kamu, dan dunia kami apapun yang terjadi!"</em><br>
-  — <strong>Yukio Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Berdasarkan pamanku, ada syarat untuk menjadi seorang seniman manga. Dalam sekolah angan-angan Taro Kawaguchi, tiga syarat untuk menjadi seniman manga, jika kau bukanlah seorang jenius.
+1. kebanggaan, berpikirlah kau lebih baik daripada orang lain
+2. kerja keras
+3. keberuntungan"</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
