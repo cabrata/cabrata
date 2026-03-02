@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apapun pertaruhan yang disepakati, harus dipenuhi.
-Pemenangnya (untuk sekarang) memang kau, tapi hanya untuk sementara."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Ada beberapa hal yang tidak bisa didapatkan meskipun kau sangat menginginkannya."</em><br>
+  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou Shi</em>
 </div>
 <!-- QUOTE END -->
 
