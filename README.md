@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, aku bisa mendapatkan boneka itu dengan bersujud. Tapi, ini adalah duel antara aku dengan Reinhard. Jadi, kalau aku dapat kemenangan yang diberikan oleh orang lain, entah bagaimana bilangnya, pokoknya hal itu jelas salah. Ini semua demi harga diri kecilku!"</em><br>
-  — <strong>Felt</strong>, <em>Re:Petit kara Hajimeru Isekai Seikatsu</em>
+  <em>"Dunia di luar dipenuhi dengan kotoran. Orang yang kubenci. Orang yang menghalangi jalanku. Pembohong. Orang kotor. Aku harus memusnahkan semuanya."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
