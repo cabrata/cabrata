@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun berusaha keras bisa menjadi kunci kesuksesan (seseorang), tapi tidak bisa dijadikan pembenaran untuk membebani (orang lain). Hanya karena telah berusaha kau ingin dimaafkan (atas kegagalanmu), itu hanya sikap egois."</em><br>
-  — <strong>Ares Srowa</strong>, <em>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</em>
+  <em>"Dalam sebuah pertandingan, kau harus kuat agar dapat menikmati pertandingan itu."</em><br>
+  — <strong>Tadashi Yamaguchi</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
