@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang yang bertindak melawan keinginannya sendiri menurutku orang yang menarik."</em><br>
-  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Cinta dapat membuat seseorang menjadi kuat dan lemah."</em><br>
+  — <strong>Hibiki Tsukahara</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
