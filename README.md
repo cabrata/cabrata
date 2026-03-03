@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tiga orang yang berpikir bersama, akan lebih bagus daripada berpikir sendirian! Kau tidak boleh berpikir sendirian, kau juga harus mengandalkan orang yang ada di sekitarmu!"</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Jangan menilai orang dari satu sudut pandang. Kamu harus melihat dari berbagai sudut pandang."</em><br>
+  — <strong>Tetsuo Takahashi</strong>, <em>Demi-chan wa Kataritai</em>
 </div>
 <!-- QUOTE END -->
 
