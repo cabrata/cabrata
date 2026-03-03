@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat ini, aku hanya memikirkan bagaimana caranya mewujudkan pemikiranku. Aku akan menghidangkan tekadku dan semuanya di atas piring."</em><br>
-  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma: Ni no Sara</em>
+  <em>"Faktor terbesar seseorang tak bisa berenang adalah rasa takut. Takut tak bisa bernapas, takut tak bisa menapakkan kaki, dan takut tenggelam. Karena ketakutan itu, tubuh menjadi kaku."</em><br>
+  — <strong>Mafuyu Kirisu</strong>, <em>Bokutachi wa Benkyou ga Dekinai!</em>
 </div>
 <!-- QUOTE END -->
 
