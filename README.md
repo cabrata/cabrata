@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu menarik sekali. Bahkan menurutku pengalamanku selama ini, masih banyak hal yang belum kuketahui mengenai jalan pikiran mereka."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Jika cintamu tidak terbalas, kau harus segera move on darinya."</em><br>
+  — <strong>Izumi Takanashi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
