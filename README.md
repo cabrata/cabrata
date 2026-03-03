@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kita terus memikirkan apa yang orang lain harapkan, kita tak akan pernah tahu harus bagaimana karena terlalu banyak orang yang berharap pada diri kita. Bukankah lebih mudah jika hanya memikirkan apa yang kita harapkan pada diri sendiri.
-Selanjutnya tinggal berdoa."</em><br>
-  — <strong>Izumi Sakurai</strong>, <em>Nichijou</em>
+  <em>"Kunang-kunang hidupnya sangat singkat dan lemah, tapi dia bersinar dengan terang. Dag dig dug, seperti jantung yang berdetak. Ini adalah cahaya kehidupan."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
