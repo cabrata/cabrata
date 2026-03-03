@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meraka yang tak pernah mencoba tidak berhak iri pada mereka yang memiliki bakat.
-Mereka yang gagal itu karena mereka tidak membayangkan usaha yang dilakukan orang yang berhasil."</em><br>
-  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Manusia itu menarik sekali. Bahkan menurutku pengalamanku selama ini, masih banyak hal yang belum kuketahui mengenai jalan pikiran mereka."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
