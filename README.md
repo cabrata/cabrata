@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teman itu sulit dicari, jadi jaga teman kalian baik-baik."</em><br>
-  — <strong>Sei Handa</strong>, <em>Handa-kun</em>
+  <em>"Belajar itu memang penting, tapi cinta juga penting."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
