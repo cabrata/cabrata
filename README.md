@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peperangan itu benar-benar kejam. Entah kau menang atau kalah, kau selalu kehilangan lebih banyak dari pada apa yang kau peroleh."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Selama ini aku telah menghabiskan waktu hidupku untuk berbohong. Setidaknya mulai dari sekarang, aku akan berusaha untuk jujur pada diriku sendiri."</em><br>
+  — <strong>Cagliostro</strong>, <em>Senki Zesshou Symphogear AXZ</em>
 </div>
 <!-- QUOTE END -->
 
