@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat masa lalu sama artinya dengan tak bisa hidup di masa sekarang."</em><br>
-  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Rasa sakit ini adalah bukti kalau aku hidup.Karena ada rasa sakit, maka ada rasa senang.Itulah arti menjadi manusia."</em><br>
+  — <strong>Bruford</strong>, <em>JoJo no Kimyou na Bouken</em>
 </div>
 <!-- QUOTE END -->
 
