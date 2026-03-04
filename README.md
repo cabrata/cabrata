@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun bergantung pada teman bukanlah hal yang buruk. Tapi jujur saja, sebaiknya kita mencari jalan keluar dengan kemampuan kita sendiri."</em><br>
-  — <strong>Ougi Oshino</strong>, <em>Owarimonogatari</em>
+  <em>"Ada beberapa hal yang tak bisa dengan mudah diperhitungkan. Itulah perbedaan level pengalaman kita. Aku sudah hidup lebih lama darimu, dan mengetahui sedikit lebih banyak pengetahuan darimu. Aku menjadi seorang guru karena aku ingin berbagi pengalaman itu dengan kalian semua. Jika kalian tak belajar dari pengalamanku dari kelas ini, kalian tak akan pernah bisa mengalahkanku."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
