@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada banyak hal yang lebih menakutkan daripada iblis, tapi jangan pernah kalah."</em><br>
-  — <strong>Jukai</strong>, <em>Dororo</em>
+  <em>"Dalam kehidupan, selalu ada tiga pertanyaan.
+Aku ini apa? (Aku) datang dari mana? dan (Aku) akan pergi ke mana?
+Yang bisa kupikirkan hanya itu. Sebenarnya, hal yang (hanya harus) dipikirkan itu adalah "kebebasan". Akan tetapi, entah sejak kapan sebuah kekuatan aneh mengendalikanku, dan sedikit demi sedikit merenggut kebebasanku. Padahal saat masih kecil aku sudah memikirkan banyak hal tentang kebebasan, tapi pasti manusia sudah diprogram untuk menjadi bodoh sebelum pintar."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
