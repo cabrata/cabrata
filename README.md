@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cintaku seperti kilauan kembang api. Kilauan kecil yang perlahan meredup.
-Tapi, secercah cahaya kecil masih bersinar di hatiku."</em><br>
-  — <strong>Kazuko Hosogawa</strong>, <em>Tsurezure Children</em>
+  <em>"Mengajarimu seni pedang akan membuatmu jadi lebih kuat. Tapi berlatih hanya untuk menjadi kuat itu tak ada artinya."</em><br>
+  — <strong>Wilhelm van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
