@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua orang berbakat yang kau irikan sebenarnya memiliki nereka mereka masing-masing. Tak peduli apa yang dilakukan, mereka tak akan lepas dari neraka itu."</em><br>
-  — <strong>Marisa Hyoudou</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Imajinasi adalah senjata. Orang yang tak memilikinya akan mati."</em><br>
+  — <strong>Goblin Slayer</strong>, <em>Goblin Slayer</em>
 </div>
 <!-- QUOTE END -->
 
