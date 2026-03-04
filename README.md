@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan terlalu banyak menahan kesedihan, karena itu akan membuatmu melupakan suatu hal yang terpenting."</em><br>
-  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Naskah bukanlah produk jadi. Kalau tujuannya hanya untuk dibaca, lebih baik buat novel saja."</em><br>
+  — <strong>Misaki Kanou</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
