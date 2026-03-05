@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun aku baru pertama kali melihatmu di konser, aku tetap akan menjadi penggemarmu. Aku selalu melihatmu, aku juga sudah banyak mengirimimu surat penggemar. Meski dalam keadaan sulit sekalipun, atau dalam keadaan sedih sekalipun, aku menyemangati diriku dengan mendengarkan lagu-lagumu. Terimakasih selalu menjadi teman bagiku."</em><br>
-  — <strong>Mayu Arita</strong>, <em>Death Parade</em>
+  <em>"Manusia tetaplah manusia. Mereka adalah makhluk busuk yang bisa melakukan kejahatan sesuai keadaan. Pada akhirnya, mereka hanyalah seekor binatang yang sedikit lebih pintar dari binatang lainnya. Tindakan mereka hanya berdasarkan pada keinginan diri sendiri, mereka sering melupakan balas budi, dan hanya mengingat balas dendam."</em><br>
+  — <strong>Aka no Saber</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
