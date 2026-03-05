@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Hitam" memang sering dianggap sebagai warna kematian. Tapi dari sudut pandang psikologi, itu adalah warna akan perjuangan melawan kematian... Warna harapan."</em><br>
-  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Terlalu lancang menilai hidup orang (lain) itu bahagia atau tidak."</em><br>
+  — <strong>Osamu Dazai</strong>, <em>Isekai Shikkaku</em>
 </div>
 <!-- QUOTE END -->
 
