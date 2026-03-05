@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terlalu lancang menilai hidup orang (lain) itu bahagia atau tidak."</em><br>
-  — <strong>Osamu Dazai</strong>, <em>Isekai Shikkaku</em>
+  <em>"Mencintai orang lain selain diri sendiri adalah hal yang penting."</em><br>
+  — <strong>Ruth</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
