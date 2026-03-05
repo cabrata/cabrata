@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami tidak peduli tentang mimpimu! kami hanya ingin melindungi teman-teman kamu, dan dunia kami apapun yang terjadi!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>""Hitam" memang sering dianggap sebagai warna kematian. Tapi dari sudut pandang psikologi, itu adalah warna akan perjuangan melawan kematian... Warna harapan."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
