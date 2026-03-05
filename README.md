@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita semua hanyalah manusia. Kadang, kita berbuat salah.
-Hanya saja, jangan berbuat kesalahan saat nyawa taruhannya."</em><br>
-  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Suatu hal yang berubah tidak selalu hal buruk."</em><br>
+  — <strong>Daikichi Kawachi</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
