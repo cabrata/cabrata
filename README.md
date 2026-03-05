@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya duduk membicarakan mimpi kita, takkan membuatnya nyata."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Musim semi awal dari semua musim, (awal) lahirnya cinta, (awal) lahirnya impian, (dan awal) lahirnya kebahagiaan. Semuanya dimulai pada musim semi yang menuntun kita menuju masa depan."</em><br>
+  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
 </div>
 <!-- QUOTE END -->
 
