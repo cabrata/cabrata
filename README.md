@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kita sepupu?
-Masalahku adalah masalahmu. Bajumu adalah bajuku (juga).
-Bukankah kita harusnya saling membantu?"</em><br>
-  — <strong>Iori Kitahara</strong>, <em>Grand Blue</em>
+  <em>"Meskipun aku baru pertama kali melihatmu di konser, aku tetap akan menjadi penggemarmu. Aku selalu melihatmu, aku juga sudah banyak mengirimimu surat penggemar. Meski dalam keadaan sulit sekalipun, atau dalam keadaan sedih sekalipun, aku menyemangati diriku dengan mendengarkan lagu-lagumu. Terimakasih selalu menjadi teman bagiku."</em><br>
+  — <strong>Mayu Arita</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
