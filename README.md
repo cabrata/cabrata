@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu tidak bisa hidup seorang diri, karena kehidupannya penuh dengan beban."</em><br>
-  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
+  <em>"Saling menerima cinta satu sama lain adalah hal yang wajar. Jika dunia melarangnya, aku akan mengubah dunia ini meskipun harus menghancurkannya."</em><br>
+  — <strong>Theo Cornaro</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
