@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua manusia memiliki sifat bodoh yang sama. Makhluk yang lupa kalau suatu saat mereka akan mati. Saat mereka berhadapan dengan kematian, mereka bergantung pada kehidupan."</em><br>
-  — <strong>Ginti</strong>, <em>Death Parade</em>
+  <em>"Jangan hiraukan kelemahanmu, gunakan kekuatan dan semangatmu untuk melakukan yang terbaik."</em><br>
+  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
