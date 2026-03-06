@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pada dasarnya semua manusia itu penyakitan. Jadi kita hanya perlu menyesuaikan diri."</em><br>
-  — <strong>Midori Kohakobe</strong>, <em>Yofukashi no Uta</em>
+  <em>"Menyimpan harta hanya untuk diri sendiri mungkin akan membuatmu kaya raya, tapi itu tidak akan membuatmu makmur."</em><br>
+  — <strong>Maou</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
