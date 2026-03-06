@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebenci apapun kau terhadap perang, jika terlalu terpaku memikirkan cara untuk menghindarinya, pada akhirnya kau akan kehilangan segalanya."</em><br>
-  — <strong>Piña Co Lada</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Tidak masalah jika kau cemas, tapi jangan memaksakan dirimu.
+Jika ingin menangis, menangislah.
+(Karena) menangis bukan berarti lemah."</em><br>
+  — <strong>Junichi Tachibana</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
