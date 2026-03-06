@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau seorang ninja, mau berapa kalipun gagal, kau akan terus berusaha."</em><br>
-  — <strong>Boruto Uzumaki</strong>, <em>Boruto: Naruto Next Generations</em>
+  <em>"Meskipun ini adalah satu tahun masa mudaku yang terbatas. Meskipun ini masa-masa sekolahku yang seperti ilusi yang akan terlupakan, tapi akan terus kujaga setiap momen yang ada."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
