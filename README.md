@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan hiraukan kelemahanmu, gunakan kekuatan dan semangatmu untuk melakukan yang terbaik."</em><br>
-  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
+  <em>"Berhutang kepada seseorang bukanlah hal yang memalukan, tapi justru memalukan jika tidak bisa melunasinya."</em><br>
+  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
 </div>
 <!-- QUOTE END -->
 
