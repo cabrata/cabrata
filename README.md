@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada pepatah (mengatakan): "Semua akan  berguna kalau dipakai dengan benar"."</em><br>
-  — <strong>Sui Shijima</strong>, <em>Hanasaku Iroha</em>
+  <em>"Jika kau mengatakannya dengan cinta, perasaanmu akan tersampaikan."</em><br>
+  — <strong>Tooru Minegishi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
