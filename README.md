@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Baik 10 tahun yang lalu atau 10 tahun yang akan datang, waktu selalu memiliki batas."</em><br>
-  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
+  <em>"Pada dasarnya semua manusia itu penyakitan. Jadi kita hanya perlu menyesuaikan diri."</em><br>
+  — <strong>Midori Kohakobe</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
