@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan buang rasa kesalmu. Karena itu akan jadi bukti kalau kau masih belum menyerah pada dirimu sendiri."</em><br>
-  — <strong>Ryouma Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Biasanya, sebuah idol group haruslah serasi, tapi kita berbeda-beda. Kita telah menghabisakan banyak waktu bersama, saling menerima kekurangan dan kelebihan masing-masing. Sehingga kita bisa sampai seterkenal ini. Bukankah itu adalah hal yang sangat hebat dari kita? Itulah yang kusuka dari μ's."</em><br>
+  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
