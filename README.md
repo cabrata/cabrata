@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu kuat karena memiliki kemampuan untuk mengubah dirinya sendiri."</em><br>
-  — <strong>Saitama</strong>, <em>One Punch Man</em>
+  <em>"Mendekatlah. Aku akan membisikkannya padamu, jadi dengarkan baik-baik.
+Aku mencintaimu. Aku ingin kau melihat dunia di luar sana, dan aku ingin kau bersamaku."</em><br>
+  — <strong>Jun Satou</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
