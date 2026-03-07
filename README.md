@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang paling membuatku senang adalah bisa melihatmu ceria dan tumbuh dewasa."</em><br>
-  — <strong>Kakushi Gotou</strong>, <em>Kakushigoto</em>
+  <em>"Hidup selalu terbentuk dari serangkaian trial dan error."</em><br>
+  — <strong>Shingen Kishitani</strong>, <em>Durarara!!x2 Ketsu</em>
 </div>
 <!-- QUOTE END -->
 
