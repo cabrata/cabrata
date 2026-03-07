@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Postur tubuh menentukan bagaimana orang lain melihatmu."</em><br>
-  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Jika kau memiliki kehormatan, (berarti) kau memiliki keberanian."</em><br>
+  — <strong>Meme Oshino</strong>, <em>Kizumonogatari I: Tekketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
