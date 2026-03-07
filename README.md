@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lalat bisa terbang tanpa belajar terlebih dahulu. Laba-laba bisa membuat jaring tanpa belajar terlebih dahulu. Kenapa bisa begitu? Menurutku lalat dan laba-laba hanya mengikuti perintah saja. Aku yakin seluruh makhluk di bumi menerima perintah dari suatu makhluk."</em><br>
-  — <strong>Reiko Tamura</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Ilusi yang dilakukan oleh para pahlawan sepanjang masa telah menyebabkan banyak lautan darah kematian demi tercapainya kehormatan dan kemuliaan fana."</em><br>
+  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
