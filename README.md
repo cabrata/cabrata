@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua manusia memiliki kenginan. Tanpa keinginan, manusia takkan bisa hidup."</em><br>
-  — <strong>Rider</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia</em>
+  <em>"Pergilah dulu, dan tunggu aku. Aku akan segera menyusul, mengendarai angin."</em><br>
+  — <strong>Sei Handa</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
