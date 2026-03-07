@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang abadi. Semuanya akan berubah. Tak terkecuali manusia."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Yang paling membuatku senang adalah bisa melihatmu ceria dan tumbuh dewasa."</em><br>
+  — <strong>Kakushi Gotou</strong>, <em>Kakushigoto</em>
 </div>
 <!-- QUOTE END -->
 
