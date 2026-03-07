@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(aneh memiliki  dan berjuang untuk suatu mimpi pada kelas sembilan). Lebih baik memulai lebih awal !! Setiap orang hanya akan berjalan tanpa arah dalam hidupnya, menghindari tiap keputusan."</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Kalau kita tidak bisa memilih pekerjaan (yang diinginkan), setidaknya kita bisa memilih rekan kerja (yang kita inginkan)."</em><br>
+  — <strong>Lancer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
