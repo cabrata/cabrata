@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pahlawan bisa mati kapan pun karena perintah bodoh (atasan)."</em><br>
-  — <strong>Lancer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Jiwa dan ragaku tidak akan bergerak untuk siapapun kecuali untuk Togame."</em><br>
+  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
