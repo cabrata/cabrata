@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun berusaha keras bisa menjadi kunci kesuksesan (seseorang), tapi tidak bisa dijadikan pembenaran untuk membebani (orang lain). Hanya karena telah berusaha kau ingin dimaafkan (atas kegagalanmu), itu hanya sikap egois."</em><br>
-  — <strong>Ares Srowa</strong>, <em>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</em>
+  <em>"Lalat bisa terbang tanpa belajar terlebih dahulu. Laba-laba bisa membuat jaring tanpa belajar terlebih dahulu. Kenapa bisa begitu? Menurutku lalat dan laba-laba hanya mengikuti perintah saja. Aku yakin seluruh makhluk di bumi menerima perintah dari suatu makhluk."</em><br>
+  — <strong>Reiko Tamura</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
