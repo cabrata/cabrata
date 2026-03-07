@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Biasanya, sebuah idol group haruslah serasi, tapi kita berbeda-beda. Kita telah menghabisakan banyak waktu bersama, saling menerima kekurangan dan kelebihan masing-masing. Sehingga kita bisa sampai seterkenal ini. Bukankah itu adalah hal yang sangat hebat dari kita? Itulah yang kusuka dari μ's."</em><br>
-  — <strong>Honoka Kousaka</strong>, <em>Love Live! School Idol Project 2nd Season</em>
+  <em>"Memang bagus kalau bisa menemukan pekerjaan yang sesuai dengan diri kita.
+Tapi kurasa tak masalah kalau kita yang harus menyesuaikan diri dengan pekerjaan."</em><br>
+  — <strong>Shinei Ookawa</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
