@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunjunganmu merupakan obat terbaik yang dia miliki."</em><br>
-  — <strong>Ume Sawa</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
+  <em>"Jika aku mati, maafkan semua yang tak termaafkan. Kebencian tidak boleh diwariskan pada anak-anak."</em><br>
+  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
