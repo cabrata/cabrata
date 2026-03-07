@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Karena) kalian lemah, itu berarti kalian masih punya kesempatan untuk berkembang. Tak ada yang lebih menyenangkan dari ini bukan?"</em><br>
-  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!! Second Season</em>
+  <em>"Seperti halnya hompimpa, batu tak dapat mengalahkan kertas. Kertas tak dapat mengalahkan gunting. Dan gunting tak dapat mengalahkan batu. Itulah istilah yang menggambarkan hubunganmu dengan Omekata. Kemampuan untuk melarikan diri, tak sepadan dengan kemampuan yang dapat mengikat apapun dalam jarak jauh."</em><br>
+  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
