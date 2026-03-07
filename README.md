@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walaupun dalam hal membunuh, maka sebagai umat manusia, semuanya harus dilakukan atas aturan dan tujuan! Jika tidak, maka setiap perang hanya akan membuat dunia ini seperti neraka!"</em><br>
-  — <strong>Saber</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Meskipun dibenci, tapi masih ada hal yang ingin kamu sampaikan padanya kan? Apakah kau lebih suka pasrah saja dan tidak menyampaikan perasaanmu itu? Meskipun sudah tahu hasilnya, tapi tetap menyampaikannya jelas lebih baik."</em><br>
+  — <strong>Misao Zaitsu</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
