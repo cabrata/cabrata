@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mustahil kita disukai oleh semua orang. Kita cukup menyayangi orang yang memahami kita."</em><br>
-  — <strong>Shiori Saginomiya</strong>, <em>Joshikousei no Mudazukai</em>
+  <em>"Di balik pintu, kehidupanmu telah menantimu. Karena itu, kau bisa bersikap jujur saat berada di sini.
+Mungkin itu lah kenapa suasana bar dibuat seperti ini."</em><br>
+  — <strong>Hitomi Mishima</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
