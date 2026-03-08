@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau melawan kejahatan atas kebencian terhadap kejahatan, maka amarah dan dendam itu hanya akan menimbulkan konflik baru."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Aku ingin mengundurkan diri dari wawancara ini. Setelah kupikir-pikir ternyata memang ada yang salah dengan ini. Kita bersaudara harus bersaing sampai sejauh ini demi dipilih ibu (untuk diasuh)... Aku sangat sedih kalian bercerai, tapi ini adalah kesempatan kami untuk mandiri. Ibu, terima kasih atas segalanya selama ini. Aku akan mencoba hidup mandiri."</em><br>
+  — <strong>Todomatsu Matsuno</strong>, <em>Osomatsu-san</em>
 </div>
 <!-- QUOTE END -->
 
