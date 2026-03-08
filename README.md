@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin mengundurkan diri dari wawancara ini. Setelah kupikir-pikir ternyata memang ada yang salah dengan ini. Kita bersaudara harus bersaing sampai sejauh ini demi dipilih ibu (untuk diasuh)... Aku sangat sedih kalian bercerai, tapi ini adalah kesempatan kami untuk mandiri. Ibu, terima kasih atas segalanya selama ini. Aku akan mencoba hidup mandiri."</em><br>
-  — <strong>Todomatsu Matsuno</strong>, <em>Osomatsu-san</em>
+  <em>"Jika dirimu tak pantas bahagia, maka aku yang akan menanggungnya. Jika harus menebus semua dosa itu, mari kita tebus bersama."</em><br>
+  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
