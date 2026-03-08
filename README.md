@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Daripada menghabiskan waktu mengurusi masalah yang sudah terlanjur dipermasalahkan, lebih baik menyingkirkannya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
+  <em>"Langkah demi langkah nadiku berdenyut. Kanan kah? Kiri kah? Pergi kah? Kembali kah?
+Benar, salah, mengejutkan, kebahagiaan, kesepian. Walaupun tersesat di labirin (dunia) ini, aku kan tetap melangkah. (Karena) aku ingin tahu apa yang menantiku di belokan berikutnya."</em><br>
+  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge x Bridge</em>
 </div>
 <!-- QUOTE END -->
 
