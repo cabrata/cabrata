@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Justru membosankan kalau kamu sedih saat (gagal) mencoba menjawab ekspektasi orang lain."</em><br>
-  — <strong>Chisato Nishikigi</strong>, <em>Lycoris Recoil</em>
+  <em>"Aku telah membuatmu melihat air mataku. Meskipun begitu, kau tidak boleh menitihkan air mata. Setidaknya sampai kau bertemu dengan ibumu. Karena saat itu akan menjadi air mata bahagia."</em><br>
+  — <strong>Yoshifumi Nitta</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
