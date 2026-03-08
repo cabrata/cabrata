@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melalui surat kau bisa mengutarakan perasaan jujur dalam hatimu yang bahkan sulit untuk diutarakan."</em><br>
-  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
+  <em>"Kita tidak hanya mencoba, tapi kita akan jadi yang terbaik."</em><br>
+  — <strong>Taiga Kagami</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
