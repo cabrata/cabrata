@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tidak bisa bertahan di sekolah hingga lulus, cita-citamu untuk melampauiku hanyalah omong kosong."</em><br>
-  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Kecantikan adalah kekuatan."</em><br>
+  — <strong>Ai Hayasaka</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
