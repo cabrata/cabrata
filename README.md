@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu dari awal sudah jenius, kemudian sedikit demi sedikit mulai menjadi bodoh. Karena mereka menjadi bodoh, mereka mulai bekerja dan mulai saling berkomunikasi."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Justru membosankan kalau kamu sedih saat (gagal) mencoba menjawab ekspektasi orang lain."</em><br>
+  — <strong>Chisato Nishikigi</strong>, <em>Lycoris Recoil</em>
 </div>
 <!-- QUOTE END -->
 
