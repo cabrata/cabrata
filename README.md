@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun ini adalah satu tahun masa mudaku yang terbatas. Meskipun ini masa-masa sekolahku yang seperti ilusi yang akan terlupakan, tapi akan terus kujaga setiap momen yang ada."</em><br>
-  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
+  <em>"Yang paling menyenangkan dari sebuah perjalanan adalah saat sebelum berangkat. Yang paling menakutkan dari anjing adalah gonggongannya. Yang paling indah dari wanita adalah dengan melihat sosoknya dari belakang. Mengungkap sesuatu yang disembunyikan dapat menghancurkan mimpi seseorang."</em><br>
+  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
 </div>
 <!-- QUOTE END -->
 
