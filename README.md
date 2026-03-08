@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku mencari yang kuat dan cukup ambisius.
-Kau harus melakukan lebih baik dari sekedar "memainkan pertadingan pertamaku" atau "melakukan yang terbaik"."</em><br>
-  — <strong>Riko Aida</strong>, <em>Kuroko no Basket</em>
+  <em>"Aku benci pria yang diam saja melihat seorang wanita tersakiti."</em><br>
+  — <strong>Sen Yarizui</strong>, <em>Ben-To</em>
 </div>
 <!-- QUOTE END -->
 
