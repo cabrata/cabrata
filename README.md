@@ -5,11 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah kekalahan membuktikan bahwa kalian itu lemah?
-Bukankah bagi kalian "kalah" itu lebih terlihat seperti ujian?
-Apa kalian bisa berdiri dan berjalan lagi setelah kalian terjatuh.
-Jika kalian tetap duduk di situ, justru itulah yang membuktikan bahwa kalian lemah."</em><br>
-  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!!</em>
+  <em>"Wanita itu orang yang realistis. Kami tidak percaya hanya pada kata-kata."</em><br>
+  — <strong>Aiza Nagi</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
