@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kau memiliki orang yang kau cintai, kau akan menjadi lebih kuat. Berkat Tetsurou, aku juga sudah berubah. Paling tidak aku sudah mencoba untuk menjadi lebih berani dan lebih kuat."</em><br>
-  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Teman yang saling mengerti satu sama lain lewat berbagi hobi adalah teman yang sangat berharga."</em><br>
+  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
 </div>
 <!-- QUOTE END -->
 
