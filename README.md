@@ -5,13 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang kau lihat sekarang mungkin gelap gulita.
-Tapi, kau harus berusaha untuk terus mencari di dalam kegelapan itu.
-Nantinya kau pasti akan menemukan setitik cahaya seperti anak bintang.
-Saat kau menemukannya, bintang itu pasti juga akan menemukanmu.
-Lalu, kalian pun akan saling bersinar satu sama lain.
-Dengan begitu dunia tidak akan gelap gulita lagi."</em><br>
-  — <strong>Riichi Miura</strong>, <em>Mahoutsukai no Yome: Hoshi Matsu Hito</em>
+  <em>"Jika dirimu tak pantas bahagia, maka aku yang akan menanggungnya. Jika harus menebus semua dosa itu, mari kita tebus bersama."</em><br>
+  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
 </div>
 <!-- QUOTE END -->
 
