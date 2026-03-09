@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak mau lari! Kalau aku lari dari apa yang kuhadapi sekarang, aku akan menyesalinya seumur hidupku."</em><br>
-  — <strong>Moe Nishinosono</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Seperti halnya hompimpa, batu tak dapat mengalahkan kertas. Kertas tak dapat mengalahkan gunting. Dan gunting tak dapat mengalahkan batu. Itulah istilah yang menggambarkan hubunganmu dengan Omekata. Kemampuan untuk melarikan diri, tak sepadan dengan kemampuan yang dapat mengikat apapun dalam jarak jauh."</em><br>
+  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
