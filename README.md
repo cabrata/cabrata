@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun keabadian adalah sesuatu yang buruk, tapi selama aku bisa terus bersamamu, kurasa itu bukanlah hal yang buruk."</em><br>
-  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
+  <em>"Suatu hari waktu akan memisahkan kita kan?
+Tapi.., walaupun begitu, hingga saat itu, mari tetap bersama."</em><br>
+  — <strong>Hotaru Takegawa</strong>, <em>Hotarubi no Mori e</em>
 </div>
 <!-- QUOTE END -->
 
