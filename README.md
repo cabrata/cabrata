@@ -5,9 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan seorang kreator mungkin tampak mewah, tapi bukan berarti semuanya berjalan dengan baik.
-Deadline mepet, persaingan sengit, dan kau tidak tahu kapan bakatmu akan menghilang."</em><br>
-  — <strong>Utaha Kasumigaoka</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Perasaan yang belakangan ini kurasakan...
+Perasaan yang sejak itu terus tumbuh...
+(Aku ingin tahu) suatu saat, apakah aku bisa menggapaimu..."</em><br>
+  — <strong>Shouta Kazehaya</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
