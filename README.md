@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika dirimu tak pantas bahagia, maka aku yang akan menanggungnya. Jika harus menebus semua dosa itu, mari kita tebus bersama."</em><br>
-  — <strong>Alexis Douse</strong>, <em>Grancrest Senki</em>
+  <em>"Dinginkan oleh laki-laki, tidak ada yang lebih nikmat dibandingkan perasaan itu."</em><br>
+  — <strong>Akane Minagawa</strong>, <em>Kuzu no Honkai</em>
 </div>
 <!-- QUOTE END -->
 
