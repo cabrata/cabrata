@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau tidak bisa bertanggung jawab hingga akhir, jangan lakukan apa-apa."</em><br>
-  — <strong>Youji Itami</strong>, <em>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</em>
+  <em>"Berjuanglah sekeras mungkin. Kerahkan seluruh pikiran dan hatimu untuk mencari jalan keluar bersama dengan mereka. Biarkan hatimu yang telah mengering dan layu itu sekali lagi bermekaran."</em><br>
+  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
