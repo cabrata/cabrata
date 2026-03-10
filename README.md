@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menerima tantangan dan menciptakan sesuatu itu menyakitkan. Tapi itu memuaskan, jadi terima kasih (karena telah memaksaku menerima tantangan)."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Perasaan jatuh cinta dengan seseorang muncul secara alami. Jangan menyangkal perasaan seseorang yang mencintaimu!"</em><br>
+  — <strong>Suruga Kanbaru</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
