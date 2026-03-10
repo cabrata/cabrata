@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa tanpa dirimu semuanya akan terasa membosankan. Saat aku melihat ada orang lain yang menyentuhmu, aku sangat tak menyukainya. Meskipun baru kusadari akhir-akhir ini, tapi kurasa aku sudah lama menyukaimu."</em><br>
-  — <strong>Kazuomi Ooga</strong>, <em>ReLIFE</em>
+  <em>"Selama ini aku mencari hal yang nyata di dunia ini. Bagiku, hal yang nyata itu adalah kehangatan dari genggaman tanganmu."</em><br>
+  — <strong>Rika Shinozaki</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
