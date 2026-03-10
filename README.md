@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika berada di dalam pertarungan, jangan lengah sampai akhir! Mereka yang lengah pasti akan mati terlebih dahulu."</em><br>
-  — <strong>Izuminokami Kanesada</strong>, <em>Katsugeki/Touken Ranbu</em>
+  <em>"Ingatan dari 10 tahun yang lalu... seorang laki-laki yang dulu menjadi ayahku berkata "Meskipun sejak awal, aku adalah kesalahan. Tapi jalan yang aku pilih bukanlah kesalahan"."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
