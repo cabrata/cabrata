@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berjuanglah sekeras mungkin. Kerahkan seluruh pikiran dan hatimu untuk mencari jalan keluar bersama dengan mereka. Biarkan hatimu yang telah mengering dan layu itu sekali lagi bermekaran."</em><br>
-  — <strong>Ryou Yoake</strong>, <em>ReLIFE</em>
+  <em>"Yang menang selalu benar! Dan yang salah adalah setan!"</em><br>
+  — <strong>Yomotsu Hirasaka</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
