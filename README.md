@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mana ada (orang bertarung untuk) menyelamatkan nyawa seseorang hanya karena demi kebaikan. Manusia bertarung demi hasrat mereka."</em><br>
-  — <strong>Wirbel</strong>, <em>Sousou no Frieren</em>
+  <em>"Jika harapanku bisa terkabulkan. Jika apa yang kuinginkan bisa kudapatkan.
+Sepertinya, aku tidak ingin mengharapkan atau menginginkan sesuatu.
+Sesuatu yang diberikan padaku, pasti itu adalah kepalsuan dan akan hilang suatu saat nanti.
+Karena itu, aku akan terus mencarinya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
