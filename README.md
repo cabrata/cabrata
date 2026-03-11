@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi kami, selama di situ ada guru, entah itu di sawah atau pun di lapangan, itu adalah sekolah (tempat untuk belajar)."</em><br>
-  — <strong>Kotarou Katsura</strong>, <em>Gintama°</em>
+  <em>"Ketika aku menatap Kazehaya, aku tak bisa mengalihkan pandanganku. Mungkin karena itu, sebelum tidur wajah Kazehaya selalu muncul di pikiranku. Aku belum pernah merasakan perasaan spesial seperti ini sebelumnya."</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
