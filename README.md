@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku memiliki kehidupan yang kosong, tak ada apapun kecuali perasaanku padamu.
-(Meskipun) aku juga tidak punya pedang, tapi hatiku ingin menjadi seorang kesatria."</em><br>
-  — <strong>Akitoshi Daimon</strong>, <em>Sket Dance</em>
+  <em>"Apapun logika yang diterapkan, (atau) apapun teori yang dibentuk, Keyakinan (tentang agama) dan makhluk gaib akan terus ada."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Koyomimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
