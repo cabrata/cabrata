@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mustahil kita disukai oleh semua orang. Kita cukup menyayangi orang yang memahami kita."</em><br>
-  — <strong>Shiori Saginomiya</strong>, <em>Joshikousei no Mudazukai</em>
+  <em>"Katanya, jika seorang anak mati sebelum orang tuanya, dia akan jatuh ke neraka yang terdalam."</em><br>
+  — <strong>Mayoi Hachikuji</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
