@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Awalnya peluang selalu terlihat mustahil."</em><br>
-  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
+  <em>"Rasa lapar adalah bumbu terbaik."</em><br>
+  — <strong>Shinobu Oshino</strong>, <em>Kizumonogatari III: Reiketsu-hen</em>
 </div>
 <!-- QUOTE END -->
 
