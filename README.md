@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika aku menatap Kazehaya, aku tak bisa mengalihkan pandanganku. Mungkin karena itu, sebelum tidur wajah Kazehaya selalu muncul di pikiranku. Aku belum pernah merasakan perasaan spesial seperti ini sebelumnya."</em><br>
-  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke 2nd Season</em>
+  <em>"Aku memiliki kehidupan yang kosong, tak ada apapun kecuali perasaanku padamu.
+(Meskipun) aku juga tidak punya pedang, tapi hatiku ingin menjadi seorang kesatria."</em><br>
+  — <strong>Akitoshi Daimon</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
