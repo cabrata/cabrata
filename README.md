@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Katanya, jika seorang anak mati sebelum orang tuanya, dia akan jatuh ke neraka yang terdalam."</em><br>
-  — <strong>Mayoi Hachikuji</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Pembunuhan yang dilakukan dengan menyusup, akan lebih fleksibel jika targetnya sedang gelisah.
+Karena aku berhadapan dengan makhluk tak dikenal, maka cara terbaik adalah bunuh dia segera sebelum dia curiga."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
