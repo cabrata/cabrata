@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak peduli apapun itu, kau tak boleh memperlakukan orang lain dengan buruk."</em><br>
-  — <strong>Keita Amano</strong>, <em>Gamers!</em>
+  <em>"Bagi kami, selama di situ ada guru, entah itu di sawah atau pun di lapangan, itu adalah sekolah (tempat untuk belajar)."</em><br>
+  — <strong>Kotarou Katsura</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
