@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kami sudah terbiasa diseret olehmu. Jadi, sebagai gantinya, bawalah kami ke dunia yang belum pernah kami lihat."</em><br>
-  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Bakat tak selalu mendatangkan kebahagiaan bagi pemiliknya."</em><br>
+  — <strong>Atsushi Nakajima</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
