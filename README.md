@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun keputusan yang aku pilih salah, aku takkan menyesalinya. Menurutku kebaikan dan kejahatan adalah sesuatu yang sama, justru karena hal itulah bukti bahwa diriku adalah manusia."</em><br>
-  — <strong>Souichirou Kuzuki</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Manusia (baru) akan kalah ketika mereka berhenti melawan. Selama kita terus bertarung, kita belum kalah."</em><br>
+  — <strong>Mike Zacharias</strong>, <em>Shingeki no Kyojin Season 2</em>
 </div>
 <!-- QUOTE END -->
 
