@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejak dia datang, semuanya menjadi lebih baik. Duniaku mulai berubah.
-Mungkin kau tidak tahu, tapi Rinko ditakdirkan untuk menjadi inspirasiku."</em><br>
-  — <strong>Kouki Ichinose</strong>, <em>Ore Monogatari!!</em>
+  <em>"Aku tak peduli siapa orang yang dulu kau sukai. Karena saat ini akulah yang berjalan bersamamu."</em><br>
+  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
