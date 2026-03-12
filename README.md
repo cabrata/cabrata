@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku sangat menyukai kerendahan hatimu yang bahkan tak kausadari telah menjadi daya tarikmu."</em><br>
-  — <strong>Neko Fujinomiya</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"Manusia (baru) akan kalah ketika mereka berhenti melawan. Selama kita terus bertarung, kita belum kalah."</em><br>
+  — <strong>Mike Zacharias</strong>, <em>Shingeki no Kyojin Season 2</em>
 </div>
 <!-- QUOTE END -->
 
