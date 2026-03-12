@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dunia tidak akan menunggumu untuk mendapat keyakinan."</em><br>
-  — <strong>Hansung Yu</strong>, <em>Kami no Tou</em>
+  <em>"Kau tidak bisa tahu seseorang jika hanya melihat. (Meski penampilannya seperti itu) tapi dia sebenarnya seorang pekerja keras."</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
