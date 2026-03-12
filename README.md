@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika ada suatu hal yang membuatmu sedih, tidak apa kau bersedih. Kau tidak perlu selalu (berpura-pura) terlihat baik-baik saja."</em><br>
-  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
+  <em>"Selama perasaan kita masih saling mencintai, kita bisa melakukan apapun."</em><br>
+  — <strong>Kaito Kirishima</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
