@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walau dunia ini memusuhimu, aku akan tetap di sampingmu."</em><br>
-  — <strong>Miyabi Azumaya</strong>, <em>Dimension W</em>
+  <em>"Dunia tidak akan menunggumu untuk mendapat keyakinan."</em><br>
+  — <strong>Hansung Yu</strong>, <em>Kami no Tou</em>
 </div>
 <!-- QUOTE END -->
 
