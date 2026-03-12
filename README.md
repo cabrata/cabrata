@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak bisa tahu seseorang jika hanya melihat. (Meski penampilannya seperti itu) tapi dia sebenarnya seorang pekerja keras."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Jika ada suatu hal yang membuatmu sedih, tidak apa kau bersedih. Kau tidak perlu selalu (berpura-pura) terlihat baik-baik saja."</em><br>
+  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
