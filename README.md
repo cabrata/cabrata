@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keyakinan seseorang tidak bisa dikekang oleh waktu."</em><br>
-  — <strong>Petelgeuse Romanée-Conti</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Kebencian lahir dari masa lalu."</em><br>
+  — <strong>Hakuno Kishinami</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
