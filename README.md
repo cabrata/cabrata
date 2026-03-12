@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Uang, kebanggaan, patriotisme, bahkan kematian pun fiksi. Semua yang ada di masa depanmu adalah kekosongan. Dan yang bisa kau lakukan adalah kemampuanmu beradaptasi terhadap segala sesuatu, dan secara langsung memutuskan apa yang terbaik."</em><br>
-  — <strong>Yuuki</strong>, <em>Joker Game</em>
+  <em>"Meskipun semua orang menyalahkannya, atau bahkan jika dirinya juga menyalahkan dirinya sendiri, aku akan menggenggam tangannya dan membawanya ke tempat yang terang."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
