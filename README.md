@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, tidak selamanya yang kita harapkan tercapai. Tapi hal yang mesti kita lakukan harus selalu dimulai dengan sebuah harapan."</em><br>
-  — <strong>Guy Might</strong>, <em>Naruto Shippuden</em>
+  <em>"Senapan tidak akan mengkhianatimu."</em><br>
+  — <strong>Pitohui</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
 </div>
 <!-- QUOTE END -->
 
