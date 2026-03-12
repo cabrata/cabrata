@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pemimpin itu. Yang pertama, dia harus lebih bersemangat dari yang lain dan juga mampu memotivasi yang lain! Selain itu, dia haruslah orang yang penuh kasih dan mampu meningkatkan semangat anggota lain! Dan yang paling penting, dia haruslah orang yang paling dihormati anggota lainnya!"</em><br>
-  — <strong>Niko Yazawa</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Kau takkan bisa maju kalau kau masih takut mengotori tanganmu sendiri."</em><br>
+  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
