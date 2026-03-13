@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau adalah seorang profesional, tapi jika kau tak bisa menyeimbangkan antara pembunuh (profesi) dan guru (tuntutan peran dalam profesi), maka ini (sekolah) adalah tempat terburuk bagi orang profesional sepertimu."</em><br>
-  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Bukankah pemikiran mengenai kita yang tak bisa hidup tanpa perlindungan elves (makhluk lain), itu malah mencela dirimu sendiri?"</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
