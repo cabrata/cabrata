@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupanku di dunia nyata selalu saja membosankan, interaksi sosialpun terasa merepotkan. Jadi dunia maya adalah yang paling aku nikmati. Dan sekarang, aku telah dibuat menjadi orang jahat bagi banyak orang. Tapi di dunia nyata, aku punya keluarga yang menyemangati saat hidupku begitu berat sampai ingin mati, aku memiliki teman yang mendukung dan menyemangati dan ada rekan di band yang berkata ayo berjuang bersama. Jadi akan aku lakukan yang terbaik untuk mereka."</em><br>
-  — <strong>Yuu Haruna</strong>, <em>Fuuka</em>
+  <em>"Meskipun keabadian adalah sesuatu yang buruk, tapi selama aku bisa terus bersamamu, kurasa itu bukanlah hal yang buruk."</em><br>
+  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
