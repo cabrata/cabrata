@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak boleh kalah disini! Aku telah bersumpah di makam ayah bahwa aku akan menjadi exorcist yang hebat seperti dirinya dan akan menghajar Satan!"</em><br>
-  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist</em>
+  <em>"Aku sedikit takut. Bukan karena kematian, tapi aku takut berpisah denganmu. Aku tak pernah merasa seperti ini sebelumnya, tapi menurutku inilah yang terbaik untukku. Semua ini demi masa depan umat manusia, dan juga demi masa depanmu. Untuk itu aku mempertaruhkan nyawaku berapa kali pun."</em><br>
+  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
