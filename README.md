@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Faktor terbesar seseorang tak bisa berenang adalah rasa takut. Takut tak bisa bernapas, takut tak bisa menapakkan kaki, dan takut tenggelam. Karena ketakutan itu, tubuh menjadi kaku."</em><br>
-  — <strong>Mafuyu Kirisu</strong>, <em>Bokutachi wa Benkyou ga Dekinai!</em>
+  <em>"Tentu saja, (saat menyerang) serangan pertama itu paling penting. Tapi serangan berikutnya juga sama pentingnya.
+(karena) saat melawan musuh yang kuat, ada kemungkinan kalau serangan pertamamu akan dihindari. Jadi akurasi serangan kedua dan ketigamu bisa membuat perbedaan antara menang dan kalah."</em><br>
+  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
