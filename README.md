@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada sesuatu yang lebih menyedihkan daripada hidup di bawah kendali orang lain."</em><br>
-  — <strong>Ruler</strong>, <em>Fate/Apocrypha</em>
+  <em>"Sudah kuputuskan. Akan kubuat Hiyori menjadi wanita paling bahagia di dunia ini."</em><br>
+  — <strong>Yato</strong>, <em>Noragami Aragoto</em>
 </div>
 <!-- QUOTE END -->
 
