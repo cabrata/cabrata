@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau ingin melakukan sesuatu yang kau sukai, kau harus memperjuangkan itu dengan belajar lebih baik lagi."</em><br>
-  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji 2nd Season</em>
+  <em>"Selama dua puluh satu hari ini berapa kali kita berdebat? Kami saling menghina satu sama lain, saling membicarakan masalah satu sama lain. (Namun) saat aku terpojok, yang membantuku adalah Kurisu, yang tenang mendengarkan pembicaraanku dan yang percaya padaku adalah Kurisu. (Dia adalah) gadis jenius yang menulis risalah sains di usia 18 tahun. Dia selalu tampak tenang, tegar, cerewet dan bangga akan dirinya. Selalu dalam dengan kejujurannya... Aku selalu saja dibuat terkejut oleh teorinya. Kata-katanya terpahat dalam hatiku... Apa yang dia lakukan terekam di mataku."</em><br>
+  — <strong>Rintarou Okabe</strong>, <em>Steins;Gate</em>
 </div>
 <!-- QUOTE END -->
 
