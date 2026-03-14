@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Umat manusia adalah nama binatang yang tidak bisa menikmati hidup tanpa berkorban. Kebohongan indah bernama "kesetaraan" hanya diucapkan oleh orang lemah yang tidak bisa melihat dalam kegelapan. Itu hanya sekedar alasan untuk menutupi hidupnya yang buruk."</em><br>
-  — <strong>Archer</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
+  <em>"Menyakitkan sekali..., meskipun aku berada sedekat ini denganmu, tapi aku tak pernah bisa meraihmu."</em><br>
+  — <strong>Shigemi Kubota</strong>, <em>Sakamoto desu ga?</em>
 </div>
 <!-- QUOTE END -->
 
