@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau jangan terlalu baik. Orang baik selalu mati yang paling akhir."</em><br>
-  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Bukan laki-laki namanya jika hanya diam saja melihatmu bekerja keras sendirian."</em><br>
+  — <strong>Etsu Kusuda</strong>, <em>Hatsukoi Limited</em>
 </div>
 <!-- QUOTE END -->
 
