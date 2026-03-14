@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ayo kita bersama selamanya mulai dari sekarang!"</em><br>
-  — <strong>Fuuka Akitsuki</strong>, <em>Fuuka</em>
+  <em>"Aku akan menghapus kegelapan di masa lalu, dan membangun masa depan yang cerah dari awal."</em><br>
+  — <strong>Sasuke Uchiha</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
