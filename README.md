@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukan laki-laki namanya jika hanya diam saja melihatmu bekerja keras sendirian."</em><br>
-  — <strong>Etsu Kusuda</strong>, <em>Hatsukoi Limited</em>
+  <em>"Manusia tumbuh lebih kuat demi dirinya sendiri."</em><br>
+  — <strong>Hibana</strong>, <em>Enen no Shouboutai</em>
 </div>
 <!-- QUOTE END -->
 
