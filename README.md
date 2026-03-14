@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar mungkin tidak ada bunga yang bisa mekar selamanya. Mungkin juga bunga itu akan mudah layu. Tapi, walaupun bunga itu layu, saat musim telah berganti bunga itu akan mekar kembali."</em><br>
-  — <strong>Tsukuyo</strong>, <em>Gintama°: Aizome Kaori-hen</em>
+  <em>"Pasti sangat sulit berusaha melakukan apa yang diinginkan. (Sebenarnya) aku tidak terlalu mengerti, tapi pasti butuh kerja keras untuk mendapatkan hasilnya. Meskipun (kadang) memiliki impian itu membuatmu sulit (menjalani hidup)."</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
