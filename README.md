@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memaksa seseorang untuk melakukan sesuatu yang tidak mereka inginkan tak akan menghasilkan hal yang baik."</em><br>
-  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
+  <em>"Jika kau ingin melihat kelanjutan dari impianmu, maka teruslah berjalan maju. Walau pun itu berarti kau harus menghancurkan impian orang lain."</em><br>
+  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
 </div>
 <!-- QUOTE END -->
 
