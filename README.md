@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak perlu sebuah alasan untuk menyukaimu. Ketika kusadari, aku sudah menyukaimu."</em><br>
-  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Cinta itu menyeramkan."</em><br>
+  — <strong>Karen Kohiruimaki</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
 </div>
 <!-- QUOTE END -->
 
