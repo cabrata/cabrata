@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak marah itu adalah hal yang baik, (karena) kemarahan adalah dosa yang besar."</em><br>
-  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
+  <em>"Kau jangan terlalu baik. Orang baik selalu mati yang paling akhir."</em><br>
+  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
