@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Takut dengan kematian itu wajar. Tapi bertahan hidup tanpa melakukan apa pun itu sama sekali tidak indah."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
+  <em>"Awalnya peluang selalu terlihat mustahil."</em><br>
+  — <strong>Kyouya Hashiba</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
