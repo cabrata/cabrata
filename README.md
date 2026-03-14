@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada yang lebih menjijikkan dari kasih sayang orang yang tidak disukai."</em><br>
-  — <strong>Hanabi Yasuraoka</strong>, <em>Kuzu no Honkai</em>
+  <em>"Jangan melarikan diri dari masalah. Diam saja tidak akan memecahkan masalah. Bersikap sok keren tidak akan menghasilkan apapun. Kau hanya bersikap seakan semuanya baik-baik saja, tapi di mataku kau hanya terlihat seperti anak-anak."</em><br>
+  — <strong>Manami Ogura</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
