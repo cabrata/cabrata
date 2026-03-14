@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melakukan hal yang tidak perlu. Bergantung pada keberuntungan itu tak akan membuat kemajuan (dalam hidup). Yang perlu dilakukan hanyalah membuat keputusan yang tepat. Kehidupan dunia nyata tidaklah berbeda dengan dunia game. Yang (perlu) aku pikirkan hanyalah ending terbaik."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
+  <em>"Sesuatu yang diinginkan dan sesuatu yang diharapkan terlihat sangat mirip, tapi kenapa keduanya sangat berbeda?
+Sebenarnya, kebohongan juga bagus."</em><br>
+  — <strong>Yui Yuigahama</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
