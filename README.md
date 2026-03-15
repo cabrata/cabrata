@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perpisahan itu seperti halnya salah satu sisi koin. Kau tidak bisa berpisah sebelum memulai sapaan."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Sket Dance</em>
+  <em>"Tidak marah itu adalah hal yang baik, (karena) kemarahan adalah dosa yang besar."</em><br>
+  — <strong>Satoshi Fukube</strong>, <em>Hyouka</em>
 </div>
 <!-- QUOTE END -->
 
