@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia itu tidak bisa hidup seorang diri, karena kehidupannya penuh dengan beban."</em><br>
-  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
+  <em>"Apakah kekalahan membuktikan bahwa kalian itu lemah?
+Bukankah bagi kalian "kalah" itu lebih terlihat seperti ujian?
+Apa kalian bisa berdiri dan berjalan lagi setelah kalian terjatuh.
+Jika kalian tetap duduk di situ, justru itulah yang membuktikan bahwa kalian lemah."</em><br>
+  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
