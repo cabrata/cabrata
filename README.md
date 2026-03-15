@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masalahnya, bagaimana aku bisa mengatasi ini? Bagaimana (caranya agar) aku dapat mengembalikan keadaan ini? Apa aku harus meminta bantuan? Kenapa aku jadi bergantung pada orang lain?
-Hubungan antara manusia hanya akan menimbulkan ketergantungan."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Seperti apapun cita-citamu, kau memang tetap harus belajar."</em><br>
+  — <strong>Madoka Takatori</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
