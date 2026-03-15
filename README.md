@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Agen papan atas adalah agen yang bisa menghabisi anak muda genius sebelum tumbuh dewasa."</em><br>
-  — <strong>Koumori</strong>, <em>Tantei wa Mou, Shindeiru.</em>
+  <em>"Orang jenius itu bukanlah orang yang memiliki bakat atau kemampuan luar biasa. Memang itu diperlukan, tapi jika hanya mengandalkan bakat, orang itu tak lebih dari sekedar orang berbakat."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
