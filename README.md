@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak boleh bilang "hidup sendiri" ketika banyak orang yang mengkhawatirkan dirimu."</em><br>
-  — <strong>Akari Kawamoto</strong>, <em>3-gatsu no Lion</em>
+  <em>"Kau boleh membenciku sebesar yang kau mau, setidaknya sebesar cintaku padamu sebelumnya."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
