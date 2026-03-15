@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita memang menemui jalan buntu, tapi aku takkan berhenti. Demi mereka yang telah tiada, aku harus tetap maju. Sebagai Putri Hyland, sebagai seseorang yang membimbing negeri ini menuju keadilan, tolong pinjamkanlah kekuatan kalian."</em><br>
-  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Daripada menyesal tanpa melakukan apa-apa, kupikir lebih baik melakukan hal yang kubisa dan menyesalinya. Meskipun aku tahu kalau persentasenya nol persen, tapi bukankah akan menjengkelkan jika hanya diam saja?"</em><br>
+  — <strong>Koyuki Ayase</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
 </div>
 <!-- QUOTE END -->
 
