@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Daripada menyesal tanpa melakukan apa-apa, kupikir lebih baik melakukan hal yang kubisa dan menyesalinya. Meskipun aku tahu kalau persentasenya nol persen, tapi bukankah akan menjengkelkan jika hanya diam saja?"</em><br>
-  — <strong>Koyuki Ayase</strong>, <em>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</em>
+  <em>"Memang benar, pemain di seusiamu masih bisa memaksakan diri untuk berjuang. Tapi, jikalau ingin jadi juara dunia, kau juga harus berani mengibarkan bendera putih."</em><br>
+  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
