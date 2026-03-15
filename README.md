@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada kata terlalu cepat untuk sebuah persiapan."</em><br>
-  — <strong>Fumi Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Orang bilang saat kau menemukan sesuatu yang tidak bisa diatasi dengan pengalaman dan pengetahuanmu, maka kau akan berubah."</em><br>
+  — <strong>Seinen Shounin</strong>, <em>Maoyuu Maou Yuusha</em>
 </div>
 <!-- QUOTE END -->
 
