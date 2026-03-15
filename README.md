@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah sesuatu yang sangat akrab dengan ketidakadilan. Ada yang hidup dengan makmur, dan ada juga yang hidupnya sangat menderita."</em><br>
-  — <strong>Decim</strong>, <em>Death Parade</em>
+  <em>"Seorang pria sejati pasti sudah melompat ke dalam api jika gadisnya berada dalam bahaya!"</em><br>
+  — <strong>Marco Ikusaba</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
