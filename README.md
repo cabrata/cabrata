@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Rahasia menjadi koki yang hebat adalah bertemu dengan seorang wanita yang membuatmu ingin memberikan semua masakanmu padanya."</em><br>
-  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma</em>
+  <em>"Tidak ada kata terlalu cepat untuk sebuah persiapan."</em><br>
+  — <strong>Fumi Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
