@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama masalah tidak dipermasalahkan, masalah tidak akan menjadi masalah."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Rahasia menjadi koki yang hebat adalah bertemu dengan seorang wanita yang membuatmu ingin memberikan semua masakanmu padanya."</em><br>
+  — <strong>Jouichirou Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
