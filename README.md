@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus menunggu sampai tenang.
-Kata-kataku itu tidak ada artinya.
-Kaulah orang yang bisa mengatasi masa lalumu sendiri."</em><br>
-  — <strong>Kasuka Heiwajima</strong>, <em>Durarara!!x2 Ten</em>
+  <em>"Perpisahan itu seperti halnya salah satu sisi koin. Kau tidak bisa berpisah sebelum memulai sapaan."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
