@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bilang saat kau menemukan sesuatu yang tidak bisa diatasi dengan pengalaman dan pengetahuanmu, maka kau akan berubah."</em><br>
-  — <strong>Seinen Shounin</strong>, <em>Maoyuu Maou Yuusha</em>
+  <em>"Kau bilang kau akan menjadi yang nomor satu di Tootsuki. Mulai saat ini, kata-kata yang kau ucapkan itu akan menjadi beban buatmu."</em><br>
+  — <strong>Satoshi Isshiki</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
