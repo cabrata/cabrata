@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kejujuran yang kau perlihatkan saat kau mengungkapkan perasaanmu benar-benar murni dan manis."</em><br>
-  — <strong>Suzuno Kamazuki</strong>, <em>Hataraku Maou-sama!</em>
+  <em>"Kamu harus jadi PNS yang gajinya terjamin."</em><br>
+  — <strong>Ayah Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
