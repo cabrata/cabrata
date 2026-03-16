@@ -5,15 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kecerobohanmu mungkin adalah kelemahanmu.
-Kau sudah berusaha untuk memperbaikinya.
-Kau tidak mungkin memperbaiki sepenuhnya.
-Jadi seberapa kuat pun kau mencoba, tidak usah melakukannya pun tidak apa-apa.
-Biarkan saja seperti itu. Menyerahlah.
-Kekuatanmu memang tidak ada batasnya.
-Tapi yang terpenting adalah semangatmu.
-Jadi, kau tidak usah repot-repot mengubahnya kan?"</em><br>
-  — <strong>Tetsuji Chuuma</strong>, <em>Sket Dance</em>
+  <em>"Bunga-bunga yang indah pun pada akhirnya akan layu dan berguguran. Itulah takdir dari semua bentuk kehidupan."</em><br>
+  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
