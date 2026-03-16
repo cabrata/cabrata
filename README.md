@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada alasan bagiku untuk bicara dengan seseorang yang bermain sangat menyedihkan. Jika kau ingin mengatakan sesuatu,
-kau bisa memberitahukannya padaku, dengan permainanmu."</em><br>
-  — <strong>Shintarou Midorima</strong>, <em>Kuroko no Basket</em>
+  <em>"Jangan seenaknya mengejek sesuatu yang disukai seseorang."</em><br>
+  — <strong>Marin Kitagawa</strong>, <em>Sono Bisque Doll wa Koi wo Suru</em>
 </div>
 <!-- QUOTE END -->
 
