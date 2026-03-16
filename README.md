@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cermin adalah alat pertama ciptakan manusia yang dapat digunakan untuk mengintip alam semesta alternatif. Objek yang tampak di dalam cermin tidaklah nyata, tapi orang-orang berpikir bahwa itu nyata."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
+  <em>"Mereka tidak akan pernah bilang kalau itu susah atau mereka adalah pekerja keras, (meski begitu) mereka terus berjuang keras agar impiannya bisa terwujud."</em><br>
+  — <strong>Kaya Miyoshi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
