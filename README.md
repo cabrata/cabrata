@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama ada seorang yang ingin kau temui, maka kau tidak sendiri lagi."</em><br>
-  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou San</em>
+  <em>"Tak ada yang abadi. Semuanya akan berubah. Tak terkecuali manusia."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
 </div>
 <!-- QUOTE END -->
 
