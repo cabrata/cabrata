@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sejak awal tak ada manusia yang bisa memahami satu sama lain."</em><br>
-  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
+  <em>"(Pacaran itu) bukan untuk mencintai, tapi untuk "jatuh" cinta."</em><br>
+  — <strong>Aguri</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
