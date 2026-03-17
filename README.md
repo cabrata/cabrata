@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Soal pernikahan atau masa depan, aku tidak tahu apa yang akan terjadi. Di dunia ini, kesedihan muncul setelah (pernikahan) itu hal yang biasa. Tapi, semua orang punya hak untuk menginginkan kebahagiaan. (Karena itu) kita perlu berusaha demi masa depan."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru OVA</em>
+  <em>"Dalam keadaan segenting apapun, bertaruh adalah caraku untuk menyelesaikannya."</em><br>
+  — <strong>Kazuto Kirigaya</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
