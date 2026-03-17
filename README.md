@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada yang abadi. Semuanya akan berubah. Tak terkecuali manusia."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Soal pernikahan atau masa depan, aku tidak tahu apa yang akan terjadi. Di dunia ini, kesedihan muncul setelah (pernikahan) itu hal yang biasa. Tapi, semua orang punya hak untuk menginginkan kebahagiaan. (Karena itu) kita perlu berusaha demi masa depan."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru OVA</em>
 </div>
 <!-- QUOTE END -->
 
