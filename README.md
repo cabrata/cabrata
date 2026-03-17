@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau ingin menegakkan ideologimu, maka kendalikan lawanmu dengan kemampuanmu. Itu adalah satu-satunya hukum yang ada di dunia ini."</em><br>
-  — <strong>Iltutmish</strong>, <em>Taboo Tattoo</em>
+  <em>"Teman adalah kecap manis. Teman adalah penyedap rasa yang jauh lebih baik dari pada gula dan garam."</em><br>
+  — <strong>Nico Niiyama</strong>, <em>Kiznaiver</em>
 </div>
 <!-- QUOTE END -->
 
