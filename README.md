@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang gadis tidak boleh menunjukkan tubuhnya sembarangan pada orang lain."</em><br>
-  — <strong>Ibu Tadokoro</strong>, <em>Shokugeki no Souma</em>
+  <em>"Setelah kesalahan terungkap maka kesalahan itu akan jadi kebenaran. Di dunia ini tidak ada yang namanya kesalahan."</em><br>
+  — <strong>Kafuka Fuura</strong>, <em>Sayonara Zetsubou Sensei</em>
 </div>
 <!-- QUOTE END -->
 
