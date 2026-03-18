@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika minta maaf dapat menyelesaikan masalah, maka tidak akan ada tindakan bunuh diri yang dilakukan oleh samurai jika gagal melaksanakan tugas."</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Kesehatan adalah hal yang paling penting dari apapun."</em><br>
+  — <strong>Latifa Fleuranza</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
