@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Kenapa kamu menolong orang-orang?).Mungkin karena demi diriku sendiri. Meskipun hanya sedikit, aku ingin orang-orang mengingatku."</em><br>
-  — <strong>Himmel</strong>, <em>Sousou no Frieren</em>
+  <em>"Jika minta maaf dapat menyelesaikan masalah, maka tidak akan ada tindakan bunuh diri yang dilakukan oleh samurai jika gagal melaksanakan tugas."</em><br>
+  — <strong>Tae Shimura</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
