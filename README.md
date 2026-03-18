@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka (para manusia) makhluk yang tak belajar apapun sejak berevolusi dari kera."</em><br>
-  — <strong>Tooru</strong>, <em>Kobayashi-san Chi no Maid Dragon</em>
+  <em>"Manusia hidup untuk menyelamatkan dirinya sendiri."</em><br>
+  — <strong>Sakunosuke Oda</strong>, <em>Bungou Stray Dogs Season 2</em>
 </div>
 <!-- QUOTE END -->
 
