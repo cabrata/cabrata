@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah budak dari apa yang dilihatnya."</em><br>
-  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Tomoya-kun.., seperti inikah aku yang kau harapkan? seperti dalam anime, game dan dalam light novel.
+Apakah gadis idealmu itu yang berbicara seperti ini? yang bergerak seperti ini? dan jatuh cinta seperti ini?"</em><br>
+  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
