@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat seorang murid yang menatap masa depannya itu begitu indah."</em><br>
-  — <strong>Souma</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Di dunia ini tak ada yang namanya pengalaman itu sia-sia."</em><br>
+  — <strong>Ryuujirou Kotobuki</strong>, <em>Grand Blue</em>
 </div>
 <!-- QUOTE END -->
 
