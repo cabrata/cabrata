@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau bisa melanggar aturan di kota, artinya orang-orang tidak memperhatikan sekitarnya. Kota seperti itu mudah untuk menjadi aksi kejahatan seperti pencurian. Sebaliknya, bila di kota banyak orang yang saling tegur sapa, artinya kewaspadaan penduduk sekitar tinggi. Penjahat pun tak ingin melakukan aksinya di kota itu."</em><br>
-  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
+  <em>"Aku adalah seorang koki. Seorang koki tidak boleh lari dari dapur!"</em><br>
+  — <strong>Souma Yukihira</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
