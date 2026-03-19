@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Lak-laki itu sejak dulu ditakdirkan tidak pekaan."</em><br>
-  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
+  <em>"Ini adalah aturan yang ku buat sendiri. Kalau tidak bisa mengikuti aturanku sendiri, tidak ada artinya aku menjadi diriku."</em><br>
+  — <strong>Nanana Ryuugajou</strong>, <em>Ryuugajou Nanana no Maizoukin</em>
 </div>
 <!-- QUOTE END -->
 
