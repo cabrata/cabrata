@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menghancurkan dan menciptakan itu seperti dua sisi koin. Dengan kata lain, itu adalah hukum alam semesta."</em><br>
-  — <strong>Alex Louis Armstrong</strong>, <em>Fullmetal Alchemist: Brotherhood</em>
+  <em>"Maafkan aku... Maafkan aku (karena) tak bisa menjadi gadis yang mengangis di pelukanmu. Maafkan aku yang memilih mengejar impianku daripada cintaku. Maafkan aku karena aku akan selalu mencintaimu."</em><br>
+  — <strong>Sayuka</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
