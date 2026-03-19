@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tadi aku banyak pikiran. Tapi setelah melihatmu, sekarang aku jadi lebih tenang. Kurasa kau adalah obat yang dibutuhkan untuk hatiku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Semua yang ada di sini adalah palsu. Tapi, tidak ada yang berkata jika yang palsu tidak bisa menandingi yang asli. Kalau kau merasa jadi yang asli, maka aku hanya perlu melampaui dan mengalahkanmu."</em><br>
+  — <strong>Shirou Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works 2nd Season</em>
 </div>
 <!-- QUOTE END -->
 
