@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keinginan dari anak buahku yang manis adalah keinginanku juga."</em><br>
-  — <strong>Hakuto Kunai</strong>, <em>Maou-sama, Retry!</em>
+  <em>"Cinta adalah rumah cermin, itu hanya lah ilusi."</em><br>
+  — <strong>Alexandra Magritte</strong>, <em>Tada-kun wa Koi wo Shinai</em>
 </div>
 <!-- QUOTE END -->
 
