@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang paling penting adalah melakukan apa yang ingin kau lakukan."</em><br>
-  — <strong>Rito Yuuki</strong>, <em>To LOVE-Ru Darkness</em>
+  <em>"Perpisahan itu seperti halnya salah satu sisi koin. Kau tidak bisa berpisah sebelum memulai sapaan."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
