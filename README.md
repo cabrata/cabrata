@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Penipuan adalah kejahatan sosial yang bukan hanya menimbulkan kerugian pada seorang individu, tetapi juga memiliki efek domino (pada orang lain)."</em><br>
-  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
+  <em>"Tiga orang yang berpikir bersama, akan lebih bagus daripada berpikir sendirian! Kau tidak boleh berpikir sendirian, kau juga harus mengandalkan orang yang ada di sekitarmu!"</em><br>
+  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
