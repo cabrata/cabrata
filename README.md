@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku merasa tanpa dirimu semuanya akan terasa membosankan. Saat aku melihat ada orang lain yang menyentuhmu, aku sangat tak menyukainya. Meskipun baru kusadari akhir-akhir ini, tapi kurasa aku sudah lama menyukaimu."</em><br>
-  — <strong>Kazuomi Ooga</strong>, <em>ReLIFE</em>
+  <em>"Daripada menghabiskan waktu mengurusi masalah yang sudah terlanjur dipermasalahkan, lebih baik menyingkirkannya."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
