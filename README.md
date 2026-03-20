@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang dapat berubah karena jatuh cinta."</em><br>
-  — <strong>Chiaki Uchimura</strong>, <em>Tsurezure Children</em>
+  <em>"Debar hatiku ini... menggelitik dan terasa menyenangkan.
+Kuharap besok segera tiba. Aku ingin segera melihat wajahnya."</em><br>
+  — <strong>Ai Nanasaki</strong>, <em>Amagami SS</em>
 </div>
 <!-- QUOTE END -->
 
