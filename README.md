@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah sejak lama aku selalu melihatmu. Ini bukan lelucon, aku serius. Tak ada hal lain yang kupikirkan selain dirimu."</em><br>
-  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Menabung itu hal bagus, tapi melakukan sesuatu yang berkesan juga bagus."</em><br>
+  — <strong>Rin Tooyama</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
