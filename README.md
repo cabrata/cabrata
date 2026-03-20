@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kesimpulan yang berbeda datang saat satu fakta dilihat dari dua titik pandang yang berbeda. Saat itu terjadi, itulah waktu untuk menilai dari sudut pandang yang paling benar. Bukan waktu untuk menyimpulkan kesimpulan sendirilah yang benar. Tapi memutuskan bahwa kau tidak benar juga hal yang salah."</em><br>
-  — <strong>Hitagi Senjougahara</strong>, <em>Bakemonogatari</em>
+  <em>"Orang yang membual tentang kepribadian, biasanya orang itu tidak punya kepribadian."</em><br>
+  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
