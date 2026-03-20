@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin mengundurkan diri dari wawancara ini. Setelah kupikir-pikir ternyata memang ada yang salah dengan ini. Kita bersaudara harus bersaing sampai sejauh ini demi dipilih ibu (untuk diasuh)... Aku sangat sedih kalian bercerai, tapi ini adalah kesempatan kami untuk mandiri. Ibu, terima kasih atas segalanya selama ini. Aku akan mencoba hidup mandiri."</em><br>
-  — <strong>Todomatsu Matsuno</strong>, <em>Osomatsu-san</em>
+  <em>"Kau tak bisa menilai naskah game itu bagus atau jelek jika belum membacanya di dalam game."</em><br>
+  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
