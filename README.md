@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang pria yang kalah oleh kesedihan dalam hidupnya itu sama seperti seorang yang sedang menunggu ajalnya."</em><br>
-  — <strong>Joutarou Kawasumi</strong>, <em>Inu x Boku SS</em>
+  <em>"Dengan memikirkan kekuatan yang kau miliki, ada hal yang bisa dan tidak bisa kau lakukan sendiri. Melihatmu yang seperti ini membuatku merasa malu. Tidak tahu diri dan hanya tersakiti, kau bodoh!"</em><br>
+  — <strong>Izumo Kamiki</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
