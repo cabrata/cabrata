@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perpisahan itu seperti halnya salah satu sisi koin. Kau tidak bisa berpisah sebelum memulai sapaan."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Sket Dance</em>
+  <em>"Semua hal yang terjadi di depanku adalah masalah yang hanya bisa diselesaikan oleh diriku sendiri."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
