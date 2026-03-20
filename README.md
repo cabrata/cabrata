@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Debar hatiku ini... menggelitik dan terasa menyenangkan.
-Kuharap besok segera tiba. Aku ingin segera melihat wajahnya."</em><br>
-  — <strong>Ai Nanasaki</strong>, <em>Amagami SS</em>
+  <em>"Penipuan adalah kejahatan sosial yang bukan hanya menimbulkan kerugian pada seorang individu, tetapi juga memiliki efek domino (pada orang lain)."</em><br>
+  — <strong>Deishuu Kaiki</strong>, <em>Monogatari Series: Second Season</em>
 </div>
 <!-- QUOTE END -->
 
