@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Di dunia ini ada banyak hal yang takkan berubah meski kita memikirkannya."</em><br>
-  — <strong>Ichiko Rokujou</strong>, <em>Kakushigoto</em>
+  <em>"Kunci kesuksesan dalam berbisnis adalah senyuman."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
 </div>
 <!-- QUOTE END -->
 
