@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu hari waktu akan memisahkan kita kan?
-Tapi.., walaupun begitu, hingga saat itu, mari tetap bersama."</em><br>
-  — <strong>Hotaru Takegawa</strong>, <em>Hotarubi no Mori e</em>
+  <em>"Jangan ditunda lagi, lakukan sekarang.
+Seorang pria tidak akan pernah mencari-cari alasan."</em><br>
+  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
