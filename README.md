@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan jika itu berarti mati, tidak ada satu pun dari kami yang akan mengkhianati teman sendiri."</em><br>
-  — <strong>Kakashi Hatake</strong>, <em>Naruto Shippuden</em>
+  <em>"Tak peduli masalah apa yang kau hadapi, kelak semua itu akan berubah. Saat ada hal yang tak berjalan sesuai dengan kehendakmu, kau tidak boleh menyalahkan dirimu sendiri."</em><br>
+  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
