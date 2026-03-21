@@ -5,8 +5,15 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia pasti membuat kebohongan, tapi aku percaya padamu."</em><br>
-  — <strong>Elias Ainsworth</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Manusia itu selalu berpikir kalau dirinya sama dengan orang lain.
+Alasan mereka sangatlah mengagumkan, sangat memuaskan, dan sangat menghangatkan.
+Karena semua orang ingin saling mengerti, ingin saling berbagi hal yang berharga, dan ingin saling bekerja sama.
+Itu adalah mimpi yang luar biasa.
+Tapi kenyataannya tak seperti itu.
+Setiap orang memiliki peran dan kelemahan masing-masing.
+Mempercayai orang lain itu memang bagus.
+Tapi sebelum itu, kita harus mengerti perbedaan dengan orang lain."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra Last Encore</em>
 </div>
 <!-- QUOTE END -->
 
