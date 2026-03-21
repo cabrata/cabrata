@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tanpa rasa ingin tahu dan emosi, kau tidak akan puas dengan hobimu."</em><br>
-  — <strong>Soune</strong>, <em>Kobayashi-san Chi no Maid Dragon S</em>
+  <em>"Cinta bisa membuat hati seseorang berkilauan."</em><br>
+  — <strong>Shuu Igarashi</strong>, <em>Koi to Uso</em>
 </div>
 <!-- QUOTE END -->
 
