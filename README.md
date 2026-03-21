@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kuperingatkan kau! Jangan pernah ragu-ragu! Ayah tidak pernah membesarkanmu supaya jadi seorang pengecut!
-Tapi, ini adalah kehidupanmu. (Jadi) hiduplah dengan jalan yang kau pilih."</em><br>
-  — <strong>Ayah Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Peperangan akan menimbulkan kebencian meski kau menang. Dan rantai kebencian akan berlanjut. Peperangan seharusnya tidak pernah dilakukan."</em><br>
+  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross</em>
 </div>
 <!-- QUOTE END -->
 
