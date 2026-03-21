@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku hanya ingin melihat harapanku terwujud daripada memintanya pada sesuatu."</em><br>
-  — <strong>Kuro no Saber</strong>, <em>Fate/Apocrypha</em>
+  <em>"Jangan bilang semua (hal yang kau lakukan) itu sia-sia. Kau sudah berjuang keras untuk membuat dirimu menjadi lebih baik."</em><br>
+  — <strong>Arata Kaizaki</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
