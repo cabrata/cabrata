@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peperangan akan menimbulkan kebencian meski kau menang. Dan rantai kebencian akan berlanjut. Peperangan seharusnya tidak pernah dilakukan."</em><br>
-  — <strong>Alisha Diphda</strong>, <em>Tales of Zestiria the Cross</em>
+  <em>"Salah satu hal yang tidak aku mengerti dari hati manusia adalah sifat kepedulian.
+Seperti mau mengorbankan diri untuk menyelamatkan orang lain."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
