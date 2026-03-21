@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengan menyelamatkan seseorang, berarti ada orang lain yang tak terselamatkan. Manusia hanya bisa menyelamatkan seseorang yang memang pantas diselamatkan sejak awal. Ini adalah hal yang wajar, sebagai bentuk pengorbanan seorang pahlawan."</em><br>
-  — <strong>Kiritsugu Emiya</strong>, <em>Fate/stay night: Unlimited Blade Works</em>
+  <em>"Suatu hari waktu akan memisahkan kita kan?
+Tapi.., walaupun begitu, hingga saat itu, mari tetap bersama."</em><br>
+  — <strong>Hotaru Takegawa</strong>, <em>Hotarubi no Mori e</em>
 </div>
 <!-- QUOTE END -->
 
