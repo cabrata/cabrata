@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau ingin memperlihatkan impianmu pada seseorang, kau harus mempercayai impianmu itu terlebih dahulu."</em><br>
-  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
+  <em>"Segala hal terlahir dari yang sudah ada, dan yang sudah ada itu dari kenihilan. Hidup hanya sesaat, mari kita nikmati."</em><br>
+  — <strong>Kongming Zhuge</strong>, <em>Paripi Koumei</em>
 </div>
 <!-- QUOTE END -->
 
