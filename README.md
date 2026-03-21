@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak bisa menyukaimu sedikit saja, karena aku sudah menyukaimu sebanyak-banyaknya."</em><br>
-  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
+  <em>"Apapun hobinya, tidak masalah selama bisa ditekuni dengan baik."</em><br>
+  — <strong>Saori Makishima</strong>, <em>Ore no Imouto ga Konnani Kawaii Wake ga Nai</em>
 </div>
 <!-- QUOTE END -->
 
