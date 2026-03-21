@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kadang-kadang pria harus melindungi sesuatu, walaupun dia harus membuang kehormatannya sendiri."</em><br>
-  — <strong>Kanichi Konishi</strong>, <em>Shokugeki no Souma</em>
+  <em>"Misalnya...
+Misal saja aku bisa kembali ke save data seperti dalam sebuah game dan aku bisa mengambil pilihan yang tepat, maka apakah kehidupanku akan berubah...?
+Jawabannya adalah "tidak"."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
