@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin mengalahkan diriku sendiri yang selalu mengacaukan segalanya. Aku tak ingin melupakan kegagalanku. Tapi kalau aku terus membawa kegagalan itu sebagai ingatan buruk dan terus melarikan diri, sampai kapanpun aku tidak akan pernah bisa berubah. Kurasa ada hikmah yang bisa dipetik dari kegagalan."</em><br>
-  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
+  <em>"Aku harus segera melangkah ke depan. Daripada terus menyesali kegagalan lebih baik menjalani hidup dengan bahagia."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
