@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bilang "Kebalikan dari dicintai itu bukanlah dibenci, tapi diabaikan"."</em><br>
-  — <strong>Retto Enjou</strong>, <em>Dokyuu H* HxEros</em>
+  <em>"Hal yang aneh memang menarik."</em><br>
+  — <strong>Shunma Suruga</strong>, <em>Re:CREATORS</em>
 </div>
 <!-- QUOTE END -->
 
