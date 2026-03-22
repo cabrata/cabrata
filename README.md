@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau ingin berkelahi, lakukanlah secara adil dan jujur."</em><br>
-  — <strong>Shinichi Izumi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Peran orang dewasa adalah memastikan anak-anak dapat melakukan semua hal yang ingin mereka lakukan."</em><br>
+  — <strong>Willem Kmetsch</strong>, <em>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</em>
 </div>
 <!-- QUOTE END -->
 
