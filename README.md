@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apa ini cemburu? Cemburu. Cemburu? Senangnya, Soalnya perasaan ini, rasa sakit ini terlahir karena kau mencintai Shio-chan kan? Perasaan pertamaku."</em><br>
-  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
+  <em>"Hasil pertarungan tidaklah penting, menang ataupun kalah yang terpenting kau bisa mencapai tujuanmu."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
