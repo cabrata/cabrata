@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seorang gadis tidak boleh menunjukkan tubuhnya sembarangan pada orang lain."</em><br>
-  — <strong>Ibu Tadokoro</strong>, <em>Shokugeki no Souma</em>
+  <em>"Tak peduli mereka kuat atau lemah, intinya adalah apakah kita menang atau kalah, dan jika kita kalah, kita tidak akan berdiri lagi di lapangan."</em><br>
+  — <strong>Shouyou Hinata</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
