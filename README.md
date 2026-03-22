@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku harus segera melangkah ke depan. Daripada terus menyesali kegagalan lebih baik menjalani hidup dengan bahagia."</em><br>
-  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Seorang gadis tidak boleh menunjukkan tubuhnya sembarangan pada orang lain."</em><br>
+  — <strong>Ibu Tadokoro</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
