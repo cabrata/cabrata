@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan belajar banyak dan menggambar dunia yang ingin kamu lihat."</em><br>
-  — <strong>Aki Shino</strong>, <em>Bokutachi no Remake</em>
+  <em>"Cinta datang dalam berbagai bentuk. Mungkin memang tidak semuanya menyenangkan, tapi tetap saja (cinta) itu indah."</em><br>
+  — <strong>Mitsuki Shijou</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
