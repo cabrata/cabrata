@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hasil pertarungan tidaklah penting, menang ataupun kalah yang terpenting kau bisa mencapai tujuanmu."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Aku akan belajar banyak dan menggambar dunia yang ingin kamu lihat."</em><br>
+  — <strong>Aki Shino</strong>, <em>Bokutachi no Remake</em>
 </div>
 <!-- QUOTE END -->
 
