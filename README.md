@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seorang pria bersungguh-sungguh, apapun mungkin bisa diselesaikan dalam sehari."</em><br>
-  — <strong>Kurihara</strong>, <em>Prison School</em>
+  <em>"Suatu hari waktu akan memisahkan kita kan?
+Tapi.., walaupun begitu, hingga saat itu, mari tetap bersama."</em><br>
+  — <strong>Hotaru Takegawa</strong>, <em>Hotarubi no Mori e</em>
 </div>
 <!-- QUOTE END -->
 
