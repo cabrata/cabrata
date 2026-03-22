@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku suka dirimu yang tak bisa berterus terang seperti itu."</em><br>
-  — <strong>Rita Ainsworth</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Apa ini cemburu? Cemburu. Cemburu? Senangnya, Soalnya perasaan ini, rasa sakit ini terlahir karena kau mencintai Shio-chan kan? Perasaan pertamaku."</em><br>
+  — <strong>Satou Matsuzaka</strong>, <em>Happy Sugar Life</em>
 </div>
 <!-- QUOTE END -->
 
