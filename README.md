@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang aneh memang menarik."</em><br>
-  — <strong>Shunma Suruga</strong>, <em>Re:CREATORS</em>
+  <em>"Aku yakin banyak pemusik yang mengalami hal sepertimu (gemetar ketika mau tampil dipanggung)! "mana mungkin aku bisa melakukannya" atau "kalau begitu, kau saja yang main". Meski begitu, mereka mengambil lagi partitur musiknya dan bermain lagi. Begitulah caranya menciptakan kebohongan yang paling indah."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
