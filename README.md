@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhentilah untuk mencoba memperbaiki semuanya sendiri. Jangan lupa, kau tidaklah sendirian!"</em><br>
-  — <strong>Ryuuji Suguro</strong>, <em>Ao no Exorcist</em>
+  <em>"Kenapa kita harus bekerja? Kenapa kita harus membayar untuk makan? Bukankah kita bisa saling berbagi? Yang kaya menjadi gemuk. Sementara yang miskin akan mati. Di dunia sampah seperti ini kebebasan macam apa yang didapat? Kita semua adalah budak dari pekerjaan. Apa kerja itu menyenangkan?"</em><br>
+  — <strong>Hammerhead</strong>, <em>One Punch Man</em>
 </div>
 <!-- QUOTE END -->
 
