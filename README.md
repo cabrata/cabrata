@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pembela kebenaran membutuhkan kejahatan untuk dikalahkan."</em><br>
-  — <strong>Kirei Kotomine</strong>, <em>Fate/stay night Movie: Heaven's Feel - I. Presage Flower</em>
+  <em>"Akhir-akhir ini, kelompok kalian tidak menghasilkan apa - apa. Badan penelitian yang hanya berbicara tentang kejayaan masa lalu tidak dibutuhkan di Tootsuki."</em><br>
+  — <strong>Erina Nakiri</strong>, <em>Shokugeki no Souma</em>
 </div>
 <!-- QUOTE END -->
 
