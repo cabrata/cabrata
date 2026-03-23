@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Segala sesuatu memiliki kekurangan. Tidak ada yang sempurna, karena itu semua orang ingin menghancurkannya dan menciptakannya kembali."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 4: Garan no Dou</em>
+  <em>"Jangan ditunda lagi, lakukan sekarang.
+Seorang pria tidak akan pernah mencari-cari alasan."</em><br>
+  — <strong>Mao Mizusawa</strong>, <em>Kimikiss Pure Rouge</em>
 </div>
 <!-- QUOTE END -->
 
