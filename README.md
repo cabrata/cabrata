@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau harus bekerja keras agar kau bisa benar-benar berkontribusi bagi perusahaan. Dan setelah perusahaan mengakui kemampuanmu, Kau akan mendapat kenaikan gaji!"</em><br>
-  — <strong>Hajime Shinoda</strong>, <em>New Game!</em>
+  <em>"Tak ada pertandingan yang tak bisa dimenangkan. Dan tak ada pertandingan yang pasti bisa dimenangkan."</em><br>
+  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
