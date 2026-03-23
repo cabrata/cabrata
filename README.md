@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita sedang jatuh cinta, dunia jadi kelihatan lebih berwarna."</em><br>
-  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Doa itu penuh dengan ajaran masa depan."</em><br>
+  — <strong>Mikiya Kokutou</strong>, <em>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</em>
 </div>
 <!-- QUOTE END -->
 
