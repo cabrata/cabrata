@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teruslah berlatih, dan kau pasti bisa melampauinya."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Orang menggunakan masalah mereka sebagai alat pendorong untuk jadi lebih baik."</em><br>
+  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
 </div>
 <!-- QUOTE END -->
 
