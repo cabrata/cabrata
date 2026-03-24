@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kejadian terhebat dalam hidup dan alasan yang terpenting untuk sukses adalah "mencintai""</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Menggunakan internet itu seperti menggunakan pisau untuk memasak atau menggunakan kertas untuk menulis. Pada dasarnya itu bukan tentang baik atau buruk. Karena keberadaan internet, maka kita (tinggal) menerimanya dan menggunakannya."</em><br>
+  — <strong>Akane Tsunemori</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
