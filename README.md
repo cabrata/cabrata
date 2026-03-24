@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak bisa memikul beban yang menjadi tanggung jawabmu, jadi aku tak bisa begitu saja menerima permintaanmu. Tapi aku akan mencari sesuatu yang kau katakan itu. Dan jika aku menemukan suatu petunjuk, aku akan memberitahumu. Dan jika kau tak dapat mencari penjelasan akan hal itu sebelum waktunya, saat itulah aku akan membantumu."</em><br>
-  — <strong>Houtarou Oreki</strong>, <em>Hyouka</em>
+  <em>"Jika manusia memiliki keinginan, mereka bisa saja menjadi malaikat atau pun iblis."</em><br>
+  — <strong>Rika Suzuki</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
