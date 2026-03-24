@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang-orang jadi berpikir sempit kalau sedang tidak punya uang."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 3: Tsuukaku Zanryuu</em>
+  <em>"Teman yang saling mengerti satu sama lain lewat berbagi hobi adalah teman yang sangat berharga."</em><br>
+  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
 </div>
 <!-- QUOTE END -->
 
