@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya dengan menatapmu saja, aku merasa sangat bahagia."</em><br>
-  — <strong>Marrine Kreische</strong>, <em>Grancrest Senki</em>
+  <em>"Aku sedih. Aku cemas dan takut, hal itu membuatku tidak nyaman. Aku terpaku dan bersemangat, hal itu membuatku senang. Aku merasa kesepian, marah, dan juga menangis. Dadaku seperti tersengat dan rasanya sangat sakit. Aku sangat terpukau hingga tidak ingin kembali. Tapi, aku bahagia."</em><br>
+  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
