@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menggunakan internet itu seperti menggunakan pisau untuk memasak atau menggunakan kertas untuk menulis. Pada dasarnya itu bukan tentang baik atau buruk. Karena keberadaan internet, maka kita (tinggal) menerimanya dan menggunakannya."</em><br>
-  — <strong>Akane Tsunemori</strong>, <em>Psycho-Pass</em>
+  <em>"Orang-orang jadi berpikir sempit kalau sedang tidak punya uang."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 3: Tsuukaku Zanryuu</em>
 </div>
 <!-- QUOTE END -->
 
