@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Anak itu memang yang terbaik saat dia bertingkah kekanak-kanakan."</em><br>
-  — <strong>Matsuyo Matsuno</strong>, <em>Osomatsu-san</em>
+  <em>"Aku tidak boleh ragu, untuk negeri ini, untuk pedang ini dan untuk hidupku.
+Pendekar membutuhkan sesuatu untuk dia lindungi. Tanpa itu, dia tidak akan bisa bertarung."</em><br>
+  — <strong>Ginkaku Uneri</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
