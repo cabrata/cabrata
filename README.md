@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika punya waktu untuk membuat konspirasi, lebih baik gunakan waktu itu untuk mengasah kemampuan."</em><br>
-  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
+  <em>"Anak itu memang yang terbaik saat dia bertingkah kekanak-kanakan."</em><br>
+  — <strong>Matsuyo Matsuno</strong>, <em>Osomatsu-san</em>
 </div>
 <!-- QUOTE END -->
 
