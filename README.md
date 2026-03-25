@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang membual tentang kepribadian, biasanya orang itu tidak punya kepribadian."</em><br>
-  — <strong>Komachi Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Setiap kali kamu khawatir atau saat menemui jalan buntu, bisa ceritakan (masalahmu itu) padaku?
+Aku mungkin tak bisa membantu banyak, tapi aku ingin lebih dari sekedar berada di sisimu. Aku ingin jadi sumber kekuatanmu."</em><br>
+  — <strong>Junichi Tachibana</strong>, <em>Amagami SS+ Plus</em>
 </div>
 <!-- QUOTE END -->
 
