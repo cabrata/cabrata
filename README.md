@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang memberikanku keberanian hingga saat terakhir adalah kau yang telah menyelamatkanku saat novelku ada yang salah. Aku bersyukur dapat bertemu denganmu."</em><br>
-  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei OVA</em>
+  <em>"Semua yang kau katakan dan lakukan berkilauan dan bersinar terang. Itu terlalu silau untukku dan akhirnya ku menutup mata."</em><br>
+  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
