@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunci kesuksesan dalam berbisnis adalah senyuman."</em><br>
-  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100 II</em>
+  <em>"Demi cinta, aku rela mengorbankan tubuh dan jiwaku."</em><br>
+  — <strong>Kaguya Shinomiya</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
