@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau bisa melakukannya, jika mencobanya."</em><br>
-  — <strong>Nagisa Shiota</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Aku ingin membuat negeri dimana orang-orang yang kucintai bisa hidup tanpa kebencian."</em><br>
+  — <strong>Lux Acadia</strong>, <em>Saijaku Muhai no Bahamut</em>
 </div>
 <!-- QUOTE END -->
 
