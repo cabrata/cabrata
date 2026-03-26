@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku telah membuatmu melihat air mataku. Meskipun begitu, kau tidak boleh menitihkan air mata. Setidaknya sampai kau bertemu dengan ibumu. Karena saat itu akan menjadi air mata bahagia."</em><br>
-  — <strong>Yoshifumi Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Jika lusa kau mati, aku akan hidup hingga tiga hari lagi.
+Aku akan menceritakan kisahmu pada orang-orang.
+Aku akan menceritakan tentang tuanku yang aku banggakan."</em><br>
+  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari Season 2</em>
 </div>
 <!-- QUOTE END -->
 
