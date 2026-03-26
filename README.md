@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika lusa kau mati, aku akan hidup hingga tiga hari lagi.
-Aku akan menceritakan kisahmu pada orang-orang.
-Aku akan menceritakan tentang tuanku yang aku banggakan."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Apapun yang terjadi, aku akan selalu berada dipihakmu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
