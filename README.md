@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau memiliki kehormatan, (berarti) kau memiliki keberanian."</em><br>
-  — <strong>Meme Oshino</strong>, <em>Kizumonogatari I: Tekketsu-hen</em>
+  <em>"Apapun obatnya, cintaku padamu takkan bisa disembuhkan!"</em><br>
+  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
