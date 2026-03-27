@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat bangun pagi, saat tidur pada malam hari, saat berangkat sekolah, saat berpakaian, saat menangis dan saat tertawa itu semua karena Mitsuo. Tanpa Mitsuo, tak ada yang bisa kulakukan, tidak ada artinya aku hidup."</em><br>
-  — <strong>Kouko Kaga</strong>, <em>Golden Time</em>
+  <em>"Hidup adalah sesuatu yang sangat akrab dengan ketidakadilan. Ada yang hidup dengan makmur, dan ada juga yang hidupnya sangat menderita."</em><br>
+  — <strong>Decim</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
