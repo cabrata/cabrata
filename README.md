@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan lari, hadapilah!. Kalau punya hal yang ingin kamu kejar dengan serius, kenapa kau tidak memakainya sebagai senjata untuk bertarung."</em><br>
-  — <strong>Eiko Kawasegawa</strong>, <em>Bokutachi no Remake</em>
+  <em>"Kita tidak memilih jalan kita berdasarkan dosa yang kita bawa, tetapi membawa dosa kita pada jalan yang kita pilih."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 1: Fukan Fuukei</em>
 </div>
 <!-- QUOTE END -->
 
