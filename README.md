@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cukup lakukan semampumu dan berhentilah ketika kau sudah tak sanggup lagi."</em><br>
-  — <strong>Himeko Inaba</strong>, <em>Kokoro Connect: Michi Random</em>
+  <em>"Meraih kebenaran yang ada di depan mata lebih baik daripada meraih ideologi yang tak dapat diraih."</em><br>
+  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
