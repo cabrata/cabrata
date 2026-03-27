@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Peperangan itu benar-benar kejam. Entah kau menang atau kalah, kau selalu kehilangan lebih banyak dari pada apa yang kau peroleh."</em><br>
-  — <strong>Isao Kondou</strong>, <em>Gintama°</em>
+  <em>"Tak peduli apa yang kau lempar padaku, dengan satu hentakan. Aku akan mengembalikannya dua kali lipat lebih baik."</em><br>
+  — <strong>Ryouta Kise</strong>, <em>Kuroko no Basket</em>
 </div>
 <!-- QUOTE END -->
 
