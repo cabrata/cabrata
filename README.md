@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hidup adalah sesuatu yang sangat akrab dengan ketidakadilan. Ada yang hidup dengan makmur, dan ada juga yang hidupnya sangat menderita."</em><br>
-  — <strong>Decim</strong>, <em>Death Parade</em>
+  <em>"Wanita itu seperti sake, semakin berumur semakin nikmat."</em><br>
+  — <strong>Sumiko Kawai</strong>, <em>Bokura wa Minna Kawaisou</em>
 </div>
 <!-- QUOTE END -->
 
