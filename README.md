@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada hukum yang mengatakan kau tidak boleh menyukai seorang pria hanya karena ia telah memiliki pacar."</em><br>
-  — <strong>Ruri Miyamoto</strong>, <em>Nisekoi</em>
+  <em>"Jangan berpikir untuk tidak terluka saat kau memutuskan untuk melangkahkan kakimu.
+Jangan terpaku pada kesempurnaan. Karena itu akan melukai orang lain dan orang lain juga akan melukaimu.
+Meski kau berlumuran lumpur sekalipun, kau harus tetap maju."</em><br>
+  — <strong>Evangeline Athanasia Katherine McDowell</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
