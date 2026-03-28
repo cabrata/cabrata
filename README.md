@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Game simulasi kencan itu sama sekali tidak akan berdampak pada hubungan asmara di kehidupan nyata."</em><br>
-  — <strong>Tasuku Uehara</strong>, <em>Gamers!</em>
+  <em>"Selama kau bertingkah tidak seperti dirimu sendiri, kesempatannya nol.
+Satu-satunya (orang) yang bisa menghentikan mimpimu menjadi nyata adalah dirimu sendiri."</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
