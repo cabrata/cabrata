@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah kita teman?
-Entah mau ke toilet atau kemana pun, kita akan pergi bersama!"</em><br>
-  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!</em>
+  <em>"Menabung itu hal bagus, tapi melakukan sesuatu yang berkesan juga bagus."</em><br>
+  — <strong>Rin Tooyama</strong>, <em>New Game!</em>
 </div>
 <!-- QUOTE END -->
 
