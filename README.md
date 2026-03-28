@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kau memang merasa khawatir, peganglah tanganku."</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Pria idaman itu seperti apa?
+Wajahnya? Hartanya?
+Bagiku, pria idaman itu adalah seorang yang mau untuk hidup bersama."</em><br>
+  — <strong>Charlotte Abelfreyja Drossel</strong>, <em>Violet Evergarden</em>
 </div>
 <!-- QUOTE END -->
 
