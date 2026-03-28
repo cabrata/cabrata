@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada alasan bagiku untuk bicara dengan seseorang yang bermain sangat menyedihkan. Jika kau ingin mengatakan sesuatu,
-kau bisa memberitahukannya padaku, dengan permainanmu."</em><br>
-  — <strong>Shintarou Midorima</strong>, <em>Kuroko no Basket</em>
+  <em>"Aku ingin melindungi waktuku bersamamu. Itu satu-satunya yang berarti bagiku."</em><br>
+  — <strong>Sakura Matou</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
