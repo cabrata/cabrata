@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu memang bukan segalanya.Tapi sesuatu yang hanya bisa kau lakukan sekarang, sesuatu yang hanya ada di sini... Sekaranglah saatnya... Pikirkanlah, perjuangkanlah, menderitalah karenanya, dan cemaskanlah itu semua! Tanpa itu semua, hal itu tidak bisa menjadi kenyataan."</em><br>
-  — <strong>Shizuka Hiratsuka</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
+  <em>"Membereskan orang jahat seperti mereka itu perlu dilakukan demi kebaikan mereka sendiri dan masyarakat."</em><br>
+  — <strong>Ekubo</strong>, <em>Mob Psycho 100 II</em>
 </div>
 <!-- QUOTE END -->
 
