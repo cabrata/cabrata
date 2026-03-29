@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Momen membahagiakan seorang guru adalah saat kau tak yakin dan murid - muridmu memberikan jawaban yang jelas padamu dari hasil pembelajaranmu."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Seharusnya apapun masalahnya dapat dibicarakan lebih dulu."</em><br>
+  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata ♭</em>
 </div>
 <!-- QUOTE END -->
 
