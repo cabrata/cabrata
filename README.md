@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli di manapun, tak peduli seberapa takut dirimu, matahari akan selalu ada. Mataharimu mungkin terkadang tertutup mendung. Meskipun begitu, jika kau terus melihat langit, lama-kelamaan mendung pasti akan hilang. Karena itu kita tak boleh melupakan hal itu. Kita tak boleh berhenti melihat langit. Berdirilah dengan tegap, lihatlah surga, dan lanjutkanlah hidupmu."</em><br>
-  — <strong>Gintoki Sakata</strong>, <em>Gintama</em>
+  <em>"Dengarlah, Rin. Kalau terus begini, kau akan selalu sendirian. Gunakanlah kekuatanmu untuk orang lain, untuk tujuan yang lebih mulia. Aku ingin kau menjadi laki-laki yang keren dengan banyak teman, dan disukai oleh para gadis!"</em><br>
+  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
