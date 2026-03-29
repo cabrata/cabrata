@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bodoh akan menghabiskan uangnya untuk hal yang tidak penting.
-Orang bijak akan menghabiskan uangnya untuk hal yang baik untuk dirinya.
-Baik buruknya orang dapat dinilai dari cara dia menghabiskan uangnya."</em><br>
-  — <strong>Nenek Buyut Mikage</strong>, <em>Gin no Saji</em>
+  <em>"Aku tak terlalu mengerti dengan perasaanku sendiri. Tapi waktu itu, saat kau memelukku dan bilang mencintaiku, waktu terasa seperti berhenti. Aku mencintaimu Satou-kun."</em><br>
+  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
