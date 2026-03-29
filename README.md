@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Terkadang orang jahat berbuat baik dan orang baik berbuat jahat. Itulah manusia, itulah kita."</em><br>
-  — <strong>Rider</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
+  <em>"Aku ingin mengalahkan diriku sendiri yang selalu mengacaukan segalanya. Aku tak ingin melupakan kegagalanku. Tapi kalau aku terus membawa kegagalan itu sebagai ingatan buruk dan terus melarikan diri, sampai kapanpun aku tidak akan pernah bisa berubah. Kurasa ada hikmah yang bisa dipetik dari kegagalan."</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
