@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Perasaan manusia itu terlalu rumit dan susah dimengerti. Tidak semua perasaan diungkapkan melalui kata-kata, ada kalanya manusia memiliki maksud lain atau niat kebohongan."</em><br>
-  — <strong>Violet Evergarden</strong>, <em>Violet Evergarden</em>
+  <em>"(Hidup itu seperti membuat origami)Dalam origami dengan membuat lipatan-lipatan, jika pembentukan terakhir berjalan dengan lancar hasilnya akan sangat indah. Kau membuat lipatan, lalu mengembalikan lipatan seperti semula dan membuat lipatan lainnya. Mungkin rasanya seperti mengulangi hal yang sama terus-menerus dan tak ada hasil apapun. Tapi aku yakin pengalaman itu, lipatan-lipatan itu akan menjadi sebuah origami yang indah yang hanya bisa dibuat olehmu."</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
