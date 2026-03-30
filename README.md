@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Postur tubuh menentukan bagaimana orang lain melihatmu."</em><br>
-  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Jangan mengendurkan perasaanmu. Perasaan senang, sakit, bahagia, sedih... rasakan semuanya demi diriku."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
