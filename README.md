@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku orang yang tidak terlalu peduli dengan masa lalu. Karena jika terus memikirkannya hanya akan membuat hidupku suram."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru</em>
+  <em>"Pilihan benar atau salah itu tak ada hubungannya denganku. Aku hanya melakukan apa yang ingin kulakukan. Tentu saja aku akan menerima konsekuensinya."</em><br>
+  — <strong>Aka no Saber</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
