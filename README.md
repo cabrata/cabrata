@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku akan belajar banyak dan menggambar dunia yang ingin kamu lihat."</em><br>
-  — <strong>Aki Shino</strong>, <em>Bokutachi no Remake</em>
+  <em>"Hanya dengan keberadaanmu dan senyummu aku merasa bahagia.
+Hanya dengan keberadaanmu dan berjalan bersamamu aku merasa senang."</em><br>
+  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
 </div>
 <!-- QUOTE END -->
 
