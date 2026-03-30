@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku, satu-satunya masa di mana orang menjadi berharga adalah ketika mereka bertindak sesuai dengan keinginan mereka sendiri."</em><br>
-  — <strong>Shougo Makishima</strong>, <em>Psycho-Pass</em>
+  <em>"Kalau begitu, jika kau tak lagi menganggapku sebagai ancaman, kau mau berteman denganku kan?"</em><br>
+  — <strong>Rin Okumura</strong>, <em>Ao no Exorcist: Kyoto Fujouou-hen</em>
 </div>
 <!-- QUOTE END -->
 
