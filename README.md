@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada peraturan yang menyebutkan kalau rok kostum idol group itu harus pendek!"</em><br>
-  — <strong>Umi Sonoda</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Informasinya tidak kredibel jika sumbernya tidak jelas."</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
 </div>
 <!-- QUOTE END -->
 
