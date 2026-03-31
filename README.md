@@ -5,12 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Menurutku kebanggaan diri dan keserakahan juga penting.
-Jika seseorang tidak memiliki kebanggaan diri, dia jadi tak punya rasa percaya diri.
-Jika ada seseorang yang tidak memiliki rasa keserakahan, aku yakin dia pasti kesulitan untuk menafkahi keluarganya.
-Jika di dunia ini orang tidak saling iri dengan milik sesamanya, mungkin saja penemuan-penemuan baru tidak akan tercipta.
-Aku hanya berpikir kalau konsep "dosa besar" tidak dapat diterapkan begitu saja dalam kehidupan sehari-hari kita."</em><br>
-  — <strong>Eru Chitanda</strong>, <em>Hyouka</em>
+  <em>"Kau akan menjadi kuat ketika semua orang mengincarmu."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
