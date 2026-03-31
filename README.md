@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita adalah teman dipihak yang lemah. Kita bukan dipihak musuh yang lebih banyak bicara sedikit bekerja."</em><br>
-  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
+  <em>"Wujud terakhir dari sains adalah Tuhan dan Kematian. Keduanya ada dan tidak bisa dikalahkan dengan sains. Itulah kenapa kita menuju keduanya."</em><br>
+  — <strong>Motojirou Kajii</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
