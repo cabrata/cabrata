@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mari kita bersaing secara sehat agar nantinya takkan ada penyesalan diantara kita."</em><br>
-  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan."</em><br>
+  — <strong>Kurumi Ebisuzawa</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
