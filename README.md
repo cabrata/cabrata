@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hanya dengan keberadaanmu dan senyummu aku merasa bahagia.
-Hanya dengan keberadaanmu dan berjalan bersamamu aku merasa senang."</em><br>
-  — <strong>Shiki Ryougi</strong>, <em>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</em>
+  <em>"Kita adalah teman dipihak yang lemah. Kita bukan dipihak musuh yang lebih banyak bicara sedikit bekerja."</em><br>
+  — <strong>Brad</strong>, <em>Tales of Zestiria the Cross Season 2</em>
 </div>
 <!-- QUOTE END -->
 
