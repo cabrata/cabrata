@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin pergi ke berbagai tempat dan melihat, mendengar, serta merasakan berbagai macam hal yang tidak pernah kurasakan sebelumnya. Aku ingin melakukan semua yang bisa kulakukan sekarang agar saat tua nanti aku tidak punya penyesalan."</em><br>
-  — <strong>Kuon</strong>, <em>Utawarerumono: Itsuwari no Kamen</em>
+  <em>"Mari kita bersaing secara sehat agar nantinya takkan ada penyesalan diantara kita."</em><br>
+  — <strong>Crusch Karsten</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
