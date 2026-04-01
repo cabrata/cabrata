@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu-waktu tanpa dirimu sungguh membuatku sangat kesepian. Hanya sosokmulah yang dapat meniupkan hawa kehidupan dalam tubuhku."</em><br>
-  — <strong>Soushi Miketsukami</strong>, <em>Inu x Boku SS</em>
+  <em>"Setiap langkah itu berharga. Harus ada kemajuan dibanding kemarin. Besoknya lagi harus lebih ada kemajuan dibanding hari ini. Sebelumnya besok adalah hari ini. Begitu pula sebaliknya! Dengan kata lain, sekarang adalah segala-galanya! Hidup itu berharga!"</em><br>
+  — <strong>Maihime Tenkawa</strong>, <em>Qualidea Code</em>
 </div>
 <!-- QUOTE END -->
 
