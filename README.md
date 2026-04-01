@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pemenang dari game ditentukan sebelum game itu dimulai.Tak ada yang namanya kesempatan murni."</em><br>
-  — <strong>Sora</strong>, <em>No Game No Life</em>
+  <em>"Sering dikatakan, cara tercepat untuk menguasai bahasa asing adalah memiliki pacar di negara tersebut. (Karena saat) kau ingin tahu perasaan pacarmu, kau jadi berusaha keras untuk mengerti apa yang ia katakan."</em><br>
+  — <strong>Irina Jelavić</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
