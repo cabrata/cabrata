@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Meskipun kamu seorang otaku, tapi jangan anggap dirimu tidak penting."</em><br>
-  — <strong>Megumi Katou</strong>, <em>Saenai Heroine no Sodatekata</em>
+  <em>"Saputangan yang tak dipakai sangatlah menyedihkan. Terutama saputangan yang tak bisa mengusap air mata."</em><br>
+  — <strong>Sebas Tian</strong>, <em>Overlord II</em>
 </div>
 <!-- QUOTE END -->
 
