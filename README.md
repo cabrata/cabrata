@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau hari libur adalah hari untuk bersenang-senang, maka kita harus bersenang-senang bersama."</em><br>
-  — <strong>Anzu</strong>, <em>Hinamatsuri</em>
+  <em>"Kita para manusia adalah makhluk yang menyedihkan. Kita menolak setiap hal yang kita takuti. Kita menyerah karena kita tidak mengerti. Sifat pengecut manusia telah melahirkan peperangan."</em><br>
+  — <strong>Biba Amatori</strong>, <em>Koutetsujou no Kabaneri</em>
 </div>
 <!-- QUOTE END -->
 
