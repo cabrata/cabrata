@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagiku setiap hari adalah perayaan. Perayaan untuk dunia ini dan dirimu."</em><br>
-  — <strong>Mika Nitta</strong>, <em>Hinamatsuri</em>
+  <em>"Kalau hari libur adalah hari untuk bersenang-senang, maka kita harus bersenang-senang bersama."</em><br>
+  — <strong>Anzu</strong>, <em>Hinamatsuri</em>
 </div>
 <!-- QUOTE END -->
 
