@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sebagai senior dalam menjalani hidup, (aku) yang berada sedikit di depannya akan menunjukkannya jalan menuju kebahagiaan."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Jangan marah begitu, Tuan Putri. Tatapan marahmu akan membuat kecantikanmu menurun drastis."</em><br>
+  — <strong>Aldebaran</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
