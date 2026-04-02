@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kau memiliki orang yang kau cintai, kau akan menjadi lebih kuat. Berkat Tetsurou, aku juga sudah berubah. Paling tidak aku sudah mencoba untuk menjadi lebih berani dan lebih kuat."</em><br>
-  — <strong>Mio Kitahara</strong>, <em>Ano Natsu de Matteru</em>
+  <em>"Pedansa adalah makhluk yang suka menjadi pusat perhatian."</em><br>
+  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
 </div>
 <!-- QUOTE END -->
 
