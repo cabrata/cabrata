@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan marah begitu, Tuan Putri. Tatapan marahmu akan membuat kecantikanmu menurun drastis."</em><br>
-  — <strong>Aldebaran</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Jangan mengatakan pada orang lain mengenai apa yang sedang kau pikirkan."</em><br>
+  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
 </div>
 <!-- QUOTE END -->
 
