@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pedansa adalah makhluk yang suka menjadi pusat perhatian."</em><br>
-  — <strong>Kaname Sengoku</strong>, <em>Ballroom e Youkoso</em>
+  <em>"Orang genius tidak setara di mata hukum."</em><br>
+  — <strong>Iria Akagami</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
