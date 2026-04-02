@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan mengatakan pada orang lain mengenai apa yang sedang kau pikirkan."</em><br>
-  — <strong>Souhei Saikawa</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Kecantikan seorang makhluk itu akan terlihat indah saat mereka masih alami."</em><br>
+  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
 </div>
 <!-- QUOTE END -->
 
