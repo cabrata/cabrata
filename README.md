@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang yang membuang dirinya sendiri tidak pantas memandang rendah orang lain."</em><br>
-  — <strong>Touka Scott</strong>, <em>Yuusha ga Shinda!</em>
+  <em>"Aku tak ingin menyimpan dendam dengan masa lalu, lebih baik memaafkan dan melangkah maju."</em><br>
+  — <strong>Iori Nagase</strong>, <em>Kokoro Connect</em>
 </div>
 <!-- QUOTE END -->
 
