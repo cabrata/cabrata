@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta sejati adalah cinta yang tak dipengaruhi oleh penampilan. Jika penampilan orang bisa mempengaruhi perasaanmu, maka cintamu itu palsu."</em><br>
-  — <strong>Chika Fujiwara</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
+  <em>"Kalau cuma aku saja, aku yakin akan mengacaukan (semua) nya. Tapi "tanpa nama" lain lagi ceritanya. Kalau aku membuat kesalahan, ada Shiro disana (yang akan membantuku). Itulah cara "tanpa nama" agar selalu menang."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
