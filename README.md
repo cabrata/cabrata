@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin menikmati hubungan asmara ini, bukan hasilnya."</em><br>
-  — <strong>Mari Shiina</strong>, <em>Renai Boukun</em>
+  <em>"Apapun obatnya, cintaku padamu takkan bisa disembuhkan!"</em><br>
+  — <strong>Mitsuki Sarue</strong>, <em>Hataraku Maou-sama!</em>
 </div>
 <!-- QUOTE END -->
 
