@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hal yang aneh memang menarik."</em><br>
-  — <strong>Shunma Suruga</strong>, <em>Re:CREATORS</em>
+  <em>"Untuk menjadi laki-laki tampan tak boleh melewatkan latihan sehari pun. Jika sampai membiarkan lemak sekecil apapun masuk, nanti akan jadi tumpukan lemak besar! Setetes minyak adalah awal dari obesitas!"</em><br>
+  — <strong>Masamune Makabe</strong>, <em>Masamune-kun no Revenge</em>
 </div>
 <!-- QUOTE END -->
 
