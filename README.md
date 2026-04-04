@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kebaikan absolut itu lebih merepotkan daripada kejahatan."</em><br>
-  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Aku tak terlalu mengerti dengan perasaanku sendiri. Tapi waktu itu, saat kau memelukku dan bilang mencintaiku, waktu terasa seperti berhenti. Aku mencintaimu Satou-kun."</em><br>
+  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
