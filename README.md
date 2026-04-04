@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pada akhirnya, menepati janji adalah jalan yang paling singkat untuk mendapatkan hasil."</em><br>
-  — <strong>Izuko Gaen</strong>, <em>Owarimonogatari</em>
+  <em>"Seseorang yang bertindak melawan keinginannya sendiri menurutku orang yang menarik."</em><br>
+  — <strong>Romani Archaman</strong>, <em>Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter</em>
 </div>
 <!-- QUOTE END -->
 
