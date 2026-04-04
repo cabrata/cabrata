@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tak terlalu mengerti dengan perasaanku sendiri. Tapi waktu itu, saat kau memelukku dan bilang mencintaiku, waktu terasa seperti berhenti. Aku mencintaimu Satou-kun."</em><br>
-  — <strong>Yachiyo Todoroki</strong>, <em>Working!!!</em>
+  <em>"Meskipun kita bukan orang yang istimewa, tapi kita bisa menjadi orang yang istimewa bagi seseorang."</em><br>
+  — <strong>Hitagi Senjougahara</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
