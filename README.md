@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pergilah dulu, dan tunggu aku. Aku akan segera menyusul, mengendarai angin."</em><br>
-  — <strong>Sei Handa</strong>, <em>Barakamon</em>
+  <em>"Kau takkan tahu perasaan orang lain bila kau tak bertanya.
+Perasaanmu juga takkan pernah diketahui orang lain bila kau tak mengatakannya."</em><br>
+  — <strong>Sawako Kuronuma</strong>, <em>Kimi ni Todoke</em>
 </div>
 <!-- QUOTE END -->
 
