@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Supaya diriku diakui oleh ayahku, aku juga harus bisa menjadi orang yang bisa diandalkan! Aku juga akan menjadi orang baik."</em><br>
-  — <strong>Miyako Otori</strong>, <em>Shounen Maid</em>
+  <em>"Jika ada seseorang yang senang ketika melihat hasil fotoku, aku merasa bersemangat."</em><br>
+  — <strong>Shou Yamabuki</strong>, <em>Irozuku Sekai no Ashita kara</em>
 </div>
 <!-- QUOTE END -->
 
