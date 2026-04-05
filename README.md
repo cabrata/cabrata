@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Buku adalah karya seni. Buku adalah budaya. Buku adalah keajaiban. Buku adalah zaman. Buku adalah nyawa. Buku adalah matahari. Buku adalah lagu. Buku adalah kehidupan. Buku adalah janji. Buku adalah angin. Buku adalah laut. Buku adalah bintang. Buku adalah hati. Buku adalah mimpi. Buku adalah harapan. Buku adalah cinta. Buku adalah sukacita. Buku adalah kegembiraan."</em><br>
-  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Aku tidak boleh ragu, untuk negeri ini, untuk pedang ini dan untuk hidupku.
+Pendekar membutuhkan sesuatu untuk dia lindungi. Tanpa itu, dia tidak akan bisa bertarung."</em><br>
+  — <strong>Ginkaku Uneri</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
