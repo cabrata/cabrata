@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau boleh menertawakan tindakan seseorang, kau pun bebas mengatakan apapun tentang mereka. Tapi jangan pernah kau menertawakan perasaan mereka."</em><br>
-  — <strong>Amatsuyu Kisaragi</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Kau tak boleh bilang "hidup sendiri" ketika banyak orang yang mengkhawatirkan dirimu."</em><br>
+  — <strong>Akari Kawamoto</strong>, <em>3-gatsu no Lion</em>
 </div>
 <!-- QUOTE END -->
 
