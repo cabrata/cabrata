@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memikirkan masalah dengan wajah serius mungkin membuatmu tampak bijak, tapi kau salah. Tidak ada alasan untuk terus memikirkannya. Menerima segala yang terjadi di hidupmu adalah cara yang tepat dalam menjalani hidup.
-Mengkhawatirkan masalah hanya akan membuang waktumu. Jika kau punya waktu untuk merenung, lebih baik lakukan sesuatu.
-Lupakanlah masalahmu. Tak ada gunanya menyesali hal yang telah terjadi."</em><br>
-  — <strong>Tooe Kanbaru</strong>, <em>Hanamonogatari</em>
+  <em>"Jika laki-laki diibaratkan serigala, maka perempuan itu ular."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
