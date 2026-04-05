@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bukankah menjadi sedikit tidak adil membuatku jadi lebih seperti gadis?"</em><br>
-  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
+  <em>"Jika kau mengatakannya dengan cinta, perasaanmu akan tersampaikan."</em><br>
+  — <strong>Tooru Minegishi</strong>, <em>Working!!!</em>
 </div>
 <!-- QUOTE END -->
 
