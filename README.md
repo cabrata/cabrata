@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tak boleh bilang "hidup sendiri" ketika banyak orang yang mengkhawatirkan dirimu."</em><br>
-  — <strong>Akari Kawamoto</strong>, <em>3-gatsu no Lion</em>
+  <em>"Untuk apa kita berusaha menjadi manusia dengan cara yang tidak manusiawi?"</em><br>
+  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</em>
 </div>
 <!-- QUOTE END -->
 
