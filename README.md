@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat seorang murid yang menatap masa depannya itu begitu indah."</em><br>
-  — <strong>Souma</strong>, <em>Demi-chan wa Kataritai</em>
+  <em>"Di dunia ini ada banyak hal yang tidak bisa dijelaskan hanya dengan kata-kata saja."</em><br>
+  — <strong>Kou Ichinomiya</strong>, <em>Arakawa Under the Bridge</em>
 </div>
 <!-- QUOTE END -->
 
