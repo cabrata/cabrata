@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak boleh ragu, untuk negeri ini, untuk pedang ini dan untuk hidupku.
-Pendekar membutuhkan sesuatu untuk dia lindungi. Tanpa itu, dia tidak akan bisa bertarung."</em><br>
-  — <strong>Ginkaku Uneri</strong>, <em>Katanagatari</em>
+  <em>"Aku tak peduli dengan masa depan yang belum pasti."</em><br>
+  — <strong>Rimuru Tempest</strong>, <em>Tensei shitara Slime Datta Ken</em>
 </div>
 <!-- QUOTE END -->
 
