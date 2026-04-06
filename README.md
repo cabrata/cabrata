@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mawar terlahir sebagai mawar.Itu tidak akan berubah menjadi bunga lain hanya karena ditanam menggunakan tanah dan air yang berbeda."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 4: Garan no Dou</em>
+  <em>"Semua cewek dada besar itu musuh dari cewek dada rata."</em><br>
+  — <strong>Yuika Koga</strong>, <em>Kawaikereba H* demo Suki ni Natte Kuremasu ka?</em>
 </div>
 <!-- QUOTE END -->
 
