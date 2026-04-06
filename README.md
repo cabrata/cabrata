@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku berusaha menjadi orang dewasa yang ideal. (Tapi) yang kulakukan sebenarnya hanya berpura-pura menjadi orang dewasa. (Karena) anak-anak memerlukan sosok orang dewasa yang bisa menjadi sandaran hatinya."</em><br>
-  — <strong>Heiter</strong>, <em>Sousou no Frieren</em>
+  <em>"Mawar terlahir sebagai mawar.Itu tidak akan berubah menjadi bunga lain hanya karena ditanam menggunakan tanah dan air yang berbeda."</em><br>
+  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 4: Garan no Dou</em>
 </div>
 <!-- QUOTE END -->
 
