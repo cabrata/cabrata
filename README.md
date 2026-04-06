@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pikirkanlah sesuatu yang mungkin membuatmu tertarik, mungkin dengan merendam jari kakimu? Aku yakin jika dunia yang baru akan datang menyambutmu."</em><br>
-  — <strong>Producer</strong>, <em>The iDOLM@STER Cinderella Girls</em>
+  <em>"Kalau kau merasa malu, tunjukkan padaku sudah sedewasa apakah dirimu!"</em><br>
+  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist</em>
 </div>
 <!-- QUOTE END -->
 
