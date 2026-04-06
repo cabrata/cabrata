@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Apakah seorang anak butuh alasan untuk melindungi peninggalan yang dibanggakan orang tuanya?"</em><br>
-  — <strong>Tae Shimura</strong>, <em>Gintama</em>
+  <em>"Dalam bahasa bunga, bunga Casablanca menandakan cinta yang luhur, kebaikan, dan kemuliaan. Warna-warna cerah membuatnya terlihat cocok sebagai hadiah untuk pengantin."</em><br>
+  — <strong>Sakurako Kujou</strong>, <em>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</em>
 </div>
 <!-- QUOTE END -->
 
