@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak masalah kabur untuk tetap hidup. Karena kau bukan hewan ternak yang tak punya tempat untuk melarikan diri."</em><br>
-  — <strong>Kouchou</strong>, <em>Gin no Saji</em>
+  <em>"Aku ingin punya cinta yang begitu panas hingga bisa melelehkan lereng salju."</em><br>
+  — <strong>Roman Saotome</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
