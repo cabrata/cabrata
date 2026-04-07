@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Universitas adalah tempat dimana kamu bertemu dengan hal-hal yang ingin kamu lakukan."</em><br>
-  — <strong>Tomoko Kawada</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Aku tidak peduli! Selama aku bisa terus bersama dengan dirimu, bagiku sudah cukup. Tidak, bahkan itulah yang aku inginkan!"</em><br>
+  — <strong>Koyuki Hinashi</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
