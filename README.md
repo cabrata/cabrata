@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ketika kita membantu orang lain pada akhirnya akan berujung pada kebaikan pada diri kita sendiri."</em><br>
-  — <strong>Tanjirou Kamado</strong>, <em>Kimetsu no Yaiba: Katanakaji no Sato-hen</em>
+  <em>"Sebelumnya, aku merasa tak mungkin aku mau jalan dengan orang aneh sepertimu di depan orang banyak. Tapi hari ini, aku merasa ingin bersama denganmu selamanya."</em><br>
+  — <strong>Chihiro Kosaka</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
