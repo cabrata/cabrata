@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kehidupan adalah gim dewa yang tiada tandingannya."</em><br>
-  — <strong>Aoi Hinami</strong>, <em>Jaku-Chara Tomozaki-kun</em>
+  <em>"Mudah berkata "pilihlah agar kau tidak menyesalinya", tapi hal itu mustahil. Tak peduli betapa kau memikirkan jalan yang akan kau pilih, pada akhirnya kau pasti akan menyesalkan suatu hal. Begitulah kita para manusia. Karena itulah, menurutku yang terpenting adalah perasaan kita yang sesungguhnya."</em><br>
+  — <strong>Glenn Radars</strong>, <em>Rokudenashi Majutsu Koushi to Akashic Records</em>
 </div>
 <!-- QUOTE END -->
 
