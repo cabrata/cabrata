@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika gadis yang kau sukai menyukai orang lain, hatimu pasti hancur."</em><br>
-  — <strong>Ryouta Watari</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Tidak ada hukum yang mengatakan kau tidak boleh menyukai seorang pria hanya karena ia telah memiliki pacar."</em><br>
+  — <strong>Ruri Miyamoto</strong>, <em>Nisekoi</em>
 </div>
 <!-- QUOTE END -->
 
