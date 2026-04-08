@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mereka (para petani) bekerja bukan berdasarkan waktu, tetapi berdasarkan suasana.Mereka bangun saat suasana pagi dan mencabut rumput saat suasana sore. Mereka menyambut tunas tanaman saat suasana musim semi dan berharap tumbuh kembang saat suasana musim panas. Mereka merayakan hasil panen saat suasana musim gugur dan menantikan suasana musim semi saat musim dingin."</em><br>
-  — <strong>Holo</strong>, <em>Ookami to Koushinryou</em>
+  <em>"(Bukan berarti) aku tidak ingin menjadi kuat.
+Kalau bisa aku (hanya) ingin tetap menjadi seorang gadis selamanya..."</em><br>
+  — <strong>Haruko Maeda</strong>, <em>Usagi Drop</em>
 </div>
 <!-- QUOTE END -->
 
