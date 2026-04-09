@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Segala sesuatu memiliki kekurangan. Tidak ada yang sempurna, karena itu semua orang ingin menghancurkannya dan menciptakannya kembali."</em><br>
-  — <strong>Touko Aozaki</strong>, <em>Kara no Kyoukai 4: Garan no Dou</em>
+  <em>"Jangan melarikan diri! Jangan putus asa sebelum mencoba."</em><br>
+  — <strong>Yuzu Kichougasaki</strong>, <em>Renai Boukun</em>
 </div>
 <!-- QUOTE END -->
 
