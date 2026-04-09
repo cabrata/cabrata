@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memang benar, pemain di seusiamu masih bisa memaksakan diri untuk berjuang. Tapi, jikalau ingin jadi juara dunia, kau juga harus berani mengibarkan bendera putih."</em><br>
-  — <strong>Tamura Obaba</strong>, <em>Ping Pong The Animation</em>
+  <em>"Mungkin kau akan gagal. Mungkin juga mereka akan menolakmu. Meskipun begitu, kau harus tetap mengeritkan gigimu dan berdiri tegak di atas panggung."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
