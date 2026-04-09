@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tim basket SMP-ku hanya memiliki satu prinsip, "menang adalah segalanya"."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Sejak kecil, aku selalu membayangkan pemandangan indah yang ada di mana-mana. Pemandangan yang selalu aku lihat dan tak terhitung dalam mimpiku. Tapi aku belum pernah kesana. Mereka mengatakan itu adalah efek samping dari Antifeminas milik Inglobe yang ada pada diriku. Tapi aku tak peduli dengan penyebab itu, Aku hanya ingin mencari sesuatu. Karena itu aku melakukan perjalanan."</em><br>
+  — <strong>Ichika Takatsuki</strong>, <em>Ano Natsu de Matteru</em>
 </div>
 <!-- QUOTE END -->
 
