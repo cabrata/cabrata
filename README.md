@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Bagaimana rasanya mencintai seseorang? Pada saat apa kamu mulai berpikir bahwa itu cinta?)Bagiku, ketika aku menyadari itu aku selalu memikirkan tentangnya. Rasanya (dia) seperti tidak bisa pergi dalam pikiranku."</em><br>
-  — <strong>Yuumi Hoshino</strong>, <em>Kimikiss Pure Rouge</em>
+  <em>"Jika seorang gadis tidak menyukaimu, maka rumor buruk akan menyebar dan mempengaruhi gadis lain."</em><br>
+  — <strong>Kodaka Hasegawa</strong>, <em>Boku wa Tomodachi ga Sukunai</em>
 </div>
 <!-- QUOTE END -->
 
