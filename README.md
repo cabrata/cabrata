@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada seorang pun yang dapat meninggalkan masa lalunya."</em><br>
-  — <strong>Atsumu Matsuyuki</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Kalau kita sedang jatuh cinta, dunia jadi kelihatan lebih berwarna."</em><br>
+  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
