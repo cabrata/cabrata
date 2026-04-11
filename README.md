@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Keadilan tidak akan bisa menyelamatkan dunia. Dan akupun sama sekali tidak peduli akan hal itu."</em><br>
-  — <strong>Kiritsugu Emiya</strong>, <em>Fate/Zero 2nd Season</em>
+  <em>"Kunang-kunang hidupnya sangat singkat dan lemah, tapi dia bersinar dengan terang. Dag dig dug, seperti jantung yang berdetak. Ini adalah cahaya kehidupan."</em><br>
+  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
 </div>
 <!-- QUOTE END -->
 
