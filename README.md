@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kau tidak bisa berspekulasi berdasarkan masa lalu. Kau tak akan tahu apa yang akan terjadi sampai kau memainkannya."</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Jangan berkecil hati (karena ditolak). Perempuan itu ada banyak, sebanyak bintang di langit yang sulit di jangkau."</em><br>
+  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan</em>
 </div>
 <!-- QUOTE END -->
 
