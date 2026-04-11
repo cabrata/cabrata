@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berkecil hati (karena ditolak). Perempuan itu ada banyak, sebanyak bintang di langit yang sulit di jangkau."</em><br>
-  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan</em>
+  <em>"Tak ada cewek yang suka diperlakukan seperti adik."</em><br>
+  — <strong>Iroha Isshiki</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</em>
 </div>
 <!-- QUOTE END -->
 
