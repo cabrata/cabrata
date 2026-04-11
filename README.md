@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seluruh pengalaman yang didapat adalah alat untuk membersihkan jalanmu ke depan."</em><br>
-  — <strong>Tadaomi Karasuma</strong>, <em>Ansatsu Kyoushitsu 2nd Season</em>
+  <em>"Manusia itu makhluk yang dangkal. Mereka hanya melihat (orang lain) berdasarkan gosip yang beredar di permukaan."</em><br>
+  — <strong>Becky Blackbell</strong>, <em>Spy x Family</em>
 </div>
 <!-- QUOTE END -->
 
