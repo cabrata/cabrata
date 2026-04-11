@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kunang-kunang hidupnya sangat singkat dan lemah, tapi dia bersinar dengan terang. Dag dig dug, seperti jantung yang berdetak. Ini adalah cahaya kehidupan."</em><br>
-  — <strong>Kaori Miyazono</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Bertingkah sok akrab adalah hal yang paling kami benci."</em><br>
+  — <strong>Yukino Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
