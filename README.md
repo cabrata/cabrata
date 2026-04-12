@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Walau apapun yang terjadi kedepannya nanti, aku tetap akan terus melindungimu! Aku janji!"</em><br>
-  — <strong>Akihito Kanbara</strong>, <em>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</em>
+  <em>"Berhati-hatilah atas perkataan dan perbuatanmu. Kalau kata bertarung telah keluar dari bibirmu, maka takkan bisa kau tarik kembali."</em><br>
+  — <strong>Lancer</strong>, <em>Fate/Grand Order: First Order</em>
 </div>
 <!-- QUOTE END -->
 
