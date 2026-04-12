@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhati-hatilah atas perkataan dan perbuatanmu. Kalau kata bertarung telah keluar dari bibirmu, maka takkan bisa kau tarik kembali."</em><br>
-  — <strong>Lancer</strong>, <em>Fate/Grand Order: First Order</em>
+  <em>"Memiliki mimpi tidak menjamin kesuksesan. Dan jika mimpi itu tidak terwujud, kau masih dapat menjalani hidup normal."</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
