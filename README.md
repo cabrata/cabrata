@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam undian, kau takkan bisa menang kalau kau tak membeli tiket.
-Sama seperti manga, kau takkan bisa menjadi "seniman" jika kau tak menggambarnya."</em><br>
-  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
+  <em>"Aku ingin mengalahkan diriku sendiri yang selalu mengacaukan segalanya. Aku tak ingin melupakan kegagalanku. Tapi kalau aku terus membawa kegagalan itu sebagai ingatan buruk dan terus melarikan diri, sampai kapanpun aku tidak akan pernah bisa berubah. Kurasa ada hikmah yang bisa dipetik dari kegagalan."</em><br>
+  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
 </div>
 <!-- QUOTE END -->
 
