@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus terus maju ke depan, bukan naik ke atas agar cerita terus berlanjut menuju akhir yang bahagia."</em><br>
-  — <strong>Shuu Matsubara</strong>, <em>Re:CREATORS</em>
+  <em>"Tak ada tempat yang dapat menyaingi rumah!"</em><br>
+  — <strong>Tomoko Konagai</strong>, <em>Nyanko Days</em>
 </div>
 <!-- QUOTE END -->
 
