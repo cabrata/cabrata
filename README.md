@@ -5,8 +5,11 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku ingin mengalahkan diriku sendiri yang selalu mengacaukan segalanya. Aku tak ingin melupakan kegagalanku. Tapi kalau aku terus membawa kegagalan itu sebagai ingatan buruk dan terus melarikan diri, sampai kapanpun aku tidak akan pernah bisa berubah. Kurasa ada hikmah yang bisa dipetik dari kegagalan."</em><br>
-  — <strong>Chizuru Hishiro</strong>, <em>ReLIFE</em>
+  <em>"Apakah kekalahan membuktikan bahwa kalian itu lemah?
+Bukankah bagi kalian "kalah" itu lebih terlihat seperti ujian?
+Apa kalian bisa berdiri dan berjalan lagi setelah kalian terjatuh.
+Jika kalian tetap duduk di situ, justru itulah yang membuktikan bahwa kalian lemah."</em><br>
+  — <strong>Ittetsu Takeda</strong>, <em>Haikyuu!!</em>
 </div>
 <!-- QUOTE END -->
 
