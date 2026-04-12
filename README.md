@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kutukan dan berkah itu pada dasarnya sama, tergantung bagaimana kita menerimanya."</em><br>
-  — <strong>Rahab</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Teruslah berlatih, dan kau pasti bisa melampauinya."</em><br>
+  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
 </div>
 <!-- QUOTE END -->
 
