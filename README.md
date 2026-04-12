@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kondisi terjepit, saat itulah ada kesempatan. Saat kita dalam keadaan tanpa harapan, saat itu pula energi negatif dari luar berkumpul. Tapi dengan mengubah pola pikir, kita bisa mengubah keadaan. Karena itu, sesulit atau seburuk apa pun situasinya kita harus berjuang sampai akhir."</em><br>
-  — <strong>Oji-san</strong>, <em>Isekai Ojisan</em>
+  <em>"Aku selalu siap menerima (kematian). Bila ajal menjemput, maka memang lebih baik mati. Aku, Akane Sonoyama tak akan mengeluh dibunuh, tak peduli kapan, di mana, oleh siapa, dan dengan alasan apapun."</em><br>
+  — <strong>Akane Sonoyama</strong>, <em>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</em>
 </div>
 <!-- QUOTE END -->
 
