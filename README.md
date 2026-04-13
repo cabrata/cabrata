@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wujud terakhir dari sains adalah Tuhan dan Kematian. Keduanya ada dan tidak bisa dikalahkan dengan sains. Itulah kenapa kita menuju keduanya."</em><br>
-  — <strong>Motojirou Kajii</strong>, <em>Bungou Stray Dogs</em>
+  <em>"Kalian mudah sekali menyerah. Jika kalian ingin menangis, lakukanlah setelah (kalian) bekerja keras!"</em><br>
+  — <strong>Seiya Kanie</strong>, <em>Amagi Brilliant Park</em>
 </div>
 <!-- QUOTE END -->
 
