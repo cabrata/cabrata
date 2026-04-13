@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mendekatlah. Aku akan membisikkannya padamu, jadi dengarkan baik-baik.
-Aku mencintaimu. Aku ingin kau melihat dunia di luar sana, dan aku ingin kau bersamaku."</em><br>
-  — <strong>Jun Satou</strong>, <em>Working!!!</em>
+  <em>"Wujud terakhir dari sains adalah Tuhan dan Kematian. Keduanya ada dan tidak bisa dikalahkan dengan sains. Itulah kenapa kita menuju keduanya."</em><br>
+  — <strong>Motojirou Kajii</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
