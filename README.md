@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku yakin suatu saat hari nanti, kita akan terbunuh juga. Sampai saat itu, mari kita hidup dengan keyakinan manusia."</em><br>
-  — <strong>Shiki Magata</strong>, <em>Subete ga F ni Naru</em>
+  <em>"Semua orang jika menginginkan sesuatu mereka terus bersabar, berusaha keras, belajar, dan menyemangati diri."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
