@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kerja keras yang didasari dengan alasan itu takkan membuahkan hasil."</em><br>
-  — <strong>Sumireko Sanshokuin</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
+  <em>"Kau ini benar-benar menarik. Kau selalu melihat di balik tindakan dan perkataan seseorang. Aku suka dengan (cara pikirmu) itu."</em><br>
+  — <strong>Haruno Yukinoshita</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
