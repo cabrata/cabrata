@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dalam permainan (judi) aku benci situasi ketika mengetahui aku pasti menang atau pasti kalah."</em><br>
-  — <strong>Yumeko Jabami</strong>, <em>Kakegurui</em>
+  <em>"Bukankah kita teman?
+Entah mau ke toilet atau kemana pun, kita akan pergi bersama!"</em><br>
+  — <strong>Megumin</strong>, <em>Kono Subarashii Sekai ni Shukufuku wo!</em>
 </div>
 <!-- QUOTE END -->
 
