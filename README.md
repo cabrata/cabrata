@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Semua yang kau katakan dan lakukan berkilauan dan bersinar terang. Itu terlalu silau untukku dan akhirnya ku menutup mata."</em><br>
-  — <strong>Kousei Arima</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Kebebasan adalah sesuatu yang tidak terikat oleh harapan orang lain, dan hanya mengikuti kata hati sendiri."</em><br>
+  — <strong>Serge</strong>, <em>Fate/Apocrypha</em>
 </div>
 <!-- QUOTE END -->
 
