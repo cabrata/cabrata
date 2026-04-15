@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan melihat ke atas terus.
-Bersabarlah, nanti juga akan ada yang jatuh ke tanah.
-Kalau tidak bisa mendapat yang di atas, kita ambil yg di bawah saja."</em><br>
-  — <strong>Yasu Nomura</strong>, <em>Barakamon</em>
+  <em>"Meskipun keabadian adalah sesuatu yang buruk, tapi selama aku bisa terus bersamamu, kurasa itu bukanlah hal yang buruk."</em><br>
+  — <strong>Touta Konoe</strong>, <em>UQ Holder!: Mahou Sensei Negima! 2</em>
 </div>
 <!-- QUOTE END -->
 
