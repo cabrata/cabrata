@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengarlah, Rin. Kalau terus begini, kau akan selalu sendirian. Gunakanlah kekuatanmu untuk orang lain, untuk tujuan yang lebih mulia. Aku ingin kau menjadi laki-laki yang keren dengan banyak teman, dan disukai oleh para gadis!"</em><br>
-  — <strong>Shirou Fujimoto</strong>, <em>Ao no Exorcist</em>
+  <em>"Karena kalian kembar, hal yang dapat kamu lakukan pasti bisa dilakukan oleh keempat saudarimu. Sebaliknya, hal yang dapat dilakukan oleh keempat saudarimu, pasti bisa dilakukan olehmu."</em><br>
+  — <strong>Fuutarou Uesugi</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
