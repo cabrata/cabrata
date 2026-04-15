@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sifat manusiawi seseorang mulai muncul ketika mereka mulai memakai pakaian dalam. Sesuatu yang indah seharusnya memakai pakaian dalam yang indah. Bukankah itu yang menjadi daya tarik manusia?"</em><br>
-  — <strong>Kaiko Mikuniyama</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Jangan melihat ke atas terus.
+Bersabarlah, nanti juga akan ada yang jatuh ke tanah.
+Kalau tidak bisa mendapat yang di atas, kita ambil yg di bawah saja."</em><br>
+  — <strong>Yasu Nomura</strong>, <em>Barakamon</em>
 </div>
 <!-- QUOTE END -->
 
