@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Hari-hari meyedihkan dan menyakitkan telah kualami. Mungkin juga akan ada lebih banyak lagi setelah ini. Walaupun begitu (semuanya) tak akan kulupakan, (karena itu adalah) hari-hari penuh kenangan yang sangat berharga."</em><br>
-  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou Shi</em>
+  <em>"Semua orang pasti pernah membuat kesalahan. Tapi perasaan manusia sering diungkapkan dalam cara yang tak menentu.Kalau kau seorang hakim, jangan mengabaikan hal itu."</em><br>
+  — <strong>Nona</strong>, <em>Death Parade</em>
 </div>
 <!-- QUOTE END -->
 
