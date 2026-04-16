@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Waktu-waktu tanpa dirimu sungguh membuatku sangat kesepian. Hanya sosokmulah yang dapat meniupkan hawa kehidupan dalam tubuhku."</em><br>
-  — <strong>Soushi Miketsukami</strong>, <em>Inu x Boku SS</em>
+  <em>"Aku rela bekerja apa pun asal pendapatannya terjamin."</em><br>
+  — <strong>Mai Kawai</strong>, <em>Hakozume: Kouban Joshi no Gyakushuu</em>
 </div>
 <!-- QUOTE END -->
 
