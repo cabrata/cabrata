@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau bukan karena panas yang sampai ke kepalaku ini, aku takkan repot-repot sampai pergi ke kebun binatang bodoh yang disebut "sekolah"."</em><br>
-  — <strong>Jinta Yadomi</strong>, <em>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</em>
+  <em>"Hari-hari meyedihkan dan menyakitkan telah kualami. Mungkin juga akan ada lebih banyak lagi setelah ini. Walaupun begitu (semuanya) tak akan kulupakan, (karena itu adalah) hari-hari penuh kenangan yang sangat berharga."</em><br>
+  — <strong>Takashi Natsume</strong>, <em>Natsume Yuujinchou Shi</em>
 </div>
 <!-- QUOTE END -->
 
