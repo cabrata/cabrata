@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang terbaik adalah melakukan hal yang kau inginkan."</em><br>
-  — <strong>Makoto Mikasa</strong>, <em>Fuuka</em>
+  <em>"Pahlawan Napoleon Bonaparte pernah berkata, "Pahlawan sejati adalah seseorang yang mampu melewati ujian hidup.""</em><br>
+  — <strong>Hizashi Yamada</strong>, <em>Boku no Hero Academia</em>
 </div>
 <!-- QUOTE END -->
 
