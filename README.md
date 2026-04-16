@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bismarck mengatakan, "Hanya orang bodoh yang belajar dari kesalahan diri sendiri. Orang bijak, belajar dari kesalahan orang lain"."</em><br>
-  — <strong>Shiori Shiomiya</strong>, <em>Kami nomi zo Shiru Sekai</em>
+  <em>"Tetaplah terjaga sampai kau merasa puas menjalani harimu. Cara hidup seperti itu juga tidak buruk."</em><br>
+  — <strong>Nazuna Nanakusa</strong>, <em>Yofukashi no Uta</em>
 </div>
 <!-- QUOTE END -->
 
