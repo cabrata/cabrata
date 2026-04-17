@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pekerjaan seorang Idol bukan hanya menjukkan senyuman kepada orang lain, tapi seorang Idol harus bisa membuat orang lain tersenyum!"</em><br>
-  — <strong>Niko Yazawa</strong>, <em>Love Live! School Idol Project</em>
+  <em>"Seperti apapun cita-citamu, kau memang tetap harus belajar."</em><br>
+  — <strong>Madoka Takatori</strong>, <em>Shounen Maid</em>
 </div>
 <!-- QUOTE END -->
 
