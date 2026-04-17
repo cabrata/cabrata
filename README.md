@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhentilah untuk mencoba memperbaiki semuanya sendiri. Jangan lupa, kau tidaklah sendirian!"</em><br>
-  — <strong>Ryuuji Suguro</strong>, <em>Ao no Exorcist</em>
+  <em>"Ayo kita bersama selamanya mulai dari sekarang!"</em><br>
+  — <strong>Fuuka Akitsuki</strong>, <em>Fuuka</em>
 </div>
 <!-- QUOTE END -->
 
