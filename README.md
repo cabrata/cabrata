@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Idol tidak akan membiarkan apapun menjatuhkan mereka!"</em><br>
-  — <strong>Naka</strong>, <em>Kantai Collection: KanColle</em>
+  <em>"Manusia itu makhluk yang bodoh. Mereka tak bisa menjaga harga diri. Karena itu mereka mudah dibutakan keserakahan."</em><br>
+  — <strong>Minami Yamamoto</strong>, <em>Joshikousei no Mudazukai</em>
 </div>
 <!-- QUOTE END -->
 
