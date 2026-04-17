@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Teruslah berjuang walaupun itu mustahil.
-Lakukanlah sampai perasaanmu mencapainya"</em><br>
-  — <strong>Minene Uryuu</strong>, <em>Mirai Nikki</em>
+  <em>"Tidak peduli apapun itu, kau tak boleh memperlakukan orang lain dengan buruk."</em><br>
+  — <strong>Keita Amano</strong>, <em>Gamers!</em>
 </div>
 <!-- QUOTE END -->
 
