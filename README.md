@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bagi seorang pria lemah yang ingin mengalahkan seorang jenius, maka ia harus menjadi iblis."</em><br>
-  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Semua yang indah (pasti) ada akhirnya. Keabadian itu tidak ada, meskipun menyedihkan tapi aku pikir lebih baik begitu."</em><br>
+  — <strong>Yuki Takeya</strong>, <em>Gakkou Gurashi!</em>
 </div>
 <!-- QUOTE END -->
 
