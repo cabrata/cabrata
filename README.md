@@ -5,15 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang jenius adalah orang yang mengetahui perbedaan dirinya dengan orang lain.
-Saat seseorang saling membandingkan kemampuannya dengan orang lain, mereka akan menganggap diri mereka sama.
-Tapi sayangnya sebenarnya itu salah. Setiap manusia itu berbeda.
-Sesuatu yang bisa dilakukan oleh diri kita, takkan bisa dilakukan oleh orang lain.
-Lalu, sesuatu yang bisa dilakukan oleh orang lain takkan pernah bisa dilakukan oleh diri kita.
-Orang jenius adalah orang yang bisa mengalahkan ketidakadilan itu.
-Orang jenius takkan pernah mengharapkan seseorang mengerjakan tugas yang sama seperti diri kita.
-Disaat yang sama, tak peduli sebesar apapun bakat seseorang, orang itu pasti takkan mampu meniru orang lain."</em><br>
-  — <strong>Saber</strong>, <em>Fate/Extra: Last Encore - Irusterias Tendouron</em>
+  <em>"Yasuri Shichika, ada empat hal yang perlu kau ingat baik-baik. Pertama, jangan menghancurkan pedang. Yang kedua, lindungilah aku. Meskipun tujuan kita adalah mengumpulkan pedang Shikizaki, jika aku mati semuanya akan sia-sia. Yang ketiga, lindungilah dirimu sendiri. Sampai kita berhasil mengumpulkan 12 pedang Shikizaki, jika kau mati takkan aku maafkan. Yang keempat, lindungilah dirimu sendiri. Ini adalah (bentuk) perhatianku padamu."</em><br>
+  — <strong>Togame</strong>, <em>Katanagatari</em>
 </div>
 <!-- QUOTE END -->
 
