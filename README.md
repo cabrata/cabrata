@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau hanya sendirian, kamu takkan mengerti keberadaanmu. Aku merasa kalau hubungan antar manusia adalah bukti tentang hidup. Aku memiliki hati karena ada semua orang. Aku memiliki tubuh karena aku disentuh semua orang. Jadi, hidup seseorang itu memiliki arti. Memilih sendiri, seperti kau dan aku, seperti hidup kita yang sekarang."</em><br>
-  — <strong>Sakura Yamauchi</strong>, <em>Kimi no Suizou wo Tabetai</em>
+  <em>"Jika kau ingin menegakkan ideologimu, maka kendalikan lawanmu dengan kemampuanmu. Itu adalah satu-satunya hukum yang ada di dunia ini."</em><br>
+  — <strong>Iltutmish</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
