@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berjuang sebisa mungkin adalah kunci keberhasilan."</em><br>
-  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Kita harus meraih surga dan tetap menjaga langkah kaki kita tetap selalu berada di atas tanah."</em><br>
+  — <strong>Tatsuya Shiba</strong>, <em>Mahouka Koukou no Rettousei</em>
 </div>
 <!-- QUOTE END -->
 
