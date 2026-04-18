@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika seorang raja menyesal atas aturan dan keputusannya, ia bukanlah apapun kecuali raja yang bodoh."</em><br>
-  — <strong>Rider</strong>, <em>Fate/Zero</em>
+  <em>"Kaulah tokoh utama dalam hidupmu sendiri."</em><br>
+  — <strong>Arataka Reigen</strong>, <em>Mob Psycho 100</em>
 </div>
 <!-- QUOTE END -->
 
