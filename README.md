@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika kau ingin menegakkan ideologimu, maka kendalikan lawanmu dengan kemampuanmu. Itu adalah satu-satunya hukum yang ada di dunia ini."</em><br>
-  — <strong>Iltutmish</strong>, <em>Taboo Tattoo</em>
+  <em>"Untuk membuat manga harus pintar. Paling tidak, kau butuh kepintaran dan pikiran rasional. Tapi aku tak berpikir jika belajar sama dengan pintar."</em><br>
+  — <strong>Akito Takagi</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
