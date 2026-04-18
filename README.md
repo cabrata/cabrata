@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kita harus meraih surga dan tetap menjaga langkah kaki kita tetap selalu berada di atas tanah."</em><br>
-  — <strong>Tatsuya Shiba</strong>, <em>Mahouka Koukou no Rettousei</em>
+  <em>"Kerja keras yang didasari dengan alasan itu takkan membuahkan hasil."</em><br>
+  — <strong>Sumireko Sanshokuin</strong>, <em>Ore wo Suki nano wa Omae dake ka yo</em>
 </div>
 <!-- QUOTE END -->
 
