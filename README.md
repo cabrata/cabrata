@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika lusa kau mati, aku akan hidup hingga tiga hari lagi.
-Aku akan menceritakan kisahmu pada orang-orang.
-Aku akan menceritakan tentang tuanku yang aku banggakan."</em><br>
-  — <strong>Shinobu Oshino</strong>, <em>Owarimonogatari Season 2</em>
+  <em>"Selama ini aku mencari hal yang nyata di dunia ini. Bagiku, hal yang nyata itu adalah kehangatan dari genggaman tanganmu."</em><br>
+  — <strong>Rika Shinozaki</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
