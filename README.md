@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Manusia adalah budak dari apa yang dilihatnya."</em><br>
-  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Manusia mudah memuja sesuatu yang mistis dan hal-hal yang di luar nalar."</em><br>
+  — <strong>Ekubo</strong>, <em>Mob Psycho 100 III</em>
 </div>
 <!-- QUOTE END -->
 
