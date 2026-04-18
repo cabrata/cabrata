@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yasuri Shichika, ada empat hal yang perlu kau ingat baik-baik. Pertama, jangan menghancurkan pedang. Yang kedua, lindungilah aku. Meskipun tujuan kita adalah mengumpulkan pedang Shikizaki, jika aku mati semuanya akan sia-sia. Yang ketiga, lindungilah dirimu sendiri. Sampai kita berhasil mengumpulkan 12 pedang Shikizaki, jika kau mati takkan aku maafkan. Yang keempat, lindungilah dirimu sendiri. Ini adalah (bentuk) perhatianku padamu."</em><br>
-  — <strong>Togame</strong>, <em>Katanagatari</em>
+  <em>"Cara bagi yang lemah untuk tetap menjadi yang lemah tapi tetap dapat mengalahkan yang kuat. Cara untuk menjadi dirimu sendiri, tapi melebihi batasmu. Untuk bisa terbang dilangit, meski kau tak bisa terbang. Dia selalu menemukan caranya, dalam keputusasaan, penderitaan dan kegelapan."</em><br>
+  — <strong>Chlammy Zell</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
