@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi diriku sendiri, aku akan melakukan apapun yang ingin kulakukan. Itulah alasanku bertarung."</em><br>
-  — <strong>Julis-Alexia von Riessfeld</strong>, <em>Gakusen Toshi Asterisk</em>
+  <em>"Aku tidak pernah pandai berkata-kata, tapi karena Akademi dan pertemanan yang kubuat di sini aku tidak kesepian lagi. Jadi seperti inilah caraku membalas budi pada desa ini, dengan menjadi seorang guru."</em><br>
+  — <strong>Shino Aburame</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
