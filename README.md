@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bermuka dua? Aku rasa lebih dari itu. Dia sangat terburu-buru mencari apa yang telah dicuri darinya, lalu dia berhenti menolongku. Malahan dia kepikiran alasan yang tidak masuk akal untuk memonta tolong agar aku tak merasa berhutang kepadanya, meskipun aku adalah orang asing. Siapapun yang hidup seperti itu akhirnya akan menyia-nyiakan seluruh hidupnya!"</em><br>
-  — <strong>Subaru Natsuki</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"(Jalani) seperti (saat naik) kereta. Selama tetap di jalurnya, kau pasti akan sampai tujuan dengan lancar. Jadi, duduklah dengan tenang sampai tiba di tujuan."</em><br>
+  — <strong>Shikadai Nara</strong>, <em>Boruto: Naruto Next Generations</em>
 </div>
 <!-- QUOTE END -->
 
