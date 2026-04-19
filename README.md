@@ -5,19 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ada hal yang ingin kusampaikan padamu Junichi.
-Teman yang buruk, kawan, (seorang) yang tak terpisahkan.
-Banyak kata untuk mengungkapkan hubungan kita.
-Tapi aku tidak mau ada jarak lagi diantara kita.
-Akhirnya kusadari perasaanku.
-Sampai sekarang, aku merasa senang mengerjaimu.
-Tapi itu semua baru saja berakhir.
-Entah sejak kapan, aku selalu mengerjaimu.
-Kita memiliki banyak kenangan sepanjang waktu dan membuatku sadar atas perasaan ini.
-Aku tahu 100 hal buruk tentangmu.
-Tapi aku tahu 101 hal baik tentangmu.
-Junichi.. aku menyukaimu."</em><br>
-  — <strong>Kaoru Tanamachi</strong>, <em>Amagami SS</em>
+  <em>"Saat kau dalam masalah, aku ingin jadi yang pertama membantumu. Hanya itu yang kuinginkan."</em><br>
+  — <strong>Rem</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
