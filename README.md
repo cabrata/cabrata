@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Untuk menipu orang, kau harus tahu musuhmu (orang yang akan kau tipu). Kau (juga) harus merencanakan perkataanmu."</em><br>
-  — <strong>Koro-sensei</strong>, <em>Ansatsu Kyoushitsu</em>
+  <em>"Kau masih saja membicarakan tentang tujuan hidup dan alasan kenapa kau dilahirkan?
+Tak pernah kubayangkan ada orang yang bingung karena hal seperti itu."</em><br>
+  — <strong>Shuusei Kagari</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
