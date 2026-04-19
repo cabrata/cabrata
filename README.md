@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau terkenal di internet saja dapat menghasilkan banyak uang, pasti kau akan merasa kalau pergi bekerja adalah tindakan yang bodoh."</em><br>
-  — <strong>Shuusei Kagari</strong>, <em>Psycho-Pass</em>
+  <em>"Bolehkah aku berjuang untuk membuatmu mencintaiku?"</em><br>
+  — <strong>Nozomi Matsunaga</strong>, <em>Nijiiro Days</em>
 </div>
 <!-- QUOTE END -->
 
