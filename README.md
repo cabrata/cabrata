@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Karena aku masih anak-anak, sejujurnya aku tak begitu mengerti apa itu cinta. Tapi aku tahu kalau yang dirasakan Onee-san itu sungguhan.
-Aku pun juga, suatu saat nanti ingin seperti itu. Ketika ada seseorang yang kucintai, aku ingin punya perasaan yang kuat seperti itu."</em><br>
-  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
+  <em>"Aku tidak tahu apa yang sedang kamu lakukan, tapi kamu sangat berusaha keras, makanya aku ingin membuatkan sesuatu untukmu."</em><br>
+  — <strong>Ako Tamaki</strong>, <em>Netoge no Yome wa Onnanoko ja Nai to Omotta?</em>
 </div>
 <!-- QUOTE END -->
 
