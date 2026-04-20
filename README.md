@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak peduli berapa banyak kebohongan yang kau katakan, kau takkan bisa membohongi hatimu sendiri."</em><br>
-  — <strong>Meliodas</strong>, <em>Nanatsu no Taizai</em>
+  <em>"Makna kehidupan adalah mengisi apa yang kurang dari dirimu."</em><br>
+  — <strong>Satoru Fujinuma</strong>, <em>Boku dake ga Inai Machi</em>
 </div>
 <!-- QUOTE END -->
 
