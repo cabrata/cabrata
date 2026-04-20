@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"(Jalani) seperti (saat naik) kereta. Selama tetap di jalurnya, kau pasti akan sampai tujuan dengan lancar. Jadi, duduklah dengan tenang sampai tiba di tujuan."</em><br>
-  — <strong>Shikadai Nara</strong>, <em>Boruto: Naruto Next Generations</em>
+  <em>"Jujur saja, (saat ini) aku tidak bisa bilang "aku mencintaimu", tapi aku tidak ingin orang lain memilikimu."</em><br>
+  — <strong>Daisuke Higashida</strong>, <em>WWW.Working!!</em>
 </div>
 <!-- QUOTE END -->
 
