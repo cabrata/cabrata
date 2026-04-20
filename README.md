@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jujur saja, (saat ini) aku tidak bisa bilang "aku mencintaimu", tapi aku tidak ingin orang lain memilikimu."</em><br>
-  — <strong>Daisuke Higashida</strong>, <em>WWW.Working!!</em>
+  <em>"Karena aku masih anak-anak, sejujurnya aku tak begitu mengerti apa itu cinta. Tapi aku tahu kalau yang dirasakan Onee-san itu sungguhan.
+Aku pun juga, suatu saat nanti ingin seperti itu. Ketika ada seseorang yang kucintai, aku ingin punya perasaan yang kuat seperti itu."</em><br>
+  — <strong>Yuusuke Fujisaki</strong>, <em>Sket Dance</em>
 </div>
 <!-- QUOTE END -->
 
