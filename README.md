@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Berhutang kepada seseorang bukanlah hal yang memalukan, tapi justru memalukan jika tidak bisa melunasinya."</em><br>
-  — <strong>Yuuji Kazami</strong>, <em>Grisaia no Kajitsu</em>
+  <em>"Salah satu hal yang tidak aku mengerti dari hati manusia adalah sifat kepedulian.
+Seperti mau mengorbankan diri untuk menyelamatkan orang lain."</em><br>
+  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
 </div>
 <!-- QUOTE END -->
 
