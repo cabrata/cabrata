@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Imajinasi adalah senjata. Orang yang tak memilikinya akan mati."</em><br>
-  — <strong>Goblin Slayer</strong>, <em>Goblin Slayer</em>
+  <em>"Jika aku diam saja, harapan tidak akan bisa jadi kenyataan."</em><br>
+  — <strong>Varma</strong>, <em>Taboo Tattoo</em>
 </div>
 <!-- QUOTE END -->
 
