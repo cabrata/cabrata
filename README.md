@@ -5,8 +5,10 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>""Violet", saat kau dewasa nanti, kau pasti akan menjadi gadis yang cocok dengan nama itu. Kau bukanlah sebuah alat, tapi seorang yang pantas memiliki nama itu (Violet)."</em><br>
-  — <strong>Gilbert Bougainvillea</strong>, <em>Violet Evergarden</em>
+  <em>"Misalnya...
+Misal saja aku bisa kembali ke save data seperti dalam sebuah game dan aku bisa mengambil pilihan yang tepat, maka apakah kehidupanku akan berubah...?
+Jawabannya adalah "tidak"."</em><br>
+  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</em>
 </div>
 <!-- QUOTE END -->
 
