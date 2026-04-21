@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Wanita itu terbuat dari gula dan bumbu, serta sesuatu yang menakjubkan, meski aku tidak tahu apa itu. Tentu saja, kalau dimisalkan di dalam Isshiki memang terlalu banyak rasa pedas, tapi ... mau dikasih gula sebanyak apapun, pedas tetaplah pedas. Kau takkan bisa mengerti hal menakjubkannya sebelum merasakannya."</em><br>
-  — <strong>Hachiman Hikigaya</strong>, <em>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</em>
+  <em>"Perempuan itu suka kalau kita punya uang, laki-laki suka kalau kita punya daging."</em><br>
+  — <strong>Niwatori</strong>, <em>Gin no Saji</em>
 </div>
 <!-- QUOTE END -->
 
