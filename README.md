@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Selama dua tahun ini kita sudah berusaha kan?
-Kita berjuang bersama. Kita akan raih mimpi bersama! Aku takkan memaafkanmu jika kau menyerah semudah itu!"</em><br>
-  — <strong>Sorata Kanda</strong>, <em>Sakurasou no Pet na Kanojo</em>
+  <em>"Teruslah hidup untuk melihat akhir dari dunia ini, untuk mengetahui maksud mengapa dunia ini dilahirkan, untuk mengetahui maksud mengapa gadis lemah sepertiku bisa ada di sini, dan juga untuk mengetahui arti dari pertemuan kita."</em><br>
+  — <strong>Sachi</strong>, <em>Sword Art Online</em>
 </div>
 <!-- QUOTE END -->
 
