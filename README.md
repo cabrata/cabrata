@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Demi menyelamatkan nyawamu, nyawa orang lain harus dikorbankan.
-Seperti itulah cara hidup "hewan"."</em><br>
-  — <strong>Migi</strong>, <em>Kiseijuu: Sei no Kakuritsu</em>
+  <em>"Jangan (pernah) meremehkan seorang otaku yang sedang bersungguh-sungguh."</em><br>
+  — <strong>Tomoya Aki</strong>, <em>Saenai Heroine no Sodatekata</em>
 </div>
 <!-- QUOTE END -->
 
