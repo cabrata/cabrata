@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Pahlawan itu tidak ada.
-Dalam dunia nyata, mereka yang beradaptasi dengan kenyataan yang akan menang."</em><br>
-  — <strong>Ryuuichi Kazama</strong>, <em>Ping Pong The Animation</em>
+  <em>"Karena kalian kembar, hal yang dapat kamu lakukan pasti bisa dilakukan oleh keempat saudarimu. Sebaliknya, hal yang dapat dilakukan oleh keempat saudarimu, pasti bisa dilakukan olehmu."</em><br>
+  — <strong>Fuutarou Uesugi</strong>, <em>Gotoubun no Hanayome</em>
 </div>
 <!-- QUOTE END -->
 
