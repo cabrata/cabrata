@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Ayo kita bersama selamanya mulai dari sekarang!"</em><br>
-  — <strong>Fuuka Akitsuki</strong>, <em>Fuuka</em>
+  <em>"Karena aku sungguh-sungguh mencintai Misaki, aku tak boleh meninggalkan impianku dan hanya menjadi orang biasa."</em><br>
+  — <strong>Jin Mitaka</strong>, <em>Sakurasou no Pet na Kanojo</em>
 </div>
 <!-- QUOTE END -->
 
