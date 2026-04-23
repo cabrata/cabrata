@@ -5,9 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Cinta itu sama halnya dengan "soal ujian".
-Pertama kau harus mengenalnya dengan baik, lalu mulailah ketika kau sudah memahaminya."</em><br>
-  — <strong>Soujirou Agata</strong>, <em>Sket Dance</em>
+  <em>"Pahlawan itu tidak ada.
+Dalam dunia nyata, mereka yang beradaptasi dengan kenyataan yang akan menang."</em><br>
+  — <strong>Ryuuichi Kazama</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
