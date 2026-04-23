@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak apa-apa kamu tak mencintaiku. Tapi biarkan aku mencintaimu."</em><br>
-  — <strong>Touko Nanami</strong>, <em>Yagate Kimi ni Naru</em>
+  <em>"Aku benci orang jenius. Mereka tidak punya keindahan dari hasil usaha dan jerih payah."</em><br>
+  — <strong>Lügner</strong>, <em>Sousou no Frieren</em>
 </div>
 <!-- QUOTE END -->
 
