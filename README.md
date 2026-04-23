@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seperti inilah pekerjaan yang kulakukan selama ini. Pekerjaan inilah yang telah menafkahimu. Apa kau pikir kalau semua pekerjaan itu indah? 
-Pekerjaan ini mungkin tak berguna. Meskipun begitu, bukan berarti aku tidak berusaha untuk menjadi yang terbaik dibidang ini."</em><br>
-  — <strong>Satsuki Matsumae</strong>, <em>Hanasaku Iroha</em>
+  <em>"Sosoknya yang hanya diterangi oleh cahaya bulan itu lebih indah dari karya artistik mana pun."</em><br>
+  — <strong>Nasa Yuzaki</strong>, <em>Tonikaku Kawaii</em>
 </div>
 <!-- QUOTE END -->
 
