@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jangan berkecil hati (karena ditolak). Perempuan itu ada banyak, sebanyak bintang di langit yang sulit di jangkau."</em><br>
-  — <strong>Kusuo Saiki</strong>, <em>Saiki Kusuo no Ψ-nan</em>
+  <em>"Aku adalah pedangmu. Kemanapun kamu pergi aku akan selalu mengikutimu."</em><br>
+  — <strong>Raphtalia</strong>, <em>Tate no Yuusha no Nariagari</em>
 </div>
 <!-- QUOTE END -->
 
