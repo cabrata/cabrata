@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Saat kamu memuji sihirku, aku sangat senang. Kamu menyukai sesuatu yang sangat kubenci. Kamu menerima semuanya dariku. Hanya dengan bersamamu, aku merasa senang. Terima kasih karena telah memberikan sihir berharga untuk masa depanku."</em><br>
-  — <strong>Hitomi Tsukishiro</strong>, <em>Irozuku Sekai no Ashita kara</em>
+  <em>"Aku tidak ingin membiarkan temanku menghadapi bahaya sendirian!"</em><br>
+  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya</em>
 </div>
 <!-- QUOTE END -->
 
