@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Jika aku terlalu mudah puas dan lengah meski hanya sekali saja, aku akan terjatuh (mulai) dari sini."</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Jika kau tak punya kekuatan, kau masih bisa berjuang dan berharap untuk meraih tujuanmu.
+Itu adalah prinsip yang di pegang teroris. ingat baik-baik."</em><br>
+  — <strong>Minene Uryuu</strong>, <em>Mirai Nikki</em>
 </div>
 <!-- QUOTE END -->
 
