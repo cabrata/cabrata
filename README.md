@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat masa lalu sama artinya dengan tak bisa hidup di masa sekarang."</em><br>
-  — <strong>Karabo Frampton</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</em>
+  <em>"Bola voli adalah olahraga yang mengutamakan tinggi badan. Semakin tinggi tubuh seseorang, maka dia akan semakin kuat. Mengasah kekuatan para pemain untuk semakin berkembang, dan juga menemukan cara baru untuk bertarung. Karena itulah hari ini banyak sekali variasi serangan dan pertahanan. Ada banyak makna dari sebuah "kekuatan"."</em><br>
+  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
 </div>
 <!-- QUOTE END -->
 
