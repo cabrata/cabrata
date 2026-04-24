@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Orang bodoh itu masih wajar, tapi mengabaikan kebodohan diri sendiri itu adalah kejahatan besar."</em><br>
-  — <strong>Itsuki Hashima</strong>, <em>Imouto sae Ireba Ii.</em>
+  <em>"Aku tentara dari dahulu hingga kini. Aku bersiap untuk mengorbankan diri jika dibutuhkan. Namun menolak menjadi bidak catur yang digunakan, selesai dan dibuang."</em><br>
+  — <strong>Sakuma</strong>, <em>Joker Game</em>
 </div>
 <!-- QUOTE END -->
 
