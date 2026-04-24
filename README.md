@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mata-mata tidak percaya siapa pun, selain dirinya sendiri."</em><br>
-  — <strong>Loid Forger</strong>, <em>Spy x Family</em>
+  <em>"Rasa puas seseorang setelah menyelamatkan sesuatu hanyalah kasalahpahaman otak. Karena menyelamatkan seseorang tidak (sama dengan) menyelamatkan diri sendiri. Meskipun kau merasa menyelamatkan seseorang, sebenarnya kau tak pernah tahu apa benar orang tersebut telah terselamatkan."</em><br>
+  — <strong>Lord El-Melloi II</strong>, <em>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</em>
 </div>
 <!-- QUOTE END -->
 
