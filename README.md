@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bahkan jika itu berarti mati, tidak ada satu pun dari kami yang akan mengkhianati teman sendiri."</em><br>
-  — <strong>Kakashi Hatake</strong>, <em>Naruto Shippuden</em>
+  <em>"Manusia yang benar-benar jenius memang ada. Dan meski aku tak meyakini keberadaannya, tapi dia malah muncul dengan sendirinya. Di dunia kami, manusia bisa terbang melewati langit dan berpergian antar planet. Semuanya, bahkan manusia itu sendiri berpikir begitu (hal itu tak mungkin bisa terjadi). Tapi seseorang berhasil melakukannya. Seseorang benar-benar melakukannya."</em><br>
+  — <strong>Sora</strong>, <em>No Game No Life</em>
 </div>
 <!-- QUOTE END -->
 
