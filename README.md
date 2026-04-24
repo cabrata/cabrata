@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tujuan perbuatan baik dan perbuatan buruk itu sebenarnya sama. Kedua-duanya adalah tindakan seseorang untuk menutupi kekurangannya."</em><br>
-  — <strong>Gaku Yashiro</strong>, <em>Boku dake ga Inai Machi</em>
+  <em>"Orang bilang bahwa "Orang bodoh belajar dari pengalaman, sementara orang bijak belajar dari sejarah". Kuharap kau bukan termasuk orang yang bodoh."</em><br>
+  — <strong>Nobuchika Ginoza</strong>, <em>Psycho-Pass</em>
 </div>
 <!-- QUOTE END -->
 
