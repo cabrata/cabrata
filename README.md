@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Melihat ke belakang dan belajar dari pengalaman adalah bagian dari kehidupan."</em><br>
-  — <strong>All Might</strong>, <em>Boku no Hero Academia</em>
+  <em>"Bahkan jika itu berarti mati, tidak ada satu pun dari kami yang akan mengkhianati teman sendiri."</em><br>
+  — <strong>Kakashi Hatake</strong>, <em>Naruto Shippuden</em>
 </div>
 <!-- QUOTE END -->
 
