@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Bola voli adalah olahraga yang mengutamakan tinggi badan. Semakin tinggi tubuh seseorang, maka dia akan semakin kuat. Mengasah kekuatan para pemain untuk semakin berkembang, dan juga menemukan cara baru untuk bertarung. Karena itulah hari ini banyak sekali variasi serangan dan pertahanan. Ada banyak makna dari sebuah "kekuatan"."</em><br>
-  — <strong>Ikkei Ukai</strong>, <em>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</em>
+  <em>"Kampanye itu hanyalah tindakan mengemis suara."</em><br>
+  — <strong>Yuu Ishigami</strong>, <em>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</em>
 </div>
 <!-- QUOTE END -->
 
