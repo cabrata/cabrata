@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dia adalah tipe orang yang tak mempercayai orang lain. Bukankah tak mungkin orang seperti dia akan menemukan kebahagiaan?"</em><br>
-  — <strong>Nona</strong>, <em>Death Parade</em>
+  <em>"Jangan lupakan kekalahan pahit dan menyedihkan dari Seijou. Tapi, kalian tak perlu mendramatisir perasaan kalah itu.
+Enyahkan perasaan itu dan majulah!"</em><br>
+  — <strong>Keishin Ukai</strong>, <em>Haikyuu!! Second Season</em>
 </div>
 <!-- QUOTE END -->
 
