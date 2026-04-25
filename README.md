@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Masa depan yang dia ungkapkan selalu berhubungan denganku. Karena itu aku pikir kami memiliki masa depan yang sama."</em><br>
-  — <strong>Chise Hatori</strong>, <em>Mahoutsukai no Yome</em>
+  <em>"Senapan tidak akan mengkhianatimu."</em><br>
+  — <strong>Pitohui</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
 </div>
 <!-- QUOTE END -->
 
