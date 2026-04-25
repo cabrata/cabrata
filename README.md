@@ -5,9 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Suatu hari waktu akan memisahkan kita kan?
-Tapi.., walaupun begitu, hingga saat itu, mari tetap bersama."</em><br>
-  — <strong>Hotaru Takegawa</strong>, <em>Hotarubi no Mori e</em>
+  <em>"Aku menulis novel sebagai hobi. Dan hobi yang tidak dilakukan dengan serius akan membosankan, 'kan? Karena ini hobiku, maka aku melakukannya sepenuh hati."</em><br>
+  — <strong>Elf Yamada</strong>, <em>Eromanga-sensei</em>
 </div>
 <!-- QUOTE END -->
 
