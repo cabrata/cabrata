@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Mengharapkan hal yang tinggi tanpa memikirkan untuk mewujudkannya itu membuatku tampak bodoh. Tapi, harapan takkan menjadi kenyataan jika tak mengatakannya dengan lantang."</em><br>
-  — <strong>Kumiko Oumae</strong>, <em>Hibike! Euphonium</em>
+  <em>"Kamu adalah orang yang hebat. Sangat berkebalikan denganku. Tentunya aku ingin menjadi seperti dirimu. Bisa mengakui seseorang, menerima seseorang, mencintai seseorang, dicintai seseorang. Bagaimana caranya agar aku dapat seperti dirimu?"</em><br>
+  — <strong>Haruki Shiga</strong>, <em>Kimi no Suizou wo Tabetai</em>
 </div>
 <!-- QUOTE END -->
 
