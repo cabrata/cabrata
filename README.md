@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang harus kulakukan sebagai yang terlemah adalah mengalahkan yang terkuat."</em><br>
-  — <strong>Ikki Kurogane</strong>, <em>Rakudai Kishi no Cavalry</em>
+  <em>"Masa depan yang dia ungkapkan selalu berhubungan denganku. Karena itu aku pikir kami memiliki masa depan yang sama."</em><br>
+  — <strong>Chise Hatori</strong>, <em>Mahoutsukai no Yome</em>
 </div>
 <!-- QUOTE END -->
 
