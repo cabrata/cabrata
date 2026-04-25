@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Yang terpenting adalah jangan menyerah. Suatu hari nanti, pasti pantang menyerah akan menjadi senjata terkuatmu."</em><br>
-  — <strong>Kazuki Kazami</strong>, <em>Grisaia no Meikyuu: Caprice no Mayu 0</em>
+  <em>"Senapan tidak akan mengkhianatimu."</em><br>
+  — <strong>Pitohui</strong>, <em>Sword Art Online Alternative: Gun Gale Online</em>
 </div>
 <!-- QUOTE END -->
 
