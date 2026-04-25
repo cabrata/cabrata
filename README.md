@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak ingin membiarkan temanku menghadapi bahaya sendirian!"</em><br>
-  — <strong>Illyasviel von Einzbern</strong>, <em>Fate/kaleid liner Prisma☆Illya</em>
+  <em>"Kalau kau ingin menyelamatkan seseorang yang tak bisa diselamatkan, kau akan tenggelam bersamanya."</em><br>
+  — <strong>Doppo Kunikida</strong>, <em>Bungou Stray Dogs</em>
 </div>
 <!-- QUOTE END -->
 
