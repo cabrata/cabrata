@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Memiliki mimpi tidak menjamin kesuksesan. Dan jika mimpi itu tidak terwujud, kau masih dapat menjalani hidup normal."</em><br>
-  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
+  <em>"Bukankah kau mengayunkan pedang untuk melindungi sesuatu? Ksatria adalah seseorang yang wajib melindungi orang lain."</em><br>
+  — <strong>Theresia van Astrea</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
 </div>
 <!-- QUOTE END -->
 
