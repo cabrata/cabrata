@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Seseorang akan lebih puas jika mendengarkan kata terima kasih daripada kata maaf. Aku melakukannya karena aku ingin menolongmu, dan bukan untuk mendapatkan kata maaf."</em><br>
-  — <strong>Emilia</strong>, <em>Re:Zero kara Hajimeru Isekai Seikatsu</em>
+  <em>"Hanya mereka yang lahir dengan bakat yang dapat menjadi seniman manga.
+Dan diantara mereka, hanya yang jeniuslah yang bisa melakukannya, sisanya hanyalah berjudi."</em><br>
+  — <strong>Moritaka Mashiro</strong>, <em>Bakuman.</em>
 </div>
 <!-- QUOTE END -->
 
