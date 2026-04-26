@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sudah menjadi fenomena umum di dunia manusia, orang tidak kompeten yang tidak memiliki pengetahuan atau bakat mendapatkan posisi karena garis keturunan atau relasi."</em><br>
-  — <strong>Shaiapouf</strong>, <em>Hunter x Hunter (2011)</em>
+  <em>"Tak ada tempat yang dapat menyaingi rumah!"</em><br>
+  — <strong>Tomoko Konagai</strong>, <em>Nyanko Days</em>
 </div>
 <!-- QUOTE END -->
 
