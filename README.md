@@ -5,8 +5,9 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Sekalipun jika kita menang hari ini, tidak berarti kita juga bisa memenangkan pertarungan selanjutnya."</em><br>
-  — <strong>Shichika Yasuri</strong>, <em>Katanagatari</em>
+  <em>"Akan aku beri tahu sesuatu hal yang bagus...
+Cara agar tidak kalah adalah dengan tidak bertanding."</em><br>
+  — <strong>Manabu Sakuma</strong>, <em>Ping Pong The Animation</em>
 </div>
 <!-- QUOTE END -->
 
