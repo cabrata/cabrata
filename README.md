@@ -5,10 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kemungkinan menang hanyalah 0% saat semua pemain menyerah.
-Tak peduli betapa tidak mungkinnya itu, aku sendiri menolak untuk menjadikannya 0%.
-Itulah sebabnya aku tidak akan menyerah!"</em><br>
-  — <strong>Tetsuya Kuroko</strong>, <em>Kuroko no Basket</em>
+  <em>"Ada sesuatu dalam dirimu. Kau bersikap biasa, namun aku merasa kau selalu berada di tengah-tengah orang lain. Kau seperti tak peduli, namun kau peduli. Saat terjadi suatu masalah, kau selalu memiliki kata-kata yang tepat sasaran. Karena itulah ada sesuatu dalam dirimu."</em><br>
+  — <strong>Reina Kousaka</strong>, <em>Hibike! Euphonium 2</em>
 </div>
 <!-- QUOTE END -->
 
