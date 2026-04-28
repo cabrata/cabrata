@@ -5,8 +5,15 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tidak ada kebahagiaan yang begitu berat hingga membuatmu hancur. Kebahagiaan itu bukanlah (suatu hal yang) berat maupun ringan. Jangan berlebihan menganggap kebahagiaan. Semua jenis kebahagiaan akan cocok untukmu. Jadi jangan membenci kebahagiaan seperti itu. Jangan membenci dunia, jangan membenci semua hal. Jangan membenci dirimu sendiri. Semua jenis kebencian di dalam dirimu semuanya akan kuterima dan kutanggung untukmu. Aku ingin kau lebih mencintai dirimu sendiri."</em><br>
-  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
+  <em>"Orang jenius adalah orang yang mengetahui perbedaan dirinya dengan orang lain.
+Saat seseorang saling membandingkan kemampuannya dengan orang lain, mereka akan menganggap diri mereka sama.
+Tapi sayangnya sebenarnya itu salah. Setiap manusia itu berbeda.
+Sesuatu yang bisa dilakukan oleh diri kita, takkan bisa dilakukan oleh orang lain.
+Lalu, sesuatu yang bisa dilakukan oleh orang lain takkan pernah bisa dilakukan oleh diri kita.
+Orang jenius adalah orang yang bisa mengalahkan ketidakadilan itu.
+Orang jenius takkan pernah mengharapkan seseorang mengerjakan tugas yang sama seperti diri kita.
+Disaat yang sama, tak peduli sebesar apapun bakat seseorang, orang itu pasti takkan mampu meniru orang lain."</em><br>
+  — <strong>Saber</strong>, <em>Fate/Extra: Last Encore - Irusterias Tendouron</em>
 </div>
 <!-- QUOTE END -->
 
