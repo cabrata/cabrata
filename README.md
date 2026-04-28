@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Aku tidak bisa melihat apapun, jadi aku tak tahu apa yang ada di depan. Jika aku terus maju, mungkin hasilnya nol, atau mungkin satu, atau bisa jadi sepuluh. Jika aku menyerah sekarang, aku takkan pernah tahu. Itulah kenapa aku ingin terus menjadi school idol."</em><br>
-  — <strong>Chika Takami</strong>, <em>Love Live! Sunshine!!</em>
+  <em>"Tidak ada kebahagiaan yang begitu berat hingga membuatmu hancur. Kebahagiaan itu bukanlah (suatu hal yang) berat maupun ringan. Jangan berlebihan menganggap kebahagiaan. Semua jenis kebahagiaan akan cocok untukmu. Jadi jangan membenci kebahagiaan seperti itu. Jangan membenci dunia, jangan membenci semua hal. Jangan membenci dirimu sendiri. Semua jenis kebencian di dalam dirimu semuanya akan kuterima dan kutanggung untukmu. Aku ingin kau lebih mencintai dirimu sendiri."</em><br>
+  — <strong>Koyomi Araragi</strong>, <em>Owarimonogatari</em>
 </div>
 <!-- QUOTE END -->
 
