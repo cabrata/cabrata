@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Dengarkan kalian (para murid). Saat malam hari orang harus tidur. Karena nanti kalau sudah dewasa meskipun kalian benci begadang, tapi (keadaan membuat) kalian harus melakukannya. Selagi masih muda, kalian harus terbiasa hidup sehat."</em><br>
-  — <strong>Sensei</strong>, <em>Yofukashi no Uta</em>
+  <em>"Aku suka melihatmu ketika melakukan hal-hal yang kamu sukai."</em><br>
+  — <strong>Hirotaka Nifuji</strong>, <em>Wotaku ni Koi wa Muzukashii</em>
 </div>
 <!-- QUOTE END -->
 
