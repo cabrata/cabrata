@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Tak ada kutukan yang lebih kuat dari cinta."</em><br>
-  — <strong>Satoru Gojou</strong>, <em>Jujutsu Kaisen 0 Movie</em>
+  <em>"Menurutku fotografi itu seperti meminjam mata orang lain. Jadi, meskipun matamu tertutup, kau masih bisa (melihat dengan) meminjam (mata) milik orang lain."</em><br>
+  — <strong>Maria Oosawa</strong>, <em>Canaan</em>
 </div>
 <!-- QUOTE END -->
 
