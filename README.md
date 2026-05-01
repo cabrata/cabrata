@@ -5,8 +5,8 @@
 <!-- QUOTE START -->
 <div align="center">
   📜 <strong>Quote of the Day</strong><br>
-  <em>"Kalau kita sedang jatuh cinta, dunia jadi kelihatan lebih berwarna."</em><br>
-  — <strong>Tsubaki Sawabe</strong>, <em>Shigatsu wa Kimi no Uso</em>
+  <em>"Di dunia ini ada bermacam-macam cerita. Tapi aku tidak peduli dengan semua itu. (Karena) yang ingin ku ketahui adalah cerita tentangmu."</em><br>
+  — <strong>Keima Katsuragi</strong>, <em>Kami nomi zo Shiru Sekai: Megami-hen</em>
 </div>
 <!-- QUOTE END -->
 
