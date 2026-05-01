@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku ini tidak berpikir kalau aku memiliki tenaga yang lemah. Aku hanya tidak ingin membuang energi untuk hal yang percuma. ❞</i>
+  <i>❝ Tak ada cewek yang suka diperlakukan seperti adik. ❞</i>
   <br/>
-  <sub>— <b>Houtarou Oreki</b> · <i>Hyouka</i></sub>
+  <sub>— <b>Iroha Isshiki</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
