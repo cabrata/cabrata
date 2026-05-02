@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Suatu saat manusia pasti mati. Tapi selama seseorang terus berusaha untuk melindungi orang lainnya, maka perasaan itu tidak akan mati. Setelah menemukan rasa ingin melindungi, maka tak peduli berapa banyak kau terluka, (atau) bahkan jika kau menangis sampai tak bisa meneteskan air mata lagi, kau (pasti) akan mampu menghadapinya. ❞</i>
+  <i>❝ Selama dua puluh satu hari ini berapa kali kita berdebat? Kami saling menghina satu sama lain, saling membicarakan masalah satu sama lain. (Namun) saat aku terpojok, yang membantuku adalah Kurisu, yang tenang mendengarkan pembicaraanku dan yang percaya padaku adalah Kurisu. (Dia adalah) gadis jenius yang menulis risalah sains di usia 18 tahun. Dia selalu tampak tenang, tegar, cerewet dan bangga akan dirinya. Selalu dalam dengan kejujurannya... Aku selalu saja dibuat terkejut oleh teorinya. Kata-katanya terpahat dalam hatiku... Apa yang dia lakukan terekam di mataku. ❞</i>
   <br/>
-  <sub>— <b>Meliodas</b> · <i>Nanatsu no Taizai</i></sub>
+  <sub>— <b>Rintarou Okabe</b> · <i>Steins;Gate</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
