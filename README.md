@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Langkah demi langkah nadiku berdenyut. Kanan kah? Kiri kah? Pergi kah? Kembali kah?
-Benar, salah, mengejutkan, kebahagiaan, kesepian. Walaupun tersesat di labirin (dunia) ini, aku kan tetap melangkah. (Karena) aku ingin tahu apa yang menantiku di belokan berikutnya. ❞</i>
+  <i>❝ Kamu tidak bisa bahagia karena kamu tidak mau mencoba untuk bahagia. Tidak ada yang bisa membahagiakan seseorang yang bahkan dia tidak mau mencoba untuk bahagia. ❞</i>
   <br/>
-  <sub>— <b>Kou Ichinomiya</b> · <i>Arakawa Under the Bridge x Bridge</i></sub>
+  <sub>— <b>Tsubasa Hanekawa</b> · <i>Owarimonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
