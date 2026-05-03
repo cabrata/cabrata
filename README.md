@@ -22,9 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Manusia itu makhluk yang dangkal. Mereka hanya melihat (orang lain) berdasarkan gosip yang beredar di permukaan. ❞</i>
+  <i>❝ Langkah demi langkah nadiku berdenyut. Kanan kah? Kiri kah? Pergi kah? Kembali kah?
+Benar, salah, mengejutkan, kebahagiaan, kesepian. Walaupun tersesat di labirin (dunia) ini, aku kan tetap melangkah. (Karena) aku ingin tahu apa yang menantiku di belokan berikutnya. ❞</i>
   <br/>
-  <sub>— <b>Becky Blackbell</b> · <i>Spy x Family</i></sub>
+  <sub>— <b>Kou Ichinomiya</b> · <i>Arakawa Under the Bridge x Bridge</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
