@@ -22,9 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jangan bilang semua (hal yang kau lakukan) itu sia-sia. Kau sudah berjuang keras untuk membuat dirimu menjadi lebih baik. ❞</i>
+  <i>❝ (Apakah mungkin seseorang bisa menang melawan orang yang lebih besar darinya?)
+Manusia bukanlah monyet. Jadi selama kau bisa memakai otakmu kau bisa menang. ❞</i>
   <br/>
-  <sub>— <b>Arata Kaizaki</b> · <i>ReLIFE</i></sub>
+  <sub>— <b>Rio Futaba</b> · <i>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
