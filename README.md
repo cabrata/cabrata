@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kamu tidak bisa bahagia karena kamu tidak mau mencoba untuk bahagia. Tidak ada yang bisa membahagiakan seseorang yang bahkan dia tidak mau mencoba untuk bahagia. ❞</i>
+  <i>❝ Yang paling penting bagiku adalah kehangatan genggaman tanganmu, senyumanmu yang imut dan masa depan yang akan kita bangun bersama. ❞</i>
   <br/>
-  <sub>— <b>Tsubasa Hanekawa</b> · <i>Owarimonogatari</i></sub>
+  <sub>— <b>Nasa Yuzaki</b> · <i>Tonikaku Kawaii</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
