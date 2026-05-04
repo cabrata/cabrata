@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Perjudian adalah kegilaan. Di dunia kapitalis, uang adalah nyawa. Orang sehat tidak mungkin mempertaruhkan nyawanya. Tapi pada kenyataannya banyak orang pergi ke tempat perjudian untuk merasakan kegilaan. ❞</i>
+  <i>❝ Aku hanya ingin hidup bermodal semangat dan senyuman aja. ❞</i>
   <br/>
-  <sub>— <b>Yumeko Jabami</b> · <i>Kakegurui</i></sub>
+  <sub>— <b>Minami Nanami</b> · <i>Jaku-Chara Tomozaki-kun</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
