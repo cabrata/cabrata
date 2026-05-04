@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku hanya ingin hidup bermodal semangat dan senyuman aja. ❞</i>
+  <i>❝ Menurutku pertemanan jauh lebih bermakna daripada kata-kata dan logika. ❞</i>
   <br/>
-  <sub>— <b>Minami Nanami</b> · <i>Jaku-Chara Tomozaki-kun</i></sub>
+  <sub>— <b>Tomohiro Nagatsu</b> · <i>Koe no Katachi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
