@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku selalu mengutamakan apa yang aku inginkan meski banyak mengalami kegagalan. ❞</i>
+  <i>❝ Dengan menerapkan aturan diri sendiri pada dirimu, itu untuk mendorong dan membantumu untuk mengatasi tantangan atau situasi yang sulit. Kau menerapkan aturan diri sendiri hanya pada dirimu. Karena aturan itulah kau bisa mengumpulkan kekuatanmu dan fokus pada usahamu. Bahkan jika kau gagal, kau sudah menerapkan aturan yang membuat dirimu menjadi sangat disiplin dan fokus. Begitulah "aturan diri sendiri". ❞</i>
   <br/>
-  <sub>— <b>Chisato Nishikigi</b> · <i>Lycoris Recoil</i></sub>
+  <sub>— <b>Duy Might</b> · <i>Naruto Shippuden</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
