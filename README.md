@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jangan menilai orang dari satu sudut pandang. Kamu harus melihat dari berbagai sudut pandang. ❞</i>
+  <i>❝ Kalau kau menginginkan sebuah balasan, hal buruk dan pahit seperti itu... aku pikir bukanlah cinta. ❞</i>
   <br/>
-  <sub>— <b>Tetsuo Takahashi</b> · <i>Demi-chan wa Kataritai</i></sub>
+  <sub>— <b>Satou Matsuzaka</b> · <i>Happy Sugar Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
