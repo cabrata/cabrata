@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Masalahnya, bagaimana aku bisa mengatasi ini? Bagaimana (caranya agar) aku dapat mengembalikan keadaan ini? Apa aku harus meminta bantuan? Kenapa aku jadi bergantung pada orang lain?
-Hubungan antara manusia hanya akan menimbulkan ketergantungan. ❞</i>
+  <i>❝ Tidak ada seorang pun yang akan menertawakan orang yang berusaha keras. ❞</i>
   <br/>
-  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
+  <sub>— <b>Naruzou Machio</b> · <i>Dumbbell Nan Kilo Moteru?</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
