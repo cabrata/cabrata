@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tak masalah kabur untuk tetap hidup. Karena kau bukan hewan ternak yang tak punya tempat untuk melarikan diri. ❞</i>
+  <i>❝ Saat kau berteriak atau saat menangis, aku akan selalu berada di sisimu. Kita akan selalu bersama untuk saling berbagi perasaan yang sama. Meskipun kamu menggapku cuma mengganggu, kemanapun kamu pergi aku akan menemukanmu. Bagaimanapun caranya aku akan selalu mendengarmu. Bahkan saat hujan, saat angin kencang, (atau) bahkan saat bunga-bunga sudah berguguran. Bagaimanapun caranya aku akan mencari suaramu, aku berjanji. ❞</i>
   <br/>
-  <sub>— <b>Kouchou</b> · <i>Gin no Saji</i></sub>
+  <sub>— <b>Banri Tada</b> · <i>Golden Time</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
