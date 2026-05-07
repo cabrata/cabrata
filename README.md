@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Ada banyak hal yang tak bisa diselesaikan hanya dengan mengandalkan kata-kata saja. ❞</i>
+  <i>❝ Aku tahu kalau diriku ini sangat lemah, aku tak punya kesempatan untuk mengalahkanmu. Akulah yang paling tahu akan hal itu.Meski begitu, aku akan tetap melakukannya. Ini bukan soal menang atau kalah, tapi karena aku harus melawanmu disini sekarang juga (sebagai pahlawan yang akan melawan penjahat). ❞</i>
   <br/>
-  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
+  <sub>— <b>Mumen Rider</b> · <i>One Punch Man</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
