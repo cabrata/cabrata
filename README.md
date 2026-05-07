@@ -22,16 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kecerobohanmu mungkin adalah kelemahanmu.
-Kau sudah berusaha untuk memperbaikinya.
-Kau tidak mungkin memperbaiki sepenuhnya.
-Jadi seberapa kuat pun kau mencoba, tidak usah melakukannya pun tidak apa-apa.
-Biarkan saja seperti itu. Menyerahlah.
-Kekuatanmu memang tidak ada batasnya.
-Tapi yang terpenting adalah semangatmu.
-Jadi, kau tidak usah repot-repot mengubahnya kan? ❞</i>
+  <i>❝ Semakin aku menikmati kesenangan, semakin sakit rasanya ketika harus berpisah. ❞</i>
   <br/>
-  <sub>— <b>Tetsuji Chuuma</b> · <i>Sket Dance</i></sub>
+  <sub>— <b>Chizuru Hishiro</b> · <i>ReLIFE</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
