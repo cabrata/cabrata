@@ -22,9 +22,16 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku tahu kalau diriku ini sangat lemah, aku tak punya kesempatan untuk mengalahkanmu. Akulah yang paling tahu akan hal itu.Meski begitu, aku akan tetap melakukannya. Ini bukan soal menang atau kalah, tapi karena aku harus melawanmu disini sekarang juga (sebagai pahlawan yang akan melawan penjahat). ❞</i>
+  <i>❝ Kecerobohanmu mungkin adalah kelemahanmu.
+Kau sudah berusaha untuk memperbaikinya.
+Kau tidak mungkin memperbaiki sepenuhnya.
+Jadi seberapa kuat pun kau mencoba, tidak usah melakukannya pun tidak apa-apa.
+Biarkan saja seperti itu. Menyerahlah.
+Kekuatanmu memang tidak ada batasnya.
+Tapi yang terpenting adalah semangatmu.
+Jadi, kau tidak usah repot-repot mengubahnya kan? ❞</i>
   <br/>
-  <sub>— <b>Mumen Rider</b> · <i>One Punch Man</i></sub>
+  <sub>— <b>Tetsuji Chuuma</b> · <i>Sket Dance</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
