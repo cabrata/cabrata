@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Alasan manusia dapat mencapai ilmu pengetahuan yang tinggi dan kebebasan bukan hanya karena perkembangan dari otak manusia. Tapi didapat dari struktur yang lebih komplek berkat evolusi. Dengan kata lain, hasil dari kontradiksi otak dan jiwa. ❞</i>
+  <i>❝ Bukan rencana pamungkas namanya kalau tidak dirahasiakan. ❞</i>
   <br/>
-  <sub>— <b>Wiseman</b> · <i>Taboo Tattoo</i></sub>
+  <sub>— <b>Kongming Zhuge</b> · <i>Paripi Koumei</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
