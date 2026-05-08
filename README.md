@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tujuan hidupku adalah untuk menjadikanmu sebagai laki-laki baru yang akan hidup bahagia. ❞</i>
+  <i>❝ Dewa itu bisa ada di mana pun, bisa juga tidak ada di mana pun. ❞</i>
   <br/>
-  <sub>— <b>Rin Tohsaka</b> · <i>Fate/stay night: Unlimited Blade Works 2nd Season</i></sub>
+  <sub>— <b>Meme Oshino</b> · <i>Bakemonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
