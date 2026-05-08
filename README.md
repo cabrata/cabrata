@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Saat bangun pagi, saat tidur pada malam hari, saat berangkat sekolah, saat berpakaian, saat menangis dan saat tertawa itu semua karena Mitsuo. Tanpa Mitsuo, tak ada yang bisa kulakukan, tidak ada artinya aku hidup. ❞</i>
+  <i>❝ Manusia menyerang dengan jumlah yang lebih banyak (mengeroyok), membuat hewan lebih baik daripada manusia. ❞</i>
   <br/>
-  <sub>— <b>Kouko Kaga</b> · <i>Golden Time</i></sub>
+  <sub>— <b>Migi</b> · <i>Kiseijuu: Sei no Kakuritsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
