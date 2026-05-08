@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Saat manusia terjatuh dalam kegelapan mereka membutuhkan cahaya. Tak peduli seredup apa pun cahaya itu selama masih ada secercah cahaya akan ada harapan. ❞</i>
+  <i>❝ Menghormati setiap individu tanpa merusak keinginan mereka bentuk dari idealisme yang sesungguhnya. ❞</i>
   <br/>
-  <sub>— <b>Suiryuu</b> · <i>One Punch Man Season 2</i></sub>
+  <sub>— <b>Miyuki Shirogane</b> · <i>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
