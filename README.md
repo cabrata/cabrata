@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Meskipun keabadian adalah sesuatu yang buruk, tapi selama aku bisa terus bersamamu, kurasa itu bukanlah hal yang buruk. ❞</i>
+  <i>❝ Jika kau punya hak untuk hidup, kami juga punya. Meskipun aku yakin, setiap manusia memiliki pemikirannya sendiri mengenai "hak". Pokoknya, kami akan melakukan apapun untuk hidup. ❞</i>
   <br/>
-  <sub>— <b>Touta Konoe</b> · <i>UQ Holder!: Mahou Sensei Negima! 2</i></sub>
+  <sub>— <b>Migi</b> · <i>Kiseijuu: Sei no Kakuritsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
