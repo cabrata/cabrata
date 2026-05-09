@@ -22,7 +22,7 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tingkatkan kekuatanmu dengan bekerjasama dengan yang lainnya. Dan terus kembangkan kemampuanmu. ❞</i>
+  <i>❝ Kau akan menjadi kuat ketika semua orang mengincarmu. ❞</i>
   <br/>
   <sub>— <b>Koro-sensei</b> · <i>Ansatsu Kyoushitsu</i></sub>
   <br/><br/>
