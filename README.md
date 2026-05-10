@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau adalah orang paling berharga yang pernah mengisi kehidupanku. Sejak awal bertemu, kau selalu ada bersamaku. Karena kita berdua (terus bersama), semua masalah dapat terlewati. Tapi, disaat yang bersamaan, semua itu menimbulkan kepedihan dan rasa sakit yang amat mendalam. Aku tak ingin lagi melihatmu memikul semua beban berat itu, aku tak ingin kau tersakiti. Karena itu kita berdua tidak boleh bersama. ❞</i>
+  <i>❝ Kebencian lahir dari masa lalu. ❞</i>
   <br/>
-  <sub>— <b>Akihito Kanbara</b> · <i>Kyoukai no Kanata Movie: I'll Be Here - Mirai-hen</i></sub>
+  <sub>— <b>Hakuno Kishinami</b> · <i>Fate/Extra Last Encore</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
