@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Manusia akan lebih kuat bila mereka berjuang untuk melindungi sesuatu. ❞</i>
+  <i>❝ Apakah di planet (Bumi) ini orang mau membantu sesamanya itu hanya karena menginginkan balasan? ❞</i>
   <br/>
-  <sub>— <b>Heathcliff</b> · <i>Sword Art Online</i></sub>
+  <sub>— <b>Nino</b> · <i>Arakawa Under the Bridge</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
