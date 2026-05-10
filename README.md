@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Pilihan yang telah kamu pilih sejauh ini, dan pilihan yang telah aku pilih selama ini. Itu adalah kumpulan dari pilihan yang telah kita pilih. Itulah yang membuat kita bersama. Itulah alasan mengapa kita berada di sini. ❞</i>
+  <i>❝ Saat kau membagi suara (musik) itu ke orang - orang, saat suara (musik) mu itu mencapai orang - orang, saat hatimu bersatu, kurasa musik melampaui kata - kata. ❞</i>
   <br/>
-  <sub>— <b>Sakura Yamauchi</b> · <i>Kimi no Suizou wo Tabetai</i></sub>
+  <sub>— <b>Kousei Arima</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
