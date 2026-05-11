@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau masih saja membicarakan tentang tujuan hidup dan alasan kenapa kau dilahirkan?
-Tak pernah kubayangkan ada orang yang bingung karena hal seperti itu. ❞</i>
+  <i>❝ Di dunia ini tak ada yang namanya pengalaman itu sia-sia. ❞</i>
   <br/>
-  <sub>— <b>Shuusei Kagari</b> · <i>Psycho-Pass</i></sub>
+  <sub>— <b>Ryuujirou Kotobuki</b> · <i>Grand Blue</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
