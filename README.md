@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Pekerjaan seorang detektif itu bukan untuk melumpuhkan orang yang seharusnya dilumpuhkan. Tetapi, menyelamatkan orang yang seharusnya diselamatkan. ❞</i>
+  <i>❝ Dia takkan membiarkan apapun menghalanginya setelah dia menemukan hal yang paling diinginkannya, hal yang menurutnya paling menarik dia akan mengejar hal itu tanpa ragu. Itu adalah hal yang hanya bisa dilakukan oleh Honoka. ❞</i>
   <br/>
-  <sub>— <b>Shinya Kougami</b> · <i>Psycho-Pass</i></sub>
+  <sub>— <b>Umi Sonoda</b> · <i>Love Live! School Idol Project</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
