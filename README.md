@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Pengeringan luka pada sisi yang terinfeksi adalah obat paling efektif.
-Tapi karena dia busuknya sampai ke inti, kalau kau terus mengeringkan lukanya, mungkin takkan ada lagi yang tersisa. ❞</i>
+  <i>❝ Dengan menyelamatkan seseorang, berarti ada orang lain yang tak terselamatkan. Manusia hanya bisa menyelamatkan seseorang yang memang pantas diselamatkan sejak awal. Ini adalah hal yang wajar, sebagai bentuk pengorbanan seorang pahlawan. ❞</i>
   <br/>
-  <sub>— <b>Chiriko Tsurumi</b> · <i>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</i></sub>
+  <sub>— <b>Kiritsugu Emiya</b> · <i>Fate/stay night: Unlimited Blade Works</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
