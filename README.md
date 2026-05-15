@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Peperangan itu benar-benar kejam. Entah kau menang atau kalah, kau selalu kehilangan lebih banyak dari pada apa yang kau peroleh. ❞</i>
+  <i>❝ Kehidupanku di dunia nyata selalu saja membosankan, interaksi sosialpun terasa merepotkan. Jadi dunia maya adalah yang paling aku nikmati. Dan sekarang, aku telah dibuat menjadi orang jahat bagi banyak orang. Tapi di dunia nyata, aku punya keluarga yang menyemangati saat hidupku begitu berat sampai ingin mati, aku memiliki teman yang mendukung dan menyemangati dan ada rekan di band yang berkata ayo berjuang bersama. Jadi akan aku lakukan yang terbaik untuk mereka. ❞</i>
   <br/>
-  <sub>— <b>Isao Kondou</b> · <i>Gintama°</i></sub>
+  <sub>— <b>Yuu Haruna</b> · <i>Fuuka</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
