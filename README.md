@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Saat kau melihat ke bawah dari tempat setinggi ini, kota (jadi) terlihat kecil ya?
-Tapi, aku lahir disini, besar disini... dan jatuh cinta disini. ❞</i>
+  <i>❝ Justru perselisihan (bisa) terjadi karena mereka semakin akrab. ❞</i>
   <br/>
-  <sub>— <b>Kaoru Tanamachi</b> · <i>Amagami SS</i></sub>
+  <sub>— <b>Quetzalcoatl</b> · <i>Kobayashi-san Chi no Maid Dragon</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
