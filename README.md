@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Yang aku inginkan bukanlah pisau atau apapun itu, hanya tanganmu inilah yang kuinginkan. Apapun yang akan terjadi di masa depan aku tak akan melepaskan tanganmu ini. Karena itulah kisahku berakhir disini. Aku telah menerima diriku yang sekarang, diriku yang lalu, dan perlahan mulai menjalani kehidupanku. ❞</i>
+  <i>❝ Lebih baik menyemangati seseorang yang berjuang dalam bayang-bayang daripada orang-orang yang memiliki keberuntungan. ❞</i>
   <br/>
-  <sub>— <b>Shiki Ryougi</b> · <i>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</i></sub>
+  <sub>— <b>Keita Amano</b> · <i>Gamers!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
