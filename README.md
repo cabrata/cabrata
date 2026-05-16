@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ "Sebuah tujuan" memberi seseorang kekuatan. Pertemanan lebih kuat daripada pisau. ❞</i>
+  <i>❝ Sebanyak apapun kejahatan yang dilakukan seseorang, membunuh orang itu teteplah tidak benar. Tidak ada manusia yang pantas dibunuh. ❞</i>
   <br/>
-  <sub>— <b>Angelo Lagusa</b> · <i>91 Days</i></sub>
+  <sub>— <b>Mikiya Kokutou</b> · <i>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
