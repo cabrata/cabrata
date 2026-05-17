@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Peperangan itu benar-benar kejam. Entah kau menang atau kalah, kau selalu kehilangan lebih banyak dari pada apa yang kau peroleh. ❞</i>
+  <i>❝ Kalau kau hanya duduk di kursi kehormatan, kau tidak akan bisa melihat apapun. ❞</i>
   <br/>
-  <sub>— <b>Isao Kondou</b> · <i>Gintama°</i></sub>
+  <sub>— <b>Souma Yukihira</b> · <i>Shokugeki no Souma</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
