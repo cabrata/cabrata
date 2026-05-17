@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kerja keras tak akan mengkhianatimu. Meskipun saat ini, itu akan menghianati mimpimu. ❞</i>
+  <i>❝ Jika ada sesuatu yang tidak baik, hal pertama yang harus kau lakukan adalah menjauhinya, (dan) jangan menyebarkan rumor (tentang hal itu). ❞</i>
   <br/>
-  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru</i></sub>
+  <sub>— <b>Mika Shimotsuki</b> · <i>Psycho-Pass</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
