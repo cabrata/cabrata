@@ -22,9 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kalau kau hanya duduk di kursi kehormatan, kau tidak akan bisa melihat apapun. ❞</i>
+  <i>❝ Aku selalu serius! Tapi kenapa kamu selalu lari?
+Setiap kali aku pikir mulai lebih dekat denganmu, kamu malah bergerak semakin jauh. ❞</i>
   <br/>
-  <sub>— <b>Souma Yukihira</b> · <i>Shokugeki no Souma</i></sub>
+  <sub>— <b>Megumi Noda</b> · <i>Nodame Cantabile: Paris Hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
