@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Beda orang, beda pandangan. Rasa sayang itu ada macam-macam bentuknya. ❞</i>
+  <i>❝ Memanfaatkan kesempatan untuk mendapatkan jaringan orang atasan adalah bentuk dari pembelajaran politik yang baik di sekolah. ❞</i>
   <br/>
-  <sub>— <b>Kakek Mikage</b> · <i>Gin no Saji</i></sub>
+  <sub>— <b>Kobachi Osaragi</b> · <i>Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
