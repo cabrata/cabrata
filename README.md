@@ -22,11 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku akan baik-baik saja kalau kau tidak lari.
-Aku akan baik-baik saja kalau kau menunjukkan jalan untukku.
-Aku akan baik-baik saja kalau kau terus menggenggam tanganku. ❞</i>
+  <i>❝ Mengatakan hal bodoh bisa membuatmu bodoh. ❞</i>
   <br/>
-  <sub>— <b>Megumi Katou</b> · <i>Saenai Heroine no Sodatekata ♭</i></sub>
+  <sub>— <b>Mai Sakurajima</b> · <i>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
