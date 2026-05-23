@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Semua orang adalah orang bodoh yang tak mau dibilang bodoh oleh orang lain. ❞</i>
+  <i>❝ Jangan melakukan hal yang tidak perlu. Bergantung pada keberuntungan itu tak akan membuat kemajuan (dalam hidup). Yang perlu dilakukan hanyalah membuat keputusan yang tepat. Kehidupan dunia nyata tidaklah berbeda dengan dunia game. Yang (perlu) aku pikirkan hanyalah ending terbaik. ❞</i>
   <br/>
-  <sub>— <b>Souhei Saikawa</b> · <i>Subete ga F ni Naru</i></sub>
+  <sub>— <b>Keima Katsuragi</b> · <i>Kami nomi zo Shiru Sekai: Megami-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
