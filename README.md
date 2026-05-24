@@ -22,9 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kalau kau punya waktu untuk bicara omong kosong, (lebih baik) lakukan semua yang kau bisa untuk bertahan hidup. ❞</i>
+  <i>❝ Mendekatlah. Aku akan membisikkannya padamu, jadi dengarkan baik-baik.
+Aku mencintaimu. Aku ingin kau melihat dunia di luar sana, dan aku ingin kau bersamaku. ❞</i>
   <br/>
-  <sub>— <b>Tanya Degurechaff</b> · <i>Youjo Senki</i></sub>
+  <sub>— <b>Jun Satou</b> · <i>Working!!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
