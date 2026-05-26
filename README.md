@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Manusia tetaplah manusia. Mereka adalah makhluk busuk yang bisa melakukan kejahatan sesuai keadaan. Pada akhirnya, mereka hanyalah seekor binatang yang sedikit lebih pintar dari binatang lainnya. Tindakan mereka hanya berdasarkan pada keinginan diri sendiri, mereka sering melupakan balas budi, dan hanya mengingat balas dendam. ❞</i>
+  <i>❝ Mengetahui orang lain mau membaca tulisanku yang kusukai dan mereka memberikan kesan yang cukup bagus itu sangat menyenangkan. ❞</i>
   <br/>
-  <sub>— <b>Aka no Saber</b> · <i>Fate/Apocrypha</i></sub>
+  <sub>— <b>Yoshiteru Zaimokuza</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
