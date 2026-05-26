@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Seorang gadis akan merasa senang jika diperlakukan secara lembut. ❞</i>
+  <i>❝ Manusia tetaplah manusia. Mereka adalah makhluk busuk yang bisa melakukan kejahatan sesuai keadaan. Pada akhirnya, mereka hanyalah seekor binatang yang sedikit lebih pintar dari binatang lainnya. Tindakan mereka hanya berdasarkan pada keinginan diri sendiri, mereka sering melupakan balas budi, dan hanya mengingat balas dendam. ❞</i>
   <br/>
-  <sub>— <b>Rory Mercury</b> · <i>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</i></sub>
+  <sub>— <b>Aka no Saber</b> · <i>Fate/Apocrypha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
