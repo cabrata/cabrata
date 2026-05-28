@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Cinta adalah kekonyolan dan tak ada gunanya jika dibandingkan dengan belajar. ❞</i>
+  <i>❝ Aku merasakan perubahan. Aku yang dulunya tidak tertarik dengan orang lain tanpa kusadari, aku berubah karena dia. Kalau disesuaikan, mungkin aku memilih untuk mengubah diriku. Aku memilih untuk memungut catatan penyakitnya. Aku memilih untuk menemaninya. Lalu, aku memilih untuk berjalan bersamanya. ❞</i>
   <br/>
-  <sub>— <b>Fuutarou Uesugi</b> · <i>Gotoubun no Hanayome</i></sub>
+  <sub>— <b>Haruki Shiga</b> · <i>Kimi no Suizou wo Tabetai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
