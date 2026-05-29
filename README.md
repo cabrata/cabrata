@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tak ada orang yang suka padamu, karena sifatmu yang tak mau menerima apa yang dikatakan orang. ❞</i>
+  <i>❝ Ada orang yang bisa dengan cepat menemukan jalan hidupnya, ada juga orang yang mulai dengan memanjat tinggi baru menemukan jalannya. Tidak apa kalau mengambil jalan pintas, atau pun tersesat di jalan yang salah. (Karena) mereka berhak melakukan itu. ❞</i>
   <br/>
-  <sub>— <b>Kotarou Katsura</b> · <i>Gintama</i></sub>
+  <sub>— <b>Sui Shijima</b> · <i>Hanasaku Iroha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
