@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku selalu mengutamakan apa yang aku inginkan meski banyak mengalami kegagalan. ❞</i>
+  <i>❝ Sebenarnya aku juga tidak terlalu peduli tentang fakta ada atau tidak adanya dunia setelah kematian. Namun, kalaupun tidak ada (surga), menurutku sebaiknya kita tetap mengimani keberadaannya. Karena memang selayaknya begitu. Tidak pantas orang yang selama hidupnya berjuang sekuat tenaga, setelah meninggal hanya menuju ketiadaan. Karena itu lebih baik kita menganggap mereka berada di surga dengan damai. ❞</i>
   <br/>
-  <sub>— <b>Chisato Nishikigi</b> · <i>Lycoris Recoil</i></sub>
+  <sub>— <b>Heiter</b> · <i>Sousou no Frieren</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
