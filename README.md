@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tidak ada hukum yang mengatakan kau tidak boleh menyukai seorang pria hanya karena ia telah memiliki pacar. ❞</i>
+  <i>❝ Ada hal yang tak pernah bisa dilihat sebelum melangkah. Karena itu, aku melangkah tanpa rasa takut. ❞</i>
   <br/>
-  <sub>— <b>Ruri Miyamoto</b> · <i>Nisekoi</i></sub>
+  <sub>— <b>Itsuki Hashima</b> · <i>Imouto sae Ireba Ii.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
