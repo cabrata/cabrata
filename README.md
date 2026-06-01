@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau telah menuntunku. Kau telah memberikan kehidupan bagi boneka sepertiku. ❞</i>
+  <i>❝ Meskipun kita bukan orang yang istimewa, tapi kita bisa menjadi orang yang istimewa bagi seseorang. ❞</i>
   <br/>
-  <sub>— <b>Irisviel von Einzbern</b> · <i>Fate/Zero</i></sub>
+  <sub>— <b>Hitagi Senjougahara</b> · <i>Owarimonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
