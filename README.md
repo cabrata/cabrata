@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kerja keras pasti membuahkan hasil. Bantuan pasti akan datang bagi mereka yang selalu bekerja keras. ❞</i>
+  <i>❝ Yasuri Shichika, ada empat hal yang perlu kau ingat baik-baik. Pertama, jangan menghancurkan pedang. Yang kedua, lindungilah aku. Meskipun tujuan kita adalah mengumpulkan pedang Shikizaki, jika aku mati semuanya akan sia-sia. Yang ketiga, lindungilah dirimu sendiri. Sampai kita berhasil mengumpulkan 12 pedang Shikizaki, jika kau mati takkan aku maafkan. Yang keempat, lindungilah dirimu sendiri. Ini adalah (bentuk) perhatianku padamu. ❞</i>
   <br/>
-  <sub>— <b>Ryuuzen Gotou</b> · <i>Kokoro Connect: Michi Random</i></sub>
+  <sub>— <b>Togame</b> · <i>Katanagatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
