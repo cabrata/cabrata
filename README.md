@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Orang-orang terlalu mengistimewakan sesuatu yang tak bisa dilihat. ❞</i>
+  <i>❝ Aku ingin pergi ke berbagai tempat dan melihat, mendengar, serta merasakan berbagai macam hal yang tidak pernah kurasakan sebelumnya. Aku ingin melakukan semua yang bisa kulakukan sekarang agar saat tua nanti aku tidak punya penyesalan. ❞</i>
   <br/>
-  <sub>— <b>Mahito</b> · <i>Jujutsu Kaisen</i></sub>
+  <sub>— <b>Kuon</b> · <i>Utawarerumono: Itsuwari no Kamen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
