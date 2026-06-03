@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Orang tua manapun akan lega bila anaknya kembali ke rumah. ❞</i>
+  <i>❝ Mereka tidak akan pernah bilang kalau itu susah atau mereka adalah pekerja keras, (meski begitu) mereka terus berjuang keras agar impiannya bisa terwujud. ❞</i>
   <br/>
-  <sub>— <b>Ichiya Suzaku</b> · <i>Qualidea Code</i></sub>
+  <sub>— <b>Kaya Miyoshi</b> · <i>Bakuman.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
