@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Mereka tidak akan pernah bilang kalau itu susah atau mereka adalah pekerja keras, (meski begitu) mereka terus berjuang keras agar impiannya bisa terwujud. ❞</i>
+  <i>❝ Tak ada yang lebih mahal dari sesuatu yang gratis. ❞</i>
   <br/>
-  <sub>— <b>Kaya Miyoshi</b> · <i>Bakuman.</i></sub>
+  <sub>— <b>Honoka Maki</b> · <i>Kiznaiver</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
