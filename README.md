@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Dia adalah tipe orang yang tak mempercayai orang lain. Bukankah tak mungkin orang seperti dia akan menemukan kebahagiaan? ❞</i>
+  <i>❝ Faktor terbesar seseorang tak bisa berenang adalah rasa takut. Takut tak bisa bernapas, takut tak bisa menapakkan kaki, dan takut tenggelam. Karena ketakutan itu, tubuh menjadi kaku. ❞</i>
   <br/>
-  <sub>— <b>Nona</b> · <i>Death Parade</i></sub>
+  <sub>— <b>Mafuyu Kirisu</b> · <i>Bokutachi wa Benkyou ga Dekinai!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
