@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kamu adalah orang yang hebat. Sangat berkebalikan denganku. Tentunya aku ingin menjadi seperti dirimu. Bisa mengakui seseorang, menerima seseorang, mencintai seseorang, dicintai seseorang. Bagaimana caranya agar aku dapat seperti dirimu? ❞</i>
+  <i>❝ Aku tak bisa mengabaikan seseorang yang menangis di depanku. ❞</i>
   <br/>
-  <sub>— <b>Haruki Shiga</b> · <i>Kimi no Suizou wo Tabetai</i></sub>
+  <sub>— <b>Nasa Yuzaki</b> · <i>Tonikaku Kawaii</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
