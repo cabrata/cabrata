@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Ada banyak hal yang menyenangkan dan menyedihkan. Begitu juga kesuksesan dan kegagalan. Kalian memang sudah lulus SD hari ini, tapi masih ada banyak hal lagi yang belum kalian rasakan. Begitu juga denganku. Tapi, merasakan semua hal yang masih belum kita rasakan itu pasti adalah tujuan utama kita hidup. ❞</i>
+  <i>❝ Kamu adalah orang yang hebat. Sangat berkebalikan denganku. Tentunya aku ingin menjadi seperti dirimu. Bisa mengakui seseorang, menerima seseorang, mencintai seseorang, dicintai seseorang. Bagaimana caranya agar aku dapat seperti dirimu? ❞</i>
   <br/>
-  <sub>— <b>Gaku Yashiro</b> · <i>Boku dake ga Inai Machi</i></sub>
+  <sub>— <b>Haruki Shiga</b> · <i>Kimi no Suizou wo Tabetai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
