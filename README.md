@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku tak bisa mengabaikan seseorang yang menangis di depanku. ❞</i>
+  <i>❝ Jika kau memiliki kehormatan, (berarti) kau memiliki keberanian. ❞</i>
   <br/>
-  <sub>— <b>Nasa Yuzaki</b> · <i>Tonikaku Kawaii</i></sub>
+  <sub>— <b>Meme Oshino</b> · <i>Kizumonogatari I: Tekketsu-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
