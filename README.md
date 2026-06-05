@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Sebaiknya jangan pernah menerima uang yang tak pantas diterima. Kalau kau terima, nanti kau akan selalu manggampangkan masalah. ❞</i>
+  <i>❝ Tak ada cowok yang benci cewek nakal. ❞</i>
   <br/>
-  <sub>— <b>Arataka Reigen</b> · <i>Mob Psycho 100 II</i></sub>
+  <sub>— <b>Ikki Kurogane</b> · <i>Rakudai Kishi no Cavalry</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
