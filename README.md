@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kalau kau tak keberatan dengan Makhluk Bumi seperti diriku yang dulu, sekarang dan yang akan datang..., mari (hidup) bersama selamanya. ❞</i>
+  <i>❝ Tidak ada hukum yang mengatakan kau tidak boleh menyukai seorang pria hanya karena ia telah memiliki pacar. ❞</i>
   <br/>
-  <sub>— <b>Kou Ichinomiya</b> · <i>Arakawa Under the Bridge</i></sub>
+  <sub>— <b>Ruri Miyamoto</b> · <i>Nisekoi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
