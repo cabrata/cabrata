@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jika kau punya waktu untuk memikirkan kematianmu, kenapa tak kau jalani kehidupan indahmu sampai akhir? ❞</i>
+  <i>❝ Aku sedikit takut. Bukan karena kematian, tapi aku takut berpisah denganmu. Aku tak pernah merasa seperti ini sebelumnya, tapi menurutku inilah yang terbaik untukku. Semua ini demi masa depan umat manusia, dan juga demi masa depanmu. Untuk itu aku mempertaruhkan nyawaku berapa kali pun. ❞</i>
   <br/>
-  <sub>— <b>Gintoki Sakata</b> · <i>Gintama</i></sub>
+  <sub>— <b>Ruler</b> · <i>Fate/Apocrypha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
