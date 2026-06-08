@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau tak boleh diam dan merasa iri pada dunianya orang lain.
-Kau harus keluar dan mengubah duniamu sendiri. ❞</i>
+  <i>❝ Kita memang harus melakukan apa saja untuk (tetap) hidup. Tapi jangan membuang alasanmu (untuk hidup). Kalau kau membuangnya, kau bukan lagi manusia. ❞</i>
   <br/>
-  <sub>— <b>Shinichi Chiaki</b> · <i>Nodame Cantabile</i></sub>
+  <sub>— <b>Brad</b> · <i>Tales of Zestiria the Cross Season 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
