@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Faktor terbesar seseorang tak bisa berenang adalah rasa takut. Takut tak bisa bernapas, takut tak bisa menapakkan kaki, dan takut tenggelam. Karena ketakutan itu, tubuh menjadi kaku. ❞</i>
+  <i>❝ Setiap orang tak ada yang menyadari kalau dirinya berbakat. Karena itulah, kita semua terus berjuang meningkatkan kemampuan kita. Saat kita berjuang meningkatkan kemampuan kita, kita sadar bahwa orang disekitar kita juga semakin meningkat dan kita jadi semakin termotivasi. Kurasa teman dapat dijadikan sebagai rival. ❞</i>
   <br/>
-  <sub>— <b>Mafuyu Kirisu</b> · <i>Bokutachi wa Benkyou ga Dekinai!</i></sub>
+  <sub>— <b>Eri Ayase</b> · <i>Love Live! School Idol Project</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
