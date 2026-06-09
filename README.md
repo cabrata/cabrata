@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Dengarkan kalian (para murid). Saat malam hari orang harus tidur. Karena nanti kalau sudah dewasa meskipun kalian benci begadang, tapi (keadaan membuat) kalian harus melakukannya. Selagi masih muda, kalian harus terbiasa hidup sehat. ❞</i>
+  <i>❝ Takut dikhianati, lebih buruk dari pengkhianatan! ❞</i>
   <br/>
-  <sub>— <b>Sensei</b> · <i>Yofukashi no Uta</i></sub>
+  <sub>— <b>Yuusuke Fujisaki</b> · <i>Sket Dance</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
