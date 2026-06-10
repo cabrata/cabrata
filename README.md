@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jangan lengah. Kalau segalanya berjalan mulus, kamu akan mudah tersandung. ❞</i>
+  <i>❝ Manusia bisa saling berkumpul, saling membantu, dan menyelesaikan sesuatu. Namun peradaban mereka gampang sekali dimusnahkan oleh para naga. Jadi kurasa naga lebih hebat (dari manusia). ❞</i>
   <br/>
-  <sub>— <b>Muzan Kibutsuji</b> · <i>Kimetsu no Yaiba: Yuukaku-hen</i></sub>
+  <sub>— <b>Tooru</b> · <i>Kobayashi-san Chi no Maid Dragon</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
