@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jangan (pernah) meremehkan seorang otaku yang sedang bersungguh-sungguh. ❞</i>
+  <i>❝ Jangan lengah. Kalau segalanya berjalan mulus, kamu akan mudah tersandung. ❞</i>
   <br/>
-  <sub>— <b>Tomoya Aki</b> · <i>Saenai Heroine no Sodatekata</i></sub>
+  <sub>— <b>Muzan Kibutsuji</b> · <i>Kimetsu no Yaiba: Yuukaku-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
