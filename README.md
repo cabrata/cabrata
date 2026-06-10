@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ (Touko-san, apa yang menyebabkan seseorang membunuh orang lain?)
-Itu terjadi ketika perasaan emosi pembunuh terhadap korban melampaui batasnya. Entah itu perasaan benci atau cinta, emosi yang tumpah dari wadahnya harus dibersihkan apapun caranya. Dan saat cara itu berubah ekstrem, maka akan menjadi pembunuhan. ❞</i>
+  <i>❝ Jangan (pernah) meremehkan seorang otaku yang sedang bersungguh-sungguh. ❞</i>
   <br/>
-  <sub>— <b>Touko Aozaki</b> · <i>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</i></sub>
+  <sub>— <b>Tomoya Aki</b> · <i>Saenai Heroine no Sodatekata</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
