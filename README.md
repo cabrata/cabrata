@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Sesedih apapun suatu ingatan, setelah diceritakan semuanya hanya akan jadi suatu cerita. ❞</i>
+  <i>❝ Seseorang akan lebih puas jika mendengarkan kata terima kasih daripada kata maaf. Aku melakukannya karena aku ingin menolongmu, dan bukan untuk mendapatkan kata maaf. ❞</i>
   <br/>
-  <sub>— <b>Ougi Oshino</b> · <i>Owarimonogatari</i></sub>
+  <sub>— <b>Emilia</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
