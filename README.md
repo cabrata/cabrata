@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Menggunakan internet itu seperti menggunakan pisau untuk memasak atau menggunakan kertas untuk menulis. Pada dasarnya itu bukan tentang baik atau buruk. Karena keberadaan internet, maka kita (tinggal) menerimanya dan menggunakannya. ❞</i>
+  <i>❝ Semua orang yang ingin menjadi Koki profesional pasti pernah mengalami kekalahan. Meski kepercayaan diri dan kebanggaanmu yang telah kau bangun selama bertahun-tahun hancur berkeping-keping dalam sebuah kesalahan besar. Meski kau memiliki pengalaman yang sangat buruk kau masih harus membuka tokomu esok hari. Seperti itulah yang dinamakan Koki. ❞</i>
   <br/>
-  <sub>— <b>Akane Tsunemori</b> · <i>Psycho-Pass</i></sub>
+  <sub>— <b>Souma Yukihira</b> · <i>Shokugeki no Souma: Ni no Sara</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
