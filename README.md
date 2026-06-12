@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Beda orang, beda pandangan. Rasa sayang itu ada macam-macam bentuknya. ❞</i>
+  <i>❝ Pertama, kau harus memutuskan dimana seharusnya kau berada. Dengan begitu, kau bisa memutuskan apa yang ingin kau lakukan. ❞</i>
   <br/>
-  <sub>— <b>Kakek Mikage</b> · <i>Gin no Saji</i></sub>
+  <sub>— <b>Jin Mitaka</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
