@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kita semua hanyalah manusia. Kadang, kita berbuat salah.
-Hanya saja, jangan berbuat kesalahan saat nyawa taruhannya. ❞</i>
+  <i>❝ Orang dewasa takkan marah pada setiap keteledoran anak-anak. ❞</i>
   <br/>
-  <sub>— <b>Nenek Buyut Mikage</b> · <i>Gin no Saji</i></sub>
+  <sub>— <b>Deishuu Kaiki</b> · <i>Monogatari Series: Second Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
