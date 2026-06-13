@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Daripada menyesal tanpa melakukan apa-apa, kupikir lebih baik melakukan hal yang kubisa dan menyesalinya. Meskipun aku tahu kalau persentasenya nol persen, tapi bukankah akan menjengkelkan jika hanya diam saja? ❞</i>
+  <i>❝ Kutukan dan berkah itu pada dasarnya sama, tergantung bagaimana kita menerimanya. ❞</i>
   <br/>
-  <sub>— <b>Koyuki Ayase</b> · <i>Zutto Mae Kara Suki Deshita.: Kokuhaku Jikkou Iinkai</i></sub>
+  <sub>— <b>Rahab</b> · <i>Mahoutsukai no Yome</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
