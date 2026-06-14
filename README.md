@@ -22,9 +22,12 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Teruslah maju dan jangan berhenti sebelum bakat dan masa muda kalian menghilang. ❞</i>
+  <i>❝ (Apakah bunuh diri itu dapat di benarkan, Mikiya?)
+Hm... Misalnya aku mengidap virus berbahaya. Jika aku hidup semua orang di Tokyo akan mati. Jika semuanya bisa selamat kalau aku mati, maka aku mungkin akan bunuh diri. Tapi aku melakukannya karena aku lemah. Aku bunuh diri karena aku tak punya keberanian untuk tetap hidup jika semua orang di Tokyo menyalahkanku.
+Keberanian sesaat atau keberanian berlanjut selama hidupmu. Kau tahu mana yang paling sulit kan?
+Itu adalah argumen yang sulit, tapi kupikir kematian hanyalah pelarian. Ada saat seseorang ingin lari menjauh. Itu sesuatu yang tak bisa dielak ataupun ditolak, karena aku orang yang lemah juga. ❞</i>
   <br/>
-  <sub>— <b>Koro-sensei</b> · <i>Ansatsu Kyoushitsu 2nd Season</i></sub>
+  <sub>— <b>Mikiya Kokutou</b> · <i>Kara no Kyoukai 1: Fukan Fuukei</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
