@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jika dia belajar sedikit tentang kebahagiaan, dia pasti akan segera melampauiku, meskipun begitu kebahagiaan bukanlah perlombaan. Jika dia melampauiku, nanti giliran aku yang akan belajar darinya. Itulah yang namanya belajar, mengajar, dan saling membantu demi mencapai puncak bersama. Mari belajar bersama. Meskipun kebodohan kita tidak ada batasnya, tapi kita bisa menjadi bijak bersama. Kita bisa mendapat kebahagiaan yang layak bersama. ❞</i>
+  <i>❝ Manusia adalah budak dari apa yang dilihatnya. ❞</i>
   <br/>
-  <sub>— <b>Koyomi Araragi</b> · <i>Owarimonogatari</i></sub>
+  <sub>— <b>Karabo Frampton</b> · <i>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
