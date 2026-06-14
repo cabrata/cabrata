@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jika kau ingin berkelahi, lakukanlah secara adil dan jujur. ❞</i>
+  <i>❝ Hasil pertarungan tidaklah penting, menang ataupun kalah yang terpenting kau bisa mencapai tujuanmu. ❞</i>
   <br/>
-  <sub>— <b>Shinichi Izumi</b> · <i>Kiseijuu: Sei no Kakuritsu</i></sub>
+  <sub>— <b>Togame</b> · <i>Katanagatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
