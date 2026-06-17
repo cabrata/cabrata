@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kalau kau merasa malu, tunjukkan padaku sudah sedewasa apakah dirimu! ❞</i>
+  <i>❝ Saat kau menelusuri akar, ranting, dan daun yang membawamu mencapai kebenaran, maka kau akan mengerti segalanya, lalu kau mampu menguasainya! ❞</i>
   <br/>
-  <sub>— <b>Shirou Fujimoto</b> · <i>Ao no Exorcist</i></sub>
+  <sub>— <b>Ikki Kurogane</b> · <i>Rakudai Kishi no Cavalry</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
