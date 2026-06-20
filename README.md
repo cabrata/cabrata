@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kalau kau ingin melindungi seseorang yang berharga bagimu, maka aku akan berada di pihakmu. ❞</i>
+  <i>❝ Ada yang memberitahuku kalau menemui hambatan yang berat dan kehilangan harapan, maka ubahlah caramu melihat cahaya (kehidupan). ❞</i>
   <br/>
-  <sub>— <b>Illyasviel von Einzbern</b> · <i>Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly</i></sub>
+  <sub>— <b>Aso Misato</b> · <i>Haruchika: Haruta to Chika wa Seishun Suru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
