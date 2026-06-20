@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau tak perlu mencari-cari alasan. Lakukan saja apa yang benar-benar ingin kau lakukan. Bukankah begitu caranya kita mulai melakukan sesuatu yang benar-benar kita inginkan? ❞</i>
+  <i>❝ Untuk melihat keaslian, kita harus bersikap realistis. ❞</i>
   <br/>
-  <sub>— <b>Nozomi Toujou</b> · <i>Love Live! School Idol Project</i></sub>
+  <sub>— <b>Yusuke Kitagawa</b> · <i>Persona 5 the Animation</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
