@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Naskah bukanlah produk jadi. Kalau tujuannya hanya untuk dibaca, lebih baik buat novel saja. ❞</i>
+  <i>❝ Kau mungkin istimewa dan orang yang terpilih. Aku mungkin tidak istimewa dan juga bukan orang yang terpilih. Tidak ada yang bisa menggantikanmu, tapi banyak orang yang bisa menggantikanku. Namun, kau tidak akan bisa menjadi sepertiku. Banyak orang yang bisa menggantikanku, tapi aku adalah satu-satunya (tidak ada yang lain). Dirimu bukanlah diriku, dan diriku bukanlah dirimu. ❞</i>
   <br/>
-  <sub>— <b>Misaki Kanou</b> · <i>Bokutachi no Remake</i></sub>
+  <sub>— <b>Koyomi Araragi</b> · <i>Owarimonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
