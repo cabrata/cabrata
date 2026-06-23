@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau tak boleh mundur, saat kau sudah maju. ❞</i>
+  <i>❝ Hidup tanpa hal menarik itu tak ada artinya. ❞</i>
   <br/>
-  <sub>— <b>Shiro</b> · <i>No Game No Life</i></sub>
+  <sub>— <b>Ha Yuri Jahad</b> · <i>Kami no Tou</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
