@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tiba lima menit sebelum jam yang ditentukan, merupakan aturan dasar di masyarakat. ❞</i>
+  <i>❝ Aku tak akan menikah dengan orang lain (selain dirimu). Aku telah berdoa agar bisa bersamamu untuk selamanya. ❞</i>
   <br/>
-  <sub>— <b>Yukino Yukinoshita</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</i></sub>
+  <sub>— <b>Sae Nakata</b> · <i>Amagami SS+ Plus</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
