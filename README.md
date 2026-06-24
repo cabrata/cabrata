@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Mulanya kupikir, aku akan pergi ke universitas yang bagus, jika gagal menjadi seniman manga. Tapi aku menyadari itu merupakan rencana bodoh. (karena ketika aku memutuskan untuk memiliki impian, aku tak boleh berpikiran akan gagal). ❞</i>
+  <i>❝ Menghajar orang yang lemah itu menyedihkan. ❞</i>
   <br/>
-  <sub>— <b>Akito Takagi</b> · <i>Bakuman.</i></sub>
+  <sub>— <b>Kana Kimishima</b> · <i>Kiseijuu: Sei no Kakuritsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
