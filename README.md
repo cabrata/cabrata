@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tapi, takkan ada permulaan jika hanya duduk dan menonton. Aku tak bisa menjelaskannya. Tapi,  inilah kesempatanku satu-satunya. Jadi, kami ingin bersinar! ❞</i>
+  <i>❝ Aku selalu siap menerima (kematian). Bila ajal menjemput, maka memang lebih baik mati. Aku, Akane Sonoyama tak akan mengeluh dibunuh, tak peduli kapan, di mana, oleh siapa, dan dengan alasan apapun. ❞</i>
   <br/>
-  <sub>— <b>Chika Takami</b> · <i>Love Live! Sunshine!!</i></sub>
+  <sub>— <b>Akane Sonoyama</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
