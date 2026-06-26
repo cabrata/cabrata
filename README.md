@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku akan berbohong apabila mengatakan tidak mengorbankan diriku disini (pengorbanan merawat anak).
-Jadi aku harap dapat melewati tahun-tahun kedepan (menjadi lebih baik). ❞</i>
+  <i>❝ Manusia tidak hidup begitu saja karena (alasan) suatu saat mereka akan mati. (Meski) mereka hidup dan suatu saat mereka akan mati, kehidupan mereka memiliki arti. ❞</i>
   <br/>
-  <sub>— <b>Daikichi Kawachi</b> · <i>Usagi Drop</i></sub>
+  <sub>— <b>Decim</b> · <i>Death Parade</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
