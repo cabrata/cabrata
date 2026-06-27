@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Anggap kau punya ikan di akuarium. Lalu kau naikkan temperatur airnya sedikit demi sedikit sampai akhirnya airnya mendidih. Tapi ikan itu tidak menyadarinya dan terus berenang di air yang mendidih. Ini terdengar cerita bohongan, tapi sebenarnya tidak. Nah, apa yang kau tangkap dari cerita ini? ❞</i>
+  <i>❝ Jika kau bisa mengetahui posisi dan momentum setiap atom di dunia ini, kau bisa memprediksi masa depan. ❞</i>
   <br/>
-  <sub>— <b>Tomo Kunagisa</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
+  <sub>— <b>Rio Futaba</b> · <i>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
