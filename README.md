@@ -22,11 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Dia tiba-tiba berhenti bicara, aku jadi tidak tahu apa yang harus kulakukan...
-Hatiku menjadi tak karuan, (dan) rasanya seperti terlahir kembali. Banyak perasaan yang belum pernah kurasakan sebelumnya.
-Kazehaya-kun seperti sedang memperkenalkanku dengan banyak hal yang baru. Aku senang bisa bertemu dengannya. ❞</i>
+  <i>❝ Kalian akan dapat terus maju dengan berpegang pada penderitaan.
+Jaga teman kalian saat ini. (Karena) jika mereka mati, mereka takkan kembali. ❞</i>
   <br/>
-  <sub>— <b>Sawako Kuronuma</b> · <i>Kimi ni Todoke</i></sub>
+  <sub>— <b>Shinohara</b> · <i>Hai to Gensou no Grimgar</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
