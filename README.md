@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kutukan dan berkah itu pada dasarnya sama, tergantung bagaimana kita menerimanya. ❞</i>
+  <i>❝ Kita semua mungkin melihat ke arah yang berbeda-beda, tapi kita semua punya tujuan kembali yang sama. ❞</i>
   <br/>
-  <sub>— <b>Rahab</b> · <i>Mahoutsukai no Yome</i></sub>
+  <sub>— <b>Gintoki Sakata</b> · <i>Gintama°</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
