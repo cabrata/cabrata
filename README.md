@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Semua yang indah (pasti) ada akhirnya. Keabadian itu tidak ada, meskipun menyedihkan tapi aku pikir lebih baik begitu. ❞</i>
+  <i>❝ Manusia tumbuh lebih kuat demi dirinya sendiri. ❞</i>
   <br/>
-  <sub>— <b>Yuki Takeya</b> · <i>Gakkou Gurashi!</i></sub>
+  <sub>— <b>Hibana</b> · <i>Enen no Shouboutai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
