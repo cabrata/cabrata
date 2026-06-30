@@ -22,13 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Apa yang akan terjadi jika kita hanya mendapatkan hal-hal yang baik?
-Kita akan berharap besok lebih baik dari hari ini dan lusa lebih baik dari besok.
-Kita akan terus berharap untuk menjadi lebih baik.
-Tapi, pada akhirnya apa yang akan terjadi?
-Pada akhirnya kita tidak akan pernah bisa merasa puas. ❞</i>
+  <i>❝ Dazai pernah berkata, "Manusia lahir untuk cinta dan revolusi". ❞</i>
   <br/>
-  <sub>— <b>Holo</b> · <i>Ookami to Koushinryou II</i></sub>
+  <sub>— <b>Kotarou Azumi</b> · <i>Tsuki ga Kirei</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
