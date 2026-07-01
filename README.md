@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku akan menghapus kegelapan di masa lalu, dan membangun masa depan yang cerah dari awal. ❞</i>
+  <i>❝ Memiliki sesuatu untuk dilindungi menjadikanmu seorang pejuang. ❞</i>
   <br/>
-  <sub>— <b>Sasuke Uchiha</b> · <i>Naruto Shippuden</i></sub>
+  <sub>— <b>Ruijerd Superdia</b> · <i>Mushoku Tensei: Isekai Ittara Honki Dasu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
