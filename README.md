@@ -22,9 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Memiliki sesuatu untuk dilindungi menjadikanmu seorang pejuang. ❞</i>
+  <i>❝ "Suka" saja sudah cukup kan?
+Karena saat aku melihat Zaitsu-kun, dadaku berdebar-debar. Tapi itu bukan karena dia keren atau baik hati. Melainkan karena aku suka dia. Bukankah tak perlu alasan untuk suka (seseorang)? Selama kamu berdebar-debar, bukankah itu cinta? ❞</i>
   <br/>
-  <sub>— <b>Ruijerd Superdia</b> · <i>Mushoku Tensei: Isekai Ittara Honki Dasu</i></sub>
+  <sub>— <b>Ayumi Arihara</b> · <i>Hatsukoi Limited</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
