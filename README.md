@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Menjatuhkan orang lain demi keuntungan sendiri adalah usaha yang sia-sia. Itu artinya, mereka sudah menyerah untuk menang. ❞</i>
+  <i>❝ Justru impian yang sederhanalah yang paling sulit diwujudkan. ❞</i>
   <br/>
-  <sub>— <b>Michiru Saiki</b> · <i>ReLIFE</i></sub>
+  <sub>— <b>Kraft Lawrence</b> · <i>Ookami to Koushinryou II</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
