@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Wujud terakhir dari sains adalah Tuhan dan Kematian. Keduanya ada dan tidak bisa dikalahkan dengan sains. Itulah kenapa kita menuju keduanya. ❞</i>
+  <i>❝ Aku takkan memaksamu untuk melakukan sesuatu yang besar. Cukup lakukan apa yang bisa kau lakukan. Aku pun akan melakukan apa yang bisa kulakukan. Begitulah peran yang bisa kita lakukan di dunia ini. ❞</i>
   <br/>
-  <sub>— <b>Motojirou Kajii</b> · <i>Bungou Stray Dogs</i></sub>
+  <sub>— <b>Saber</b> · <i>Fate/Extra Last Encore</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
