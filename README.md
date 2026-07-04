@@ -22,9 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Manusia itu menyedihkan. Mereka selalu menginginkan apa yang tidak bisa dimiliki, (dan) selalu ingin meraih apa yang tak bisa diraih. ❞</i>
+  <i>❝ Seperti yang diharapkan, Pemain sang juara dunia memang (terlihat) garang. (Tapi) takkan kubiarkan... Jika aku tertekan, habislah aku. Kalau gentar, aku bisa kalah. Kalau takut, aku bisa mati.
+Baiklah. Siap!! ❞</i>
   <br/>
-  <sub>— <b>Kamui</b> · <i>Gintama</i></sub>
+  <sub>— <b>Yutaka Hoshino</b> · <i>Ping Pong The Animation</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
