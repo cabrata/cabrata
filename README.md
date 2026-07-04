@@ -22,9 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Manusia senang menyakiti orang lain ketika mereka tidak bisa menyakiti diri sendiri. ❞</i>
+  <i>❝ Aku benar-benar beruntung, punya orang-orang yang mendukungku dan menolongku.
+Hanya dapat hidup saja sudah (membuatku) beruntung. ❞</i>
   <br/>
-  <sub>— <b>Yozora Mikazuki</b> · <i>Boku wa Tomodachi ga Sukunai</i></sub>
+  <sub>— <b>Ryousuke Kirishima</b> · <i>Sket Dance</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
