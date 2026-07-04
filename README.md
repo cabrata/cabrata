@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Apakah setiap orang itu sama?
-Masyarakat tidak mengganggap seperti itu. "Di atas langit, masih ada langit. Di bawah tanah, masih ada tanah." begitulah kata orang-orang. Tapi, hal ini masih ada kelanjutannya. Ketika lahir, setiap manusia pada dasarnya sama. Tapi, setelah itu tergantung usaha dari masing-masing individu. Dari situlah terlihat kesenjangan di antara mereka. ❞</i>
+  <i>❝ Sains adalah satu-satunya bahasa yang bisa membuat kita mengerti alam semesta yang diciptakan Tuhan. ❞</i>
   <br/>
-  <sub>— <b>Kiyotaka Ayanokouji</b> · <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i></sub>
+  <sub>— <b>Motojirou Kajii</b> · <i>Bungou Stray Dogs Season 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
