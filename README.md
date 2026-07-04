@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Menjadi "orang dewasa" itu tidak selalu mengesankan. Terkadang "dewasa" itu hanya penampilan luarnya saja. Mereka (hanya) ingin terlihat mengagumkan di depan masyarakat, (dan) ingin dihormati oleh anak-anak. ❞</i>
+  <i>❝ Kejujuran yang kau perlihatkan saat kau mengungkapkan perasaanmu benar-benar murni dan manis. ❞</i>
   <br/>
-  <sub>— <b>Sakie Satou</b> · <i>Demi-chan wa Kataritai</i></sub>
+  <sub>— <b>Suzuno Kamazuki</b> · <i>Hataraku Maou-sama!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
