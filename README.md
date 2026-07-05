@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Saat sudah dewasa, kemampuan bersosial itu jadi hal yang penting. ❞</i>
+  <i>❝ Aku berharap kalian dapat menunjukkan pada dunia bahwa ada hal yang lebih penting daripada gelar atau pun kekuasaan. ❞</i>
   <br/>
-  <sub>— <b>Arataka Reigen</b> · <i>Mob Psycho 100 II</i></sub>
+  <sub>— <b>Alexis Douse</b> · <i>Grancrest Senki</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
