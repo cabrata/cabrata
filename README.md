@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku tidak punya cukup tenaga untuk bersikap baik terhadap semua orang. ❞</i>
+  <i>❝ Pajak Kebahagiaan. Semua hal yang mendatangkan kebahagiaan itu pasti kena pajak. ❞</i>
   <br/>
-  <sub>— <b>Youji Itami</b> · <i>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</i></sub>
+  <sub>— <b>Yuu Ishigami</b> · <i>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
