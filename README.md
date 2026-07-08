@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Orang yg kau cintai belum tentu akan mencintaimu. Orang yg kau benci belum tentu juga akan membencimu. Terkadang, bahkan orang itu tidak akan membiarkanmu membenci dirinya.
-Karena manusia bukanlah karakter dalam manga. Orang yg benar-benar dibenci itu tidak ada. Orang yg benar-benar jahat juga tidak ada. Tidak ada sifat (seseorang) yang terlihat sama dari setiap sudut pandang, dan sifat seseorang tidak selamanya sama. Walaupun kau yakin dengan kemampuan berlarimu, tapi kau tidak selalu berlari kan? (Setidaknya) kau pasti berjalan dan tidur. ❞</i>
+  <i>❝ Mempelajari (tentang) seseorang dan berinteraksi dengan mereka itu adalah sesuatu yang berbeda. ❞</i>
   <br/>
-  <sub>— <b>Deishuu Kaiki</b> · <i>Hanamonogatari</i></sub>
+  <sub>— <b>Seiya Kanie</b> · <i>Amagi Brilliant Park</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
