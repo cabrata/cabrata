@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Cinta adalah alat untuk menguasai. ❞</i>
+  <i>❝ Kerja di pagi hari memang bagus untuk membakar semangat! Ayo sama-sama kita berkeringat! ❞</i>
   <br/>
-  <sub>— <b>Quinella</b> · <i>Sword Art Online: Alicization</i></sub>
+  <sub>— <b>Satoshi Isshiki</b> · <i>Shokugeki no Souma</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
