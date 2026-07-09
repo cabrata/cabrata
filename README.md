@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kadang-kadang pria harus melindungi sesuatu, walaupun dia harus membuang kehormatannya sendiri. ❞</i>
+  <i>❝ Sekalipun jika kita menang hari ini, tidak berarti kita juga bisa memenangkan pertarungan selanjutnya. ❞</i>
   <br/>
-  <sub>— <b>Kanichi Konishi</b> · <i>Shokugeki no Souma</i></sub>
+  <sub>— <b>Shichika Yasuri</b> · <i>Katanagatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
