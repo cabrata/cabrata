@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kutukan dan berkah itu pada dasarnya sama, tergantung bagaimana kita menerimanya. ❞</i>
+  <i>❝ Bagaimanapun juga, (semua) manusia itu terkurung dalam penjara yang disebut dengan "Bumi". Tak ada bedanya (hidup) di atas atau di bawah. Yang berbeda hanyalah luas atau sempitnya saja. Orang yang merasa bahwa penjara itu sempit dan tak bisa menerimanya, mereka takkan pernah bisa bebas. Hidupnya hanya akan memandangi batang-batang besi penjara itu. Mereka yang benar-benar terkurung itu ketika mereka membuat penjara dalam hatinya. Jika kau punya tenaga dan waktu untuk mengeluh tentang kematian, kenapa kau tidak berjuang (untuk hidup) dengan kekuatanmu sendiri? ❞</i>
   <br/>
-  <sub>— <b>Rahab</b> · <i>Mahoutsukai no Yome</i></sub>
+  <sub>— <b>Hinowa</b> · <i>Gintama</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
