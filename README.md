@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Anjing dan kucing punya kemampuan untuk menganalisa kekuatan musuhnya. (Maka dari itu) Hewan menghindari pertarungan yang tak bisa mereka menangkan. ❞</i>
+  <i>❝ Aku sangat setuju kalau seorang anak memang membutuhkan seorang ibu. ❞</i>
   <br/>
-  <sub>— <b>Migi</b> · <i>Kiseijuu: Sei no Kakuritsu</i></sub>
+  <sub>— <b>Haruko Maeda</b> · <i>Usagi Drop</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
