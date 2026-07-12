@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku tak akan memaksakan diri dan menjalani hidup dengan senang-senang. ❞</i>
+  <i>❝ Waktu-waktu tanpa dirimu sungguh membuatku sangat kesepian. Hanya sosokmulah yang dapat meniupkan hawa kehidupan dalam tubuhku. ❞</i>
   <br/>
-  <sub>— <b>Red</b> · <i>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</i></sub>
+  <sub>— <b>Soushi Miketsukami</b> · <i>Inu x Boku SS</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
