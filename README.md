@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jika seorang pria bersungguh-sungguh, apapun mungkin bisa diselesaikan dalam sehari. ❞</i>
+  <i>❝ Aku tak tahu sudah seberapa banyak hal yang gagal aku lindungi. Sekarang aku sudah tak punya apa-apa lagi, akan tetapi paling tidak, orang yang ada didepanku harus ku lindungi. ❞</i>
   <br/>
-  <sub>— <b>Kurihara</b> · <i>Prison School</i></sub>
+  <sub>— <b>Gintoki Sakata</b> · <i>Gintama</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
