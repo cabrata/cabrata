@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Suatu hari mungkin kita harus berpisah dan mungkin (juga) aku akan dilupakan. Tapi aku tidak akan pernah melupakanmu. ❞</i>
+  <i>❝ Kita tak bisa menilai sesuatu yang tak bisa dilihat. ❞</i>
   <br/>
-  <sub>— <b>Arata Kaizaki</b> · <i>ReLIFE</i></sub>
+  <sub>— <b>Kusuo Saiki</b> · <i>Saiki Kusuo no Ψ-nan 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
