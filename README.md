@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Bukankah pemikiran mengenai kita yang tak bisa hidup tanpa perlindungan elves (makhluk lain), itu malah mencela dirimu sendiri? ❞</i>
+  <i>❝ Kau tahu, aku merasakan sesuatu di (atas panggung) sana. Kalau semua orang mempunyai sesuatu di dalam hatinya. Untuk beberapa orang mungkin kebencian, aspirasi, harapan, keinginan untuk di perhatikan, perasaan yang ingin tercapai (seperti) perasaan untuk ibuku. Semua orang di dukung oleh perasaannya sendiri. (Dan) mungkin mustahil bagi seseorang untuk berdiri sendiri di atas panggung. ❞</i>
   <br/>
-  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
+  <sub>— <b>Kousei Arima</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
