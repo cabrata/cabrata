@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau orangnya baik. Kau selalu mengajarkanku hal-hal baru. Terima kasih untuk semuanya. Jika tidak keberatan, tetaplah bersamaku selamanya. ❞</i>
+  <i>❝ Bukankah pemikiran mengenai kita yang tak bisa hidup tanpa perlindungan elves (makhluk lain), itu malah mencela dirimu sendiri? ❞</i>
   <br/>
-  <sub>— <b>Yachiyo Todoroki</b> · <i>Working!!!</i></sub>
+  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
