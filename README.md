@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jangan melihat ke atas, tapi lihatlah ke bawah. Hiduplah di dunia ini dengan melihat ke bawah. Jika melihat ke atas terus tidak ada habisnya. Melihat ke bawah juga tak ada habisnya. ❞</i>
+  <i>❝ Semua hal saling terhubung. Tubuh kita merupakan bagian kecil dari alam semesta. Bagian itu saling terhubung dengan alam semesta yang lebih besar. ❞</i>
   <br/>
-  <sub>— <b>Bunko Daikokutei</b> · <i>Uchi no Shishou wa Shippo ga Nai</i></sub>
+  <sub>— <b>Lord El-Melloi II</b> · <i>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
