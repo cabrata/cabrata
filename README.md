@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Teman yang saling mengerti satu sama lain lewat berbagi hobi adalah teman yang sangat berharga. ❞</i>
+  <i>❝ Sebelumnya, aku percaya akan kebenaran bahwa di dunia ini ada hal yang "benar", dan tergantung kita bisa melakukannya atau tidak. Namun, kini aku tahu bahwa kebenaran bisa diproduksi massal. Kini aku tahu bahwa kebenaran ditentukan berdasarkan banyaknya orang. Kini aku tahu bahwa suara mayoritas adalah segalanya. Karena itu, aku memilih sendiri daripada berkumpul. Aku tidak butuh teman karena nanti kemampuan kemanusiaanku akan berkurang. Hanya itu yang bisa kulakukan demi melindungi kebenaran yang kuyakini. ❞</i>
   <br/>
-  <sub>— <b>Kazuki Kazami</b> · <i>Grisaia no Meikyuu: Caprice no Mayu 0</i></sub>
+  <sub>— <b>Koyomi Araragi</b> · <i>Owarimonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
