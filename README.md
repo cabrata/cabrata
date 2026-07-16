@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku ini orang yang paling mengerti perasaan siscon. ❞</i>
+  <i>❝ Seluruh pengalaman yang didapat adalah alat untuk membersihkan jalanmu ke depan. ❞</i>
   <br/>
-  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan</i></sub>
+  <sub>— <b>Tadaomi Karasuma</b> · <i>Ansatsu Kyoushitsu 2nd Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
