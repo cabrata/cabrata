@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Dalam permainan (judi) aku benci situasi ketika mengetahui aku pasti menang atau pasti kalah. ❞</i>
+  <i>❝ Bahkan jika itu berarti mati, tidak ada satu pun dari kami yang akan mengkhianati teman sendiri. ❞</i>
   <br/>
-  <sub>— <b>Yumeko Jabami</b> · <i>Kakegurui</i></sub>
+  <sub>— <b>Kakashi Hatake</b> · <i>Naruto Shippuden</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
