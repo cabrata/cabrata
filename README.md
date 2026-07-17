@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Bertarunglah! Meski jika Anda memiliki penyesalan, atau meski anda memiliki luka, Anda harus tetap bertarung! Jika Anda membuat keputusan untuk bertarung dan berusaha, Anda harus bertarung sekuat tenaga! Jangan sampai menyerah meski hanya satu detik, hanya sesaat, atau sekilas saja. Anda harus berpegang teguh pada rasa haus kemenangan yang terpancar dimata Anda. Jika Anda masih bisa berdiri, jika jari Anda masih bisa bergerak, jika seluruh gigi Anda masih belum hancur, Anda harus berdiri dan bertarung! Anda harus bertarung! ❞</i>
+  <i>❝ Cepatlah meminta maaf kepada Ayahmu, kau takkan bisa meminta maaf jika dia telah mati. ❞</i>
   <br/>
-  <sub>— <b>Wilhelm van Astrea</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
+  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist: Kyoto Fujouou-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
