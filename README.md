@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Dengan seluruh tubuh dan hati kita! Kita tak boleh mundur! Kita harus jujur pada perasaan masing-masing. Aku ingin mengubah nol menjadi satu. ❞</i>
+  <i>❝ Karena kita makhluk yang memiliki ingatan yang kuat, kita jadi dikendalikan oleh informasi. ❞</i>
   <br/>
-  <sub>— <b>Chika Takami</b> · <i>Love Live! Sunshine!!</i></sub>
+  <sub>— <b>Lord El-Melloi II</b> · <i>Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
