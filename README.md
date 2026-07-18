@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Pada saat kita bertemu, kau benar-benar gila. Aku seperti terus merasakan belas kasihmu. Tapi kau membuatku melihat seberapa berharganya musik, dan teman-teman kepadaku. Karena kau berada disini, duniaku terbuka begitu lebar. Jadi ayo tetap bersama selamanya! ❞</i>
+  <i>❝ Wanita adalah makhluk yang siap tempur. ❞</i>
   <br/>
-  <sub>— <b>Yuu Haruna</b> · <i>Fuuka</i></sub>
+  <sub>— <b>Yuriko Ochiai</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
