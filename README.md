@@ -22,11 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku tak butuh alasan.
-Saat aku bilang akan kutolong, maka akan kutolong!
-Aku takkan pernah mengkhianati temanku! ❞</i>
+  <i>❝ Kenapa kau bohong pada dirimu sendiri? Kau mungkin bisa melarikan diri saat ini, tapi waktu tetap akan berlalu tanpa menyelesaikan masalahmu. ❞</i>
   <br/>
-  <sub>— <b>Yuusuke Fujisaki</b> · <i>Sket Dance</i></sub>
+  <sub>— <b>Mio Kitahara</b> · <i>Ano Natsu de Matteru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
