@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tak peduli sebanyak apapun kau mencoba. Percuma menutupinya dengan kata-kata, bakat yang belum terlatih adalah fakta kehidupan. ❞</i>
+  <i>❝ Melakukan kejahatan, setelah ditangkap mengatakan bahwa iblis telah menghasutnya. Itu adalah alasan yang biasa dikatakan oleh politikus sekarang ini. ❞</i>
   <br/>
-  <sub>— <b>Taiga Kagami</b> · <i>Kuroko no Basket</i></sub>
+  <sub>— <b>Maou</b> · <i>Maoyuu Maou Yuusha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
