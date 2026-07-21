@@ -22,9 +22,13 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Agen papan atas adalah agen yang bisa menghabisi anak muda genius sebelum tumbuh dewasa. ❞</i>
+  <i>❝ Apa yang akan terjadi jika kita hanya mendapatkan hal-hal yang baik?
+Kita akan berharap besok lebih baik dari hari ini dan lusa lebih baik dari besok.
+Kita akan terus berharap untuk menjadi lebih baik.
+Tapi, pada akhirnya apa yang akan terjadi?
+Pada akhirnya kita tidak akan pernah bisa merasa puas. ❞</i>
   <br/>
-  <sub>— <b>Koumori</b> · <i>Tantei wa Mou, Shindeiru.</i></sub>
+  <sub>— <b>Holo</b> · <i>Ookami to Koushinryou II</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
