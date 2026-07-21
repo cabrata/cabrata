@@ -22,9 +22,16 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Hidup tanpa sebuah tujuan akan terasa hampa! ❞</i>
+  <i>❝ Kaulah orang pertama yang memperlihatkan banyak hal padaku.
+Kaulah orang pertama yang menyelamatkanku.
+Kaulah orang pertama yang mengajakku ke tempat yang indah.
+Kaulah orang pertama yang menarik perasaanku.
+Kaulah orang pertama yang menjadi sandaranku.
+Kaulah orang pertama yang tak bisa kukalahkan.
+Dan masih banyak lagi (alasan) hingga tak bisa kuhitung.
+Karena itu wajar kalau kaulah orang pertama yang membuatku jatuh cinta. ❞</i>
   <br/>
-  <sub>— <b>Eru Chitanda</b> · <i>Hyouka</i></sub>
+  <sub>— <b>Chtholly Nota Seniorious</b> · <i>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
