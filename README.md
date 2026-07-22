@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Keinginan semua manusia adalah (ingin) dicintai dan dipuji. ❞</i>
+  <i>❝ Akan ku ukir sosokmu ke dalam ingatan semua orang. ❞</i>
   <br/>
-  <sub>— <b>Hosokawa</b> · <i>Shoujo-tachi wa Kouya wo Mezasu</i></sub>
+  <sub>— <b>Sakuta Azusagawa</b> · <i>Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
