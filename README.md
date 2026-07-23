@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Sebenarnya, tidak ada kehidupan yang tak berarti selain keindahan. ❞</i>
+  <i>❝ Berhati-hatilah atas perkataan dan perbuatanmu. Kalau kata bertarung telah keluar dari bibirmu, maka takkan bisa kau tarik kembali. ❞</i>
   <br/>
-  <sub>— <b>Nona</b> · <i>Death Parade</i></sub>
+  <sub>— <b>Lancer</b> · <i>Fate/Grand Order: First Order</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
