@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Manusia itu kuat karena memiliki kemampuan untuk mengubah dirinya sendiri. ❞</i>
+  <i>❝ Saat seorang anak telah menyadari kerja keras (orang tua) mereka, (saat) itulah tanda selesainya tugas orang tua. ❞</i>
   <br/>
-  <sub>— <b>Saitama</b> · <i>One Punch Man</i></sub>
+  <sub>— <b>Satsuki Matsumae</b> · <i>Hanasaku Iroha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
