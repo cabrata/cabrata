@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tak ada yang tahu keputusan yang mana yang tepat bagi hidup mereka, dan itu kenapa aku membuat keputusan(ku) ini.
-Juga aku tidak setuju denganmu akan satu hal, seirin tidak lemah. ❞</i>
+  <i>❝ Kita harus melakukan apapun dengan sepenuh hati. Itulah makna dari kehidupan. ❞</i>
   <br/>
-  <sub>— <b>Tetsuya Kuroko</b> · <i>Kuroko no Basket</i></sub>
+  <sub>— <b>Rider</b> · <i>Fate/Zero</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
