@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Lebih baik jika hanya salah satu dari kita berkorban! Mungkin ini sulit, tapi tahanlah untuk sekarang. ❞</i>
+  <i>❝ Kalau bisa melanggar aturan di kota, artinya orang-orang tidak memperhatikan sekitarnya. Kota seperti itu mudah untuk menjadi aksi kejahatan seperti pencurian. Sebaliknya, bila di kota banyak orang yang saling tegur sapa, artinya kewaspadaan penduduk sekitar tinggi. Penjahat pun tak ingin melakukan aksinya di kota itu. ❞</i>
   <br/>
-  <sub>— <b>Aqua</b> · <i>Kono Subarashii Sekai ni Shukufuku wo! 2</i></sub>
+  <sub>— <b>Mai Kawai</b> · <i>Hakozume: Kouban Joshi no Gyakushuu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
