@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kamu gak akan bisa jadi seorang pelukis tanpa mencintai gambarmu sendiri. ❞</i>
+  <i>❝ Dalam  game, mustahil mengetahui aturan atau tujuan seseorang, karena ada 7 milyar pemain yang bergerak sesuai kenginannya. ❞</i>
   <br/>
-  <sub>— <b>Subaru Uchimaki</b> · <i>Kono Bijutsubu ni wa Mondai ga Aru!</i></sub>
+  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
