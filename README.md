@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau sangat baik, pekerja keras, dan selalu berusaha yang terbaik, dan juga, dadamu lebih besar dari dadanya! Jika tidak ada kau, aku pasti sudah mati digigit anjing-anjing itu. Aku selamat karena kau ada di sana. Dan sekarang, aku masih hidup! Bukan hanya karena kakakmu, tapi karena kau juga. ❞</i>
+  <i>❝ Aku tak terlalu mengerti dengan perasaanku sendiri. Tapi waktu itu, saat kau memelukku dan bilang mencintaiku, waktu terasa seperti berhenti. Aku mencintaimu Satou-kun. ❞</i>
   <br/>
-  <sub>— <b>Subaru Natsuki</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
+  <sub>— <b>Yachiyo Todoroki</b> · <i>Working!!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
