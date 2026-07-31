@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tak peduli apa yang kau lempar padaku, dengan satu hentakan. Aku akan mengembalikannya dua kali lipat lebih baik. ❞</i>
+  <i>❝ Pandangan yang sempit adalah musuh idealisme dan kecerdasan. ❞</i>
   <br/>
-  <sub>— <b>Ryouta Kise</b> · <i>Kuroko no Basket</i></sub>
+  <sub>— <b>Eiha Kudou</b> · <i>Gimai Seikatsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
