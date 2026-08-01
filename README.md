@@ -22,9 +22,11 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Makanan hangat yang kau sediakan dan senyummu telah memberi kekuatan pada semua orang. ❞</i>
+  <i>❝ Mengingat masa lalu hanya akan membuatmu menyesal sampai ingin mati.
+Memikirkan masa depan hanya akan membuatmu ragu.
+Jadi, memikirkan tentang sekarang adalah hal yang terbaik. ❞</i>
   <br/>
-  <sub>— <b>Van Hohenheim</b> · <i>Fullmetal Alchemist: Brotherhood</i></sub>
+  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
