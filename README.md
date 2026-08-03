@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Seorang gadis tidak boleh menunjukkan tubuhnya sembarangan pada orang lain. ❞</i>
+  <i>❝ Hanya karena mereka berteman dengan seorang gadis yang baik, bukan berarti mereka juga baik. ❞</i>
   <br/>
-  <sub>— <b>Ibu Tadokoro</b> · <i>Shokugeki no Souma</i></sub>
+  <sub>— <b>Makoto Sunakawa</b> · <i>Ore Monogatari!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
