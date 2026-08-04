@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Bila di dalam dirimu ada kenangan yang berharga, menurutku mubazir kalau kau meninggal (dengan sia-sia). ❞</i>
+  <i>❝ Aku sendiri tahu apa yang ku lakukan ini bodoh (membantu orang yang sedang dikeroyok).Tapi itulah yang membedakan manusia dengan hewan. ❞</i>
   <br/>
-  <sub>— <b>Heiter</b> · <i>Sousou no Frieren</i></sub>
+  <sub>— <b>Shinichi Izumi</b> · <i>Kiseijuu: Sei no Kakuritsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
