@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku adalah anak satan, dan aku tak bisa kabur dari kekuatan ini. Aku selalu takut untuk mengakui kekuatan ini dan menggunakannya. Tapi itu takkan berguna. Ini adalah aku, dan ini juga (anak satan) tetaplah aku. Sampai aku bisa mengakui kekuatan ini, aku takkan bisa melangkah kedepan. Jadi tolong terimalah aku dan kekuatan ini. ❞</i>
+  <i>❝ Apa pun yang kau lakukan, aku tetap mencintaimu. ❞</i>
   <br/>
-  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist: Kyoto Fujouou-hen</i></sub>
+  <sub>— <b>Sumireko Sanshokuin</b> · <i>Ore wo Suki nano wa Omae dake ka yo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
