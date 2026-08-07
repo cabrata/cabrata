@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Dari pada berhenti dan khawatir, lebih baik terus maju selangkah demi selangkah. Meskipun jejak kakiku kemarin akan menghilang, dan meskipun jalan yang aku lalui besok akan gelap, tapi aku tidak akan menoleh kebelakang ataupun pesimis dengan masa depan. Aku hanya ingin merasakan hidupku yang sekarang. Karena meskipun aku mengelaknya, waktu akan terus berjalan. ❞</i>
+  <i>❝ Melihat wajah bahagia para pelanggan lebih berharga daripada uang yang ada di dunia. ❞</i>
   <br/>
-  <sub>— <b>Chtholly Nota Seniorious</b> · <i>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</i></sub>
+  <sub>— <b>Shinobu Senke</b> · <i>Isekai Izakaya: Koto Aitheria no Izakaya Nobu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
