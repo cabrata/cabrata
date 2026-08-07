@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Rekan-rekanku dan aku bersumpah kalau kami akan rela berkorban, jika itu memang diharuskan. Aku akan rela berkorban demi menyelamatkan orang lain. ❞</i>
+  <i>❝ Nenek bilang "kalau kamu menangisi orang yang sudah meninggal, maka orang itu juga akan ikut sedih". ❞</i>
   <br/>
-  <sub>— <b>Sakuma</b> · <i>Joker Game</i></sub>
+  <sub>— <b>Winry Rockbell</b> · <i>Fullmetal Alchemist: Brotherhood</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
