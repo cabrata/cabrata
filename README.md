@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Apa kau adalah tipe orang yang tak mau menyelamatkan orang yang kau benci? Aku sih tak punya waktu untuk memikirkan hal bodoh seperti itu! Sebelum kusadari, tubuhku bergerak dengan sendirinya, aku saja terkejut. Mungkin aku tahu alasannya, kita memang berpura-pura, tapi kita sepasang kekasih. Pasti ada semacam naluri. ❞</i>
+  <i>❝ Kamu tidak usah mencemaskannya. Apapun yang kamu rasakan tinggal lepaskan saja. Aku tidak berpikir kita akan bisa mulai dari nol ke seratus dengan cepat. Tapi mungkin kita bisa mendapat satu. Aku ingin melihat jika kita bisa melakukannya juga. ❞</i>
   <br/>
-  <sub>— <b>Raku Ichijou</b> · <i>Nisekoi</i></sub>
+  <sub>— <b>Riko Sakurauchi</b> · <i>Love Live! Sunshine!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
