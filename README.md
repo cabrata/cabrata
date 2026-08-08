@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Untuk diriku yang ada di sepuluh tahun yang lalu...
-Kau memiliki banyak kesenangan dan kebahagian yang sedang menantimu. Semoga kau menyadari kebahagiaan itu, semoga kau tak melepaskan kebahagiaan itu. ❞</i>
+  <i>❝ "Berbuatlah demi orang lain. Korbankan diri sendiri demi itu". Aku dibesarkan dengan (memegang) prinsip seperti itu. ❞</i>
   <br/>
-  <sub>— <b>Naho Takamiya</b> · <i>Orange</i></sub>
+  <sub>— <b>Tsukasa Jinguuji</b> · <i>Fantasy Bishoujo Juniku Ojisan to</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
