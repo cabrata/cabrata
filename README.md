@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Suatu kehormatan bagi setiap pria bisa menjadi sandaran wanita. ❞</i>
+  <i>❝ Kau akan membenci dirimu sendiri jika kau melakukan apa yang kau benci. ❞</i>
   <br/>
-  <sub>— <b>Sebas Tian</b> · <i>Overlord II</i></sub>
+  <sub>— <b>Chihiro  Sengoku</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
