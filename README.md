@@ -22,9 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau tak akan bisa hidup hanya dengan (menggeluti) hobimu saja. ❞</i>
+  <i>❝ Catur adalah permainan informasi dua pemain yang berbasis hitungan matematis.
+Dalam permainan ini tak ada yang namanya "keberuntungan". ❞</i>
   <br/>
-  <sub>— <b>Michiru Hyoudou</b> · <i>Saenai Heroine no Sodatekata</i></sub>
+  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
