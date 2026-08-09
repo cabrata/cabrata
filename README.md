@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tak ada sesuatu di dunia ini yang lebih berharga dari sesuatu yang tak diketahui. ❞</i>
+  <i>❝ Kau harus tetap berlari. Kau harus memikirkan perasaanmu sendiri. Berbohong pada diri sendiri dan melakukan apa yang orang lain mau hanya akan menyakitimu. Bukankah kau ingin menjadi school idol? Kalau begitu, kau harus terus melangkah maju. ❞</i>
   <br/>
-  <sub>— <b>Jibril</b> · <i>No Game No Life</i></sub>
+  <sub>— <b>Hanamaru Kunikida</b> · <i>Love Live! Sunshine!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
