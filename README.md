@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kalau memang benar bahwa ada Sang Pencipta, pasti Dia yang membuat dunia yang besar ini. Karena (besarnya dunia yang diciptakanNya) itu, membuat manusia kecil yang penakut menjadi kesulitan (untuk hidup). Di dunia yang luas ini, kita bahkan tidak bisa mengukur jarak antara manusia. Meskipun ada enam milyar orang, tapi semuanya (hidup) sendirian. Semua orang terus mencari, seorang (pendamping) yang tak butuh jarak (untuk hidup bersama). ❞</i>
+  <i>❝ Mencegah agar tidak terulang penyesalan yang sama adalah nilai dari sebuah penyesalan. ❞</i>
   <br/>
-  <sub>— <b>Kou Ichinomiya</b> · <i>Arakawa Under the Bridge</i></sub>
+  <sub>— <b>Mitsuyoshi Tada</b> · <i>Tada-kun wa Koi wo Shinai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
