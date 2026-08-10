@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ (Pacaran itu) bukan untuk mencintai, tapi untuk "jatuh" cinta. ❞</i>
+  <i>❝ Spekulasi saja takkan mengubah fakta. Kita harus menerima kenyataan dan bergerak maju. ❞</i>
   <br/>
-  <sub>— <b>Aguri</b> · <i>Gamers!</i></sub>
+  <sub>— <b>Kuro no Caster</b> · <i>Fate/Apocrypha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
