@@ -22,9 +22,11 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kalau kita tidak bahagia, maka kita tidak bisa membuat tamu bahagia. Selain itu, ini bukan hanya demi kamu. Kalau kau bahagia, aku juga bahagia. ❞</i>
+  <i>❝ Sudah kuputuskan. Aku adalah "bayangan".
+Semakin kuat cahayanya, semakin kuat bayangannya.
+Aku akan menjadi bayangan dari cahayamu, dan menjadikanmu pemain terbaik di jepang. ❞</i>
   <br/>
-  <sub>— <b>Seiji Shijima</b> · <i>Hanasaku Iroha</i></sub>
+  <sub>— <b>Tetsuya Kuroko</b> · <i>Kuroko no Basket</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
