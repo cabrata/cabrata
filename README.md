@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Demi cinta, aku rela mengorbankan tubuh dan jiwaku. ❞</i>
+  <i>❝ Atasan yang lebih baik, membawa perusahaan lebih baik. Tak ada gunanya mempermasalahkan siapa atasanmu! ❞</i>
   <br/>
-  <sub>— <b>Kaguya Shinomiya</b> · <i>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</i></sub>
+  <sub>— <b>Daikichi Kawachi</b> · <i>Usagi Drop</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
