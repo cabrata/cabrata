@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Wanita itu jika tersenyum akan terlihat cantik. ❞</i>
+  <i>❝ Bagaimanapun juga, kita harus menjalin ikatan yang kuat dengan orang-orang disekitar, (serta) membangun tubuh dan jiwa yang sehat. Sampai hari perpisahan, bersama-sama kita membuat kenangan dan menjadi manusia yang dapat dipercaya oleh orang lain. ❞</i>
   <br/>
-  <sub>— <b>Masamune Makabe</b> · <i>Masamune-kun no Revenge</i></sub>
+  <sub>— <b>Kodaka Hasegawa</b> · <i>Boku wa Tomodachi ga Sukunai Episode 0</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
