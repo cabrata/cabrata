@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Pembunuhan yang dilakukan dengan menyusup, akan lebih fleksibel jika targetnya sedang gelisah.
-Karena aku berhadapan dengan makhluk tak dikenal, maka cara terbaik adalah bunuh dia segera sebelum dia curiga. ❞</i>
+  <i>❝ Ingin memahami semua orang adalah keinginan yang munafik, bodoh dan angkuh. Benar-benar sangat menyedihkan dan memuakkan. Aku merasa jijik pada diriku sendiri yang menginginkan hal semacam itu. Namun, jika kita memikirkan hal yang sama... Kita bisa membiarkan keinginan yang angkuh itu. Jika hubungan seperti itu memang ada... Meskipun aku tahu kalau semua itu memang tidak mungkin... (Meskipun) aku tahu kalau semua itu tidak bisa kuraih... Meskipun begitu... aku menginginkan hal yang nyata. ❞</i>
   <br/>
-  <sub>— <b>Irina Jelavić</b> · <i>Ansatsu Kyoushitsu</i></sub>
+  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
