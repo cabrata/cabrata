@@ -22,11 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku suka dengan orang yang bahagia. Melihat mereka saja membuatku merasa bahagia.
-(Tapi) yang kubenci adalah mereka yang tidak tahu alasan kebahagiaan mereka.
-Mereka yang tak peduli kenapa mereka bahagia. ❞</i>
+  <i>❝ Dunia terus bergerak maju tak peduli apa yang kita lakukan. ❞</i>
   <br/>
-  <sub>— <b>Sodachi Oikura</b> · <i>Owarimonogatari</i></sub>
+  <sub>— <b>Yuzu</b> · <i>Konohana Kitan</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
