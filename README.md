@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Penipuan adalah kejahatan sosial yang bukan hanya menimbulkan kerugian pada seorang individu, tetapi juga memiliki efek domino (pada orang lain). ❞</i>
+  <i>❝ Kebahagiaan cuma akan jadi kebahagiaan jika semua orang membaginya. ❞</i>
   <br/>
-  <sub>— <b>Deishuu Kaiki</b> · <i>Monogatari Series: Second Season</i></sub>
+  <sub>— <b>Nanana Ryuugajou</b> · <i>Ryuugajou Nanana no Maizoukin</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
