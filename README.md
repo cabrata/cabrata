@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Saat kau menatap jurang terlalu lama, maka jurang tersebut juga akan menatapmu.
-Saat kau mencoba mengungkap rahasia seseorang, maka rahasiamu juga akan terungkap. ❞</i>
+  <i>❝ Beda orang, beda pandangan. Rasa sayang itu ada macam-macam bentuknya. ❞</i>
   <br/>
-  <sub>— <b>Sakurako Kujou</b> · <i>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</i></sub>
+  <sub>— <b>Kakek Mikage</b> · <i>Gin no Saji</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
