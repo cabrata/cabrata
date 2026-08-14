@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jika kau sudah menyerah dari awal, meski kau bisa menang, kau tidak akan bisa menang. ❞</i>
+  <i>❝ Peperangan akan menimbulkan kebencian meski kau menang. Dan rantai kebencian akan berlanjut. Peperangan seharusnya tidak pernah dilakukan. ❞</i>
   <br/>
-  <sub>— <b>Chihiro Komiya</b> · <i>Shounen Maid</i></sub>
+  <sub>— <b>Alisha Diphda</b> · <i>Tales of Zestiria the Cross</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
