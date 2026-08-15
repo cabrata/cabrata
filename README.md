@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tak peduli seberapa sulitnya (menjalani hidup), aku ingin kau percaya bahwa dunia ini indah. ❞</i>
+  <i>❝ Impianku sederhana. Aku hanya ingin terus mencintai orang yang kucintai dan terus bersamanya. ❞</i>
   <br/>
-  <sub>— <b>Fujino Asagami</b> · <i>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</i></sub>
+  <sub>— <b>Shinra Kishitani</b> · <i>Durarara!!x2 Ketsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
