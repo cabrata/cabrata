@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Dunia terus bergerak maju tak peduli apa yang kita lakukan. ❞</i>
+  <i>❝ Hari-hari meyedihkan dan menyakitkan telah kualami. Mungkin juga akan ada lebih banyak lagi setelah ini. Walaupun begitu (semuanya) tak akan kulupakan, (karena itu adalah) hari-hari penuh kenangan yang sangat berharga. ❞</i>
   <br/>
-  <sub>— <b>Yuzu</b> · <i>Konohana Kitan</i></sub>
+  <sub>— <b>Takashi Natsume</b> · <i>Natsume Yuujinchou Shi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
