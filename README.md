@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Seorang gadis tidak boleh menunjukkan tubuhnya sembarangan pada orang lain. ❞</i>
+  <i>❝ Apakah seseorang mengajarimu untuk "lakukan yang paling mungkin, dan tuhan akan melakukan yang terbaik?" (tidak begitu bukan?) Usaha yang optimal membuatmu berhak menerima kebaikan nasib. ❞</i>
   <br/>
-  <sub>— <b>Ibu Tadokoro</b> · <i>Shokugeki no Souma</i></sub>
+  <sub>— <b>Shintarou Midorima</b> · <i>Kuroko no Basket</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
