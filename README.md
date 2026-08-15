@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku benci orang jenius. Mereka tidak punya keindahan dari hasil usaha dan jerih payah. ❞</i>
+  <i>❝ Jika kalian selalu menunda pekerjaan, kalian akan jadi terbiasa untuk menunda semuanya! ❞</i>
   <br/>
-  <sub>— <b>Lügner</b> · <i>Sousou no Frieren</i></sub>
+  <sub>— <b>Hajime Suzamoto</b> · <i>Tada-kun wa Koi wo Shinai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
