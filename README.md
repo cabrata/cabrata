@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Penampilan seseorang tergantung pada dua hal, ekspresi dan postur tubuh. ❞</i>
+  <i>❝ Hanya mereka yang berkeinginan untuk melampaui batasannya dan berusaha untuk terus tumbuh dan berkembanglah yang bisa melewatinya. Merekalah generasi keajaiban! ❞</i>
   <br/>
-  <sub>— <b>Aoi Hinami</b> · <i>Jaku-Chara Tomozaki-kun</i></sub>
+  <sub>— <b>Senzaemon Nakiri</b> · <i>Shokugeki no Souma: Ni no Sara</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
