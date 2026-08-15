@@ -22,13 +22,22 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Waktu berlalu dengan sangat cepat.
-Untuk saat ini... Aku ingin mengeluh pada Einstein.
-Nee... Okabe... Entah waktu cepat atau lambat...
-Semua itu bergantung pada pandangan kita.
-Teori relativitas itu benar-benar romantis dan juga sangat menyedihkan. ❞</i>
+  <i>❝ Saat aku sudah dewasa dan bisa pergi kemana saja sendirian, aku ingin pergi ke tempat yang sangat jauh.
+Aku ingin pergi ke pulau yang sangat jauh.
+Aku ingin pergi ke pulau dimana tak ada seorang pun.
+Aku ingin pergi ke pulau yang tak ada hal yang menyakitkan dan menyedihkan.
+Di pulau itu tak ada orang dewasa, anak kecil, teman kelas, guru ataupun ibuku.
+Di pulau itu, saat aku ingin memanjat pohon, aku akan memanjatnya.
+Saat aku ingin berenang, aku akan berenang di laut.
+Saat aku ingin tidur, aku akan tidur.
+Di pulau itu, aku memikirkan kota dimana hanya aku yang tak ada.
+Anak-anak pergi ke sekolah seperti biasanya.
+Orang dewasa pergi bekerja seperti biasanya.
+Ibu makan seperti biasanya.
+Saat aku memikirkan tentang kota yang tanpa diriku, hatiku merasa lega.
+Aku ingin pergi jauh, sejauh mungkin. ❞</i>
   <br/>
-  <sub>— <b>Kurisu Makise</b> · <i>Steins;Gate</i></sub>
+  <sub>— <b>Kayo Hinazuki</b> · <i>Boku dake ga Inai Machi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
