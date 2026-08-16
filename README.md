@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Mudah berkata "pilihlah agar kau tidak menyesalinya", tapi hal itu mustahil. Tak peduli betapa kau memikirkan jalan yang akan kau pilih, pada akhirnya kau pasti akan menyesalkan suatu hal. Begitulah kita para manusia. Karena itulah, menurutku yang terpenting adalah perasaan kita yang sesungguhnya. ❞</i>
+  <i>❝ Keadilan adalah senjata... Senjata yang dapat digunakan untuk melukai, tapi tidak bisa digunakan untuk melindungi ataupun menyelamatkan orang lain. ❞</i>
   <br/>
-  <sub>— <b>Glenn Radars</b> · <i>Rokudenashi Majutsu Koushi to Akashic Records</i></sub>
+  <sub>— <b>Osamu Dazai</b> · <i>Bungou Stray Dogs</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
