@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku melakukan ini bukan untuk bermain-main. Aku akan bahagia jika aku bisa memainkannya. ❞</i>
+  <i>❝ Selama ini aku telah menghabiskan waktu hidupku untuk berbohong. Setidaknya mulai dari sekarang, aku akan berusaha untuk jujur pada diriku sendiri. ❞</i>
   <br/>
-  <sub>— <b>Asuka Tanaka</b> · <i>Hibike! Euphonium 2</i></sub>
+  <sub>— <b>Cagliostro</b> · <i>Senki Zesshou Symphogear AXZ</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
