@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Mengejar mimpi yang tak bisa digapai hanya akan menghancurkan diri sendiri. ❞</i>
+  <i>❝ Suka atau tidak suka tiga tahun kehidupan SMA kalian akan berlalu dengan sangat cepat. Bagaimana kalian menghabiskannya, itu tergantung pada diri kalian masing-masing. Mau fokus belajar, boleh. Mau berjuang di klub, boleh. Atau mau main-main saja juga boleh. Yang paling penting selama tiga tahun di sekolah kalian harus bersenang-senang setiap harinya. Kesenangan itu yang terbaik, kesenangan itu kebenaran, dan kesenangan itu tak terbatas. ❞</i>
   <br/>
-  <sub>— <b>Evileye</b> · <i>Overlord II</i></sub>
+  <sub>— <b>Mato Katori</b> · <i>Amanchu!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
