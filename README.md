@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Semua hal yang terjadi di depanku adalah masalah yang hanya bisa diselesaikan oleh diriku sendiri. ❞</i>
+  <i>❝ Biasanya, sebuah idol group haruslah serasi, tapi kita berbeda-beda. Kita telah menghabisakan banyak waktu bersama, saling menerima kekurangan dan kelebihan masing-masing. Sehingga kita bisa sampai seterkenal ini. Bukankah itu adalah hal yang sangat hebat dari kita? Itulah yang kusuka dari μ's. ❞</i>
   <br/>
-  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
+  <sub>— <b>Honoka Kousaka</b> · <i>Love Live! School Idol Project 2nd Season</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
