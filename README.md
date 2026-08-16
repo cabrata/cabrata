@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jika dengan bertarung bisa melindungi senyuman seseorang, maka itu saja sudah cukup memberi alasan untukku melakukannya. ❞</i>
+  <i>❝ Kamus adalah barang yang dapat membantu manusia untuk memahami satu sama lain. Saat sesorang berbicara dengan orang lain atau saat membaca, kita dibanjiri oleh banyak kata. Di balik kata-kata itu, ada orang yang ingin menyampaikan perasaannya. Kamus membantu orang untuk memahami apa yang dipikirkan dan apa yang ingin disampaikan oleh orang lain. ❞</i>
   <br/>
-  <sub>— <b>Hayato Kisaragi</b> · <i>Hundred</i></sub>
+  <sub>— <b>Mitsuya Majime</b> · <i>Fune wo Amu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
