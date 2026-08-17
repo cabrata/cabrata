@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jika kau seorang ninja, mau berapa kalipun gagal, kau akan terus berusaha. ❞</i>
+  <i>❝ Dazai pernah berkata, "Manusia lahir untuk cinta dan revolusi". ❞</i>
   <br/>
-  <sub>— <b>Boruto Uzumaki</b> · <i>Boruto: Naruto Next Generations</i></sub>
+  <sub>— <b>Kotarou Azumi</b> · <i>Tsuki ga Kirei</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
