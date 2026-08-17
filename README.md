@@ -22,16 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau akan kesana untuk berlatihkan?
-Jadi yang kau butuhkan bukan kemampuan, tapi keberanian.
-Kau bisa saja menempuh jalan biasa.
-Jika itu benar-benar tempat yang ingin kau tuju, maka bagus.
-Bahkan walau mengambil rute yang biasa, setiap orang khawatir tentang keputusan yang akan dibuat di sepanjang jalan.
-Pada awalnya tak seorangpun yang memiliki kepercayaan diri.
-Kalau kau ingin mengarungi dunia yang penuh talenta, mungkin itu akan jadi jalan yg sulit.
-Tapi bagi orang yang dapat mencapai banyak hal, hidup ini penuh dengan keputusan besar, tidak peduli apapun itu. ❞</i>
+  <i>❝ Kalian semua yang hidup di masa depan adalah harta karun bagi roh pahlawan. ❞</i>
   <br/>
-  <sub>— <b>Yuusuke Fujisaki</b> · <i>Sket Dance</i></sub>
+  <sub>— <b>Aka no Lancer</b> · <i>Fate/Apocrypha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
