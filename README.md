@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tidur itu sangat penting. Kurang tidur bisa berdampak buruk pada pekerjaan, dan kesehatanmu. Tidur di kursi bisa menghilangkan rasa penatmu untuk sementara, tapi tidak baik untuk punggungmu. ❞</i>
+  <i>❝ Nenekku bilang, tubuh sehat membuat seorang gadis menjadi cantik. ❞</i>
   <br/>
-  <sub>— <b>Umiko Ahagon</b> · <i>New Game!!</i></sub>
+  <sub>— <b>Makoto Kowata</b> · <i>Flying Witch</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
