@@ -22,9 +22,11 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku suka dirimu yang tak bisa berterus terang seperti itu. ❞</i>
+  <i>❝ Sayang sekali hubungan kalian berdua harus berakhir seperti ini. Tapi kalian tidak boleh saling membenci.
+Karena cinta telah membuat kalian jadi orang yang lebih baik. Karena itu kalian harus saling berterima kasih.
+Dan mulai saat ini, kalian berdua bisa menjadi teman yang baik bukan? ❞</i>
   <br/>
-  <sub>— <b>Rita Ainsworth</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
+  <sub>— <b>Kazuyoshi Usui</b> · <i>SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
