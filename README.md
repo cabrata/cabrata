@@ -22,9 +22,12 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Sejak kecil, aku adalah gadis pendiam yang suka menyendiri. Aku tak pandai olahraga, dan selalu jadi anak bawang di sekolah. Jadi aku terbiasa bermain sendirian, dan jatuh cinta pada membaca. Tanpa sadar, perpustakan seakan menjadi rumahku, dan imajinasiku jadi berkembang karena membaca buku-buku disana. Setelah selesai membaca sebuah buku, aku akan merasakan kehampaan, tapi aku yakin selama aku punya buku, aku akan baik baik saja. ❞</i>
+  <i>❝ Jika harapanku bisa terkabulkan. Jika apa yang kuinginkan bisa kudapatkan.
+Sepertinya, aku tidak ingin mengharapkan atau menginginkan sesuatu.
+Sesuatu yang diberikan padaku, pasti itu adalah kepalsuan dan akan hilang suatu saat nanti.
+Karena itu, aku akan terus mencarinya. ❞</i>
   <br/>
-  <sub>— <b>Hanamaru Kunikida</b> · <i>Love Live! Sunshine!!</i></sub>
+  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
