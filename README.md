@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kita semua hanyalah manusia. Kadang, kita berbuat salah.
-Hanya saja, jangan berbuat kesalahan saat nyawa taruhannya. ❞</i>
+  <i>❝ Di perpustakaan aku telah membaca bermacam-macam buku. Buku yang menarik, buku yang tidak menarik, buku yang menyenangkan, buku yang menyedihkan, buku yang baik dan buku yang besok ingin ku baca lagi. Aku suka membaca buku yang populer, karena buku ada untuk dibaca. Aku juga membaca dan merawat buku yang tidak populer, karena setiap buku memiliki daya tarik tersendiri. Aku menyukai buku yang bersih. Dengan melihatnya saja membuatku bahagia. Aku menyukai buku yang usang, (karena) itu menunjukkan bahwa buku itu telah melakukan tugasnya dengan baik. Semua buku itu hidup dalam sebuah rumah besar yang disebut dengan perpustakaan. Tempat dimana aku merasa bahagia. Tempat berbagai macam pengetahuan, pengalaman dan pemikiran orang yang berbeda-beda saling berkumpul. ❞</i>
   <br/>
-  <sub>— <b>Nenek Buyut Mikage</b> · <i>Gin no Saji</i></sub>
+  <sub>— <b>Shiori Shiomiya</b> · <i>Kami nomi zo Shiru Sekai: Megami-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
