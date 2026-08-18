@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Meskipun berusaha keras bisa menjadi kunci kesuksesan (seseorang), tapi tidak bisa dijadikan pembenaran untuk membebani (orang lain). Hanya karena telah berusaha kau ingin dimaafkan (atas kegagalanmu), itu hanya sikap egois. ❞</i>
+  <i>❝ Aku yakin banyak pemusik yang mengalami hal sepertimu (gemetar ketika mau tampil dipanggung)! "mana mungkin aku bisa melakukannya" atau "kalau begitu, kau saja yang main". Meski begitu, mereka mengambil lagi partitur musiknya dan bermain lagi. Begitulah caranya menciptakan kebohongan yang paling indah. ❞</i>
   <br/>
-  <sub>— <b>Ares Srowa</b> · <i>Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita</i></sub>
+  <sub>— <b>Kaori Miyazono</b> · <i>Shigatsu wa Kimi no Uso</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
