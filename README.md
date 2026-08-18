@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tidak ada darimu atau perkataan temanmu yang mempengaruhi hidupku dalam hal apapun, baik bentuk maupun jalannya. ❞</i>
+  <i>❝ Jika kau memilih (kegiatan) hanya berdasarkan kemampuanmu, kau takkan pernah memulai apapun. Yang terpenting adalah ketertarikanmu. ❞</i>
   <br/>
-  <sub>— <b>Jinta Yadomi</b> · <i>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</i></sub>
+  <sub>— <b>Ryuujirou Kotobuki</b> · <i>Grand Blue</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
