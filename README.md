@@ -22,12 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jika harapanku bisa terkabulkan. Jika apa yang kuinginkan bisa kudapatkan.
-Sepertinya, aku tidak ingin mengharapkan atau menginginkan sesuatu.
-Sesuatu yang diberikan padaku, pasti itu adalah kepalsuan dan akan hilang suatu saat nanti.
-Karena itu, aku akan terus mencarinya. ❞</i>
+  <i>❝ Kau harus membuang tujuan demi tujuanmu.
+Ambisi, keinginan, dendam... Kau harus singkirkan semua tujuan itu demi tujuan sejatimu. ❞</i>
   <br/>
-  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
+  <sub>— <b>Rinne Higaki</b> · <i>Katanagatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
