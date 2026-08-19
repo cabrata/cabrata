@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Hidup adalah tantangan. Tak ada gunanya hidup jika tak ada lawan yang kuat untuk bermain. Lebih baik jika aku tidak menang. ❞</i>
+  <i>❝ Meskipun keabadian adalah sesuatu yang buruk, tapi selama aku bisa terus bersamamu, kurasa itu bukanlah hal yang buruk. ❞</i>
   <br/>
-  <sub>— <b>Taiga Kagami</b> · <i>Kuroko no Basket</i></sub>
+  <sub>— <b>Touta Konoe</b> · <i>UQ Holder!: Mahou Sensei Negima! 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
