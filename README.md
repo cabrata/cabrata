@@ -22,11 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Hanya karena tidak meminta tolong bukan berarti tidak ingin ditolong.
-Hanya karena dia tidak bilang cinta bukan berarti dia tidak mencintaimu.
-Siapapun punya hal yang tak bisa dikatakan walaupun ingin mengatakannya. ❞</i>
+  <i>❝ Aku tak mau kencan dengan gadis yang menjelek-jelekkan teman baikku. ❞</i>
   <br/>
-  <sub>— <b>Meme Oshino</b> · <i>Nekomonogatari: Kuro</i></sub>
+  <sub>— <b>Makoto Sunakawa</b> · <i>Ore Monogatari!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
