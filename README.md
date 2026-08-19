@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Demi diriku sendiri, aku akan melakukan apapun yang ingin kulakukan. Itulah alasanku bertarung. ❞</i>
+  <i>❝ Hanya pertemuan yang dapat membuat seorang Koki berkembang. Kalau hanya menghadapi masakanmu sendiri, kau hanya akan melihat dirimu yang tak pernah berubah! ❞</i>
   <br/>
-  <sub>— <b>Julis-Alexia von Riessfeld</b> · <i>Gakusen Toshi Asterisk</i></sub>
+  <sub>— <b>Jouichirou Yukihira</b> · <i>Shokugeki no Souma: Ni no Sara</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
