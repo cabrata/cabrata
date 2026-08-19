@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Bahasa bunga dari mawar merah adalah semangat dalam menghadapi tantangan. ❞</i>
+  <i>❝ Manusia yang tak berguna tak punya hak untuk bernapas. ❞</i>
   <br/>
-  <sub>— <b>Nara Ashiya</b> · <i>Fukigen na Mononokean</i></sub>
+  <sub>— <b>Ryuunosuke Akutagawa</b> · <i>Bungou Stray Dogs</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
