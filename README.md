@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jika (hanya dengan kata) "maaf" sudah cukup (untuk menyelesaikan masalah), maka kita tak membutuhkan polisi. ❞</i>
+  <i>❝ Melakukan yang terbaik, berjuang dengan segala apa yang kubisa untuk berbohong. Karena bagitu, kebohongan adalah cinta. Dengan kata lain, berbohong adalah caraku untuk mengungkapkan rasa cinta. ❞</i>
   <br/>
-  <sub>— <b>Shouko Sugawara</b> · <i>Psycho-Pass</i></sub>
+  <sub>— <b>Ai Hoshino</b> · <i>[Oshi no Ko]</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
