@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jangan lengah. Kalau segalanya berjalan mulus, kamu akan mudah tersandung. ❞</i>
+  <i>❝ Sesulit apapun yang akan terjadi, selama ada dirimu aku bisa terus berjuang. ❞</i>
   <br/>
-  <sub>— <b>Muzan Kibutsuji</b> · <i>Kimetsu no Yaiba: Yuukaku-hen</i></sub>
+  <sub>— <b>Subaru Natsuki</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
