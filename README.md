@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku menulis novel sebagai hobi. Dan hobi yang tidak dilakukan dengan serius akan membosankan, 'kan? Karena ini hobiku, maka aku melakukannya sepenuh hati. ❞</i>
+  <i>❝ Aku telah putus Nico-kun. Aku selalu mencintai Nico-kun. Aku sangat mencintainya, sampai aku tidak bisa menahannya. Mungkin karena itulah aku tidak sadar bagaimana perasaannya. ❞</i>
   <br/>
-  <sub>— <b>Elf Yamada</b> · <i>Eromanga-sensei</i></sub>
+  <sub>— <b>Koyuki Hinashi</b> · <i>Fuuka</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
