@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Sesulit apapun yang akan terjadi, selama ada dirimu aku bisa terus berjuang. ❞</i>
+  <i>❝ Kita para manusia adalah makhluk yang menyedihkan. Kita menolak setiap hal yang kita takuti. Kita menyerah karena kita tidak mengerti. Sifat pengecut manusia telah melahirkan peperangan. ❞</i>
   <br/>
-  <sub>— <b>Subaru Natsuki</b> · <i>Re:Zero kara Hajimeru Isekai Seikatsu</i></sub>
+  <sub>— <b>Biba Amatori</b> · <i>Koutetsujou no Kabaneri</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
