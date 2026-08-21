@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku tidak ingin melewatkan tiap detik ataupun tiap meter denganmu. Setiap hari, dari mulai berangkat sampai pulang (sekolah) aku ingin bersama denganmu. ❞</i>
+  <i>❝ Anggap kau punya ikan di akuarium. Lalu kau naikkan temperatur airnya sedikit demi sedikit sampai akhirnya airnya mendidih. Tapi ikan itu tidak menyadarinya dan terus berenang di air yang mendidih. Ini terdengar cerita bohongan, tapi sebenarnya tidak. Nah, apa yang kau tangkap dari cerita ini? ❞</i>
   <br/>
-  <sub>— <b>Kouko Kaga</b> · <i>Golden Time</i></sub>
+  <sub>— <b>Tomo Kunagisa</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
