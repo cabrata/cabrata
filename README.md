@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Seorang gadis akan merasa senang jika diperlakukan secara lembut. ❞</i>
+  <i>❝ Jujur, sekarang aku belum bisa memberikan kontribusi dipertandingan. Tapi aku ingin membantu sebanyak yang kubisa. Itu sebabnya aku di sini. Memang sekarang, aku bukan pelari. Tapi, perasaanku berlari bersama mereka. Aku ingin berbagi dalam kebahagiaan maupun penyesalan. Menurutku "Stride" bukan hanya tentang mengalahkan orang lain. Alasan kenapa aku merasa seperti itu karena, kau dan murid kelas satu lainnya telah menghubungkan perasaan kita semua. ❞</i>
   <br/>
-  <sub>— <b>Rory Mercury</b> · <i>Gate: Jieitai Kanochi nite, Kaku Tatakaeri</i></sub>
+  <sub>— <b>Ayumu Kadowaki</b> · <i>Prince of Stride: Alternative</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
