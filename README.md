@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Mencoba mendapatkan semua hal yang terbaik adalah prinsip keadilanku. ❞</i>
+  <i>❝ Yang paling menyenangkan dari sebuah perjalanan adalah saat sebelum berangkat. Yang paling menakutkan dari anjing adalah gonggongannya. Yang paling indah dari wanita adalah dengan melihat sosoknya dari belakang. Mengungkap sesuatu yang disembunyikan dapat menghancurkan mimpi seseorang. ❞</i>
   <br/>
-  <sub>— <b>Touta Konoe</b> · <i>UQ Holder!: Mahou Sensei Negima! 2</i></sub>
+  <sub>— <b>Holo</b> · <i>Ookami to Koushinryou</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
