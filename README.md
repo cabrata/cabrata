@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Yang paling menyenangkan dari sebuah perjalanan adalah saat sebelum berangkat. Yang paling menakutkan dari anjing adalah gonggongannya. Yang paling indah dari wanita adalah dengan melihat sosoknya dari belakang. Mengungkap sesuatu yang disembunyikan dapat menghancurkan mimpi seseorang. ❞</i>
+  <i>❝ Kekurangan dan ketidakmampuan itu tidak ada hubungannya, aku akan bertarung dengan tubuhku ini untuk menang dan berdiri di lapangan selama yang aku bisa. ❞</i>
   <br/>
-  <sub>— <b>Holo</b> · <i>Ookami to Koushinryou</i></sub>
+  <sub>— <b>Shouyou Hinata</b> · <i>Haikyuu!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
