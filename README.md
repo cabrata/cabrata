@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Semua orang berbakat yang kau irikan sebenarnya memiliki nereka mereka masing-masing. Tak peduli apa yang dilakukan, mereka tak akan lepas dari neraka itu. ❞</i>
+  <i>❝ Sejujurnya, aku bangga padamu. Ini adalah kemenangan untuk kerja keras. ❞</i>
   <br/>
-  <sub>— <b>Marisa Hyoudou</b> · <i>Ballroom e Youkoso</i></sub>
+  <sub>— <b>Yuusuke Fujisaki</b> · <i>Sket Dance</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
