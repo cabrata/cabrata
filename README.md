@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku memiliki kehidupan yang kosong, tak ada apapun kecuali perasaanku padamu.
-(Meskipun) aku juga tidak punya pedang, tapi hatiku ingin menjadi seorang kesatria. ❞</i>
+  <i>❝ Apapun yang terjadi, aku akan mewujudkan mimpi ini! Jika aku tak bisa melakukannya, aku bukanlah laki-laki ! ❞</i>
   <br/>
-  <sub>— <b>Akitoshi Daimon</b> · <i>Sket Dance</i></sub>
+  <sub>— <b>Moritaka Mashiro</b> · <i>Bakuman.</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
