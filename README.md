@@ -22,9 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Gaya hidupku adalah makan makanan favorit kapan pun yang aku mau. ❞</i>
+  <i>❝ Aku suka buku. Aku sangat suka di perpustakaan.
+Satu buku berisi satu dunia. Dalam setiap "kata" yang berbeda, ada dunia yang berbeda. Setiap satu rak memiliki satu galaksi. Ini adalah dunia fantasi yang tak berujung. Ketika aku di perpustakaan ini, aku bisa pergi ke mana saja. Aku bisa menjadi siapa saja. Aku bisa melakukan apa saja. ❞</i>
   <br/>
-  <sub>— <b>Anna Yamada</b> · <i>Boku no Kokoro no Yabai Yatsu</i></sub>
+  <sub>— <b>Shiori Shiomiya</b> · <i>Kami nomi zo Shiru Sekai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
