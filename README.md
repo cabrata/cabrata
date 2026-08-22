@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Berusaha menjadi sosok yang ideal memang luar biasa. Namun, kalau terlalu terpaku pada hal itu, kita akan mengalami kegagalan dan kehilangan jati diri. ❞</i>
+  <i>❝ Cinta hanyalah sebuah bug dari sirkuit saraf manusia. Kau bisa buang emosi yang tidak perlu itu ke tempat sampah. ❞</i>
   <br/>
-  <sub>— <b>Loid Forger</b> · <i>Spy x Family</i></sub>
+  <sub>— <b>Ryuunosuke Akasaka</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
