@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kau selalu berpikir semuanya akan baik-baik saja jika kau melakukan apa yang menurutmu baik. Padahal kami telah menunggumu, tolong jangan menyerah ... Jangan sampai membuat keputusan yang nantinya akan kau sesali. Tolong jangan menyerah sebelum berjuang sekeras mungkin! ❞</i>
+  <i>❝ Senang sekali ketika bersama dengan semuanya. Tapi ketika dia ada di sana jadi lebih menyenangkan. Ketika bersama dengannya jantungku berdebar-debar. Aku ingin lebih lama lagi bersama dengannya. ❞</i>
   <br/>
-  <sub>— <b>Kumiko Oumae</b> · <i>Hibike! Euphonium 2</i></sub>
+  <sub>— <b>Anna Kobayakawa</b> · <i>Nijiiro Days</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
