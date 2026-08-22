@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Senang sekali ketika bersama dengan semuanya. Tapi ketika dia ada di sana jadi lebih menyenangkan. Ketika bersama dengannya jantungku berdebar-debar. Aku ingin lebih lama lagi bersama dengannya. ❞</i>
+  <i>❝ Meskipun kita tidak bisa memperbaiki kesalahan di masa lalu, tapi setidaknya kita bisa mencegah agar kesalahan tidak terulang kembali. ❞</i>
   <br/>
-  <sub>— <b>Anna Kobayakawa</b> · <i>Nijiiro Days</i></sub>
+  <sub>— <b>Boku</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
