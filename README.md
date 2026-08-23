@@ -22,10 +22,11 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Seperti yang diharapkan, Pemain sang juara dunia memang (terlihat) garang. (Tapi) takkan kubiarkan... Jika aku tertekan, habislah aku. Kalau gentar, aku bisa kalah. Kalau takut, aku bisa mati.
-Baiklah. Siap!! ❞</i>
+  <i>❝ Jangan lari lagi...
+Jangan pergi ke tempat yang tidak bisa kucapai.
+Bersamalah denganku selamanya... ❞</i>
   <br/>
-  <sub>— <b>Yutaka Hoshino</b> · <i>Ping Pong The Animation</i></sub>
+  <sub>— <b>Kouko Kaga</b> · <i>Golden Time</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
