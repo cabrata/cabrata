@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Awalnya peluang selalu terlihat mustahil. ❞</i>
+  <i>❝ Malam hari bisa mengubah cara pandang seseorang secara drastis. ❞</i>
   <br/>
-  <sub>— <b>Kyouya Hashiba</b> · <i>Bokutachi no Remake</i></sub>
+  <sub>— <b>Nazuna Nanakusa</b> · <i>Yofukashi no Uta</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
