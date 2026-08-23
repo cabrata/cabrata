@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kecantikan adalah kekuatan. ❞</i>
+  <i>❝ Aku terlahir untuk menjadi sampel eksperimennya. ❞</i>
   <br/>
-  <sub>— <b>Ai Hayasaka</b> · <i>Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen</i></sub>
+  <sub>— <b>Takahashi</b> · <i>Joshikousei no Mudazukai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
