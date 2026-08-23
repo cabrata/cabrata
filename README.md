@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Musuh dari musuhku tak harus menjadi sekutuku. ❞</i>
+  <i>❝ Aku selalu ingin mengatakan kalau aku bersyukur bisa berjumpa denganmu. Ketika aku melihat wajahmu, aku jadi lebih bersemangat. Kata-katamu selalu menginspirasiku hingga tanpa sadar aku selalu memperhatikanmu. Hatiku selalu berdetak kencang ketika kau memujiku. Setiap kali bicara denganmu aku selalu berpikir bisa berusaha lebih keras (pada banyak hal). Terima kasih telah membuatku lebih bersemangat. Aku masih bisa bertahan sampai saat ini karena aku mencintaimu. ❞</i>
   <br/>
-  <sub>— <b>Caster</b> · <i>Fate/Grand Order: First Order</i></sub>
+  <sub>— <b>Nanami Aoyama</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
