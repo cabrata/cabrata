@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Walaupun dalam hal membunuh, maka sebagai umat manusia, semuanya harus dilakukan atas aturan dan tujuan! Jika tidak, maka setiap perang hanya akan membuat dunia ini seperti neraka! ❞</i>
+  <i>❝ Aku tak peduli dengan dojo. Aku ingin dojo dimana kakakku selalu tersenyum. Jika itu membuat kakakku menangis, maka aku tidak membutuhkan dojo seperti itu. ❞</i>
   <br/>
-  <sub>— <b>Saber</b> · <i>Fate/Zero 2nd Season</i></sub>
+  <sub>— <b>Shinpachi Shimura</b> · <i>Gintama</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
