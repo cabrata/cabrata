@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Yusa-san mencoba membuatku berhenti menyukaimu dan berkata kalau aku akan menyesal nantinya. Tapi, aku menyukaimu dengan kemauanku sendiri. Maka dari itu, suka ataupun tidak suka, aku sendiri yang memutuskannya. ❞</i>
+  <i>❝ Seseorang tidak akan berjuang sekeras itu jika dia tidak menyukainya. ❞</i>
   <br/>
-  <sub>— <b>Chiho Sasaki</b> · <i>Hataraku Maou-sama!</i></sub>
+  <sub>— <b>Keiko Ayano</b> · <i>Sword Art Online</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
