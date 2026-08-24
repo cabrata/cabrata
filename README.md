@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tidak ada seorang pun yang dapat meninggalkan masa lalunya. ❞</i>
+  <i>❝ Berpikir rasional memang penting, tapi jika berpikir saja tanpa bertindak, kau tidak akan pernah membuat kemajuan. ❞</i>
   <br/>
-  <sub>— <b>Atsumu Matsuyuki</b> · <i>Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.</i></sub>
+  <sub>— <b>Kurumi Ebisuzawa</b> · <i>Gakkou Gurashi!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
