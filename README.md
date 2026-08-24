@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Semua orang sudah tau bahwa (seorang) koki yang banyak bicara di dapur itu, tidak punya kemampuan! ❞</i>
+  <i>❝ Ada baiknya kalau bisa terbuka dengan orang lain. ❞</i>
   <br/>
-  <sub>— <b>Souma Yukihira</b> · <i>Shokugeki no Souma</i></sub>
+  <sub>— <b>Kobayashi</b> · <i>Kobayashi-san Chi no Maid Dragon</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
