@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku tidak peduli tentang menjadi generasi keajaiban, tapi aku tak bisa mengabaikan sebuah tantangan.
-Aku belum cukup dewasa untuk membiarkannya. ❞</i>
+  <i>❝ Waktu memang bukan segalanya.Tapi sesuatu yang hanya bisa kau lakukan sekarang, sesuatu yang hanya ada di sini... Sekaranglah saatnya... Pikirkanlah, perjuangkanlah, menderitalah karenanya, dan cemaskanlah itu semua! Tanpa itu semua, hal itu tidak bisa menjadi kenyataan. ❞</i>
   <br/>
-  <sub>— <b>Ryouta Kise</b> · <i>Kuroko no Basket</i></sub>
+  <sub>— <b>Shizuka Hiratsuka</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
