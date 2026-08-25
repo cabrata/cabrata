@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jangan melarikan diri dari masalah. Diam saja tidak akan memecahkan masalah. Bersikap sok keren tidak akan menghasilkan apapun. Kau hanya bersikap seakan semuanya baik-baik saja, tapi di mataku kau hanya terlihat seperti anak-anak. ❞</i>
+  <i>❝ Aku iri padamu yang mempunyai semua yang aku inginkan. Kenapa selalu dirimu? Itu membuatku frustasi. Memang ada saat dimana aku membencimu. Tapi tidak hanya itu. Berkat dirimu, aku menemukan tujuan hidupku. Karena itu aku berusaha untuk meraihnya, namun (ternyata) gagal. Itu membuatku lebih frustasi. Meskipun begitu, semua itu adalah saat terbaik dalam hidupku. Jika saja aku tidak bertemu denganmu, aku takkan pernah merasakan perasaan seperti ini. Semua hal yang telah kau ajarkan padaku inilah yang membuatku mencintaimu. Aku sangat mencintaimu! ❞</i>
   <br/>
-  <sub>— <b>Manami Ogura</b> · <i>Ano Natsu de Matteru</i></sub>
+  <sub>— <b>Sorata Kanda</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
