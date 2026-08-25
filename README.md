@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Dunia ini adalah tanah kosong. Di mana yang tidak bersalah akan dilahap. Di mana seseorang tidak bisa bertahan hidup hanya dengan melakukan hal yang disenangi saja. Hanya mereka yang membakar ambisi dalam hati merekalah yang akan bisa bersaing untuk impian mereka di tanah kosong yang kejam ini!. ❞</i>
+  <i>❝ Aku ingin melihat senyuman semua orang. ❞</i>
   <br/>
-  <sub>— <b>Sayuki Kuroda</b> · <i>Shoujo-tachi wa Kouya wo Mezasu</i></sub>
+  <sub>— <b>Kohaku Tsukishiro</b> · <i>Irozuku Sekai no Ashita kara</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
