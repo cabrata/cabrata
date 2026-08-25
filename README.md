@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Waktu memang bukan segalanya.Tapi sesuatu yang hanya bisa kau lakukan sekarang, sesuatu yang hanya ada di sini... Sekaranglah saatnya... Pikirkanlah, perjuangkanlah, menderitalah karenanya, dan cemaskanlah itu semua! Tanpa itu semua, hal itu tidak bisa menjadi kenyataan. ❞</i>
+  <i>❝ Selama kau tak menyerah, impianmu akan terwujud. Begitulah dunia ini. ❞</i>
   <br/>
-  <sub>— <b>Shizuka Hiratsuka</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
+  <sub>— <b>Iori Kitahara</b> · <i>Grand Blue</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
