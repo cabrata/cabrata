@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Walaupun kita berdua ragu-ragu, dia (Honoka) selalu berhasil membuat kita melakukan sesuatu. ❞</i>
+  <i>❝ Kamu harus berterima kasih kepada orang yang mengembalikan barangmu. ❞</i>
   <br/>
-  <sub>— <b>Kotori Minami</b> · <i>Love Live! School Idol Project</i></sub>
+  <sub>— <b>Yotsuba Nakano</b> · <i>Gotoubun no Hanayome</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
