@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Universitas adalah tempat dimana kamu bertemu dengan hal-hal yang ingin kamu lakukan. ❞</i>
+  <i>❝ Kami tidak seperti manusia yang takut akan kematian. Karena kami sudah hidup cukup lama dan tidak meninggalkan penyesalan. ❞</i>
   <br/>
-  <sub>— <b>Tomoko Kawada</b> · <i>Kimikiss Pure Rouge</i></sub>
+  <sub>— <b>Nevin</b> · <i>Mahoutsukai no Yome</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
