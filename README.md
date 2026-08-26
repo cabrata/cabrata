@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ (Jalani) seperti (saat naik) kereta. Selama tetap di jalurnya, kau pasti akan sampai tujuan dengan lancar. Jadi, duduklah dengan tenang sampai tiba di tujuan. ❞</i>
+  <i>❝ Aku ingin menjadi seorang pencipta game. Sejak dulu aku tertarik dengan hal itu. Tapi aku takut, aku selalu berpikir apa yang akan terjadi jika aku gagal. Aku berpikir kalau itu akan membuang waktuku, aku tak ingin hal itu akan menyakitiku. Aku selalu membuat alasan untuk tidak mencobanya. Aku bahkan menyerah untuk mencoba!. Tapi setelah melihatmu, aku ingin berubah. Suatu hari, aku juga ingin menjadi sepertimu. ❞</i>
   <br/>
-  <sub>— <b>Shikadai Nara</b> · <i>Boruto: Naruto Next Generations</i></sub>
+  <sub>— <b>Sorata Kanda</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
