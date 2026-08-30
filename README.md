@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Hujan dan badai takkan menghentikanku. Dan tentu saja, keinginan untuk bisa terus berada di tempat tidur takkan menghentikanku. Aku harus terus berusaha sebaik mungkin sebagai orang yang telah dewasa. ❞</i>
+  <i>❝ Perasaan manusia itu terlalu rumit dan susah dimengerti. Tidak semua perasaan diungkapkan melalui kata-kata, ada kalanya manusia memiliki maksud lain atau niat kebohongan. ❞</i>
   <br/>
-  <sub>— <b>Aoba Suzukaze</b> · <i>New Game!</i></sub>
+  <sub>— <b>Violet Evergarden</b> · <i>Violet Evergarden</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
