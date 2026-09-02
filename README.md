@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jika kau benar-benar mencintai pekerjaanmu, apapun takkan ada masalah. ❞</i>
+  <i>❝ Dazai pernah berkata, "Satu-satunya hal yang hanya dimiliki manusia dan tidak dimiliki oleh makhluk lainnya adalah kita memiliki rahasia" ❞</i>
   <br/>
-  <sub>— <b>Utaha Kasumigaoka</b> · <i>Saenai Heroine no Sodatekata</i></sub>
+  <sub>— <b>Kotarou Azumi</b> · <i>Tsuki ga Kirei</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
