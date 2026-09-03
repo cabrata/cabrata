@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Saat ini aku takut kehilanganmu. Meskipun sampai sekarang hidupku tidak terlalu beruntung, tapi aku senang, karena justru kemalangan itulah yang membuatmu melihatku. Karena itu, aku jatuh cinta padamu. ❞</i>
+  <i>❝ Jangan terlalu menyalahkan dirimu hanya karena satu kesalahan. ❞</i>
   <br/>
-  <sub>— <b>Hitagi Senjougahara</b> · <i>Bakemonogatari</i></sub>
+  <sub>— <b>Ibu Mikage</b> · <i>Gin no Saji</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
