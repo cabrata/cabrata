@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jangan lupakan kekalahan pahit dan menyedihkan dari Seijou. Tapi, kalian tak perlu mendramatisir perasaan kalah itu.
-Enyahkan perasaan itu dan majulah! ❞</i>
+  <i>❝ Kunjunganmu merupakan obat terbaik yang dia miliki. ❞</i>
   <br/>
-  <sub>— <b>Keishin Ukai</b> · <i>Haikyuu!! Second Season</i></sub>
+  <sub>— <b>Ume Sawa</b> · <i>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
