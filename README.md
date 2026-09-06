@@ -22,10 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Pertanyaan: apa maksud dari "percaya"?
-Jawaban: tidak keberatan meskipun dikhianati, tidak menyesal meskipun dikhianati. ❞</i>
+  <i>❝ Kehidupan kalian baru saja dimulai. Mungkin kedepan ada hal yang tidak berjalan dengan baik. Namun, meskipun gagal, kalian masih bisa memulainya kembali karena jalan kalian masih panjang. Justru ketidak sempurnaan lah yang membuat manusia jadi lebih baik. Jangan terburu-buru, jangan takut, yakinlah pada diri sendiri.Temukan jalan kalian untuk melangkah maju. ❞</i>
   <br/>
-  <sub>— <b>Boku</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
+  <sub>— <b>Kokoro Amatsu</b> · <i>ReLIFE: Kanketsu-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
