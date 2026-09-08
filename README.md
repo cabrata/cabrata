@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Meskipun tidak ada yang mempercayaimu, aku akan selalu mempercayaimu. ❞</i>
+  <i>❝ Kita tidak hidup demi sebuah arti, tapi (kita diciptakan) untuk menemukan arti setelah hidup. ❞</i>
   <br/>
-  <sub>— <b>Raphtalia</b> · <i>Tate no Yuusha no Nariagari</i></sub>
+  <sub>— <b>Romani Archaman</b> · <i>Fate/Grand Order: Zettai Majuu Sensen Babylonia</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
