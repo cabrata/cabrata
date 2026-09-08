@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Ada perdebatan kenapa alien tidak menginvasi Bumi padahal mereka maju dalam hal sains dan teknologi. Mereka tidak bisa (menyerang) karena ada siluman (di Bumi). Siluman dan setan melindungi Bumi dari invasi alien. ❞</i>
+  <i>❝ Tak peduli seberapa sulitnya (menjalani hidup), aku ingin kau percaya bahwa dunia ini indah. ❞</i>
   <br/>
-  <sub>— <b>Ken Takakura</b> · <i>Dandadan</i></sub>
+  <sub>— <b>Fujino Asagami</b> · <i>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
