@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tak peduli seberapa sulitnya (menjalani hidup), aku ingin kau percaya bahwa dunia ini indah. ❞</i>
+  <i>❝ Aku adalah anak satan, dan aku tak bisa kabur dari kekuatan ini. Aku selalu takut untuk mengakui kekuatan ini dan menggunakannya. Tapi itu takkan berguna. Ini adalah aku, dan ini juga (anak satan) tetaplah aku. Sampai aku bisa mengakui kekuatan ini, aku takkan bisa melangkah kedepan. Jadi tolong terimalah aku dan kekuatan ini. ❞</i>
   <br/>
-  <sub>— <b>Fujino Asagami</b> · <i>Kara no Kyoukai: Mirai Fukuin - Extra Chorus</i></sub>
+  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist: Kyoto Fujouou-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
