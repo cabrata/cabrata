@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tahu tidak Kak, saat aku melihat konser µ's, aku merasakan emosi yang menggebu-gebu di dadaku. Mereka berlatih dengan keras dan mereka terlihat sangat menikmatinya! ❞</i>
+  <i>❝ Wanita itu jika tersenyum akan terlihat cantik. ❞</i>
   <br/>
-  <sub>— <b>Arisa Ayase</b> · <i>Love Live! School Idol Project</i></sub>
+  <sub>— <b>Masamune Makabe</b> · <i>Masamune-kun no Revenge</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
