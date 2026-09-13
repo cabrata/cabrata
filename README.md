@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Manusia itu kuat karena memiliki kemampuan untuk mengubah dirinya sendiri. ❞</i>
+  <i>❝ Aku takkan memaafkan Satan, atau iblis-iblis yang lain! Khususnya putra dari Satan! Aku akan membunuhmu meskipun harus mengorbankan nyawaku! ❞</i>
   <br/>
-  <sub>— <b>Saitama</b> · <i>One Punch Man</i></sub>
+  <sub>— <b>Igor Neuhaus</b> · <i>Ao no Exorcist</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
