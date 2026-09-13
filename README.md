@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku pikir hujan ini akan membasuh perasaan bimbangku. Tapi (ternyata) setiap tetes yang mengenai wajahku membuatku lebih sengsara. ❞</i>
+  <i>❝ Selama ada orang yang bahagia, pasti ada orang yang akan meneteskan air mata. ❞</i>
   <br/>
-  <sub>— <b>Edward Elric</b> · <i>Fullmetal Alchemist: Brotherhood</i></sub>
+  <sub>— <b>Mio Kitahara</b> · <i>Ano Natsu de Matteru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
