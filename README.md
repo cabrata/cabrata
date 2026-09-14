@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku tidak tahu apa yang kau cari, tapi kau tidak akan bisa menerangi hatimu seorang diri. ❞</i>
+  <i>❝ Kadang-kadang pria harus melindungi sesuatu, walaupun dia harus membuang kehormatannya sendiri. ❞</i>
   <br/>
-  <sub>— <b>Touko Aozaki</b> · <i>Kara no Kyoukai 7: Satsujin Kousatsu (Kou)</i></sub>
+  <sub>— <b>Kanichi Konishi</b> · <i>Shokugeki no Souma</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
