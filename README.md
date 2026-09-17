@@ -22,10 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Ketika aku bergantung pada orang lain, pada akhirnya aku hanya akan tersakiti.
-Dari awal seharusnya aku tak bergantung pada siapapun. ❞</i>
+  <i>❝ (Apa yang membuatmu mempercayaiku?)
+Aku tak punya dasar, tapi aku mungkin akan tetap mempercayaimu. Aku ingin terus mempercayaimu, karena aku suka padamu. ❞</i>
   <br/>
-  <sub>— <b>Ohana Matsumae</b> · <i>Hanasaku Iroha</i></sub>
+  <sub>— <b>Mikiya Kokutou</b> · <i>Kara no Kyoukai 2: Satsujin Kousatsu (Zen)</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
