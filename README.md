@@ -22,10 +22,11 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ (Apa yang membuatmu mempercayaiku?)
-Aku tak punya dasar, tapi aku mungkin akan tetap mempercayaimu. Aku ingin terus mempercayaimu, karena aku suka padamu. ❞</i>
+  <i>❝ Kami (berdua) yang telah terluka saling mengharapkan hal yang sama.
+Jika besok kau mati, maka aku tidak keberatan jika besok hidupku juga berakhir.
+Jika hari ini kau tetap hidup, aku pun juga akan hidup. ❞</i>
   <br/>
-  <sub>— <b>Mikiya Kokutou</b> · <i>Kara no Kyoukai 2: Satsujin Kousatsu (Zen)</i></sub>
+  <sub>— <b>Koyomi Araragi</b> · <i>Kizumonogatari III: Reiketsu-hen</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
