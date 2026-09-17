@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Luka fisik dibiarkan akan sembuh sendiri. Namun, rasa sakit karena ditolak olehmu takkan pernah bisa hilang. ❞</i>
+  <i>❝ Kalau cuma aku saja, aku yakin akan mengacaukan (semua) nya. Tapi "tanpa nama" lain lagi ceritanya. Kalau aku membuat kesalahan, ada Shiro disana (yang akan membantuku). Itulah cara "tanpa nama" agar selalu menang. ❞</i>
   <br/>
-  <sub>— <b>Romio Inuzuka</b> · <i>Kishuku Gakkou no Juliet</i></sub>
+  <sub>— <b>Sora</b> · <i>No Game No Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
