@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Benar-benar tidak masuk akal. Aku bertindak berdasarkan emosi layaknya manusia bodoh. Bahkan anjing pun punya pengendalian diri yang lebih bagus (dariku) ❞</i>
+  <i>❝ Saya sudah lama tinggal (bekerja) di depan pemanas hingga uzur. Saya harus segera menyiapkan pemakamanku. Saya ingin membawa seluruh kenangan berharga yang telah saya buat di sini. Saya ucapkan terima kasih pada kalian semua. ❞</i>
   <br/>
-  <sub>— <b>Sakurako Kujou</b> · <i>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</i></sub>
+  <sub>— <b>Denroku Sukegawa</b> · <i>Hanasaku Iroha</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
