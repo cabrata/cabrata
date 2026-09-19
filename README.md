@@ -22,11 +22,12 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kami (berdua) yang telah terluka saling mengharapkan hal yang sama.
-Jika besok kau mati, maka aku tidak keberatan jika besok hidupku juga berakhir.
-Jika hari ini kau tetap hidup, aku pun juga akan hidup. ❞</i>
+  <i>❝ Meskipun peringkat kami yang paling bawah,
+Meskipun kami tak bisa menggunakan sihir,
+Kakek percaya kami bisa mengalahkan ras lain.
+Aku ingin membuktikan kalau yang dipercayai kakekku itu benar. ❞</i>
   <br/>
-  <sub>— <b>Koyomi Araragi</b> · <i>Kizumonogatari III: Reiketsu-hen</i></sub>
+  <sub>— <b>Stephanie Dola</b> · <i>No Game No Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
