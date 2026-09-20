@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Bagi kami, selama di situ ada guru, entah itu di sawah atau pun di lapangan, itu adalah sekolah (tempat untuk belajar). ❞</i>
+  <i>❝ Orang tua itu harusnya gak boleh ganggu kalau anaknya lagi kerja keras kan? ❞</i>
   <br/>
-  <sub>— <b>Kotarou Katsura</b> · <i>Gintama°</i></sub>
+  <sub>— <b>Shingo Hachiken</b> · <i>Gin no Saji</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
