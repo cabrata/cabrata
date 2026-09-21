@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Manusia itu sederhana. Kita akan berusaha jika hasilnya sepadan, dan kita akan berusaha lebih keras lagi jika itu bisa membuat kita lebih baik. ❞</i>
+  <i>❝ Seseorang dapat tidur lebih nyenyak ketika merasa puas pada hari (yang telah ia lalui). ❞</i>
   <br/>
-  <sub>— <b>Kumiko Oumae</b> · <i>Hibike! Euphonium</i></sub>
+  <sub>— <b>Nazuna Nanakusa</b> · <i>Yofukashi no Uta</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
