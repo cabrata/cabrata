@@ -22,9 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Tak ada gunanya menyesali hal yang telah terjadi. Karena itu aku berpikir untuk menatap masa depan. ❞</i>
+  <i>❝ (Apa itu Karya Wisata?)
+Itu adalah semacam tiruan kehidupan bermasyarakat. Kau tidak bisa memilih sendiri tempat yang ingin kau tinggali atau makanan yang ingin kau makan. Tapi dengan beberapa pengecualian, kau bisa bersenang-senang dengan biaya yang menipu dirimu. ❞</i>
   <br/>
-  <sub>— <b>Sorata Kanda</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
+  <sub>— <b>Hachiman Hikigaya</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
