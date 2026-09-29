@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ "Kerja keras pasti membuahkan hasil" aku tahu dunia tidak sesederhana itu. Tapi, aku ingin perasaanku ini tersampaikan. ❞</i>
+  <i>❝ Masa depan itu sulit ditebak karena gelap gulita seperti jalanan di malam hari. ❞</i>
   <br/>
-  <sub>— <b>Nanako Kogure</b> · <i>Bokutachi no Remake</i></sub>
+  <sub>— <b>Ougi Oshino</b> · <i>Owarimonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
