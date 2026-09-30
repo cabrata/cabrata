@@ -22,10 +22,11 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku mencari yang kuat dan cukup ambisius.
-Kau harus melakukan lebih baik dari sekedar "memainkan pertadingan pertamaku" atau "melakukan yang terbaik". ❞</i>
+  <i>❝ Hal yang sangat penting dalam hidup seperti perasaan, hati, dan jiwa semuanya adalah hal yang tak bisa dilihat.
+Semakin kau berusaha menganggap semua itu nyata, kau akan berpikir kalau semua itu tidak nyata.
+Tapi, sekarang aku berpikir kalau semua itu memang ada. Semua itu sangat dekat, sampai aku bisa menyentuhnya. ❞</i>
   <br/>
-  <sub>— <b>Riko Aida</b> · <i>Kuroko no Basket</i></sub>
+  <sub>— <b>Takeo Gouda</b> · <i>Ore Monogatari!!</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
