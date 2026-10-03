@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kita memang menemui jalan buntu, tapi aku takkan berhenti. Demi mereka yang telah tiada, aku harus tetap maju. Sebagai Putri Hyland, sebagai seseorang yang membimbing negeri ini menuju keadilan, tolong pinjamkanlah kekuatan kalian. ❞</i>
+  <i>❝ Laki-laki itu bisa mati hanya karena patah hati. ❞</i>
   <br/>
-  <sub>— <b>Alisha Diphda</b> · <i>Tales of Zestiria the Cross Season 2</i></sub>
+  <sub>— <b>Sakurako Kujou</b> · <i>Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
