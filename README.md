@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ (Kenapa kamu menolong orang-orang?).Mungkin karena demi diriku sendiri. Meskipun hanya sedikit, aku ingin orang-orang mengingatku. ❞</i>
+  <i>❝ Orang genius adalah orang yang mendedikasikan dirinya pada satu hal dan satu arah dalam kehidupannya. Setiap orang dapat melakukan berbagai hal. Namun, orang yang fokus pada satu hal mendapatkan keuntungan lebih daripada melakukan banyak hal. ❞</i>
   <br/>
-  <sub>— <b>Himmel</b> · <i>Sousou no Frieren</i></sub>
+  <sub>— <b>Jun Aikawa</b> · <i>Kubikiri Cycle: Aoiro Savant to Zaregototsukai</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
