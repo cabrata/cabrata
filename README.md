@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Bahkan jika harus menunggu hingga 10 tahun, aku rela jika nanti bisa berkencan dengan gadis cantik sepertimu. ❞</i>
+  <i>❝ Ingin bunuh diri karena merasa bersalah itu keliru! ❞</i>
   <br/>
-  <sub>— <b>Jin Mitaka</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
+  <sub>— <b>Miki Kawai</b> · <i>Koe no Katachi</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
