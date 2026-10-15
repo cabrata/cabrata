@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku tak bisa mengambil resiko kegagalan dengan melakukan pekerjaan yang bukan bagianku. Tapi, tidak ada kemenangan yang tanpa resiko. ❞</i>
+  <i>❝ Jika kau tak bisa memilih salah satu, maka kau hanya perlu mencari pilihan lain untuk membuat dua pilihan itu tetap terjadi. ❞</i>
   <br/>
-  <sub>— <b>Koushi Sugawara</b> · <i>Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou</i></sub>
+  <sub>— <b>Kazuki Fujisawa</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
