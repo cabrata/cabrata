@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Jika kau adalah tipe orang yang mengabdikan sendiri pada seseorang, aku yakin ada seseorang diluar sana yang akan jatuh cinta padamu. Dengan kata lain, cinta pertamamu pasti akan datang. Aku tak bisa membayangkan seperti apa wajahmu shal itu terjadi, tapi aku yakin kau tak akan pernah menyangkanya. ❞</i>
+  <i>❝ Jika seorang pria bersungguh-sungguh, apapun mungkin bisa diselesaikan dalam sehari. ❞</i>
   <br/>
-  <sub>— <b>Raku Ichijou</b> · <i>Nisekoi</i></sub>
+  <sub>— <b>Kurihara</b> · <i>Prison School</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
