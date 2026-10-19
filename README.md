@@ -22,9 +22,10 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kehidupan itu seperti langit yang selalu bergerak dan berubah. ❞</i>
+  <i>❝ Karena sudah tidak ada waktu, maka menyerah? Sebalinya kan?
+Karena tidak ada waktu, kita tak boleh buang-buang waktu lagi. ❞</i>
   <br/>
-  <sub>— <b>Tanjirou Kamado</b> · <i>Kimetsu no Yaiba</i></sub>
+  <sub>— <b>Kiyoshi Fujino</b> · <i>Prison School</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
