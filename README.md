@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Celty, bahkan jika kau mengatakan akan membinasakan seluruh manusia, aku (juga) akan mengkhianati umat manusia dan akan mendukungmu. Selama aku bisa mati bersamamu sebagai manusia terakhir di bumi, aku akan bahagia. ❞</i>
+  <i>❝ Untuk melihat keaslian, kita harus bersikap realistis. ❞</i>
   <br/>
-  <sub>— <b>Shinra Kishitani</b> · <i>Durarara!!x2 Ketsu</i></sub>
+  <sub>— <b>Yusuke Kitagawa</b> · <i>Persona 5 the Animation</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
