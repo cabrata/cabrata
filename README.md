@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Orang tua itu harusnya gak boleh ganggu kalau anaknya lagi kerja keras kan? ❞</i>
+  <i>❝ Kau sudah puas sekarang? Kalau ini belum cukup untukmu. Akan kuterima tantanganmu sebanyak apapun kau mau, karena aku sudah terbiasa. Jadi, aku mohon padamu, jangan libatkan orang yang tidak bersalah! ❞</i>
   <br/>
-  <sub>— <b>Shingo Hachiken</b> · <i>Gin no Saji</i></sub>
+  <sub>— <b>Rin Okumura</b> · <i>Ao no Exorcist</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
