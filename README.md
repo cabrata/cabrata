@@ -22,9 +22,11 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku menjadi school idol karena kalian berdua, dan bisa sampai disini karena kalian terus menungguku. ❞</i>
+  <i>❝ Tak akan ku biarkan kau mengotori nama restoranku, setelah kau bilang masakanku menjijikan!
+Tunggu saja, ku akan membuatmu mengatakan "enak!"
+Akan ku kerahkan seluruh kemampuan memasakku ! ❞</i>
   <br/>
-  <sub>— <b>Mari Ohara</b> · <i>Love Live! Sunshine!!</i></sub>
+  <sub>— <b>Souma Yukihira</b> · <i>Shokugeki no Souma</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
