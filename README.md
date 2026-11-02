@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Dunia ini terus maju. Kesenangan semua orang juga (terus) berubah. Karena itu, aku pun juga akan terus mencari sesuatu yang lebih berguna (bagi banyak orang). ❞</i>
+  <i>❝ Rasanya mendebarkan saat kau berpikir bahwa setiap orang memiliki rahasia masing-masing. ❞</i>
   <br/>
-  <sub>— <b>Minosuke</b> · <i>Ojiisan no Lamp</i></sub>
+  <sub>— <b>Yuzu</b> · <i>Konohana Kitan</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
