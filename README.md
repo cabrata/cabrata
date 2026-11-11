@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Pikirkanlah sesuatu yang mungkin membuatmu tertarik, mungkin dengan merendam jari kakimu? Aku yakin jika dunia yang baru akan datang menyambutmu. ❞</i>
+  <i>❝ Dunia di luar dipenuhi dengan kotoran. Orang yang kubenci. Orang yang menghalangi jalanku. Pembohong. Orang kotor. Aku harus memusnahkan semuanya. ❞</i>
   <br/>
-  <sub>— <b>Producer</b> · <i>The iDOLM@STER Cinderella Girls</i></sub>
+  <sub>— <b>Satou Matsuzaka</b> · <i>Happy Sugar Life</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
