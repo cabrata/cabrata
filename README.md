@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Terkadang kesalahan kecil dapat menyebabkan kesalahan yang lebih besar. ❞</i>
+  <i>❝ Aku hanya ingin melihatmu membuktikan bahwa kerja keras pasti membawa hasil yang memuaskan. ❞</i>
   <br/>
-  <sub>— <b>Umiko Ahagon</b> · <i>New Game!</i></sub>
+  <sub>— <b>Sorata Kanda</b> · <i>Sakurasou no Pet na Kanojo</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
