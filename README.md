@@ -22,9 +22,16 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Bukankah menjadi sedikit tidak adil membuatku jadi lebih seperti gadis? ❞</i>
+  <i>❝ Orang jenius adalah orang yang mengetahui perbedaan dirinya dengan orang lain.
+Saat seseorang saling membandingkan kemampuannya dengan orang lain, mereka akan menganggap diri mereka sama.
+Tapi sayangnya sebenarnya itu salah. Setiap manusia itu berbeda.
+Sesuatu yang bisa dilakukan oleh diri kita, takkan bisa dilakukan oleh orang lain.
+Lalu, sesuatu yang bisa dilakukan oleh orang lain takkan pernah bisa dilakukan oleh diri kita.
+Orang jenius adalah orang yang bisa mengalahkan ketidakadilan itu.
+Orang jenius takkan pernah mengharapkan seseorang mengerjakan tugas yang sama seperti diri kita.
+Disaat yang sama, tak peduli sebesar apapun bakat seseorang, orang itu pasti takkan mampu meniru orang lain. ❞</i>
   <br/>
-  <sub>— <b>Iroha Isshiki</b> · <i>Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA</i></sub>
+  <sub>— <b>Saber</b> · <i>Fate/Extra: Last Encore - Irusterias Tendouron</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
