@@ -22,9 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Aku takkan punya kehidupan yang cukup jika hanya mengandalkan keberuntungan saja. ❞</i>
+  <i>❝ Dewa itu bisa ada di mana pun, bisa juga tidak ada di mana pun. ❞</i>
   <br/>
-  <sub>— <b>Shikamaru Nara</b> · <i>Naruto Shippuden</i></sub>
+  <sub>— <b>Meme Oshino</b> · <i>Bakemonogatari</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
