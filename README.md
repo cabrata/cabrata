@@ -22,13 +22,9 @@
   <br/>
   <img src="https://img.shields.io/badge/✦%20Quote%20of%20the%20Day%20✦-7c3aed?style=flat-square&labelColor=1a1a2e" />
   <br/><br/>
-  <i>❝ Kita telah berjanji untuk selalu bersama. Janji itulah yang membuatku bahagia.
-Aku sadar betapa aku sangat mencintainya. Mengingatnya (saja) membuatku bahagia.
-Dia mengatakan akan membuatku bahagia. Apa yang dikatakannya itu membuatku bahagia.
-Dia telah banyak membawa kebahagiaan dalam hidupku.
-Karena itulah, tak peduli apa kata orang lain, aku merasa bahwa aku adalah gadis paling bahagia di dunia ini. ❞</i>
+  <i>❝ Kau selalu berpikir semuanya akan baik-baik saja jika kau melakukan apa yang menurutmu baik. Padahal kami telah menunggumu, tolong jangan menyerah ... Jangan sampai membuat keputusan yang nantinya akan kau sesali. Tolong jangan menyerah sebelum berjuang sekeras mungkin! ❞</i>
   <br/>
-  <sub>— <b>Chtholly Nota Seniorious</b> · <i>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</i></sub>
+  <sub>— <b>Kumiko Oumae</b> · <i>Hibike! Euphonium 2</i></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2&width=60%" />
 </div>
